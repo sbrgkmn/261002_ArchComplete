@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "Neutra_vdl_Fritz_Krall",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/VDL_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_vdl_Fritz_Krall_0.binvox",
+      "sha256": "ef3a8819de8980ab8dbb1f454138a2003b5c7698414c46ad87d15243db5e0724",
+      "bytes": 11097,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6633
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/VDL_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_vdl_Fritz_Krall_120.binvox",
+      "sha256": "529d272a5159a37357521c896bcfbcbb6088ffa4c163043e1ce0d1f207ce5078",
+      "bytes": 12297,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7410
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/VDL_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_vdl_Fritz_Krall_150.binvox",
+      "sha256": "dcbaf748f13ff32dd6d28513f481119571b43fdf19913eeb4a882b50ec021638",
+      "bytes": 12539,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7445
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/VDL_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_vdl_Fritz_Krall_180.binvox",
+      "sha256": "420d3ce796d99a953d8f18cff2eeeab6c8b2f97c0d9d0d1ae76eb69e33e276a8",
+      "bytes": 12291,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7517
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/VDL_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_vdl_Fritz_Krall_210.binvox",
+      "sha256": "416c08ce5bd9ec844a32ee348b5a622f02b7972806e0017468fbf9b69d2c67f7",
+      "bytes": 11981,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7734
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/VDL_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_vdl_Fritz_Krall_240.binvox",
+      "sha256": "bb92ce017cb3b63c63860b1bedd3a1655066ac67e846d5087cdcf2fc0e2d3807",
+      "bytes": 12513,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7600
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/VDL_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_vdl_Fritz_Krall_270.binvox",
+      "sha256": "bbc79d0955c634f2d784805dac17851bad2ee33f8a07b0be036cff3472045b9e",
+      "bytes": 10949,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6549
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/VDL_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_vdl_Fritz_Krall_30.binvox",
+      "sha256": "e9662064dccb4ee18f7b3fdd9e6c748bd42e619635badea6019859ee1e7dc1df",
+      "bytes": 12171,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7070
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/VDL_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_vdl_Fritz_Krall_300.binvox",
+      "sha256": "a94df9ffaaeae2683ac503ae73da64952f67c46214b9ec217b3e099bd5c28380",
+      "bytes": 12817,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7495
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/VDL_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_vdl_Fritz_Krall_330.binvox",
+      "sha256": "c6bf82f66366b546d44d68d4ee9a2de7fa49cfda2e096be24b98268ba4479730",
+      "bytes": 12237,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7629
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/VDL_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_vdl_Fritz_Krall_60.binvox",
+      "sha256": "9fe2a77638ed18c53ca33fce023fe952a4caf25cec7538c85644509e4ecc51ef",
+      "bytes": 12619,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7428
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/VDL_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_vdl_Fritz_Krall_90.binvox",
+      "sha256": "e6b5fc8911ebb483f5b338db8067691c9f107a1f6b16edc5e123642d36905990",
+      "bytes": 12605,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6963
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/VDL_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/Neutra_vdl_Fritz_Krall.binvox",
+      "sha256": "61172d885b87901534405d3587174fcd3c34db1cd9fa147f326ff9a5ea928189",
+      "bytes": 10559,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6107
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/VDL_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/Neutra_vdl_Fritz_Krall.binvox",
+      "sha256": "338644b79c07811c3e38610247c6786b5183e8d24d1695ecdfe1963e2cc5064a",
+      "bytes": 49726,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 30154
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/VDL_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/Neutra_vdl_Fritz_Krall.binvox",
+      "sha256": "e831755fb4b068ff4c80a980be8e37c9e4b509d57c73e1793c2e214fd13916a6",
+      "bytes": 331846,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 145537
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/VDL_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/Neutra_vdl_Fritz_Krall.binvox",
+      "sha256": "837092d1150bf421858fd87d22d40aa4a8cf20bc94e4cde2ff35408bf7fa7244",
+      "bytes": 2185380,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 603725
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/VDL_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/Neutra_vdl_Fritz_Krall.binvox",
+    "resolution": 128,
+    "triangles": 3804,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "3e220126b15db79973413582c0cdaec35bf134846966f0b668ed3c7acd601aeb"
+  }
+}

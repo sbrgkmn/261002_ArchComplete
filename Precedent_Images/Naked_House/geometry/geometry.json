@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "ShigeruBan_NakedHouse_Master3D_Pauline_Heil",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Naked_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_NakedHouse_Master3D_Pauline_Heil_0.binvox",
+      "sha256": "0e6f1f1b741cd6f8002f313ea2caecaf695a40a0ce7ddd18bc8955da4cabf6a3",
+      "bytes": 4481,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1553
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Naked_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_NakedHouse_Master3D_Pauline_Heil_120.binvox",
+      "sha256": "a10255476d69db8b6be86bb958039f9fcdc0ff327f6f5b1459635ca911454fd6",
+      "bytes": 4731,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1958
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Naked_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_NakedHouse_Master3D_Pauline_Heil_150.binvox",
+      "sha256": "19601d1c1eccf7174e24279603ea8429305e8db4c47fd1034f4c56155063149c",
+      "bytes": 4515,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1759
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Naked_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_NakedHouse_Master3D_Pauline_Heil_180.binvox",
+      "sha256": "f54ea7c788a24ee031fbb717d8936aec817f3ab60e7fd2c42d6ed4aa140987d5",
+      "bytes": 4687,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1746
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Naked_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_NakedHouse_Master3D_Pauline_Heil_210.binvox",
+      "sha256": "b89a80a2badadc0060ec830fdce6f7a8b83f20554bd058094b0111339813e9a6",
+      "bytes": 4525,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1770
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Naked_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_NakedHouse_Master3D_Pauline_Heil_240.binvox",
+      "sha256": "3987f0b6c137e82c7adf38aef9082f46e49ea0896f8af42fd6c4f13e331f3e67",
+      "bytes": 5379,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2331
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Naked_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_NakedHouse_Master3D_Pauline_Heil_270.binvox",
+      "sha256": "6df4208ef2fdfc5cc56a0fd411b047d2209d975debe82e00263e36e9282471da",
+      "bytes": 4451,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1794
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Naked_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_NakedHouse_Master3D_Pauline_Heil_30.binvox",
+      "sha256": "6233859cd085bbe05d1bdc0471e939ca51bc515b34b001a4c78dfc561246371a",
+      "bytes": 4741,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1771
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Naked_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_NakedHouse_Master3D_Pauline_Heil_300.binvox",
+      "sha256": "5c30232198b5b2df36dc0d2a4a823df60f79f95b08127a698027b70abe7fa531",
+      "bytes": 5447,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2368
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Naked_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_NakedHouse_Master3D_Pauline_Heil_330.binvox",
+      "sha256": "4dc61d9499bd4f25e13f0e6f5b4a43b05cf54e140675a2a9029351575ae181d4",
+      "bytes": 4489,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1768
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Naked_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_NakedHouse_Master3D_Pauline_Heil_60.binvox",
+      "sha256": "93042e5bdfb1b029904559c5847d8152283cb1bab5d13b6c614ca880324f1e1d",
+      "bytes": 4485,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1639
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Naked_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_NakedHouse_Master3D_Pauline_Heil_90.binvox",
+      "sha256": "36fac5c036530f8d13895d44fa5413dab59089c3bef2e9519967cfd99a72d88d",
+      "bytes": 4849,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1911
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Naked_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/ShigeruBan_NakedHouse_Master3D_Pauline_Heil.binvox",
+      "sha256": "56cbc0084836da84ad0bbd81f003749f5edf5971f6930341838498df26fe0575",
+      "bytes": 4189,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1563
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Naked_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/ShigeruBan_NakedHouse_Master3D_Pauline_Heil.binvox",
+      "sha256": "72ca0df2e2efca0aeaea01603786c768084f68a28346e6d391c7de44a4b2506d",
+      "bytes": 26686,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7640
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Naked_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/ShigeruBan_NakedHouse_Master3D_Pauline_Heil.binvox",
+      "sha256": "0d8dbbdb8503a3b24a4626eaab34cd8cc3c83bef981cf5af4251f31efbc20cc8",
+      "bytes": 171072,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 33908
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Naked_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/ShigeruBan_NakedHouse_Master3D_Pauline_Heil.binvox",
+      "sha256": "4bcbcda749882c87298cfc257dd8049dd5bcf6379b7d65a1f8fc5a38c665bc81",
+      "bytes": 1220580,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 185373
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Naked_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/ShigeruBan_NakedHouse_Master3D_Pauline_Heil.binvox",
+    "resolution": 128,
+    "triangles": 1336,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "b9ac55832b7107ba971e7ebc1914d38e82ca025d057460432e5e2e069d7624d1"
+  }
+}

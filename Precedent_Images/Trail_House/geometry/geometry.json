@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "AnneHoltrop_TrailHouse_Master3D_GuyAlbertGlauner",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Trail_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AnneHoltrop_TrailHouse_Master3D_GuyAlbertGlauner_0.binvox",
+      "sha256": "5af6dc35e3370a61f3deda9c3deaabe5fffca8025f776199656656eaa7e30fa9",
+      "bytes": 4903,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1587
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Trail_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AnneHoltrop_TrailHouse_Master3D_GuyAlbertGlauner_120.binvox",
+      "sha256": "69f6dd7219709ab6fa8a27141c1e0b7e95d86a87803c89fb3d6dc9573570eb3e",
+      "bytes": 4387,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1400
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Trail_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AnneHoltrop_TrailHouse_Master3D_GuyAlbertGlauner_150.binvox",
+      "sha256": "619ca7407235aff80f7a48b08da5e8ffca42bca4b4e03b53f0974acbd65e8329",
+      "bytes": 4479,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1452
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Trail_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AnneHoltrop_TrailHouse_Master3D_GuyAlbertGlauner_180.binvox",
+      "sha256": "72afd9848b2eadc47b403a420da7d28440e119641b35185504974eb245d8253a",
+      "bytes": 4735,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1494
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Trail_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AnneHoltrop_TrailHouse_Master3D_GuyAlbertGlauner_210.binvox",
+      "sha256": "f6fc25e76f1efab6442f0aa12405ecc03d6525836f52077e0801cdb095300cf7",
+      "bytes": 4511,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1486
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Trail_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AnneHoltrop_TrailHouse_Master3D_GuyAlbertGlauner_240.binvox",
+      "sha256": "74610e85444d0552f4e2201596402c1bd4e413a926e12c4df6c0138202979bf5",
+      "bytes": 4623,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1526
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Trail_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AnneHoltrop_TrailHouse_Master3D_GuyAlbertGlauner_270.binvox",
+      "sha256": "9d55a7fceca981b685a6871c34fb4deb1d5d4b15502e631280c311958f06e199",
+      "bytes": 4979,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1571
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Trail_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AnneHoltrop_TrailHouse_Master3D_GuyAlbertGlauner_30.binvox",
+      "sha256": "21c203c0f6095a032cefa6f04a06b07b262b187628d77f2cb6f6c87baf70df99",
+      "bytes": 4421,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1406
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Trail_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AnneHoltrop_TrailHouse_Master3D_GuyAlbertGlauner_300.binvox",
+      "sha256": "3a8a3fe5e6d525e34bf7bb078edc1ae2fb09b45f03b8ac7a3e24a190d3c3aa8e",
+      "bytes": 4521,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1463
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Trail_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AnneHoltrop_TrailHouse_Master3D_GuyAlbertGlauner_330.binvox",
+      "sha256": "c845a7052582833e9c0a34ed0383366a270a6b07648895139264e8d1d8fbbc18",
+      "bytes": 4773,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1576
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Trail_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AnneHoltrop_TrailHouse_Master3D_GuyAlbertGlauner_60.binvox",
+      "sha256": "23757c5eb292dee2fe0d9c784194a36d50e9193bd463cabf4149158d5e487000",
+      "bytes": 5213,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1666
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Trail_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AnneHoltrop_TrailHouse_Master3D_GuyAlbertGlauner_90.binvox",
+      "sha256": "f19386a0e531205d860fc77a84c4cf84e2d2c04074c41942fcc2c4a7daad3349",
+      "bytes": 4471,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1426
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Trail_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/AnneHoltrop_TrailHouse_Master3D_GuyAlbertGlauner.binvox",
+      "sha256": "9ed5f0d81f5d45d108d55302b2d4a710c4607d05549f322aa331b4b2f133acf4",
+      "bytes": 4209,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1254
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Trail_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/AnneHoltrop_TrailHouse_Master3D_GuyAlbertGlauner.binvox",
+      "sha256": "bcfe653c1ff7897ca7cb3fba7728edfc4dd5c915d5eeb37213d0611abebec340",
+      "bytes": 24034,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4922
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Trail_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/AnneHoltrop_TrailHouse_Master3D_GuyAlbertGlauner.binvox",
+      "sha256": "676ccb0f38535d154612d094b9af223bee4ea2c48abf2891ce297da8dc79a9ed",
+      "bytes": 156658,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 21981
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Trail_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/AnneHoltrop_TrailHouse_Master3D_GuyAlbertGlauner.binvox",
+      "sha256": "d66a8805a7f19cd16fa0467654f72835e5d635016a63e597f9a0deec3eaf6efc",
+      "bytes": 1151758,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 110629
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Trail_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/AnneHoltrop_TrailHouse_Master3D_GuyAlbertGlauner.binvox",
+    "resolution": 128,
+    "triangles": 2478,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "40ecf4e3e4cc5c21fac7a2df1d99d66a12714612f0b5344a8897e6c59d61ea75"
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "Mans_Tham_containerhouse_model_group11_no_glass",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Container_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mans_Tham_containerhouse_model_group11_no_glass_0.binvox",
+      "sha256": "909dff252d2cf56bf0274520c2ab63ef3454c6fa3b638d824222ff89ee9d0d81",
+      "bytes": 4867,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2223
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Container_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mans_Tham_containerhouse_model_group11_no_glass_120.binvox",
+      "sha256": "c6d95e18828edd133295b29962eb829b371b62640d0c5368598fcd8b458bf03d",
+      "bytes": 4409,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1975
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Container_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mans_Tham_containerhouse_model_group11_no_glass_150.binvox",
+      "sha256": "bc1eb72b6f68c71b3d1b687a49bfb7fce80efbbeb4760fc5d3a2b60e1ef253cb",
+      "bytes": 4513,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2272
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Container_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mans_Tham_containerhouse_model_group11_no_glass_180.binvox",
+      "sha256": "c0df380cffe993d7fa3fc0b56ff6709269ee3b7fc2cfe08be6c051f87bcd3a2a",
+      "bytes": 4653,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2314
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Container_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mans_Tham_containerhouse_model_group11_no_glass_210.binvox",
+      "sha256": "f5e9c219fc215bc56d0aac12cc4f9a8ed95b970588efd991f0a3421ea8470889",
+      "bytes": 4467,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2098
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Container_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mans_Tham_containerhouse_model_group11_no_glass_240.binvox",
+      "sha256": "3ae3aa4a65e23fd597d6d42c37cc2791b5df10a3f8547fdae73c30db33a57e40",
+      "bytes": 4531,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1942
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Container_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mans_Tham_containerhouse_model_group11_no_glass_270.binvox",
+      "sha256": "0d4dfe655122dd27878c8c4e181bfa0bd09dff4021af9db6735fe19085538b61",
+      "bytes": 4781,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2118
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Container_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mans_Tham_containerhouse_model_group11_no_glass_30.binvox",
+      "sha256": "949c410c002344f64f356d0f55e699649521a669c3b7321cfc7014f8f38ddf5b",
+      "bytes": 4307,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1864
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Container_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mans_Tham_containerhouse_model_group11_no_glass_300.binvox",
+      "sha256": "31cafc05ffdb21fc2903c7df95f9cad6eb8d047ccbb81998e6019aeae157069b",
+      "bytes": 4383,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1940
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Container_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mans_Tham_containerhouse_model_group11_no_glass_330.binvox",
+      "sha256": "9f1741a23e30adc0ac4a233ad7ab1cd9bea41f252c112b04df15c8fd8a3ea7db",
+      "bytes": 4605,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2074
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Container_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mans_Tham_containerhouse_model_group11_no_glass_60.binvox",
+      "sha256": "65cfc4cc203a5bd8e815f2015d43040f58e307fc98bc2eeaf4169f0dca472151",
+      "bytes": 4945,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2367
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Container_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mans_Tham_containerhouse_model_group11_no_glass_90.binvox",
+      "sha256": "574cf47b7f649ea9850f24e9359c2fde04140dc1e22a7e42c0cf93e2bd5db0ca",
+      "bytes": 4249,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2035
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Container_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/Mans_Tham_containerhouse_model_group11_no_glass.binvox",
+      "sha256": "67b46ee71ba00ec2f9e864e41430a03b582c7c61b7986f055f37d7ed82b40da5",
+      "bytes": 3795,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1597
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Container_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/Mans_Tham_containerhouse_model_group11_no_glass.binvox",
+      "sha256": "28cf2547bc05b160c4362f0a63449ad8f4301d6cb96c8a7bc4c8610eba3eb43c",
+      "bytes": 23788,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6992
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Container_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/Mans_Tham_containerhouse_model_group11_no_glass.binvox",
+      "sha256": "381633ea5bc175f47c9d42476c9ba180c21c720497f5a96447841fe3f2cd5a77",
+      "bytes": 158546,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 38143
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Container_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/Mans_Tham_containerhouse_model_group11_no_glass.binvox",
+      "sha256": "1469f393a71a45c38bb812235562cbc06133c7e9cba3ad2b9138150748e3e19a",
+      "bytes": 1217200,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 179183
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Container_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/Mans_Tham_containerhouse_model_group11_no_glass.binvox",
+    "resolution": 128,
+    "triangles": 1242,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "0716875df9376776849471a48216a223f67ccd3c5d324ed1afad21e91eb66767"
+  }
+}

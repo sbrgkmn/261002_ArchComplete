@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Lotus_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1600,
+    "height": 1200,
+    "source_page": "https://kkaa.co.jp/en/project/lotus-house/",
+    "image_url": "https://kkaa.co.jp/img/2005/06/Lotus-House-02.jpg",
+    "caption": "  ",
+    "bytes": 1380664,
+    "candidate": 3
+  },
+  {
+    "file": "Lotus_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1600,
+    "height": 1200,
+    "source_page": "https://kkaa.co.jp/en/project/lotus-house/",
+    "image_url": "https://kkaa.co.jp/img/2005/06/Lotus-House-06.jpg",
+    "caption": "  ",
+    "bytes": 1400388,
+    "candidate": 11
+  },
+  {
+    "file": "Lotus_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 800,
+    "height": 600,
+    "source_page": "https://kkaa.co.jp/en/project/lotus-house/",
+    "image_url": "https://kkaa.co.jp/img/2005/06/l5.jpg",
+    "caption": "  ",
+    "bytes": 126420,
+    "candidate": 13
+  },
+  {
+    "file": "Lotus_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1697,
+    "height": 1200,
+    "source_page": "https://kkaa.co.jp/en/project/lotus-house/",
+    "image_url": "https://kkaa.co.jp/img/2005/06/plan_ele.jpg",
+    "caption": "  ",
+    "bytes": 126289,
+    "candidate": 17
+  },
+  {
+    "file": "Lotus_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1600,
+    "height": 1200,
+    "source_page": "https://kkaa.co.jp/en/project/lotus-house/",
+    "image_url": "https://kkaa.co.jp/img/2005/06/Lotus-House-03.jpg",
+    "caption": "  ",
+    "bytes": 1275322,
+    "candidate": 5
+  },
+  {
+    "file": "Lotus_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 952,
+    "height": 1200,
+    "source_page": "https://kkaa.co.jp/en/project/lotus-house/",
+    "image_url": "https://kkaa.co.jp/img/2005/06/Lotus-House-05.jpg",
+    "caption": "  ",
+    "bytes": 778950,
+    "candidate": 9
+  }
+]

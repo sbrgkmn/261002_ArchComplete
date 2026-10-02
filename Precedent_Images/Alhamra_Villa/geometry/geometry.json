@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "AtelierKoe_AlhamraVilla_Master3D_Group2",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Alhamra_Villa_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AtelierKoe_AlhamraVilla_Master3D_Group2_0.binvox",
+      "sha256": "aa62cf99ac433872eedc4ff3dfa812d3672bc9df3f3b1640913d1ef5c06728ee",
+      "bytes": 9403,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6314
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Alhamra_Villa_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AtelierKoe_AlhamraVilla_Master3D_Group2_120.binvox",
+      "sha256": "053574615e8c009ee57fd3742fa4f863265eba3542950ecadb8e16c1cdfcd3dc",
+      "bytes": 9909,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6717
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Alhamra_Villa_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AtelierKoe_AlhamraVilla_Master3D_Group2_150.binvox",
+      "sha256": "6b748714208b2553e5220778a33c4346cc2e816edefee8dd49958cb41dc965dd",
+      "bytes": 9675,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6919
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Alhamra_Villa_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AtelierKoe_AlhamraVilla_Master3D_Group2_180.binvox",
+      "sha256": "4742c7878bf150e4fc99dd4b1a369a60de0e0183da8d55f4de03069238d8085a",
+      "bytes": 9891,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7214
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Alhamra_Villa_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AtelierKoe_AlhamraVilla_Master3D_Group2_210.binvox",
+      "sha256": "73d09cd617a3d00ab33b011543b83d404d5c940f865268916d826978f6c4069e",
+      "bytes": 9759,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6662
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Alhamra_Villa_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AtelierKoe_AlhamraVilla_Master3D_Group2_240.binvox",
+      "sha256": "bfb34c71ac0c8d94f0440594c184298565c7edf1069c545f52904adfd00213ad",
+      "bytes": 9433,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6260
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Alhamra_Villa_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AtelierKoe_AlhamraVilla_Master3D_Group2_270.binvox",
+      "sha256": "ac3be05bfa3958fe4801e53f1fdd898d792886df2a436e0b1d29a0ce9e9c5d9a",
+      "bytes": 9719,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6698
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Alhamra_Villa_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AtelierKoe_AlhamraVilla_Master3D_Group2_30.binvox",
+      "sha256": "19ba99c50b6816040b9f9d814d3c38e3650f5fc8ccbb82e45f9399ad50f5e25d",
+      "bytes": 9369,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6528
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Alhamra_Villa_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AtelierKoe_AlhamraVilla_Master3D_Group2_300.binvox",
+      "sha256": "ef6bb5d4e8d9b6237cdaa325a4bfa17459f7ddfd528e70e3cd919764fd5ed2b3",
+      "bytes": 9751,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6964
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Alhamra_Villa_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AtelierKoe_AlhamraVilla_Master3D_Group2_330.binvox",
+      "sha256": "3d6829d18112d2aa9f097611e1283187c0598a9ee086ef8054e532b8256f08f7",
+      "bytes": 9687,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6747
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Alhamra_Villa_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AtelierKoe_AlhamraVilla_Master3D_Group2_60.binvox",
+      "sha256": "bcdaeac47e62e1d8e39412d8380fadbc288ddc14c7c844f09218f4cfa08d8080",
+      "bytes": 10005,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7124
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Alhamra_Villa_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AtelierKoe_AlhamraVilla_Master3D_Group2_90.binvox",
+      "sha256": "0544ec26c6568633a54347103ac8dc370c48bb9fb0fcab22800497afc800024f",
+      "bytes": 9467,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6477
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Alhamra_Villa_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/AtelierKoe_AlhamraVilla_Master3D_Group2.binvox",
+      "sha256": "94b4ec47a7bb049006acf78871ef44accf85a7fecd56b8f077b79275cdd84719",
+      "bytes": 8697,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6225
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Alhamra_Villa_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/AtelierKoe_AlhamraVilla_Master3D_Group2.binvox",
+      "sha256": "747a82dc7277aef2f7aded2323664aecd832d89af1a57ca906ffc5082b211a22",
+      "bytes": 41586,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 34016
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Alhamra_Villa_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/AtelierKoe_AlhamraVilla_Master3D_Group2.binvox",
+      "sha256": "3f7bb258d2bab7f6802270bbc4a964b91958af1b3f6dd4a692ee3cfb91b34043",
+      "bytes": 301672,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 153031
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Alhamra_Villa_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/AtelierKoe_AlhamraVilla_Master3D_Group2.binvox",
+      "sha256": "2bbeab95cf73380a8220586dc981cfab4d739ca63f24ed50993ebd8ac7b0323c",
+      "bytes": 1972960,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 634738
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Alhamra_Villa_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/AtelierKoe_AlhamraVilla_Master3D_Group2.binvox",
+    "resolution": 128,
+    "triangles": 3200,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "d915d7cf35ffbf6256df1b677e0577efae8c66ae52629880d477e12ce36a6fd4"
+  }
+}

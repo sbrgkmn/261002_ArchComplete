@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Eames_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1023,
+    "height": 681,
+    "source_page": "https://www.archdaily.com/66302/ad-classics-eames-house-charles-and-ray-eames",
+    "image_url": "https://images.adsttc.com/media/images/5037/e3c5/28ba/0d59/9b00/0276/large_jpg/stringio.jpg?1414230896",
+    "caption": "  ",
+    "bytes": 265796,
+    "candidate": 1
+  },
+  {
+    "file": "Eames_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 498,
+    "height": 458,
+    "source_page": "https://www.archdaily.com/66302/ad-classics-eames-house-charles-and-ray-eames",
+    "image_url": "https://images.adsttc.com/media/images/5037/e39f/28ba/0d59/9b00/026b/large_jpg/stringio.jpg?1414230906",
+    "caption": "AD Classics: Eames House / Charles and Ray Eames - Image 5 of 20 © Flickr - User: An Amateur https://www.archdaily.com/66302/ad-classics-eames-house-charles-and-ray-eames/5037e39f28ba0d599b00026b-ad-classics-eames-house-charles-and-ray-eames-photo",
+    "bytes": 86828,
+    "candidate": 6
+  },
+  {
+    "file": "Eames_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1023,
+    "height": 681,
+    "source_page": "https://www.archdaily.com/66302/ad-classics-eames-house-charles-and-ray-eames",
+    "image_url": "https://images.adsttc.com/media/images/5037/e3cd/28ba/0d59/9b00/0278/large_jpg/stringio.jpg?1414230917",
+    "caption": "  ",
+    "bytes": 342710,
+    "candidate": 8
+  },
+  {
+    "file": "Eames_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1568,
+    "height": 550,
+    "source_page": "https://www.archdaily.com/66302/ad-classics-eames-house-charles-and-ray-eames",
+    "image_url": "https://images.adsttc.com/media/images/5037/e3d5/28ba/0d59/9b00/027a/large_jpg/stringio.jpg?1414230938",
+    "caption": "  ",
+    "bytes": 264848,
+    "candidate": 7
+  },
+  {
+    "file": "Eames_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 465,
+    "height": 349,
+    "source_page": "https://www.archdaily.com/66302/ad-classics-eames-house-charles-and-ray-eames",
+    "image_url": "https://images.adsttc.com/media/images/5037/e3d9/28ba/0d59/9b00/027b/large_jpg/stringio.jpg?1414230911",
+    "caption": "  ",
+    "bytes": 127433,
+    "candidate": 11
+  },
+  {
+    "file": "Eames_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 513,
+    "height": 640,
+    "source_page": "https://www.archdaily.com/66302/ad-classics-eames-house-charles-and-ray-eames",
+    "image_url": "https://images.adsttc.com/media/images/5037/e3ba/28ba/0d59/9b00/0273/large_jpg/stringio.jpg?1414230926",
+    "caption": "  ",
+    "bytes": 124488,
+    "candidate": 12
+  }
+]

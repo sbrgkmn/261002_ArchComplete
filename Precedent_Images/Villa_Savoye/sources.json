@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Villa_Savoye_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 960,
+    "height": 640,
+    "source_page": "https://archeyes.com/the-villa-savoye-le-corbusier/",
+    "image_url": "https://archeyes.com/wp-content/uploads/2020/09/Villa-Savoye-House-Le-Corbusier-building-Poissy-France-ArchEyes-exterior-facade.jpg",
+    "caption": "  ",
+    "bytes": 169347,
+    "candidate": 1
+  },
+  {
+    "file": "Villa_Savoye_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 1250,
+    "source_page": "https://archeyes.com/the-villa-savoye-le-corbusier/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2024/02/Exterior-Villa-Savoye-by-Le-Corbusier-Antoine-gravier-.jpg?w=2000&ssl=1",
+    "caption": "Exterior Villa Savoye by Le Corbusier Antoine gravier  ",
+    "bytes": 980355,
+    "candidate": 4
+  },
+  {
+    "file": "Villa_Savoye_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1600,
+    "height": 1030,
+    "source_page": "https://archeyes.com/the-villa-savoye-le-corbusier/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2020/09/Villa-Savoye-House-Le-Corbusier-building-Poissy-France-ArchEyes-side-view.jpg",
+    "caption": "  ",
+    "bytes": 259532,
+    "candidate": 23
+  },
+  {
+    "file": "Villa_Savoye_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 2100,
+    "height": 800,
+    "source_page": "https://archeyes.com/the-villa-savoye-le-corbusier/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2020/09/Villa-Savoye-Le-Corbusier-Poissy-floorplans.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 287347,
+    "candidate": 18
+  },
+  {
+    "file": "Villa_Savoye_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1080,
+    "height": 753,
+    "source_page": "https://archeyes.com/the-villa-savoye-le-corbusier/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2020/09/Villa-Savoye-House-Le-Corbusier-building-Poissy-France-ArchEyes-interior-red.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 140389,
+    "candidate": 7
+  },
+  {
+    "file": "Villa_Savoye_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 2000,
+    "height": 1330,
+    "source_page": "https://archeyes.com/the-villa-savoye-le-corbusier/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2020/09/Villa-Savoye-House-Le-Corbusier-building-Poissy-France-ArchEyes-living-room.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 425276,
+    "candidate": 8
+  }
+]

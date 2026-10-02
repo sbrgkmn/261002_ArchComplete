@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "RobertVenturi_VannaVenturiHouse_model_Group09_no_glass",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Vanna_Venturi_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RobertVenturi_VannaVenturiHouse_model_Group09_no_glass_0.binvox",
+      "sha256": "e104e0635577cb7185e17e06c8e2906980fec4e13ad0237fe9472ac80d735ecf",
+      "bytes": 4485,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2075
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Vanna_Venturi_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RobertVenturi_VannaVenturiHouse_model_Group09_no_glass_120.binvox",
+      "sha256": "923f9ce0d4e94e43ce2c21ec34d7066fc05e983036270e4ad1e0850a4733517d",
+      "bytes": 4487,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2273
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Vanna_Venturi_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RobertVenturi_VannaVenturiHouse_model_Group09_no_glass_150.binvox",
+      "sha256": "d397ab701c9667e0f30cae3bc1217c87cbf16bed6876590e7f7b77a95608d902",
+      "bytes": 4333,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1995
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Vanna_Venturi_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RobertVenturi_VannaVenturiHouse_model_Group09_no_glass_180.binvox",
+      "sha256": "3b00937058f887d268001e5d2dd39cb619cd5797e6df1eb8955f1185e8fa5ced",
+      "bytes": 4663,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2362
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Vanna_Venturi_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RobertVenturi_VannaVenturiHouse_model_Group09_no_glass_210.binvox",
+      "sha256": "d635b3fddc794cb766cec16d897069e1399a1054d3730d090bc2506ef1969a45",
+      "bytes": 4267,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2272
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Vanna_Venturi_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RobertVenturi_VannaVenturiHouse_model_Group09_no_glass_240.binvox",
+      "sha256": "f96451a2036f69a7030b4ec24c939c598827367484d51e80fe03cbf96ef944c4",
+      "bytes": 4877,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2436
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Vanna_Venturi_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RobertVenturi_VannaVenturiHouse_model_Group09_no_glass_270.binvox",
+      "sha256": "e454c5f60f1b1981c048f1ea3d0a1f1ec72a43ac29ca79529c78608c351fdac9",
+      "bytes": 4415,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1891
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Vanna_Venturi_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RobertVenturi_VannaVenturiHouse_model_Group09_no_glass_30.binvox",
+      "sha256": "936f8bac694a7db088e2815f91a93bb5f7d51db46a137a8982686b4c46ec8162",
+      "bytes": 4769,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2019
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Vanna_Venturi_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RobertVenturi_VannaVenturiHouse_model_Group09_no_glass_300.binvox",
+      "sha256": "382307079691770e1f7752cfa35368069e2f53bfb077332df1ef27b088aaa4c9",
+      "bytes": 5075,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2134
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Vanna_Venturi_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RobertVenturi_VannaVenturiHouse_model_Group09_no_glass_330.binvox",
+      "sha256": "f0ea73a3de99322cc69629d8ec48a9d2ef4a99fd9d552dc0672eb84bd9b85405",
+      "bytes": 4295,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1945
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Vanna_Venturi_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RobertVenturi_VannaVenturiHouse_model_Group09_no_glass_60.binvox",
+      "sha256": "6a4da77ad3f620f82b06415fec1af50e7b302ad08539cb7c367f1fb1c97891f0",
+      "bytes": 4459,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2124
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Vanna_Venturi_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RobertVenturi_VannaVenturiHouse_model_Group09_no_glass_90.binvox",
+      "sha256": "8dcdd85d307057e2ab9fc85accc384b6e25504e11da9dff0bc71df1950e62ee2",
+      "bytes": 4359,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2436
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Vanna_Venturi_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/RobertVenturi_VannaVenturiHouse_model_Group09_no_glass.binvox",
+      "sha256": "a47d2dfb07c04f00a1d968b4f874a18d86e2b8f8ef134059a863caec9bbf0e20",
+      "bytes": 3819,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1742
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Vanna_Venturi_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/RobertVenturi_VannaVenturiHouse_model_Group09_no_glass.binvox",
+      "sha256": "c9a8b475a3441a42a1d5ab23b27d24e6c814e2e90dd48f1aab9a1b6bc89b137a",
+      "bytes": 24024,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9526
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Vanna_Venturi_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/RobertVenturi_VannaVenturiHouse_model_Group09_no_glass.binvox",
+      "sha256": "db8ebdf79242475e0f26ca745a84c16e5c3a8d26031e408b00f95c1f72050cb6",
+      "bytes": 184320,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 43252
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Vanna_Venturi_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/RobertVenturi_VannaVenturiHouse_model_Group09_no_glass.binvox",
+      "sha256": "8a325d3cee1b1d69605c51cae349fbae39ad52d95a991a10517e668125fc8f6e",
+      "bytes": 1317302,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 180809
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Vanna_Venturi_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/RobertVenturi_VannaVenturiHouse_model_Group09_no_glass.binvox",
+    "resolution": 128,
+    "triangles": 2128,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "3a2510c8f0bba3fcbee9ddd6d21f164f78ef778b87a0dfe3d6796f1a5ca7d390"
+  }
+}

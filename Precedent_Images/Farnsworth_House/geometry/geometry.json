@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "LudwigMiesvanderRohe_FarnsworthHouse_Master3D_Ripp_Florence",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Farnsworth_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_FarnsworthHouse_Master3D_Ripp_Florence_0.binvox",
+      "sha256": "425ef4a4189c948ddf297fd80619fb9fbd87daa7655e1e789827991fe3766492",
+      "bytes": 6365,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2246
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Farnsworth_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_FarnsworthHouse_Master3D_Ripp_Florence_120.binvox",
+      "sha256": "11491466c9aa9a4891e645b7bfa7627b133dd1179b3e600c03547eb8035e308d",
+      "bytes": 6755,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2617
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Farnsworth_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_FarnsworthHouse_Master3D_Ripp_Florence_150.binvox",
+      "sha256": "86d8eabbb32a9a6b82aee02e8d0757d4d9ecce1e89a0e6b77e57b9f9462198e5",
+      "bytes": 6439,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2327
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Farnsworth_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_FarnsworthHouse_Master3D_Ripp_Florence_180.binvox",
+      "sha256": "2488bb6841e60f52cd3dfef79aa8139db95d253294ce7b7af1d0bc8b9c562d27",
+      "bytes": 7053,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2736
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Farnsworth_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_FarnsworthHouse_Master3D_Ripp_Florence_210.binvox",
+      "sha256": "643eb766bbb6c7febe474e6573784aa9bf630fee511d9a7255817a3d20107372",
+      "bytes": 6565,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2434
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Farnsworth_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_FarnsworthHouse_Master3D_Ripp_Florence_240.binvox",
+      "sha256": "65861ba0c8ae924d76f3d831b5e47a78e5c2914ad97f81a99bd67d9a43f8144a",
+      "bytes": 7107,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2669
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Farnsworth_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_FarnsworthHouse_Master3D_Ripp_Florence_270.binvox",
+      "sha256": "1fd67211d74d9aaa4a38815b2c0142bfaa42cfe19eb6b42e2065bae5383e76b0",
+      "bytes": 6273,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2309
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Farnsworth_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_FarnsworthHouse_Master3D_Ripp_Florence_30.binvox",
+      "sha256": "673da57709d6d1b20abc8585815d90faa44e22273785e018794db3cf9058cf64",
+      "bytes": 6989,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2448
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Farnsworth_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_FarnsworthHouse_Master3D_Ripp_Florence_300.binvox",
+      "sha256": "e8965880e45e2615134b342922624b190990149ad4427448f89a57f87fb321f8",
+      "bytes": 7579,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2707
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Farnsworth_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_FarnsworthHouse_Master3D_Ripp_Florence_330.binvox",
+      "sha256": "6af8c4aa0a3d7b6726cb0e5d0268c12cc66c9b132e66d2d50b3c3799cff74677",
+      "bytes": 6483,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2391
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Farnsworth_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_FarnsworthHouse_Master3D_Ripp_Florence_60.binvox",
+      "sha256": "e071e776f9349df139609accf86098a5429c06b06bb4be5b48b954835dcc7f53",
+      "bytes": 6689,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2444
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Farnsworth_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_FarnsworthHouse_Master3D_Ripp_Florence_90.binvox",
+      "sha256": "1e1cd27604c490a478bdef2e77f79446b886702502844f7e71f1e5ae7d77bcac",
+      "bytes": 6245,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2289
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Farnsworth_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/LudwigMiesvanderRohe_FarnsworthHouse_Master3D_Ripp_Florence.binvox",
+      "sha256": "e3144993398b82c19673148eb84289275e37b0c3c9972fa562f776f9d270c6a5",
+      "bytes": 5761,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1967
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Farnsworth_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/LudwigMiesvanderRohe_FarnsworthHouse_Master3D_Ripp_Florence.binvox",
+      "sha256": "c252c5439396c9db175b97122378321c752008377bd2dfaf410ea6d5fc307e5c",
+      "bytes": 29934,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9855
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Farnsworth_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/LudwigMiesvanderRohe_FarnsworthHouse_Master3D_Ripp_Florence.binvox",
+      "sha256": "5ceab41b98668d0e6a87a61a4173533a48c899336095ce8a6d3a1b06b8d9e282",
+      "bytes": 235678,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 47338
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Farnsworth_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/LudwigMiesvanderRohe_FarnsworthHouse_Master3D_Ripp_Florence.binvox",
+      "sha256": "91bf053d7dc02f3598666052715f62e8d866fe43918ff1fadb49faa8b4c481dd",
+      "bytes": 1570740,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 195959
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Farnsworth_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/LudwigMiesvanderRohe_FarnsworthHouse_Master3D_Ripp_Florence.binvox",
+    "resolution": 128,
+    "triangles": 784,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "4308a4cf237c1a3d7977d4a9bf28941e310e0098dd3f16c27021a788a1c7f00a"
+  }
+}

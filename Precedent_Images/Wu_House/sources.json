@@ -1,0 +1,57 @@
+[
+  {
+    "file": "Wu_House_Exterior_Rendering_01.jpg",
+    "view_type": "Exterior_Rendering",
+    "width": 3308,
+    "height": 2206,
+    "source_page": "https://prestonscottcohen.com/WU-HOUSE",
+    "image_url": "https://freight.cargo.site/t/original/i/0f72eedac229454374090f21d126261cd41fd90f555b9abcff8e87a5d2f4858b/img-6.jpg",
+    "caption": "  ",
+    "bytes": 123004,
+    "candidate": 2
+  },
+  {
+    "file": "Wu_House_Exterior_Rendering_02.jpg",
+    "view_type": "Exterior_Rendering",
+    "width": 1200,
+    "height": 1537,
+    "source_page": "https://prestonscottcohen.com/WU-HOUSE",
+    "image_url": "https://freight.cargo.site/t/original/i/fe4c94fbcd547eea91195c70ae7cfe98f38d61c12e29fbd2cc1643ee4579a2e9/img-5.jpg",
+    "caption": "  ",
+    "bytes": 35500,
+    "candidate": 7
+  },
+  {
+    "file": "Wu_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 3300,
+    "height": 2550,
+    "source_page": "https://prestonscottcohen.com/WU-HOUSE",
+    "image_url": "https://freight.cargo.site/t/original/i/ca4873d91e603630285ed029b7a1f505343cebb9fc08571df97d6ee3dbd52ebd/img-8.jpg",
+    "caption": "  ",
+    "bytes": 152586,
+    "candidate": 9
+  },
+  {
+    "file": "Wu_House_Interior_Rendering_01.jpg",
+    "view_type": "Interior_Rendering",
+    "width": 2048,
+    "height": 1536,
+    "source_page": "https://prestonscottcohen.com/WU-HOUSE",
+    "image_url": "https://freight.cargo.site/t/original/i/6ffcbee2eef66dea53c77aad9767963c886cc218e3764cbee1f974b625bc8bcc/img-1.jpg",
+    "caption": "  ",
+    "bytes": 84331,
+    "candidate": 3
+  },
+  {
+    "file": "Wu_House_Interior_Rendering_02.jpg",
+    "view_type": "Interior_Rendering",
+    "width": 2036,
+    "height": 1542,
+    "source_page": "https://prestonscottcohen.com/WU-HOUSE",
+    "image_url": "https://freight.cargo.site/t/original/i/b78a3614de3a7299867dc90c3f77dc782c9e7bf60fd225bd80e41a47d59f1792/img-2.jpg",
+    "caption": "  ",
+    "bytes": 104743,
+    "candidate": 4
+  }
+]

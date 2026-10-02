@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Villa_Cornaro_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 4368,
+    "height": 2912,
+    "source_page": "https://commons.wikimedia.org/wiki/Category:Villa_Cornaro",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/VillaCornaro_2007_07_14_front_1.jpg",
+    "caption": "  ",
+    "bytes": 2472107,
+    "candidate": 1
+  },
+  {
+    "file": "Villa_Cornaro_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1280,
+    "height": 853,
+    "source_page": "https://commons.wikimedia.org/wiki/Category:Villa_Cornaro",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/VillaCornaro_2007_07_14_back_1.jpg/1280px-VillaCornaro_2007_07_14_back_1.jpg",
+    "caption": "  ",
+    "bytes": 364330,
+    "candidate": 16
+  },
+  {
+    "file": "Villa_Cornaro_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1280,
+    "height": 1921,
+    "source_page": "https://commons.wikimedia.org/wiki/Category:Villa_Cornaro",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Villa_Cornaro-Gable_a_Piombino_Dese_%282533899521%29.jpg/1280px-Villa_Cornaro-Gable_a_Piombino_Dese_%282533899521%29.jpg",
+    "caption": "  ",
+    "bytes": 451246,
+    "candidate": 14
+  },
+  {
+    "file": "Villa_Cornaro_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 320,
+    "height": 238,
+    "source_page": "https://www.boglewood.com/palladio/cornaro.html",
+    "image_url": "https://www.boglewood.com/palladio/floor2.jpg",
+    "caption": "Cornaro Floor Plan  ",
+    "bytes": 21412,
+    "candidate": 2
+  },
+  {
+    "file": "Villa_Cornaro_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1280,
+    "height": 853,
+    "source_page": "https://commons.wikimedia.org/wiki/Category:Villa_Cornaro",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/VillaCornaro_2007_07_14_main_hall.jpg/1280px-VillaCornaro_2007_07_14_main_hall.jpg",
+    "caption": "  ",
+    "bytes": 249416,
+    "candidate": 29
+  },
+  {
+    "file": "Villa_Cornaro_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 1280,
+    "height": 853,
+    "source_page": "https://commons.wikimedia.org/wiki/Category:Villa_Cornaro",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/VillaCornaro_2007_07_14_room.jpg/1280px-VillaCornaro_2007_07_14_room.jpg",
+    "caption": "  ",
+    "bytes": 296877,
+    "candidate": 31
+  }
+]

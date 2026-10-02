@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "Le_Corbusier_Villa_Savoye_Master3D_Straka_Bastian",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Villa_Savoye_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Le_Corbusier_Villa_Savoye_Master3D_Straka_Bastian_0.binvox",
+      "sha256": "ebda89f8f2b141c99ed670938674ada5a0e714ba5bf1492f33d7b02516693708",
+      "bytes": 18103,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8918
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Villa_Savoye_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Le_Corbusier_Villa_Savoye_Master3D_Straka_Bastian_120.binvox",
+      "sha256": "4bc72646f704cc9b7e95590dead1289a0f688a482d23d69ce6495a238baec1e2",
+      "bytes": 18549,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9783
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Villa_Savoye_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Le_Corbusier_Villa_Savoye_Master3D_Straka_Bastian_150.binvox",
+      "sha256": "f648be89d3b9c3dcb9faaa4ef940c0c2c161d49f018f965d82b6afeb3c073cbd",
+      "bytes": 17851,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9758
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Villa_Savoye_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Le_Corbusier_Villa_Savoye_Master3D_Straka_Bastian_180.binvox",
+      "sha256": "dc711d67d244ada72cf7fdc1666efa2e23ab769031475a9426ade2e81e30bac1",
+      "bytes": 18019,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9771
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Villa_Savoye_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Le_Corbusier_Villa_Savoye_Master3D_Straka_Bastian_210.binvox",
+      "sha256": "92d849974ad4c4a142f83d1516ad8a28a78affe0597d1cba747df9440982104e",
+      "bytes": 18069,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9040
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Villa_Savoye_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Le_Corbusier_Villa_Savoye_Master3D_Straka_Bastian_240.binvox",
+      "sha256": "d6abf2bd95cc89407ccab76baa42585449c83559aeca4f4124e86000dea56482",
+      "bytes": 17993,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9225
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Villa_Savoye_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Le_Corbusier_Villa_Savoye_Master3D_Straka_Bastian_270.binvox",
+      "sha256": "e462ba424b42ecf4c36b1435d1a58d004ee5e9fbbbc4c613d95f4437600b87a8",
+      "bytes": 17449,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9421
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Villa_Savoye_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Le_Corbusier_Villa_Savoye_Master3D_Straka_Bastian_30.binvox",
+      "sha256": "9d91c6aa398c624c20cf08abe8db475f4e8eacb0f101313126711b905a8778fb",
+      "bytes": 17029,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8834
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Villa_Savoye_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Le_Corbusier_Villa_Savoye_Master3D_Straka_Bastian_300.binvox",
+      "sha256": "2212ba20d1e143996e2b465ba5698caab3f192d7c64b6b70592a58105506f71e",
+      "bytes": 17593,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9140
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Villa_Savoye_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Le_Corbusier_Villa_Savoye_Master3D_Straka_Bastian_330.binvox",
+      "sha256": "769d1d42574dcd679336fb426ce4ddce4d889bd5f9663b49086188747043ce8d",
+      "bytes": 17653,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9354
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Villa_Savoye_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Le_Corbusier_Villa_Savoye_Master3D_Straka_Bastian_60.binvox",
+      "sha256": "8a05ecca2913f151245c0fbd26fa4aa24a4cefbd1da8ab05dcdfe288927a14fe",
+      "bytes": 18319,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9614
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Villa_Savoye_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Le_Corbusier_Villa_Savoye_Master3D_Straka_Bastian_90.binvox",
+      "sha256": "8064ace162fcf44ba1611133bca7401b69b07ed3cf6ae14fa775ad90a144748e",
+      "bytes": 17319,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8913
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Villa_Savoye_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/Le_Corbusier_Villa_Savoye_Master3D_Straka_Bastian.binvox",
+      "sha256": "9246498f0ecc2c023b6c8bc0023755d32a9824c7025dbffe5574d0c8056a4af1",
+      "bytes": 15697,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8029
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Villa_Savoye_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/Le_Corbusier_Villa_Savoye_Master3D_Straka_Bastian.binvox",
+      "sha256": "2ee52d7d2995480fe8ee61c7a21af0bced10565e54882b545135cb777449c2df",
+      "bytes": 73830,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 39770
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Villa_Savoye_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/Le_Corbusier_Villa_Savoye_Master3D_Straka_Bastian.binvox",
+      "sha256": "13013f0a57c948a34bfb1efbcab12385f891c304fb7ad9bcf6b400bf78904e2a",
+      "bytes": 496454,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 190971
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Villa_Savoye_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/Le_Corbusier_Villa_Savoye_Master3D_Straka_Bastian.binvox",
+      "sha256": "bbebd9fa0d478b6c5ce799c9c41aeef26bc92fff87b5e448f95026848badd20f",
+      "bytes": 2964616,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 824259
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Villa_Savoye_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/Le_Corbusier_Villa_Savoye_Master3D_Straka_Bastian.binvox",
+    "resolution": 128,
+    "triangles": 3724,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "91294b2407c2bbf93cc4e2199e2aa7183bbd07cdac311d1595078f42d05d0386"
+  }
+}

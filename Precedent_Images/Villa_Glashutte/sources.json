@@ -1,0 +1,79 @@
+[
+  {
+    "file": "Villa_Glashutte_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1380,
+    "height": 1035,
+    "source_page": "https://archeyes.com/casa-ii-ungers-villa-glashutte-oswald-mathias-ungers/",
+    "image_url": "https://archeyes.com/wp-content/uploads/2020/10/Ungers-House-2-Villa-Glashutte-Oswald-Mathias-Ungers-ArchEyes-aerial.jpg",
+    "caption": "  ",
+    "bytes": 574970,
+    "candidate": 1
+  },
+  {
+    "file": "Villa_Glashutte_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 893,
+    "height": 629,
+    "source_page": "https://archeyes.com/casa-ii-ungers-villa-glashutte-oswald-mathias-ungers/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2020/10/Ungers-House-2-Villa-Glashutte-Oswald-Mathias-Ungers-ArchEyes-facade.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 151314,
+    "candidate": 3
+  },
+  {
+    "file": "Villa_Glashutte_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 893,
+    "height": 629,
+    "source_page": "https://archeyes.com/casa-ii-ungers-villa-glashutte-oswald-mathias-ungers/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2020/10/Ungers-House-2-Villa-Glashutte-Oswald-Mathias-Ungers-ArchEyes-river.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 132584,
+    "candidate": 4
+  },
+  {
+    "file": "Villa_Glashutte_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 2000,
+    "height": 2000,
+    "source_page": "https://archeyes.com/casa-ii-ungers-villa-glashutte-oswald-mathias-ungers/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2020/10/Ungers-House-2-Villa-Glashutte-Oswald-Mathias-Ungers-ArchEyes-plan2.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 209174,
+    "candidate": 7
+  },
+  {
+    "file": "Villa_Glashutte_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 2000,
+    "height": 2000,
+    "source_page": "https://archeyes.com/casa-ii-ungers-villa-glashutte-oswald-mathias-ungers/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2020/10/Ungers-House-2-Villa-Glashutte-Oswald-Mathias-Ungers-ArchEyes-plan.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 171658,
+    "candidate": 8
+  },
+  {
+    "file": "Villa_Glashutte_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 893,
+    "height": 629,
+    "source_page": "https://archeyes.com/casa-ii-ungers-villa-glashutte-oswald-mathias-ungers/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2020/10/Ungers-House-2-Villa-Glashutte-Oswald-Mathias-Ungers-ArchEyes-stairs.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 88133,
+    "candidate": 5
+  },
+  {
+    "file": "Villa_Glashutte_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 893,
+    "height": 629,
+    "source_page": "https://archeyes.com/casa-ii-ungers-villa-glashutte-oswald-mathias-ungers/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2020/10/Ungers-House-2-Villa-Glashutte-Oswald-Mathias-Ungers-ArchEyes-interior2.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 84039,
+    "candidate": 6
+  }
+]

@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "SpacePopular_BRICK_VAULT_HOUSE_Master3D_Thomas_Eder",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Brick_Vault_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SpacePopular_BRICK_VAULT_HOUSE_Master3D_Thomas_Eder_0.binvox",
+      "sha256": "646c17f8417101bfc0be0967b57a79a24dea9ff0f3a6cb71e500e967ff3b0a72",
+      "bytes": 8033,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3294
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Brick_Vault_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SpacePopular_BRICK_VAULT_HOUSE_Master3D_Thomas_Eder_120.binvox",
+      "sha256": "12bcc2b9954019b2f4472892e4e54196ee2bf1391ab2e1f4dc9e5e84b92cdd58",
+      "bytes": 8521,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3221
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Brick_Vault_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SpacePopular_BRICK_VAULT_HOUSE_Master3D_Thomas_Eder_150.binvox",
+      "sha256": "00870db2e53ab54337fcf7e025f801ffa8d05761f5a79b94726242e35710f1fd",
+      "bytes": 8317,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3314
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Brick_Vault_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SpacePopular_BRICK_VAULT_HOUSE_Master3D_Thomas_Eder_180.binvox",
+      "sha256": "a4028fd1eb5c5d6baa7f4ec7bd4c4a6577f1e2c7f11e5c6a2ac04970146a77fc",
+      "bytes": 8657,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3395
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Brick_Vault_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SpacePopular_BRICK_VAULT_HOUSE_Master3D_Thomas_Eder_210.binvox",
+      "sha256": "57fca06df5fa3a6e5becb9a80a3ca1ab74291ef688f6fc80910ec9ca501409c0",
+      "bytes": 8343,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3392
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Brick_Vault_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SpacePopular_BRICK_VAULT_HOUSE_Master3D_Thomas_Eder_240.binvox",
+      "sha256": "14d2b432958a8904e59e4fd9536a0f53320bf9762801bd647bfb35cce13a767b",
+      "bytes": 9341,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3292
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Brick_Vault_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SpacePopular_BRICK_VAULT_HOUSE_Master3D_Thomas_Eder_270.binvox",
+      "sha256": "16ddd997ce502c8163bd8063b9d967dbbcfc725fbd93fbeda88ee4bd6ace041c",
+      "bytes": 7919,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2873
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Brick_Vault_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SpacePopular_BRICK_VAULT_HOUSE_Master3D_Thomas_Eder_30.binvox",
+      "sha256": "ebe268286b5d6f913a3247f2ec8247ad7ea814214aeb60aaaaaf75ecdce739f3",
+      "bytes": 8531,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3065
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Brick_Vault_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SpacePopular_BRICK_VAULT_HOUSE_Master3D_Thomas_Eder_300.binvox",
+      "sha256": "a3511371e0ab115966e70f7fe733b67e33609b7849f6ea71157e0d22d01492f9",
+      "bytes": 9257,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3199
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Brick_Vault_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SpacePopular_BRICK_VAULT_HOUSE_Master3D_Thomas_Eder_330.binvox",
+      "sha256": "bd9dcc7e9d41ac2832448327db1f371ddd28c3e9e2613911765df3c8810b3e99",
+      "bytes": 8155,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2948
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Brick_Vault_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SpacePopular_BRICK_VAULT_HOUSE_Master3D_Thomas_Eder_60.binvox",
+      "sha256": "afe06d4f6b67ef041152680be54bb16c597245783dc448cce3dd8a9793ec4809",
+      "bytes": 8159,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3112
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Brick_Vault_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SpacePopular_BRICK_VAULT_HOUSE_Master3D_Thomas_Eder_90.binvox",
+      "sha256": "eef20f1403acc3e2d6b448f8dee041e82ad6e120ad3699ecf694ff1c5f46755c",
+      "bytes": 8371,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3688
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Brick_Vault_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/SpacePopular_BRICK_VAULT_HOUSE_Master3D_Thomas_Eder.binvox",
+      "sha256": "e2b688f7e08ec4f2c793df653f679799de26c332cc314692d54a1dc898d4b333",
+      "bytes": 6959,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3021
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Brick_Vault_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/SpacePopular_BRICK_VAULT_HOUSE_Master3D_Thomas_Eder.binvox",
+      "sha256": "738d9e89b180e7771df6af5f8bb8addcb82a679924529fbd02220a63e5528667",
+      "bytes": 35560,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 12975
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Brick_Vault_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/SpacePopular_BRICK_VAULT_HOUSE_Master3D_Thomas_Eder.binvox",
+      "sha256": "a3b9cdc4b9d9c897db11375f826528193a77243067070436b52c93a09df1509d",
+      "bytes": 200672,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 60275
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Brick_Vault_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/SpacePopular_BRICK_VAULT_HOUSE_Master3D_Thomas_Eder.binvox",
+      "sha256": "160cd52452180e4bfeb0760f3bbb9acd153d04de4d29d81d1310222665f993df",
+      "bytes": 1439706,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 275211
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Brick_Vault_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/SpacePopular_BRICK_VAULT_HOUSE_Master3D_Thomas_Eder.binvox",
+    "resolution": 128,
+    "triangles": 1554,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "988e794fb5bee2b7cb5afca738343b032fe60673ca638e676d6fc7273a7c3b74"
+  }
+}

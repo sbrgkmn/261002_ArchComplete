@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "HiroshiNakamura_NAP_CareHouseOfTheWindChinmey_Master3D_Group11",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Care_House_of_the_Wind_Chinmey_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HiroshiNakamura_NAP_CareHouseOfTheWindChinmey_Master3D_Group11_0.binvox",
+      "sha256": "a48cf927003b6b7b6ccd76e8085172f587ec7b5340e6c2ac85238a39d07102b4",
+      "bytes": 20121,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8141
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Care_House_of_the_Wind_Chinmey_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HiroshiNakamura_NAP_CareHouseOfTheWindChinmey_Master3D_Group11_120.binvox",
+      "sha256": "acde50c2f88f98cf342f88864e3f22fc08cc658d0347f39dffcd57902e62d659",
+      "bytes": 20015,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8230
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Care_House_of_the_Wind_Chinmey_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HiroshiNakamura_NAP_CareHouseOfTheWindChinmey_Master3D_Group11_150.binvox",
+      "sha256": "b4cb4c514f2f379456c38fb9ddf439b1af7ee422f6704c045babec33e9e3b52b",
+      "bytes": 19647,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7976
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Care_House_of_the_Wind_Chinmey_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HiroshiNakamura_NAP_CareHouseOfTheWindChinmey_Master3D_Group11_180.binvox",
+      "sha256": "013eaa09a77cfe510bbd8ca742f4fc2285950a5386b4a09b4cf539ea9abbdf0e",
+      "bytes": 20203,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8126
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Care_House_of_the_Wind_Chinmey_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HiroshiNakamura_NAP_CareHouseOfTheWindChinmey_Master3D_Group11_210.binvox",
+      "sha256": "c60295aca43605e406d626f049030f9deecae2fda55a3ec42552174795d070cc",
+      "bytes": 19915,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7914
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Care_House_of_the_Wind_Chinmey_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HiroshiNakamura_NAP_CareHouseOfTheWindChinmey_Master3D_Group11_240.binvox",
+      "sha256": "bf0bfedabdc5d7f9e3621d5abc75919ef3698ed08231633040e9f0052637e870",
+      "bytes": 20233,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8129
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Care_House_of_the_Wind_Chinmey_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HiroshiNakamura_NAP_CareHouseOfTheWindChinmey_Master3D_Group11_270.binvox",
+      "sha256": "6fefa1d77d06b4ba2bbaf34dfa59f4b751c3b1c016b3d87c8b9d9e9e5218dd51",
+      "bytes": 19661,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7976
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Care_House_of_the_Wind_Chinmey_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HiroshiNakamura_NAP_CareHouseOfTheWindChinmey_Master3D_Group11_30.binvox",
+      "sha256": "6b55abeae8e1639be82122a0b5e4deafd07f23406756d3cf835069495fb3b9fb",
+      "bytes": 19405,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7928
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Care_House_of_the_Wind_Chinmey_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HiroshiNakamura_NAP_CareHouseOfTheWindChinmey_Master3D_Group11_300.binvox",
+      "sha256": "38161aad0cd776e0370f4ed2f323966904f69a0894d66e27e17355cad73b994d",
+      "bytes": 20201,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8159
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Care_House_of_the_Wind_Chinmey_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HiroshiNakamura_NAP_CareHouseOfTheWindChinmey_Master3D_Group11_330.binvox",
+      "sha256": "7fd24f7a8aa7ae304bad1a135ca91202c3598c1af8592db3508e5df44e86abd5",
+      "bytes": 19635,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8102
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Care_House_of_the_Wind_Chinmey_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HiroshiNakamura_NAP_CareHouseOfTheWindChinmey_Master3D_Group11_60.binvox",
+      "sha256": "c2f11679ee047aec28579af5ee8f0e8113ed39480f731eaa17b46a18861f577c",
+      "bytes": 19897,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8281
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Care_House_of_the_Wind_Chinmey_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HiroshiNakamura_NAP_CareHouseOfTheWindChinmey_Master3D_Group11_90.binvox",
+      "sha256": "870369426d4da6b7bb0d60665fdcccf4385eef97abe7c85a2b52bfcaece1c749",
+      "bytes": 19581,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7960
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Care_House_of_the_Wind_Chinmey_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/HiroshiNakamura_NAP_CareHouseOfTheWindChinmey_Master3D_Group11.binvox",
+      "sha256": "66858d57197f8b6ea900c6cd7720bb45e362d2b21c3865dd804232be4da6b5fc",
+      "bytes": 17407,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7140
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Care_House_of_the_Wind_Chinmey_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/HiroshiNakamura_NAP_CareHouseOfTheWindChinmey_Master3D_Group11.binvox",
+      "sha256": "5cfa0b4e55862581be813b537ce6a2fb4277bdf9df781605ed732630189cb4f0",
+      "bytes": 76668,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 36739
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Care_House_of_the_Wind_Chinmey_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/HiroshiNakamura_NAP_CareHouseOfTheWindChinmey_Master3D_Group11.binvox",
+      "sha256": "06d04770d7c758ac38a1e8f8afd0609a4a6456cd96372293a2e66ee29290b432",
+      "bytes": 469012,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 160209
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Care_House_of_the_Wind_Chinmey_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/HiroshiNakamura_NAP_CareHouseOfTheWindChinmey_Master3D_Group11.binvox",
+      "sha256": "d38fa1e404ffae261d79f8096cc7f400726da7df0ec68f34e14513d6f7d149ac",
+      "bytes": 2444952,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 657086
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Care_House_of_the_Wind_Chinmey_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/HiroshiNakamura_NAP_CareHouseOfTheWindChinmey_Master3D_Group11.binvox",
+    "resolution": 128,
+    "triangles": 11106,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "5431f0ca5bf38cf389b5efdaf004a8cc2a202cb9a76ed7e4740c7618356711c8"
+  }
+}

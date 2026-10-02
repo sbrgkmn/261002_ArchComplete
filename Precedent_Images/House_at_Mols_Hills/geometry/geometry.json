@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "LenschowPihlmann_HouseAtMolsHills_Master3D_Plattner_Stefanie",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/House_at_Mols_Hills_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LenschowPihlmann_HouseAtMolsHills_Master3D_Plattner_Stefanie_0.binvox",
+      "sha256": "d7be8dc7a9e857ebf7c7c8e52cdde5561bd08a0301c45f51553c30a65a96be2e",
+      "bytes": 4983,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1746
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/House_at_Mols_Hills_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LenschowPihlmann_HouseAtMolsHills_Master3D_Plattner_Stefanie_120.binvox",
+      "sha256": "2700e8368cc683e87d65eff2dd408c5f58a274ada5d360a37f315ef402f5f005",
+      "bytes": 5329,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2058
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/House_at_Mols_Hills_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LenschowPihlmann_HouseAtMolsHills_Master3D_Plattner_Stefanie_150.binvox",
+      "sha256": "82ee99bd64338f202df7925667ad1f3abc45a683d0494d357a15cd45ccffc3d3",
+      "bytes": 5021,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1943
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/House_at_Mols_Hills_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LenschowPihlmann_HouseAtMolsHills_Master3D_Plattner_Stefanie_180.binvox",
+      "sha256": "1d6f80f84340da7313a0fdd3226d6514c3c9d362087caa1a4faeed5cb39ab08e",
+      "bytes": 5085,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1974
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/House_at_Mols_Hills_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LenschowPihlmann_HouseAtMolsHills_Master3D_Plattner_Stefanie_210.binvox",
+      "sha256": "161430f175dae4b22d03f80d8c83fb40faa104c0054b0b979c6f8ab1759a9380",
+      "bytes": 5055,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1922
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/House_at_Mols_Hills_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LenschowPihlmann_HouseAtMolsHills_Master3D_Plattner_Stefanie_240.binvox",
+      "sha256": "935f09a4ce297771251bed09194ab7006415061c5f1c1b91a9d45c75fb75d933",
+      "bytes": 5307,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1890
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/House_at_Mols_Hills_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LenschowPihlmann_HouseAtMolsHills_Master3D_Plattner_Stefanie_270.binvox",
+      "sha256": "a901d77ea2462a682dbdf60c44e4250778a176b6a93bb7fd463aa2a1111cc248",
+      "bytes": 4843,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1913
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/House_at_Mols_Hills_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LenschowPihlmann_HouseAtMolsHills_Master3D_Plattner_Stefanie_30.binvox",
+      "sha256": "ddc692111818183949ea31753e4a88b9d3f10ce3c98f1440d89b94344cea7c76",
+      "bytes": 4947,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1722
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/House_at_Mols_Hills_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LenschowPihlmann_HouseAtMolsHills_Master3D_Plattner_Stefanie_300.binvox",
+      "sha256": "5c4514f4e09fc5deba50c6b7f327e0fd1a81a390a16eca6105b45a1feac8bc8b",
+      "bytes": 5087,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1912
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/House_at_Mols_Hills_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LenschowPihlmann_HouseAtMolsHills_Master3D_Plattner_Stefanie_330.binvox",
+      "sha256": "b7cda4e1ed705e52e7e1992b85e4a91d78da1ff8a658e63f02b83d2cf5d44da3",
+      "bytes": 4961,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1881
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/House_at_Mols_Hills_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LenschowPihlmann_HouseAtMolsHills_Master3D_Plattner_Stefanie_60.binvox",
+      "sha256": "5dcfe23167b0440965c588471d8b05b8ca8177d1906161a193aa3b6deca0f7aa",
+      "bytes": 5089,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1922
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/House_at_Mols_Hills_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LenschowPihlmann_HouseAtMolsHills_Master3D_Plattner_Stefanie_90.binvox",
+      "sha256": "d17ba50e2f31f94571a20c5b2eef45730463e5afca0e8b5c08cd141703780aa7",
+      "bytes": 5099,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1845
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/House_at_Mols_Hills_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/LenschowPihlmann_HouseAtMolsHills_Master3D_Plattner_Stefanie.binvox",
+      "sha256": "de51f704de60161af5cc1a9c7aa10ee054f82179446786a8ce5527500063d49d",
+      "bytes": 4355,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1504
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/House_at_Mols_Hills_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/LenschowPihlmann_HouseAtMolsHills_Master3D_Plattner_Stefanie.binvox",
+      "sha256": "fc0648a2de2edab31052282e77ea1c853d9e6686332dd1f035e16639f498b9ee",
+      "bytes": 26930,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7163
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/House_at_Mols_Hills_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/LenschowPihlmann_HouseAtMolsHills_Master3D_Plattner_Stefanie.binvox",
+      "sha256": "0d7aa3533f9cd4bcb82185f3f75955f674f0193cbacc98537ae82784e2509d05",
+      "bytes": 171394,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 37121
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/House_at_Mols_Hills_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/LenschowPihlmann_HouseAtMolsHills_Master3D_Plattner_Stefanie.binvox",
+      "sha256": "0a3ab6d21d84a0b7f836064c044ca07b47860ce5bb8d70f2f40709772f94651e",
+      "bytes": 1277882,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 195049
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/House_at_Mols_Hills_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/LenschowPihlmann_HouseAtMolsHills_Master3D_Plattner_Stefanie.binvox",
+    "resolution": 128,
+    "triangles": 1354,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "87974fced24416ba69a8f1c55358504b34faa3f561b73ea42c93a89a23dbbc27"
+  }
+}

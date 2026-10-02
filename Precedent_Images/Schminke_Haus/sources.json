@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Schminke_Haus_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1600,
+    "height": 1067,
+    "source_page": "https://archeyes.com/schminke-house-hans-scharoun/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2022/01/Schminke-House-Hans-Scharoun-ArchEyes-ground.jpg?fit=1600%2C1067&ssl=1",
+    "caption": "  ",
+    "bytes": 613570,
+    "candidate": 1
+  },
+  {
+    "file": "Schminke_Haus_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1600,
+    "height": 1067,
+    "source_page": "https://archeyes.com/schminke-house-hans-scharoun/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2022/01/Schminke-House-Hans-Scharoun-ArchEyes-facade.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 580963,
+    "candidate": 2
+  },
+  {
+    "file": "Schminke_Haus_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1600,
+    "height": 1067,
+    "source_page": "https://archeyes.com/schminke-house-hans-scharoun/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2022/01/Schminke-House-Hans-Scharoun-ArchEyes-entrance-2.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 646067,
+    "candidate": 6
+  },
+  {
+    "file": "Schminke_Haus_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1200,
+    "height": 1500,
+    "source_page": "https://archeyes.com/schminke-house-hans-scharoun/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2022/01/Schminke-House-Hans-Scharoun-ArchEyes-plans.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 132312,
+    "candidate": 10
+  },
+  {
+    "file": "Schminke_Haus_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1600,
+    "height": 1067,
+    "source_page": "https://archeyes.com/schminke-house-hans-scharoun/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2022/01/Schminke-House-Hans-Scharoun-ArchEyesgallery.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 490454,
+    "candidate": 7
+  },
+  {
+    "file": "Schminke_Haus_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 1600,
+    "height": 1067,
+    "source_page": "https://archeyes.com/schminke-house-hans-scharoun/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2022/01/Schminke-House-Hans-Scharoun-ArchEyes-dining.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 320193,
+    "candidate": 8
+  }
+]

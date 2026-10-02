@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "ArneJacobsen_LeoHenriksenHouse_Master3D_LeopoldPretzel",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Leo_Henriksen_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArneJacobsen_LeoHenriksenHouse_Master3D_LeopoldPretzel_0.binvox",
+      "sha256": "b36d7a8d8064b9e2d115ed870a178d36b424cab1b62a2eae6308a08063a63531",
+      "bytes": 6057,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2139
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Leo_Henriksen_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArneJacobsen_LeoHenriksenHouse_Master3D_LeopoldPretzel_120.binvox",
+      "sha256": "b0de37267ab139451db5572ae65b748d582871c6194f168cde5a00094ddfb0a6",
+      "bytes": 6059,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2214
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Leo_Henriksen_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArneJacobsen_LeoHenriksenHouse_Master3D_LeopoldPretzel_150.binvox",
+      "sha256": "b94f0cc61b28e179f314b740ab8e0ff1f999874cd0d750624258c27671ac7430",
+      "bytes": 5847,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2152
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Leo_Henriksen_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArneJacobsen_LeoHenriksenHouse_Master3D_LeopoldPretzel_180.binvox",
+      "sha256": "7918bf41a26fcd596e77369e97c752f0419d6a268670075828116429ac85436b",
+      "bytes": 6039,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2246
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Leo_Henriksen_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArneJacobsen_LeoHenriksenHouse_Master3D_LeopoldPretzel_210.binvox",
+      "sha256": "130646074173ce0d58e214ff2a8ee88da6323a67c3d191149544cd7363f69816",
+      "bytes": 5979,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2194
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Leo_Henriksen_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArneJacobsen_LeoHenriksenHouse_Master3D_LeopoldPretzel_240.binvox",
+      "sha256": "cf5ec268df0d9cb48e110ef69982cd71dad1237186fbf290cc58eaf016f00bf5",
+      "bytes": 6035,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2246
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Leo_Henriksen_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArneJacobsen_LeoHenriksenHouse_Master3D_LeopoldPretzel_270.binvox",
+      "sha256": "0fb3830b6ba3415f68f82e7de7195da8d48f06cbe9ef361d51deb4a13d028de7",
+      "bytes": 5917,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2127
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Leo_Henriksen_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArneJacobsen_LeoHenriksenHouse_Master3D_LeopoldPretzel_30.binvox",
+      "sha256": "23aca1cd10a96244ba27cda5bdf6850c05625558f82de2deef16b4e3091028e0",
+      "bytes": 5809,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2181
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Leo_Henriksen_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArneJacobsen_LeoHenriksenHouse_Master3D_LeopoldPretzel_300.binvox",
+      "sha256": "1cb58e6119514cdd7c8a368ad786a524ff2dc6c6c613b346f401b2ea52e8a570",
+      "bytes": 6139,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2267
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Leo_Henriksen_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArneJacobsen_LeoHenriksenHouse_Master3D_LeopoldPretzel_330.binvox",
+      "sha256": "9798f92db9a86bbdfdedda927400d98222dc88f7422cc41e0bfd1271dc2fa93c",
+      "bytes": 5917,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2081
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Leo_Henriksen_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArneJacobsen_LeoHenriksenHouse_Master3D_LeopoldPretzel_60.binvox",
+      "sha256": "9bad8bbb91d025bb702915155e1aa9146bf9e0589b7acdbb758117ff837a463d",
+      "bytes": 6071,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2112
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Leo_Henriksen_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArneJacobsen_LeoHenriksenHouse_Master3D_LeopoldPretzel_90.binvox",
+      "sha256": "5cb5ee7e9045887b154c0c7a73d48595e5790ed93fe8fca137d77b66f06354ee",
+      "bytes": 5811,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2230
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Leo_Henriksen_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/ArneJacobsen_LeoHenriksenHouse_Master3D_LeopoldPretzel.binvox",
+      "sha256": "af0421c065667e22ae2a5f44ed1ac9086b84ade83a811602245387324ec98455",
+      "bytes": 5067,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1815
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Leo_Henriksen_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/ArneJacobsen_LeoHenriksenHouse_Master3D_LeopoldPretzel.binvox",
+      "sha256": "e96d167caa4a949e1bb0c6b900b653008bf075c431e6b7171dbc85a8de82996c",
+      "bytes": 28848,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9028
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Leo_Henriksen_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/ArneJacobsen_LeoHenriksenHouse_Master3D_LeopoldPretzel.binvox",
+      "sha256": "e9bd025742eaafcf7d6888e8c04c380094ef7b0eee2299e65485a7bf6fc4e6ea",
+      "bytes": 174220,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 50881
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Leo_Henriksen_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/ArneJacobsen_LeoHenriksenHouse_Master3D_LeopoldPretzel.binvox",
+      "sha256": "a89cb269d5cb695fea9353829d5b19b030fb5acacc2140d40beaf2f765b292b4",
+      "bytes": 1433948,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 245617
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Leo_Henriksen_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/ArneJacobsen_LeoHenriksenHouse_Master3D_LeopoldPretzel.binvox",
+    "resolution": 128,
+    "triangles": 3678,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "b1313ef99e68124ca49adf4dd70f05f3fad76abb9150d1b1bf39ba3c982002bb"
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "Oswald_Mathias_Ungers_VillaGlashütte_Marvin_Müller",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Villa_Glashutte_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Oswald_Mathias_Ungers_VillaGlashütte_Marvin_Müller_0.binvox",
+      "sha256": "672fd104f793f57b96e3e825bd1a1a09dd20aea1ea48589de410a44cb8e4981e",
+      "bytes": 7309,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7365
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Villa_Glashutte_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Oswald_Mathias_Ungers_VillaGlashütte_Marvin_Müller_120.binvox",
+      "sha256": "645b70d012ded24e5d9ce4694717bba4e9dea317644535740e840b9e966a5c95",
+      "bytes": 8355,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6706
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Villa_Glashutte_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Oswald_Mathias_Ungers_VillaGlashütte_Marvin_Müller_150.binvox",
+      "sha256": "791c3f5d256833be01324d663199bbc9b792b3500e091da70fe994ae208ec9de",
+      "bytes": 7511,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7211
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Villa_Glashutte_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Oswald_Mathias_Ungers_VillaGlashütte_Marvin_Müller_180.binvox",
+      "sha256": "8d91dd4b35cadeb7b83b64c60561b7e0b6551647f2bc3033df1c582d9ac8b71b",
+      "bytes": 7613,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7715
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Villa_Glashutte_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Oswald_Mathias_Ungers_VillaGlashütte_Marvin_Müller_210.binvox",
+      "sha256": "aa62ef5e4b4c6cd12fe88ce8cdcb1aa06a500de0a1828aecdc1c97287c701987",
+      "bytes": 7459,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6884
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Villa_Glashutte_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Oswald_Mathias_Ungers_VillaGlashütte_Marvin_Müller_240.binvox",
+      "sha256": "b3c0af1073be071bcdb9df847ceb9106e7a648aa233ea390a881f64ae11ed32e",
+      "bytes": 8193,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6684
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Villa_Glashutte_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Oswald_Mathias_Ungers_VillaGlashütte_Marvin_Müller_270.binvox",
+      "sha256": "c5c4264b53d31da33bc1956ac3d9650069b338f6371da9bf815672e8877b5187",
+      "bytes": 7955,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6426
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Villa_Glashutte_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Oswald_Mathias_Ungers_VillaGlashütte_Marvin_Müller_30.binvox",
+      "sha256": "c4b8bd1e891927a36eafbc95d67a40f06e3ad0370fad15bd6a06fcf7a32c8694",
+      "bytes": 7657,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6221
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Villa_Glashutte_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Oswald_Mathias_Ungers_VillaGlashütte_Marvin_Müller_300.binvox",
+      "sha256": "ef30e1877e4b622e94559bc058ebbb8684e66ed9b5f25430fa8dd8cfd796b2b3",
+      "bytes": 7577,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7066
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Villa_Glashutte_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Oswald_Mathias_Ungers_VillaGlashütte_Marvin_Müller_330.binvox",
+      "sha256": "a146b5b30547a4b71ff5989ed008460a74aeded1a41d4e460d28fa912eec060d",
+      "bytes": 7875,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6165
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Villa_Glashutte_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Oswald_Mathias_Ungers_VillaGlashütte_Marvin_Müller_60.binvox",
+      "sha256": "7a8945915ec81ebf38f1c7c5e69610eb41ef67c2230da0be849c8fb169382795",
+      "bytes": 7645,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7437
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Villa_Glashutte_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Oswald_Mathias_Ungers_VillaGlashütte_Marvin_Müller_90.binvox",
+      "sha256": "549ee78147d10f0be2bed6dddc3c8406c4860523c16d1914062f0f305f7c762d",
+      "bytes": 7763,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6643
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Villa_Glashutte_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/Oswald_Mathias_Ungers_VillaGlashütte_Marvin_Müller.binvox",
+      "sha256": "e4ba08e59cbbd796cde0af90119903956578abad8e9320ab705f94b9617bc46b",
+      "bytes": 6241,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5797
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Villa_Glashutte_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/Oswald_Mathias_Ungers_VillaGlashütte_Marvin_Müller.binvox",
+      "sha256": "3df8a286047767b47622bc7d8d80d92379a6eddcdb27920dab54e74e1edf9941",
+      "bytes": 38160,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 30005
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Villa_Glashutte_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/Oswald_Mathias_Ungers_VillaGlashütte_Marvin_Müller.binvox",
+      "sha256": "4ff43d065589a30f3a512baa9eadc9e4dff82071efbfabedcc7c53c5e555fe08",
+      "bytes": 308972,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 135346
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Villa_Glashutte_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/Oswald_Mathias_Ungers_VillaGlashütte_Marvin_Müller.binvox",
+      "sha256": "5b34e8bfcfebce3786ebda520ecb01b87441944bb8e23b47c3ac7a2daf50a8d0",
+      "bytes": 1945808,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 575609
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Villa_Glashutte_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/Oswald_Mathias_Ungers_VillaGlashütte_Marvin_Müller.binvox",
+    "resolution": 128,
+    "triangles": 3766,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "7f4cc84f828e23fe6d6aa27c8d4993ae60e3b8e0405545e483db1c4f42396f61"
+  }
+}

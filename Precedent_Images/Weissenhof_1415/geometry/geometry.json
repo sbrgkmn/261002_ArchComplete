@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "lecorbusier_weissenhof14-15_Master3D_Group07",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Weissenhof_1415_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/lecorbusier_weissenhof14-15_Master3D_Group07_0.binvox",
+      "sha256": "a96cd89bb358e61b5410e8c2c5716e16cf26da8b85c3d032441ae37f79e27ecd",
+      "bytes": 7225,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5500
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Weissenhof_1415_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/lecorbusier_weissenhof14-15_Master3D_Group07_120.binvox",
+      "sha256": "20d3c20aebbb977ab5c0ff367fb535da84fc542ae3301d50edcc93f69f2373d9",
+      "bytes": 7927,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5698
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Weissenhof_1415_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/lecorbusier_weissenhof14-15_Master3D_Group07_150.binvox",
+      "sha256": "eb7a0e9a3bed9494d05f2174873c146c713531e083e04dad0c77f391aea64486",
+      "bytes": 7749,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5174
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Weissenhof_1415_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/lecorbusier_weissenhof14-15_Master3D_Group07_180.binvox",
+      "sha256": "efa35eb2fda327b22751134ef7d69e94f5e0315da2d2b874115d52479b804725",
+      "bytes": 7767,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5877
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Weissenhof_1415_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/lecorbusier_weissenhof14-15_Master3D_Group07_210.binvox",
+      "sha256": "f0e86484efaf636789c29443040df5f4a1ba9a574ee6afc035ace6853d9a2c4d",
+      "bytes": 7759,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5128
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Weissenhof_1415_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/lecorbusier_weissenhof14-15_Master3D_Group07_240.binvox",
+      "sha256": "55d86b49c025f9e588bab540f75ffa4a214346cbe6575a8ab7c57fdb2fdf77fa",
+      "bytes": 9325,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6161
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Weissenhof_1415_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/lecorbusier_weissenhof14-15_Master3D_Group07_270.binvox",
+      "sha256": "c5146207c9bc459bbc796e42e43d8546e0c3b6c86c94f644ac786343e4e229a5",
+      "bytes": 7425,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4685
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Weissenhof_1415_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/lecorbusier_weissenhof14-15_Master3D_Group07_30.binvox",
+      "sha256": "0fb270df873fa9359e19c6af75aef8a927b7f05108252af195247394a0203b31",
+      "bytes": 8313,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5984
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Weissenhof_1415_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/lecorbusier_weissenhof14-15_Master3D_Group07_300.binvox",
+      "sha256": "263a98220ca7249675eccd17e9a5b4ce0ed9ed271c82b048d38581d5eb323817",
+      "bytes": 10595,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6109
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Weissenhof_1415_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/lecorbusier_weissenhof14-15_Master3D_Group07_330.binvox",
+      "sha256": "549c060b94d4b42e69c1b8e42c73b7fcbc129c87e000447ee8241989cfc3aba4",
+      "bytes": 7303,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4892
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Weissenhof_1415_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/lecorbusier_weissenhof14-15_Master3D_Group07_60.binvox",
+      "sha256": "34fe999fc4f67176ee55bad2eff56826402e837e399a50a67b18b78ee1ac5ebb",
+      "bytes": 7393,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5544
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Weissenhof_1415_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/lecorbusier_weissenhof14-15_Master3D_Group07_90.binvox",
+      "sha256": "28e234cbb5f9529dc9e540d808178fbc427b4507816be343c77f7210fa7c6a4d",
+      "bytes": 8165,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5579
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Weissenhof_1415_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/lecorbusier_weissenhof14-15_Master3D_Group07.binvox",
+      "sha256": "d4d104013ae1a7cbc1f38d1a792af2775d41628d043f428064b00e6df2bf2c01",
+      "bytes": 6629,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4903
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Weissenhof_1415_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/lecorbusier_weissenhof14-15_Master3D_Group07.binvox",
+      "sha256": "c9a598bd94f06c83446f7e3435a31cfa019fd54c50c0733faca0893980ba10e7",
+      "bytes": 37776,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 24941
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Weissenhof_1415_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/lecorbusier_weissenhof14-15_Master3D_Group07.binvox",
+      "sha256": "09129cc5764c244778bc5809059f63a4c0793ed65a6b54be912997c3996f0eae",
+      "bytes": 256088,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 116323
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Weissenhof_1415_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/lecorbusier_weissenhof14-15_Master3D_Group07.binvox",
+      "sha256": "686274e7cd441cef06d97c33ef5814ba1e04294cff07501d9199e0976b627aad",
+      "bytes": 1779408,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 489169
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Weissenhof_1415_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/lecorbusier_weissenhof14-15_Master3D_Group07.binvox",
+    "resolution": 128,
+    "triangles": 3350,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "a023dfec9c9f6ef71e9457e0fa727891625e0aa87f9659269afe2190599c2d2e"
+  }
+}

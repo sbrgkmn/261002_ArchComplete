@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "Neutra_Richard_Lovellhouse_Master3D_Group5",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Lovell_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_Richard_Lovellhouse_Master3D_Group5_0.binvox",
+      "sha256": "00f8fd9662e936480dcb39e03e56db8f7ba988d06e027ace680c5fa485d578ea",
+      "bytes": 22919,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 13397
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Lovell_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_Richard_Lovellhouse_Master3D_Group5_120.binvox",
+      "sha256": "3f57a33d53902e4f35ed9122ed615da039acd2628791b088d11e1a4d8554cc7e",
+      "bytes": 23937,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 13987
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Lovell_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_Richard_Lovellhouse_Master3D_Group5_150.binvox",
+      "sha256": "c855792d5e6a32f18903c9797a63e9913a042937578d361cb831f1b9f965e654",
+      "bytes": 23285,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 14081
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Lovell_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_Richard_Lovellhouse_Master3D_Group5_180.binvox",
+      "sha256": "16f5d7cd5ef36bc808f6ef5ec268651f35998913788c9c3b0df3425fe29685a7",
+      "bytes": 24319,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 14863
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Lovell_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_Richard_Lovellhouse_Master3D_Group5_210.binvox",
+      "sha256": "36a028e0012f81fee6fb3a8bd4268033839ca52200a0ce8fcc5ad837e260ffff",
+      "bytes": 23243,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 13847
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Lovell_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_Richard_Lovellhouse_Master3D_Group5_240.binvox",
+      "sha256": "599879579176a34cc6083b38dc5bd5094977cbcd7a8b807955c734fec798d54b",
+      "bytes": 25781,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 15192
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Lovell_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_Richard_Lovellhouse_Master3D_Group5_270.binvox",
+      "sha256": "545e36880a88f132e838eb2a98b2ea5002f6590efcee63ddb638b191eb865c3f",
+      "bytes": 22797,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 13505
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Lovell_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_Richard_Lovellhouse_Master3D_Group5_30.binvox",
+      "sha256": "acd81c9dd94c4827448bfc4c5c08110ce0e97d6bd0f59044236fadb08885ab65",
+      "bytes": 24679,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 14764
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Lovell_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_Richard_Lovellhouse_Master3D_Group5_300.binvox",
+      "sha256": "6f50df683d345e2918ae51c6a0fa649f77738247d8ca03e9099f03c71de19c1e",
+      "bytes": 26039,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 15622
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Lovell_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_Richard_Lovellhouse_Master3D_Group5_330.binvox",
+      "sha256": "949bc73c2b47905c3e905503c146b5c0128ea783c85593522dc9e641b3285c01",
+      "bytes": 22793,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 13563
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Lovell_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_Richard_Lovellhouse_Master3D_Group5_60.binvox",
+      "sha256": "ed76e859c728e46d67a9b220f6d220370dc3afb25ca8cb57780f888a7c9622b7",
+      "bytes": 22357,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 13598
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Lovell_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Neutra_Richard_Lovellhouse_Master3D_Group5_90.binvox",
+      "sha256": "a5db636b09de7096984175c0b97db87698a677b72230015fbed878b840b3aeab",
+      "bytes": 24745,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 14794
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Lovell_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/Neutra_Richard_Lovellhouse_Master3D_Group5.binvox",
+      "sha256": "687dad1a7e0ebf4edc7986f7c5ed9f4298a52cb3ddad2b8566a83d80556d9ae0",
+      "bytes": 21199,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 12822
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Lovell_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/Neutra_Richard_Lovellhouse_Master3D_Group5.binvox",
+      "sha256": "6d18bea26d85994017db0d1052fea1073539a017def9c60777dda5b1c2c415ae",
+      "bytes": 97770,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 59609
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Lovell_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/Neutra_Richard_Lovellhouse_Master3D_Group5.binvox",
+      "sha256": "e0b6e9e39f0e8f812a2ea707e06a47654e7084bba0964456093268c45c4dd117",
+      "bytes": 468384,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 273667
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Lovell_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/Neutra_Richard_Lovellhouse_Master3D_Group5.binvox",
+      "sha256": "836a806e93e36519067b7d9f288afc0ecee8f27faa644eb956b200ad23976ac0",
+      "bytes": 2927114,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1185978
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Lovell_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/Neutra_Richard_Lovellhouse_Master3D_Group5.binvox",
+    "resolution": 128,
+    "triangles": 4502,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "21c79b00b9d070853e4f1aa1eab06888d2671fcf674b9789265f3d3742c3190d"
+  }
+}

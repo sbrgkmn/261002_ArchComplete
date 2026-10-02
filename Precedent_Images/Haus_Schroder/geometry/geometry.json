@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "GerritRietveld_HausSchröder_Master3D_Blanc-Massit_Larissa",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Haus_Schroder_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/GerritRietveld_HausSchröder_Master3D_Blanc-Massit_Larissa_0.binvox",
+      "sha256": "e83998f237ba468218cd1f4b6296b25028a4141393f5ef38f29d1302f4db2961",
+      "bytes": 3637,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1065
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Haus_Schroder_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/GerritRietveld_HausSchröder_Master3D_Blanc-Massit_Larissa_120.binvox",
+      "sha256": "97c5a9db9ef6e0a79d3d0fcc97654a815c542d2f937a69fd1399e1b7da392742",
+      "bytes": 3421,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1157
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Haus_Schroder_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/GerritRietveld_HausSchröder_Master3D_Blanc-Massit_Larissa_150.binvox",
+      "sha256": "333474d730c2ca4e798a9fa92f4e599e381a86ab0cc9c792b2475712156107fc",
+      "bytes": 3525,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1104
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Haus_Schroder_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/GerritRietveld_HausSchröder_Master3D_Blanc-Massit_Larissa_180.binvox",
+      "sha256": "ea8083db0ca2449f3bf96b545d332299b14c1884d80a61e21ceda667d4c9bc8b",
+      "bytes": 3713,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1193
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Haus_Schroder_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/GerritRietveld_HausSchröder_Master3D_Blanc-Massit_Larissa_210.binvox",
+      "sha256": "283dd2efe604e5bbb4f31671bdd70acc0f6eb9cd2b21a39847947a857999ee3e",
+      "bytes": 3427,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1130
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Haus_Schroder_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/GerritRietveld_HausSchröder_Master3D_Blanc-Massit_Larissa_240.binvox",
+      "sha256": "6b8a974b000549cd0dfd783e2fcddd97e162dbaf3bd59562254d99fe5d025cf4",
+      "bytes": 3601,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1131
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Haus_Schroder_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/GerritRietveld_HausSchröder_Master3D_Blanc-Massit_Larissa_270.binvox",
+      "sha256": "5689c639b17ac3831e61cb965f93aa13995814ef54d0798499b2b526dd20cf20",
+      "bytes": 3567,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1133
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Haus_Schroder_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/GerritRietveld_HausSchröder_Master3D_Blanc-Massit_Larissa_30.binvox",
+      "sha256": "1b15a8c9b2e2eb6352e5388fc47ddec2c2efaed8d4b5228aa07bc6f36838204d",
+      "bytes": 3433,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1044
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Haus_Schroder_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/GerritRietveld_HausSchröder_Master3D_Blanc-Massit_Larissa_300.binvox",
+      "sha256": "38029a2a42d6fcb2f3ac55fd9c18f967f24031a96bdaceaefac92f35e2210311",
+      "bytes": 3497,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1042
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Haus_Schroder_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/GerritRietveld_HausSchröder_Master3D_Blanc-Massit_Larissa_330.binvox",
+      "sha256": "0cb944e66f45e4832bbdb01ae5f860c4f2683f5c3d6b765cbaaec94aa6a8b3df",
+      "bytes": 3775,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1104
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Haus_Schroder_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/GerritRietveld_HausSchröder_Master3D_Blanc-Massit_Larissa_60.binvox",
+      "sha256": "a934c7e81fb70668965aeda84ea9c7c5eb167761a42935ccee8e056ce7699870",
+      "bytes": 3869,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1176
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Haus_Schroder_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/GerritRietveld_HausSchröder_Master3D_Blanc-Massit_Larissa_90.binvox",
+      "sha256": "29046abb498249ce3bce3af0e915c2db0ce39d07c2c2b93eb952a67e08c7665a",
+      "bytes": 3471,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1114
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Haus_Schroder_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/GerritRietveld_HausSchröder_Master3D_Blanc-Massit_Larissa.binvox",
+      "sha256": "7b723cb73679f55a3e8c6d460216b57b2c219999a816c7ec0155f087c59645d7",
+      "bytes": 2995,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 746
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Haus_Schroder_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/GerritRietveld_HausSchröder_Master3D_Blanc-Massit_Larissa.binvox",
+      "sha256": "e3a9f967fca2b8429321e87d4eac07dd78aec5c31971d021acc8e3e5821ec785",
+      "bytes": 20412,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3295
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Haus_Schroder_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/GerritRietveld_HausSchröder_Master3D_Blanc-Massit_Larissa.binvox",
+      "sha256": "5481a3b4c8dba6412d1322f3b7ffb66b992d6f598d1baadc8879caddcb2e428c",
+      "bytes": 145804,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 20341
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Haus_Schroder_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/GerritRietveld_HausSchröder_Master3D_Blanc-Massit_Larissa.binvox",
+      "sha256": "0ef31f5c7808494022e4b9dfd9e358a406d187d247d581726c25dd875560d26d",
+      "bytes": 1176126,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 85901
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Haus_Schroder_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/GerritRietveld_HausSchröder_Master3D_Blanc-Massit_Larissa.binvox",
+    "resolution": 128,
+    "triangles": 1112,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "c91bda3f12a8750e8fa9b31adf01820f40135d2f668051fdfb7ccea789080db7"
+  }
+}

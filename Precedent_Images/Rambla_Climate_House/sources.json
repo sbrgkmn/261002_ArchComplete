@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Rambla_Climate_House_Exterior_01.webp",
+    "view_type": "Exterior",
+    "width": 1778,
+    "height": 1000,
+    "source_page": "https://www.architecturalrecord.com/articles/15628-rambla-climate-house-by-andr%C3%A9s-jaque-and-miguel-mesa-del-castillo-clavel",
+    "image_url": "https://www.architecturalrecord.com/ext/resources/Issues/2022/05-May/Rambla-Climate-House-01.webp?t=1650902161",
+    "caption": "Rambla Climate House.  ",
+    "bytes": 462746,
+    "candidate": 2
+  },
+  {
+    "file": "Rambla_Climate_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 655,
+    "height": 1030,
+    "source_page": "https://www.architecturalrecord.com/articles/15628-rambla-climate-house-by-andr%C3%A9s-jaque-and-miguel-mesa-del-castillo-clavel",
+    "image_url": "https://www.architecturalrecord.com/ext/resources/Issues/2022/05-May/Rambla-Climate-House-02.jpg",
+    "caption": "Rambla Climate House.  ",
+    "bytes": 172390,
+    "candidate": 3
+  },
+  {
+    "file": "Rambla_Climate_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1200,
+    "height": 1176,
+    "source_page": "https://www.architecturalrecord.com/articles/15628-rambla-climate-house-by-andr%C3%A9s-jaque-and-miguel-mesa-del-castillo-clavel",
+    "image_url": "https://www.architecturalrecord.com/ext/resources/Issues/2022/05-May/Rambla-Climate-House-06.jpg",
+    "caption": "Rambla Climate House.  ",
+    "bytes": 343375,
+    "candidate": 6
+  },
+  {
+    "file": "Rambla_Climate_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1206,
+    "height": 863,
+    "source_page": "https://www.architecturalrecord.com/articles/15628-rambla-climate-house-by-andr%C3%A9s-jaque-and-miguel-mesa-del-castillo-clavel",
+    "image_url": "https://www.architecturalrecord.com/ext/resources/Issues/2022/05-May/Rambla-Climate-House-08.jpg",
+    "caption": "Rambla Climate House.  ",
+    "bytes": 173010,
+    "candidate": 9
+  },
+  {
+    "file": "Rambla_Climate_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1200,
+    "height": 790,
+    "source_page": "https://www.architecturalrecord.com/articles/15628-rambla-climate-house-by-andr%C3%A9s-jaque-and-miguel-mesa-del-castillo-clavel",
+    "image_url": "https://www.architecturalrecord.com/ext/resources/Issues/2022/05-May/Rambla-Climate-House-07.jpg",
+    "caption": "Rambla Climate House.  ",
+    "bytes": 210506,
+    "candidate": 5
+  },
+  {
+    "file": "Rambla_Climate_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 800,
+    "height": 1200,
+    "source_page": "https://www.architecturalrecord.com/articles/15628-rambla-climate-house-by-andr%C3%A9s-jaque-and-miguel-mesa-del-castillo-clavel",
+    "image_url": "https://www.architecturalrecord.com/ext/resources/Issues/2022/05-May/Rambla-Climate-House-04.jpg",
+    "caption": "Rambla Climate House.  ",
+    "bytes": 143311,
+    "candidate": 8
+  }
+]

@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "YunijiaIshigami_House_for_a_young_couple_in_Tokyo_3dmodel_van_Koll_Marvin",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/House_for_a_Young_Couple_in_Tokyo_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/YunijiaIshigami_House_for_a_young_couple_in_Tokyo_3dmodel_van_Koll_Marvin_0.binvox",
+      "sha256": "f01fd1732e31fddad8328e460281aae907e9ff6c77b4d87e326447db8260751f",
+      "bytes": 3805,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1000
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/House_for_a_Young_Couple_in_Tokyo_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/YunijiaIshigami_House_for_a_young_couple_in_Tokyo_3dmodel_van_Koll_Marvin_120.binvox",
+      "sha256": "b1c612d6d601488913f2fc46e7b344e34ed8a6addcce0e45a9b2d0557e55f807",
+      "bytes": 3947,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1111
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/House_for_a_Young_Couple_in_Tokyo_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/YunijiaIshigami_House_for_a_young_couple_in_Tokyo_3dmodel_van_Koll_Marvin_150.binvox",
+      "sha256": "7083916845887790ddcb9e735ccbdcdcab8e13d7b01c11019982470f184256a0",
+      "bytes": 3715,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 950
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/House_for_a_Young_Couple_in_Tokyo_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/YunijiaIshigami_House_for_a_young_couple_in_Tokyo_3dmodel_van_Koll_Marvin_180.binvox",
+      "sha256": "700502abe92d425c009e8f9995f1bbcdf298b881eea830d47d6d58f694444d70",
+      "bytes": 4175,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1245
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/House_for_a_Young_Couple_in_Tokyo_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/YunijiaIshigami_House_for_a_young_couple_in_Tokyo_3dmodel_van_Koll_Marvin_210.binvox",
+      "sha256": "a4ab58c963986e2a9af0f82748d99d35f5ce97286ce56349af361d02ce27ad99",
+      "bytes": 3823,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 956
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/House_for_a_Young_Couple_in_Tokyo_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/YunijiaIshigami_House_for_a_young_couple_in_Tokyo_3dmodel_van_Koll_Marvin_240.binvox",
+      "sha256": "0ea505fae250ed6a4f946d646c2a22a8e20a99a2cb17c9940ab015f77581d070",
+      "bytes": 3973,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1144
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/House_for_a_Young_Couple_in_Tokyo_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/YunijiaIshigami_House_for_a_young_couple_in_Tokyo_3dmodel_van_Koll_Marvin_270.binvox",
+      "sha256": "a80254a70decff0831be4068ef432a602ecb5e61e0332bdb336779ced0b12089",
+      "bytes": 3637,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1009
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/House_for_a_Young_Couple_in_Tokyo_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/YunijiaIshigami_House_for_a_young_couple_in_Tokyo_3dmodel_van_Koll_Marvin_30.binvox",
+      "sha256": "d90dc8e2b8df6591ddaf0946713f84173d8625ea5109ac2fbd550226e8797fb6",
+      "bytes": 3871,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 999
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/House_for_a_Young_Couple_in_Tokyo_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/YunijiaIshigami_House_for_a_young_couple_in_Tokyo_3dmodel_van_Koll_Marvin_300.binvox",
+      "sha256": "89d4ff7b85da83cb84ff3f4574940d10d67d683ad640d086dac70150e741abbe",
+      "bytes": 4133,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1102
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/House_for_a_Young_Couple_in_Tokyo_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/YunijiaIshigami_House_for_a_young_couple_in_Tokyo_3dmodel_van_Koll_Marvin_330.binvox",
+      "sha256": "26951b1ceebc2aebff1ebd9e39adc710d4eed4f7ce5c7c1702e5b111c9d28acb",
+      "bytes": 3919,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1011
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/House_for_a_Young_Couple_in_Tokyo_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/YunijiaIshigami_House_for_a_young_couple_in_Tokyo_3dmodel_van_Koll_Marvin_60.binvox",
+      "sha256": "e873795d4182569b1fd1b1c2088fff1468aceb4a1a17010c79683cdac7c332ba",
+      "bytes": 3945,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1126
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/House_for_a_Young_Couple_in_Tokyo_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/YunijiaIshigami_House_for_a_young_couple_in_Tokyo_3dmodel_van_Koll_Marvin_90.binvox",
+      "sha256": "cf5869cf553116d6a555b95c9533d4e08b2e484d08d8947ef0181f7025b7deaf",
+      "bytes": 3933,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1042
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/House_for_a_Young_Couple_in_Tokyo_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/YunijiaIshigami_House_for_a_young_couple_in_Tokyo_3dmodel_van_Koll_Marvin.binvox",
+      "sha256": "ffbc953cca621c24f9b9384be31237fae671378d3f9a80415c3d48e2c2451220",
+      "bytes": 3147,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 718
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/House_for_a_Young_Couple_in_Tokyo_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/YunijiaIshigami_House_for_a_young_couple_in_Tokyo_3dmodel_van_Koll_Marvin.binvox",
+      "sha256": "e861f7c1f754216abb9fb609d71d8cdaca9d7d0a611aa1914c029dbd812512aa",
+      "bytes": 21114,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2841
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/House_for_a_Young_Couple_in_Tokyo_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/YunijiaIshigami_House_for_a_young_couple_in_Tokyo_3dmodel_van_Koll_Marvin.binvox",
+      "sha256": "0a7e8962a10ae6125689e8d96526f6027fa075fc60bceda39d54f865ba54c0a0",
+      "bytes": 148214,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 12144
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/House_for_a_Young_Couple_in_Tokyo_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/YunijiaIshigami_House_for_a_young_couple_in_Tokyo_3dmodel_van_Koll_Marvin.binvox",
+      "sha256": "4aa06cc4242d142f287e63851bd57b3dca93f06749d77877f5e337265c8f4356",
+      "bytes": 1118028,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 64797
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/House_for_a_Young_Couple_in_Tokyo_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/YunijiaIshigami_House_for_a_young_couple_in_Tokyo_3dmodel_van_Koll_Marvin.binvox",
+    "resolution": 128,
+    "triangles": 1384,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "76494d49ea89c5d8e74b653b249504e5ac146082f6435ea30795426aa9973c07"
+  }
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "file": "House_II_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 3500,
+    "height": 1968,
+    "source_page": "https://eisenmanarchitects.com/House-II-1970",
+    "image_url": "https://freight.cargo.site/t/original/i/51dc5e7e98f0fcf64693a56039e70027ec8e6b8538141f1c725eeade2ec7ec6a/03-cover.jpg",
+    "caption": "  ",
+    "bytes": 1342103,
+    "candidate": 2
+  },
+  {
+    "file": "House_II_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 864,
+    "height": 868,
+    "source_page": "https://eisenmanarchitects.com/House-II-1970",
+    "image_url": "https://freight.cargo.site/t/original/i/905167e7c40a2883a6faca4594663a076ccf3ec5c49d827e3e83b8ea1ee91323/03_HOUSEII_IMAGE4.jpg",
+    "caption": "  ",
+    "bytes": 204186,
+    "candidate": 28
+  },
+  {
+    "file": "House_II_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1400,
+    "height": 1391,
+    "source_page": "https://eisenmanarchitects.com/House-II-1970",
+    "image_url": "https://freight.cargo.site/t/original/i/218dd500bc5c3a7fdc805301b47381dae980af0a2d806af4b2a09ec33f255a33/03_HOUSEII_IMAGE1.jpg",
+    "caption": "  ",
+    "bytes": 432902,
+    "candidate": 29
+  },
+  {
+    "file": "House_II_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 820,
+    "height": 915,
+    "source_page": "https://eisenmanarchitects.com/House-II-1970",
+    "image_url": "https://freight.cargo.site/t/original/i/4ed9eaee60c7e34008a3cbe50765d1fca646ce54e5d742318c16fd3ff6a4e5ef/03_HOUSEII_DRAWING2.jpg",
+    "caption": "  ",
+    "bytes": 141791,
+    "candidate": 22
+  },
+  {
+    "file": "House_II_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 839,
+    "height": 980,
+    "source_page": "https://eisenmanarchitects.com/House-II-1970",
+    "image_url": "https://freight.cargo.site/t/original/i/6031d78482f09cb324b7c91d61776d67b70e43d0ac0e97dcf007b44e4669abb0/03_HOUSEII_DRAWING3.jpg",
+    "caption": "  ",
+    "bytes": 127299,
+    "candidate": 23
+  },
+  {
+    "file": "House_II_Interior_Drawing_01.png",
+    "view_type": "Interior_Drawing",
+    "width": 1760,
+    "height": 1424,
+    "source_page": "https://athenaly.com/house-ii-precedent-study/",
+    "image_url": "https://athenaly.com/wp-content/uploads/2024/08/perspective-e1723631692876.png",
+    "caption": "  ",
+    "bytes": 403305,
+    "candidate": 11
+  }
+]

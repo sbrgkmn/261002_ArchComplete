@@ -1,0 +1,90 @@
+[
+  {
+    "file": "Small_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1512,
+    "height": 1871,
+    "source_page": "https://architecture-history.org/architects/architects/SEJIMA/OBJECTS/1999-2000%2C%20Small%20House%2C%20Tokyo%2C%20Japan.html",
+    "image_url": "https://architecture-history.org/architects/architects/SEJIMA/PIC/SH01.jpeg",
+    "caption": "  ",
+    "bytes": 312159,
+    "candidate": 1
+  },
+  {
+    "file": "Small_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1512,
+    "height": 1871,
+    "source_page": "https://architecture-history.org/architects/architects/SEJIMA/OBJECTS/1999-2000%2C%20Small%20House%2C%20Tokyo%2C%20Japan.html",
+    "image_url": "https://architecture-history.org/architects/architects/SEJIMA/PIC/SH02.jpeg",
+    "caption": "  ",
+    "bytes": 342202,
+    "candidate": 2
+  },
+  {
+    "file": "Small_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 600,
+    "height": 900,
+    "source_page": "https://architecture-history.org/architects/architects/SEJIMA/OBJECTS/1999-2000%2C%20Small%20House%2C%20Tokyo%2C%20Japan.html",
+    "image_url": "https://architecture-history.org/architects/architects/SEJIMA/PIC/SH03.jpg",
+    "caption": "  ",
+    "bytes": 212278,
+    "candidate": 3
+  },
+  {
+    "file": "Small_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1600,
+    "height": 1943,
+    "source_page": "https://architecture-history.org/architects/architects/SEJIMA/OBJECTS/1999-2000%2C%20Small%20House%2C%20Tokyo%2C%20Japan.html",
+    "image_url": "https://architecture-history.org/architects/architects/SEJIMA/PIC/SH002.jpg",
+    "caption": "  ",
+    "bytes": 279313,
+    "candidate": 13
+  },
+  {
+    "file": "Small_House_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 569,
+    "height": 1136,
+    "source_page": "https://architecture-history.org/architects/architects/SEJIMA/OBJECTS/1999-2000%2C%20Small%20House%2C%20Tokyo%2C%20Japan.html",
+    "image_url": "https://architecture-history.org/architects/architects/SEJIMA/PIC/SH004.jpeg",
+    "caption": "  ",
+    "bytes": 44134,
+    "candidate": 15
+  },
+  {
+    "file": "Small_House_Floor_Plan_03.jpg",
+    "view_type": "Floor_Plan",
+    "width": 459,
+    "height": 923,
+    "source_page": "https://architecture-history.org/architects/architects/SEJIMA/OBJECTS/1999-2000%2C%20Small%20House%2C%20Tokyo%2C%20Japan.html",
+    "image_url": "https://architecture-history.org/architects/architects/SEJIMA/PIC/SH005.jpeg",
+    "caption": "  ",
+    "bytes": 30874,
+    "candidate": 16
+  },
+  {
+    "file": "Small_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 629,
+    "height": 604,
+    "source_page": "https://architecture-history.org/architects/architects/SEJIMA/OBJECTS/1999-2000%2C%20Small%20House%2C%20Tokyo%2C%20Japan.html",
+    "image_url": "https://architecture-history.org/architects/architects/SEJIMA/PIC/SH32.jpeg",
+    "caption": "  ",
+    "bytes": 214804,
+    "candidate": 9
+  },
+  {
+    "file": "Small_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 923,
+    "height": 1027,
+    "source_page": "https://architecture-history.org/architects/architects/SEJIMA/OBJECTS/1999-2000%2C%20Small%20House%2C%20Tokyo%2C%20Japan.html",
+    "image_url": "https://architecture-history.org/architects/architects/SEJIMA/PIC/SH33.jpeg",
+    "caption": "  ",
+    "bytes": 520574,
+    "candidate": 10
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "file": "House_at_Mols_Hills_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 1544,
+    "source_page": "https://www.archdaily.com/780058/house-at-mols-hills-lenschow-and-pihlmann",
+    "image_url": "https://images.adsttc.com/media/images/568f/2faa/e58e/ce1b/2100/001c/large_jpg/05_03_Humlestien_10_xh.jpg?1452224387",
+    "caption": "  ",
+    "bytes": 532695,
+    "candidate": 1
+  },
+  {
+    "file": "House_at_Mols_Hills_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 1600,
+    "source_page": "https://www.archdaily.com/780058/house-at-mols-hills-lenschow-and-pihlmann",
+    "image_url": "https://images.adsttc.com/media/images/568f/2f15/e58e/ce02/b000/0014/large_jpg/05_03_Humlestien_3_xh.jpg?1452224232",
+    "caption": "  ",
+    "bytes": 795298,
+    "candidate": 7
+  },
+  {
+    "file": "House_at_Mols_Hills_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1777,
+    "height": 2000,
+    "source_page": "https://www.archdaily.com/780058/house-at-mols-hills-lenschow-and-pihlmann",
+    "image_url": "https://images.adsttc.com/media/images/568f/306f/e58e/ce02/b000/0017/large_jpg/05_03_Humlestien_51_xh_rettet.jpg?1452224576",
+    "caption": "  ",
+    "bytes": 631462,
+    "candidate": 9
+  },
+  {
+    "file": "House_at_Mols_Hills_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 3839,
+    "height": 3816,
+    "source_page": "https://www.archdaily.com/780058/house-at-mols-hills-lenschow-and-pihlmann",
+    "image_url": "https://images.adsttc.com/media/images/568f/3587/e58e/ce1b/2100/002a/original/Plan_Humlestien_2_copy.jpg?1452225863",
+    "caption": "  ",
+    "bytes": 571461,
+    "candidate": 19
+  },
+  {
+    "file": "House_at_Mols_Hills_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 2000,
+    "height": 1883,
+    "source_page": "https://www.archdaily.com/780058/house-at-mols-hills-lenschow-and-pihlmann",
+    "image_url": "https://images.adsttc.com/media/images/568f/334b/e58e/ce02/b000/001f/large_jpg/05_03_Humlestien_101_xh.jpg?1452225309",
+    "caption": "House at Mols Hills / Lenschow & Pihlmann - Door, Facade, Column © Hampus Berndtson https://www.archdaily.com/780058/house-at-mols-hills-lenschow-and-pihlmann/568f334be58ece02b000001f-house-at-mols-hills-lenschow-and-pihlmann-photo",
+    "bytes": 700994,
+    "candidate": 2
+  },
+  {
+    "file": "House_at_Mols_Hills_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 2000,
+    "height": 1724,
+    "source_page": "https://www.archdaily.com/780058/house-at-mols-hills-lenschow-and-pihlmann",
+    "image_url": "https://images.adsttc.com/media/images/568f/32ef/e58e/ce02/b000/001e/large_jpg/05_03_Humlestien_91_xh_kopi.jpg?1452225223",
+    "caption": "  ",
+    "bytes": 652962,
+    "candidate": 15
+  }
+]

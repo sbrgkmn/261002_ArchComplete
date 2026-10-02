@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "Mold_Architects_nCaved_House_Florian_Bauer",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/nCaved_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mold_Architects_nCaved_House_Florian_Bauer_0.binvox",
+      "sha256": "43a2637e620fb7035f8cdc6743a695d9e0da66f69a1e91af129d14680e9faf0a",
+      "bytes": 15727,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11840
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/nCaved_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mold_Architects_nCaved_House_Florian_Bauer_120.binvox",
+      "sha256": "1e7022685b2a6471264969aa81a8382086211b9cb6be9a600686ead671aa2569",
+      "bytes": 15143,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11804
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/nCaved_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mold_Architects_nCaved_House_Florian_Bauer_150.binvox",
+      "sha256": "20aa8f0a54fea99eec391378e394646144755519cd6f8768afaa35dfc24f967f",
+      "bytes": 14697,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11198
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/nCaved_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mold_Architects_nCaved_House_Florian_Bauer_180.binvox",
+      "sha256": "79e86e4c611a19aa658e28270bd39a0e368420b486f2b0bc9eada7cf32b41085",
+      "bytes": 13901,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11209
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/nCaved_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mold_Architects_nCaved_House_Florian_Bauer_210.binvox",
+      "sha256": "bce5e936146794f6afb9a8ebd27ff6333a22a297830060480ed7530102c6dbcb",
+      "bytes": 15033,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11424
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/nCaved_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mold_Architects_nCaved_House_Florian_Bauer_240.binvox",
+      "sha256": "179b7ab69b28b07d5ddd8744695ed58f534a5e9d2e181972ce8dd329d3f8016c",
+      "bytes": 14177,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 10691
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/nCaved_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mold_Architects_nCaved_House_Florian_Bauer_270.binvox",
+      "sha256": "75bfc8bc9a0c78281af712ea91c150e09a2afcb883a9c90a186eeb94402a25e6",
+      "bytes": 15827,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11721
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/nCaved_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mold_Architects_nCaved_House_Florian_Bauer_30.binvox",
+      "sha256": "e898d8094bda92d3b923af234d57ee1b852281641b456ec44adaf9b954a1ede6",
+      "bytes": 14329,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11063
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/nCaved_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mold_Architects_nCaved_House_Florian_Bauer_300.binvox",
+      "sha256": "40588913ed9d2d9f894bcd263df601d1581599f4312e95620ae5fbec2e5da1f2",
+      "bytes": 14621,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11157
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/nCaved_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mold_Architects_nCaved_House_Florian_Bauer_330.binvox",
+      "sha256": "e941d09eadd995381c14f37c6ae8f3892606ae49f1fb70450523a346f4dc676d",
+      "bytes": 15565,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11666
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/nCaved_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mold_Architects_nCaved_House_Florian_Bauer_60.binvox",
+      "sha256": "c74a7bfcb4646d5085e7b0255c49e981f79397be5bb83e12e71196ee45066b44",
+      "bytes": 15617,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11859
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/nCaved_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mold_Architects_nCaved_House_Florian_Bauer_90.binvox",
+      "sha256": "4caee2a91b26d481ab1d4cab42315dbac5f713a720bf6f926db81edf9610052e",
+      "bytes": 14237,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11283
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/nCaved_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/Mold_Architects_nCaved_House_Florian_Bauer.binvox",
+      "sha256": "4925502b0351a90b856134cda19afe7204338ea857cdb1d06e562ca0495a94b3",
+      "bytes": 13641,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 10495
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/nCaved_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/Mold_Architects_nCaved_House_Florian_Bauer.binvox",
+      "sha256": "44478347d156fa0fe1db96b66b7ff7fc633134fb0f54162caa3f7e704a0cf2aa",
+      "bytes": 63422,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 50523
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/nCaved_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/Mold_Architects_nCaved_House_Florian_Bauer.binvox",
+      "sha256": "2ac30a03b3a74cd4a1d4c3c778b678fd30ed378007c6908cc96199244e75a91d",
+      "bytes": 453440,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 220503
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/nCaved_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/Mold_Architects_nCaved_House_Florian_Bauer.binvox",
+      "sha256": "5782912eefd98441667b03e3948134fde0d5a8da75c97788c1c28734210d1815",
+      "bytes": 2511494,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 951168
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/nCaved_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/Mold_Architects_nCaved_House_Florian_Bauer.binvox",
+    "resolution": 128,
+    "triangles": 6616,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "c73a5f1fe939cb0851e74764e39f566178684d707d682f813b4e201aa564445b"
+  }
+}

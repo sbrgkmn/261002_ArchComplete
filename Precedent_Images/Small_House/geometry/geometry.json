@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "Kayuyo_Sejima_Small_House_Master3D_Chan_YanTung",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Small_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kayuyo_Sejima_Small_House_Master3D_Chan_YanTung_0.binvox",
+      "sha256": "dc919a6bd066f34da3653f4405021b551484fd7112e4ba32ee352c1e7c5d5d15",
+      "bytes": 4103,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1481
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Small_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kayuyo_Sejima_Small_House_Master3D_Chan_YanTung_120.binvox",
+      "sha256": "67b57d00e1523b92be27fe1fc6edc4a37b22916fc4173d4182048a76478ac4c0",
+      "bytes": 3499,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1446
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Small_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kayuyo_Sejima_Small_House_Master3D_Chan_YanTung_150.binvox",
+      "sha256": "fe6bbdc81a3a234349261d514f55dfd73d1e329472fa4edb3d3f73214af45feb",
+      "bytes": 3311,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1675
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Small_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kayuyo_Sejima_Small_House_Master3D_Chan_YanTung_180.binvox",
+      "sha256": "1be0ba17f3ee69d7b44fa6b4312624e1cda7fb5986fc9ce743fc644b383123b5",
+      "bytes": 3999,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1784
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Small_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kayuyo_Sejima_Small_House_Master3D_Chan_YanTung_210.binvox",
+      "sha256": "dd07b356ab6faad2fe1d89469b4d8a21fbd517bf7e9488dd65b088ef122d0462",
+      "bytes": 3675,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1356
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Small_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kayuyo_Sejima_Small_House_Master3D_Chan_YanTung_240.binvox",
+      "sha256": "6de9f85250834b8ff73508e6f4c0136730a2835fc31a2ab8fe478c55f0c37969",
+      "bytes": 3553,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1263
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Small_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kayuyo_Sejima_Small_House_Master3D_Chan_YanTung_270.binvox",
+      "sha256": "64417c90a0dc21139a0656658dc9cd45dfceb28d27e6c3ce2529c73042bca73c",
+      "bytes": 3659,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1572
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Small_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kayuyo_Sejima_Small_House_Master3D_Chan_YanTung_30.binvox",
+      "sha256": "a9b7bccb2c6da9f010201768b3dfad7c723069b54fb1b5dd090d539947c744b9",
+      "bytes": 3625,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1515
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Small_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kayuyo_Sejima_Small_House_Master3D_Chan_YanTung_300.binvox",
+      "sha256": "036b6e3f9355e37b4e2be9331329421b5b6b069d0a6da680a788d1aeeb4b7fb0",
+      "bytes": 3791,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1625
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Small_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kayuyo_Sejima_Small_House_Master3D_Chan_YanTung_330.binvox",
+      "sha256": "71a2dfcce9f228a73077f582efcb4456319fd1c145d0581a294fce247d86d1c0",
+      "bytes": 3969,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1509
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Small_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kayuyo_Sejima_Small_House_Master3D_Chan_YanTung_60.binvox",
+      "sha256": "feb7c07674bdad2701ba2c6df70e536b2c64122b1a8c059b568a578a598e2cbc",
+      "bytes": 4089,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1616
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Small_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kayuyo_Sejima_Small_House_Master3D_Chan_YanTung_90.binvox",
+      "sha256": "530166b6c00f35d9bc9212c4d7b43a631c6660e7c58fede734fc96d5d9b05c83",
+      "bytes": 3499,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1221
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Small_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/Kayuyo_Sejima_Small_House_Master3D_Chan_YanTung.binvox",
+      "sha256": "3dad75d6544c858dfe1acc7f3bdd127a8c620ef6138b111d897e295298fb635a",
+      "bytes": 3055,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1002
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Small_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/Kayuyo_Sejima_Small_House_Master3D_Chan_YanTung.binvox",
+      "sha256": "827759272a7c665de13f2f8b51fc5e5a008df4b1dbafdd07852f008e17947517",
+      "bytes": 21424,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4564
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Small_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/Kayuyo_Sejima_Small_House_Master3D_Chan_YanTung.binvox",
+      "sha256": "c6213209a55ba8c4a35584bf851b521d42bdb8be45a6aa4025c584b8bb7dd19a",
+      "bytes": 151626,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 21456
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Small_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/Kayuyo_Sejima_Small_House_Master3D_Chan_YanTung.binvox",
+      "sha256": "9698a24d08eeab30ce083f5cff0dd3e0d059b697f67a51d5155418933395e82a",
+      "bytes": 1168352,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 105911
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Small_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/Kayuyo_Sejima_Small_House_Master3D_Chan_YanTung.binvox",
+    "resolution": 128,
+    "triangles": 2010,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "f17c09636ad7e24fbc30050be668c877130a64b2c4362c53bd10c5b155215a39"
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "Herzog_de_Meuron_128_House_3Dmodel_Raphael_Pertl",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/128_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Herzog_de_Meuron_128_House_3Dmodel_Raphael_Pertl_0.binvox",
+      "sha256": "83e6b6f144b71f6737a8ea9f32a63b2b8cc13e1d84022912e79d3d061e8d913b",
+      "bytes": 4795,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2568
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/128_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Herzog_de_Meuron_128_House_3Dmodel_Raphael_Pertl_120.binvox",
+      "sha256": "fae54ef9740c0126ca07fa93d93e3e7fc57ae107e2b294c3f1736e35cfb84e66",
+      "bytes": 4975,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2857
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/128_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Herzog_de_Meuron_128_House_3Dmodel_Raphael_Pertl_150.binvox",
+      "sha256": "55533de82a2468edd9c58def5e7d5d67dca1ac01e61a99995b437db86f58ff3f",
+      "bytes": 4885,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2726
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/128_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Herzog_de_Meuron_128_House_3Dmodel_Raphael_Pertl_180.binvox",
+      "sha256": "38dda59117a061bbb8c8d7146b00e29d2769e4d262c1fbe324ec7953bfd265db",
+      "bytes": 4945,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3068
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/128_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Herzog_de_Meuron_128_House_3Dmodel_Raphael_Pertl_210.binvox",
+      "sha256": "d7ee6112963eb39a8e3176c257e9e300ee39d3e13f1f893738273672057299a7",
+      "bytes": 4683,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2729
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/128_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Herzog_de_Meuron_128_House_3Dmodel_Raphael_Pertl_240.binvox",
+      "sha256": "ce72cd84b3f4a596fd9218ecda1484bca75d705e745c6080dde565aff63f3fc0",
+      "bytes": 5293,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3058
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/128_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Herzog_de_Meuron_128_House_3Dmodel_Raphael_Pertl_270.binvox",
+      "sha256": "ec0c64d8c9815bb3f507b1a485ea0f12605fdaf06b73c6273461ef42676927bc",
+      "bytes": 4655,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2631
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/128_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Herzog_de_Meuron_128_House_3Dmodel_Raphael_Pertl_30.binvox",
+      "sha256": "b926074235577228057292a676bb86dd6a4d45105eb71709715f66a7e40c7b20",
+      "bytes": 4899,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2834
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/128_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Herzog_de_Meuron_128_House_3Dmodel_Raphael_Pertl_300.binvox",
+      "sha256": "d47dada6d4dabd251dd191a610ee5d4251263078b63e2059848a57ac70ccf64c",
+      "bytes": 5345,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2805
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/128_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Herzog_de_Meuron_128_House_3Dmodel_Raphael_Pertl_330.binvox",
+      "sha256": "cae42b6f17636f5a6e831b14785a6c36a05326b9646427705e1b89b1b2330736",
+      "bytes": 4779,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2576
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/128_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Herzog_de_Meuron_128_House_3Dmodel_Raphael_Pertl_60.binvox",
+      "sha256": "baa52e20e766a75fd61f0f0544532231b3bba7dc873400b1e051610138582502",
+      "bytes": 4813,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2903
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/128_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Herzog_de_Meuron_128_House_3Dmodel_Raphael_Pertl_90.binvox",
+      "sha256": "2adb51630d579a1c2fdcaf618ab443dfc97347c10a4e4955b2c2df7e4d070b72",
+      "bytes": 4673,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2861
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/128_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/Herzog_de_Meuron_128_House_3Dmodel_Raphael_Pertl.binvox",
+      "sha256": "0f57752dc79e7b890fa75b86057ef492f2042a3f3bb318d456b22d6cdd165ef2",
+      "bytes": 3931,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2207
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/128_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/Herzog_de_Meuron_128_House_3Dmodel_Raphael_Pertl.binvox",
+      "sha256": "bd6052039603ccab567598093aa10158b63f52b97bcbb0e6c1d2d133ea0a6f4e",
+      "bytes": 24486,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9989
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/128_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/Herzog_de_Meuron_128_House_3Dmodel_Raphael_Pertl.binvox",
+      "sha256": "ff04448fc39c8183e0ffb30b77a617662df525465dc929e45ea2ee2773dfadcb",
+      "bytes": 176904,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 49266
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/128_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/Herzog_de_Meuron_128_House_3Dmodel_Raphael_Pertl.binvox",
+      "sha256": "45c02a3f393a660ad2d686ceeab44de24ee9c470bbbd661a55848c0ce2f76b31",
+      "bytes": 1333516,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 210725
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/128_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/Herzog_de_Meuron_128_House_3Dmodel_Raphael_Pertl.binvox",
+    "resolution": 128,
+    "triangles": 1512,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "f108ca5e13c50e966bac5b6687a2b4abb37cc08014dc07411e660557848b60d7"
+  }
+}

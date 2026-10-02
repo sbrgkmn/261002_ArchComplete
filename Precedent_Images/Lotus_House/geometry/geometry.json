@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "Kengo_Kuma_Lotus_House_Master3D_Group04",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Lotus_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kengo_Kuma_Lotus_House_Master3D_Group04_0.binvox",
+      "sha256": "92459f23188cad0b142c9823b59ff338fdad63b6d68831120350c2f31b061684",
+      "bytes": 7769,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3735
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Lotus_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kengo_Kuma_Lotus_House_Master3D_Group04_120.binvox",
+      "sha256": "724759da1138df9b265344c385702516da22f10126713bf247aa03ceaba6dfbf",
+      "bytes": 7829,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4317
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Lotus_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kengo_Kuma_Lotus_House_Master3D_Group04_150.binvox",
+      "sha256": "c7d89a41a934cc089635dac368b5cffdb565b1ea6dab72bbbfef1df3c8d416dc",
+      "bytes": 7757,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4063
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Lotus_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kengo_Kuma_Lotus_House_Master3D_Group04_180.binvox",
+      "sha256": "ad70f6df171b0328eac245127f855832747629431f585a64dcc0d79e516bf1a5",
+      "bytes": 7813,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4383
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Lotus_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kengo_Kuma_Lotus_House_Master3D_Group04_210.binvox",
+      "sha256": "94d3da50bc280b9d4cdd1ec3589c421cd1da3b41fafe9a5d375a13e24724c07f",
+      "bytes": 7259,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3929
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Lotus_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kengo_Kuma_Lotus_House_Master3D_Group04_240.binvox",
+      "sha256": "286cebf0b1925bc58cdf8b8cc49589e12095fcb3619100062c10d9e68d60c70d",
+      "bytes": 8727,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4864
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Lotus_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kengo_Kuma_Lotus_House_Master3D_Group04_270.binvox",
+      "sha256": "011b23015870e80a52e3f33a6930e2fe097cfd453a91f01f7d7b49dc472e860c",
+      "bytes": 7203,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3918
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Lotus_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kengo_Kuma_Lotus_House_Master3D_Group04_30.binvox",
+      "sha256": "a85f2d48e774027b99d8a836732793d4fab39519507e000f5e5d10dd4fb4a9f9",
+      "bytes": 8935,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4546
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Lotus_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kengo_Kuma_Lotus_House_Master3D_Group04_300.binvox",
+      "sha256": "3ecdfa114542308f5f7d635997a863cd215ace6249755f363726c8f102b30c8d",
+      "bytes": 9159,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4784
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Lotus_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kengo_Kuma_Lotus_House_Master3D_Group04_330.binvox",
+      "sha256": "3f7abd2f6ccd28e3c32c0fa0056769a52efd8312de1d3605cfc7ed7943d8af3b",
+      "bytes": 7457,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3908
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Lotus_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kengo_Kuma_Lotus_House_Master3D_Group04_60.binvox",
+      "sha256": "a45e9f39a2191ec71e241ff5d7292713fee40c895e1bccb0647aa85887c92845",
+      "bytes": 7455,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4063
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Lotus_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kengo_Kuma_Lotus_House_Master3D_Group04_90.binvox",
+      "sha256": "89fe6607e66eced017e08b9bf090028174261d651ab49d19aa1cebb34137ab00",
+      "bytes": 7689,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4250
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Lotus_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/Kengo_Kuma_Lotus_House_Master3D_Group04.binvox",
+      "sha256": "0f8912fda7e8b6d5df51c52b60b538b002e946225d1930439591bfb5a82052ae",
+      "bytes": 6933,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3364
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Lotus_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/Kengo_Kuma_Lotus_House_Master3D_Group04.binvox",
+      "sha256": "0f7bc42f90f44441f7c2173a4c9d9fe606575f72f9695f53bc92415328ced4f6",
+      "bytes": 35816,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 19018
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Lotus_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/Kengo_Kuma_Lotus_House_Master3D_Group04.binvox",
+      "sha256": "a02fc532547f7f99700e323f69a481523bf856181f65c164bddb37c8b1a3c25d",
+      "bytes": 246244,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 86595
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Lotus_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/Kengo_Kuma_Lotus_House_Master3D_Group04.binvox",
+      "sha256": "080431939651e42577106634932a3e002bcb37fa09c64c732df4e40062364dc7",
+      "bytes": 1643358,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 371526
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Lotus_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/Kengo_Kuma_Lotus_House_Master3D_Group04.binvox",
+    "resolution": 128,
+    "triangles": 2616,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "68ef6dbaee631eef739fdd806f8fbc028bd9864c4c6a25e2b1604ee8f51ce767"
+  }
+}

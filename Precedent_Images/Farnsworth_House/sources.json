@@ -1,0 +1,79 @@
+[
+  {
+    "file": "Farnsworth_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 1241,
+    "source_page": "https://archeyes.com/the-farnsworth-house-mies-van-der-rohe/",
+    "image_url": "https://archeyes.com/wp-content/uploads/2021/02/Farnsworth-House-Mies-Van-Der-Rohe-ArchEyes-Chicago-glass-house-snow-Jonathan-Rieke-7.jpg",
+    "caption": "  ",
+    "bytes": 588505,
+    "candidate": 1
+  },
+  {
+    "file": "Farnsworth_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1600,
+    "height": 1067,
+    "source_page": "https://archeyes.com/the-farnsworth-house-mies-van-der-rohe/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2021/02/Farnsworth-House-Mies-Van-Der-Rohe-ArchEyes-Chicago-glass-house-Victor-Grigas-phtoto.jpg",
+    "caption": "  ",
+    "bytes": 469516,
+    "candidate": 5
+  },
+  {
+    "file": "Farnsworth_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1600,
+    "height": 982,
+    "source_page": "https://archeyes.com/the-farnsworth-house-mies-van-der-rohe/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2021/02/Farnsworth-House-Mies-Van-Der-Rohe-ArchEyes-Chicago-glass-house-front-Phil-Beard-2.jpg",
+    "caption": "  ",
+    "bytes": 695101,
+    "candidate": 6
+  },
+  {
+    "file": "Farnsworth_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1600,
+    "height": 1166,
+    "source_page": "https://archeyes.com/the-farnsworth-house-mies-van-der-rohe/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2021/02/Farnsworth-House-Mies-Van-Der-Rohe-ArchEyes-Chicago-glass-house-floor-plan.jpg",
+    "caption": "  ",
+    "bytes": 178837,
+    "candidate": 12
+  },
+  {
+    "file": "Farnsworth_House_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1600,
+    "height": 979,
+    "source_page": "https://archeyes.com/the-farnsworth-house-mies-van-der-rohe/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2021/02/Farnsworth-House-Mies-Van-Der-Rohe-ArchEyes-Chicago-glass-house-setions.jpg",
+    "caption": "  ",
+    "bytes": 120342,
+    "candidate": 13
+  },
+  {
+    "file": "Farnsworth_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1600,
+    "height": 1067,
+    "source_page": "https://archeyes.com/the-farnsworth-house-mies-van-der-rohe/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2021/02/Farnsworth-House-Mies-Van-Der-Rohe-ArchEyes-Chicago-glass-house-Photo-by-Mike-Schwartz.jpg",
+    "caption": "  ",
+    "bytes": 312888,
+    "candidate": 7
+  },
+  {
+    "file": "Farnsworth_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 1600,
+    "height": 1067,
+    "source_page": "https://archeyes.com/the-farnsworth-house-mies-van-der-rohe/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2021/02/Farnsworth-House-Mies-Van-Der-Rohe-ArchEyes-Chicago-glass-house-interior-Victor-Grigas-1.jpg",
+    "caption": "  ",
+    "bytes": 526476,
+    "candidate": 9
+  }
+]

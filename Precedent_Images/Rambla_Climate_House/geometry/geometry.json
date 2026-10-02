@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "Rambla_Climate_House_Niklas_Mueller",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Rambla_Climate_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Rambla_Climate_House_Niklas_Mueller_0.binvox",
+      "sha256": "1331c54e7e9d0ddcb939c6a877e7d2a5342ad5e7a8108f351498b0a7adfab33e",
+      "bytes": 5933,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2582
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Rambla_Climate_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Rambla_Climate_House_Niklas_Mueller_120.binvox",
+      "sha256": "5e8f57f81236bc23175f4ba7ef5c6e79bc43a0d8ceed3286dd142a5a27d40b67",
+      "bytes": 6367,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2802
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Rambla_Climate_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Rambla_Climate_House_Niklas_Mueller_150.binvox",
+      "sha256": "636b22cc3207abac488cd653a5da343397bceaeef777386d292269c116fdf11e",
+      "bytes": 6445,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2849
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Rambla_Climate_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Rambla_Climate_House_Niklas_Mueller_180.binvox",
+      "sha256": "d25644847d3dcef1128f47d64d1c0cc15bef5cc8739b3bbe05f9ae8fe6e034ce",
+      "bytes": 6111,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2701
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Rambla_Climate_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Rambla_Climate_House_Niklas_Mueller_210.binvox",
+      "sha256": "eca482337ed4623745d08123be51856c53b1f076ab737fe328553bef8ec621e7",
+      "bytes": 5801,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2539
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Rambla_Climate_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Rambla_Climate_House_Niklas_Mueller_240.binvox",
+      "sha256": "f0fbfd066a7990adf3394ba75b4513fa4460143641cb4dc319135b3fd19a1a57",
+      "bytes": 6271,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2740
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Rambla_Climate_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Rambla_Climate_House_Niklas_Mueller_270.binvox",
+      "sha256": "4c1e52c31703cbe10363f79f365538487b14315ce9b6815f9c874dea6682a718",
+      "bytes": 5815,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2671
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Rambla_Climate_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Rambla_Climate_House_Niklas_Mueller_30.binvox",
+      "sha256": "c7d1c627c1d3ef866706c2534af1fa930dbc99fb5f07168df87e865297a0380b",
+      "bytes": 6519,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2832
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Rambla_Climate_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Rambla_Climate_House_Niklas_Mueller_300.binvox",
+      "sha256": "65aca760b030903a68777116a3d981c024dea85f2a1f8b7838d77d5dbfa2fb48",
+      "bytes": 6953,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3033
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Rambla_Climate_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Rambla_Climate_House_Niklas_Mueller_330.binvox",
+      "sha256": "723a0779eb57ae56d077b202980cf6437fd530ab88304b34e5655271219b88e0",
+      "bytes": 5777,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2563
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Rambla_Climate_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Rambla_Climate_House_Niklas_Mueller_60.binvox",
+      "sha256": "5912c8e2fcc6551bb529de12a19768eaa2cbf5410ddb8053da3f8dc305b75b51",
+      "bytes": 5855,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2540
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Rambla_Climate_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Rambla_Climate_House_Niklas_Mueller_90.binvox",
+      "sha256": "69c8773b3455d1497634c91673b32edd879ea7609f8d89e1146025d625f12333",
+      "bytes": 6249,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2692
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Rambla_Climate_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/Rambla_Climate_House_Niklas_Mueller.binvox",
+      "sha256": "af0c52747ec64d81f0d763e741ffc278e8c25e62913af5b9d07e19d07359eff0",
+      "bytes": 5451,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2298
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Rambla_Climate_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/Rambla_Climate_House_Niklas_Mueller.binvox",
+      "sha256": "db348dfa4ca75e173cfcc8008ebcc2e5e2f92696f4f7eefeb97bf8c1acdf3ba5",
+      "bytes": 29430,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 10290
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Rambla_Climate_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/Rambla_Climate_House_Niklas_Mueller.binvox",
+      "sha256": "679aa42969693e24b7135e5d09f1f801afda305c4f502bb610c1d4ec7f30293c",
+      "bytes": 177444,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 54656
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Rambla_Climate_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/Rambla_Climate_House_Niklas_Mueller.binvox",
+      "sha256": "faf997c5554983adc41172cd5bc038f1e2a8f7034719441cb449b8ddf911e0db",
+      "bytes": 1368836,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 240657
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Rambla_Climate_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/Rambla_Climate_House_Niklas_Mueller.binvox",
+    "resolution": 128,
+    "triangles": 6558,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "9ffc27309a6921fc16275edd076ea70aa574004da8207e6d841d902d15a101c2"
+  }
+}

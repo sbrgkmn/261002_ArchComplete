@@ -1,0 +1,57 @@
+[
+  {
+    "file": "Nine_Square_Grid_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 800,
+    "height": 487,
+    "source_page": "https://shigerubanarchitects.com/old/works/1997_nine_square_grid_house/index.html",
+    "image_url": "https://shigerubanarchitects.com/old/works/1997_nine_square_grid_house/NineSquareGridHouse_004.jpg",
+    "caption": "  ",
+    "bytes": 122692,
+    "candidate": 1
+  },
+  {
+    "file": "Nine_Square_Grid_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 850,
+    "height": 421,
+    "source_page": "https://shigerubanarchitects.com/old/works/1997_nine_square_grid_house/index.html",
+    "image_url": "https://shigerubanarchitects.com/old/works/1997_nine_square_grid_house/9sq1-30MB.jpg",
+    "caption": "  ",
+    "bytes": 110617,
+    "candidate": 2
+  },
+  {
+    "file": "Nine_Square_Grid_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1502,
+    "height": 1000,
+    "source_page": "https://shigerubanarchitects.com/works/hh/nine-square-grid-house/",
+    "image_url": "https://shigerubanarchitects.com/wp-content/uploads/2022/09/shigeru-ban-9-square-grid-house7.jpg",
+    "caption": "  ",
+    "bytes": 144553,
+    "candidate": 7
+  },
+  {
+    "file": "Nine_Square_Grid_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 800,
+    "height": 393,
+    "source_page": "https://shigerubanarchitects.com/old/works/1997_nine_square_grid_house/index.html",
+    "image_url": "https://shigerubanarchitects.com/old/works/1997_nine_square_grid_house/NineSquareGridHouse_003.jpg",
+    "caption": "  ",
+    "bytes": 117282,
+    "candidate": 3
+  },
+  {
+    "file": "Nine_Square_Grid_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 900,
+    "height": 583,
+    "source_page": "https://shigerubanarchitects.com/old/works/1997_nine_square_grid_house/index.html",
+    "image_url": "https://shigerubanarchitects.com/old/works/1997_nine_square_grid_house/01.jpg",
+    "caption": "  ",
+    "bytes": 139823,
+    "candidate": 4
+  }
+]

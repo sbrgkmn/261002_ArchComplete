@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Vanna_Venturi_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1238,
+    "height": 769,
+    "source_page": "https://www.archdaily.com/62743/ad-classics-vanna-venturi-house-robert-venturi",
+    "image_url": "https://images.adsttc.com/media/images/5037/e07f/28ba/0d59/9b00/016c/large_jpg/stringio.jpg?1414230673",
+    "caption": "  ",
+    "bytes": 241532,
+    "candidate": 1
+  },
+  {
+    "file": "Vanna_Venturi_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1800,
+    "height": 1247,
+    "source_page": "https://www.archdaily.com/62743/ad-classics-vanna-venturi-house-robert-venturi",
+    "image_url": "https://images.adsttc.com/media/images/5037/e083/28ba/0d59/9b00/016d/large_jpg/stringio.jpg?1414230676",
+    "caption": "AD Classics: Vanna Venturi House / Robert Venturi - Image 2 of 11 © UPenn https://www.archdaily.com/62743/ad-classics-vanna-venturi-house-robert-venturi/5037e08328ba0d599b00016d-ad-classics-vanna-venturi-house-robert-venturi-photo",
+    "bytes": 824585,
+    "candidate": 2
+  },
+  {
+    "file": "Vanna_Venturi_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 984,
+    "height": 984,
+    "source_page": "https://www.archdaily.com/62743/ad-classics-vanna-venturi-house-robert-venturi",
+    "image_url": "https://images.adsttc.com/media/images/5037/e097/28ba/0d59/9b00/0172/large_jpg/stringio.jpg?1414230692",
+    "caption": "  ",
+    "bytes": 173351,
+    "candidate": 9
+  },
+  {
+    "file": "Vanna_Venturi_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 375,
+    "height": 356,
+    "source_page": "https://www.archdaily.com/62743/ad-classics-vanna-venturi-house-robert-venturi",
+    "image_url": "https://images.adsttc.com/media/images/5037/e08a/28ba/0d59/9b00/016e/large_jpg/stringio.jpg?1414230696",
+    "caption": "  ",
+    "bytes": 41561,
+    "candidate": 11
+  },
+  {
+    "file": "Vanna_Venturi_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 469,
+    "height": 280,
+    "source_page": "https://www.archdaily.com/62743/ad-classics-vanna-venturi-house-robert-venturi",
+    "image_url": "https://images.adsttc.com/media/images/5037/e079/28ba/0d59/9b00/016a/large_jpg/stringio.jpg?1414230678",
+    "caption": "AD Classics: Vanna Venturi House / Robert Venturi - Image 3 of 11  https://www.archdaily.com/62743/ad-classics-vanna-venturi-house-robert-venturi/5037e07928ba0d599b00016a-ad-classics-vanna-venturi-house-robert-venturi-image",
+    "bytes": 43681,
+    "candidate": 3
+  },
+  {
+    "file": "Vanna_Venturi_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 460,
+    "height": 578,
+    "source_page": "https://www.archdaily.com/62743/ad-classics-vanna-venturi-house-robert-venturi",
+    "image_url": "https://images.adsttc.com/media/images/5037/e090/28ba/0d59/9b00/0170/large_jpg/stringio.jpg?1414230689",
+    "caption": "  ",
+    "bytes": 44098,
+    "candidate": 8
+  }
+]

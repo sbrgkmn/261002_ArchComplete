@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Maison_Louise_Carre_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1000,
+    "height": 1000,
+    "source_page": "https://www.archdaily.com/356209/ad-classics-maison-louis-carre-alvar-aalto",
+    "image_url": "https://images.adsttc.com/media/images/515f/e308/b3fc/4b2b/a700/020e/large_jpg/alvar-aalto-france-bazoches-sur-guyonne-maison-louis-carre-04-samuel-ludwig.jpg?1365238533",
+    "caption": "  ",
+    "bytes": 364301,
+    "candidate": 1
+  },
+  {
+    "file": "Maison_Louise_Carre_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1000,
+    "height": 800,
+    "source_page": "https://www.archdaily.com/356209/ad-classics-maison-louis-carre-alvar-aalto",
+    "image_url": "https://images.adsttc.com/media/images/515f/e306/b3fc/4b9d/4f00/0211/large_jpg/alvar-aalto-france-bazoches-sur-guyonne-maison-louis-carre-03-samuel-ludwig.jpg?1365238531",
+    "caption": "AD Classics: Maison Louis Carré  / Alvar Aalto - Image 3 of 16 © Samuel Ludwig https://www.archdaily.com/356209/ad-classics-maison-louis-carre-alvar-aalto/515fe306b3fc4b9d4f000211-ad-classics-maison-louis-carre-alvar-aalto-photo",
+    "bytes": 281046,
+    "candidate": 3
+  },
+  {
+    "file": "Maison_Louise_Carre_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1000,
+    "height": 875,
+    "source_page": "https://www.archdaily.com/356209/ad-classics-maison-louis-carre-alvar-aalto",
+    "image_url": "https://images.adsttc.com/media/images/515f/e313/b3fc/4bc5/2600/0207/large_jpg/alvar-aalto-france-bazoches-sur-guyonne-maison-louis-carre-06-samuel-ludwig.jpg?1365238544",
+    "caption": "  ",
+    "bytes": 202392,
+    "candidate": 10
+  },
+  {
+    "file": "Maison_Louise_Carre_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 395,
+    "height": 415,
+    "source_page": "https://www.archdaily.com/356209/ad-classics-maison-louis-carre-alvar-aalto",
+    "image_url": "https://images.adsttc.com/media/images/5186/1105/b3fc/4b3b/1700/0098/large_jpg/Villa_Carre_Plan.jpg?1367740676",
+    "caption": "  ",
+    "bytes": 48048,
+    "candidate": 13
+  },
+  {
+    "file": "Maison_Louise_Carre_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1000,
+    "height": 1000,
+    "source_page": "https://www.archdaily.com/356209/ad-classics-maison-louis-carre-alvar-aalto",
+    "image_url": "https://images.adsttc.com/media/images/515f/e32a/b3fc/4b2b/a700/0211/large_jpg/alvar-aalto-france-bazoches-sur-guyonne-maison-louis-carre-10-samuel-ludwig.jpg?1365238567",
+    "caption": "AD Classics: Maison Louis Carré  / Alvar Aalto - Image 5 of 16 © Samuel Ludwig https://www.archdaily.com/356209/ad-classics-maison-louis-carre-alvar-aalto/515fe32ab3fc4b2ba7000211-ad-classics-maison-louis-carre-alvar-aalto-photo",
+    "bytes": 289699,
+    "candidate": 5
+  },
+  {
+    "file": "Maison_Louise_Carre_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 1000,
+    "height": 1000,
+    "source_page": "https://www.archdaily.com/356209/ad-classics-maison-louis-carre-alvar-aalto",
+    "image_url": "https://images.adsttc.com/media/images/515f/e334/b3fc/4b2b/a700/0212/large_jpg/alvar-aalto-france-bazoches-sur-guyonne-maison-louis-carre-12-samuel-ludwig.jpg?1365238576",
+    "caption": "  ",
+    "bytes": 204771,
+    "candidate": 12
+  }
+]

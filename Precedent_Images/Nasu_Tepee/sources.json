@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Nasu_Tepee_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 1333,
+    "source_page": "https://www.archdaily.com/780147/nasu-tepee-hiroshi-nakamura-and-nap",
+    "image_url": "https://images.adsttc.com/media/images/5692/87df/e58e/ce1b/2100/011e/large_jpg/001_35A9068_F.jpg?1452443605",
+    "caption": "  ",
+    "bytes": 1034617,
+    "candidate": 1
+  },
+  {
+    "file": "Nasu_Tepee_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1333,
+    "height": 2000,
+    "source_page": "https://www.archdaily.com/780147/nasu-tepee-hiroshi-nakamura-and-nap",
+    "image_url": "https://images.adsttc.com/media/images/5692/8950/e58e/ce02/b000/0119/large_jpg/031_O1A9922_F.jpg?1452443974",
+    "caption": "  ",
+    "bytes": 1151648,
+    "candidate": 6
+  },
+  {
+    "file": "Nasu_Tepee_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 1333,
+    "source_page": "https://www.archdaily.com/780147/nasu-tepee-hiroshi-nakamura-and-nap",
+    "image_url": "https://images.adsttc.com/media/images/5692/8922/e58e/ce02/b000/0118/large_jpg/024_35A9625_F.jpg?1452443928",
+    "caption": "  ",
+    "bytes": 931285,
+    "candidate": 14
+  },
+  {
+    "file": "Nasu_Tepee_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1213,
+    "height": 866,
+    "source_page": "https://www.archdaily.com/780147/nasu-tepee-hiroshi-nakamura-and-nap",
+    "image_url": "https://images.adsttc.com/media/images/5692/89f9/e58e/ce02/b000/011b/large_jpg/floor_(1).jpg?1452444147",
+    "caption": "  ",
+    "bytes": 264922,
+    "candidate": 26
+  },
+  {
+    "file": "Nasu_Tepee_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1333,
+    "height": 2000,
+    "source_page": "https://www.archdaily.com/780147/nasu-tepee-hiroshi-nakamura-and-nap",
+    "image_url": "https://images.adsttc.com/media/images/5692/889e/e58e/ce1b/2100/0123/large_jpg/010_O1A9960_F.jpg?1452443791",
+    "caption": "  ",
+    "bytes": 298663,
+    "candidate": 7
+  },
+  {
+    "file": "Nasu_Tepee_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 1333,
+    "height": 2000,
+    "source_page": "https://www.archdaily.com/780147/nasu-tepee-hiroshi-nakamura-and-nap",
+    "image_url": "https://images.adsttc.com/media/images/5692/8854/e58e/ce02/b000/0112/large_jpg/006_01_35A9171_F.jpg?1452443719",
+    "caption": "  ",
+    "bytes": 291010,
+    "candidate": 18
+  }
+]

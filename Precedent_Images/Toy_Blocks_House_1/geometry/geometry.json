@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "TakefumiAida_ToyBlocksHouse1_Master3D_Knüppel_Felicitas",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Toy_Blocks_House_1_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TakefumiAida_ToyBlocksHouse1_Master3D_Knüppel_Felicitas_0.binvox",
+      "sha256": "0a40274425c1e7aa81e60e97733deb4603bc1e65b53cb9009c2b9549f19aa2eb",
+      "bytes": 4951,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1894
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Toy_Blocks_House_1_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TakefumiAida_ToyBlocksHouse1_Master3D_Knüppel_Felicitas_120.binvox",
+      "sha256": "53f6a9c8f0017ab6c3351ae932143fbddca75133a19eedab96724012a6cbd7c6",
+      "bytes": 5489,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2249
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Toy_Blocks_House_1_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TakefumiAida_ToyBlocksHouse1_Master3D_Knüppel_Felicitas_150.binvox",
+      "sha256": "75041bda5ff1c29992fc8cdb1fcb2017ec6b85cc2f8fe8bc7537029b3e86519c",
+      "bytes": 5203,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2179
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Toy_Blocks_House_1_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TakefumiAida_ToyBlocksHouse1_Master3D_Knüppel_Felicitas_180.binvox",
+      "sha256": "3eb40f0882bbaf48fe089434d5331a6ef1a6a60212d00643b9387b2285915501",
+      "bytes": 5459,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2454
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Toy_Blocks_House_1_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TakefumiAida_ToyBlocksHouse1_Master3D_Knüppel_Felicitas_210.binvox",
+      "sha256": "2afba00322ac952df76dad6caf43e4662e00f711d4f9905036fc6d99ab707309",
+      "bytes": 5331,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2153
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Toy_Blocks_House_1_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TakefumiAida_ToyBlocksHouse1_Master3D_Knüppel_Felicitas_240.binvox",
+      "sha256": "47b743b04f823e7db8f0c7db3ea0ee630cdc293599833545620d94c585c3a1ef",
+      "bytes": 5305,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2333
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Toy_Blocks_House_1_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TakefumiAida_ToyBlocksHouse1_Master3D_Knüppel_Felicitas_270.binvox",
+      "sha256": "6b879c8dd64121f2e78323ae5d382c1a9952c89e8af6ec63cf795e005e4e4031",
+      "bytes": 5029,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1945
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Toy_Blocks_House_1_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TakefumiAida_ToyBlocksHouse1_Master3D_Knüppel_Felicitas_30.binvox",
+      "sha256": "efd6271a0aef62474b5a974f584909bc8255e92c8bd2e89485903fe13317d568",
+      "bytes": 5099,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2030
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Toy_Blocks_House_1_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TakefumiAida_ToyBlocksHouse1_Master3D_Knüppel_Felicitas_300.binvox",
+      "sha256": "21ef3f52f4af2c60cd52dbfb2b873f738246163fa02b620e23a96b532e7268aa",
+      "bytes": 5461,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2354
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Toy_Blocks_House_1_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TakefumiAida_ToyBlocksHouse1_Master3D_Knüppel_Felicitas_330.binvox",
+      "sha256": "52fb52155637f93b9a93d33b7a74e6ab010fed99204860c52fd002cabfcdf0f5",
+      "bytes": 5255,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1986
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Toy_Blocks_House_1_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TakefumiAida_ToyBlocksHouse1_Master3D_Knüppel_Felicitas_60.binvox",
+      "sha256": "60afb3e650bc244be63688b85fa24b0e8d9c3bf9258867e13c734dc3f47ed259",
+      "bytes": 5111,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2295
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Toy_Blocks_House_1_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TakefumiAida_ToyBlocksHouse1_Master3D_Knüppel_Felicitas_90.binvox",
+      "sha256": "150f5a2305a8cefe68ae2ca76bbd63eac586ff9b5e57fb7b26eb2db1e00e87de",
+      "bytes": 4953,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2301
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Toy_Blocks_House_1_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/TakefumiAida_ToyBlocksHouse1_Master3D_Knüppel_Felicitas.binvox",
+      "sha256": "403964dca48a4f4f67f17bbd1427358cdd8b8e65cdd996c61384efc3b88a44ac",
+      "bytes": 4257,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1749
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Toy_Blocks_House_1_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/TakefumiAida_ToyBlocksHouse1_Master3D_Knüppel_Felicitas.binvox",
+      "sha256": "9857a77f3802c209efbc1163325e41379e42bd8757491b70c2f3d5def6ea27fb",
+      "bytes": 26424,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8140
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Toy_Blocks_House_1_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/TakefumiAida_ToyBlocksHouse1_Master3D_Knüppel_Felicitas.binvox",
+      "sha256": "17d607f09fb18a395dc4a22587fafff0111331246b33311cc0636b19f87c1143",
+      "bytes": 168704,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 37280
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Toy_Blocks_House_1_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/TakefumiAida_ToyBlocksHouse1_Master3D_Knüppel_Felicitas.binvox",
+      "sha256": "ae2d41a79b69eb32b37b4c8ef3c87a8d244dcb4a7d634d34907b8c954dc366e6",
+      "bytes": 1227820,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 192421
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Toy_Blocks_House_1_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/TakefumiAida_ToyBlocksHouse1_Master3D_Knüppel_Felicitas.binvox",
+    "resolution": 128,
+    "triangles": 1742,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "cf04a67d46edfd7bc0806913a0a4dd4ffdebbbb22b6234bfb8c29f74ce2beaef"
+  }
+}

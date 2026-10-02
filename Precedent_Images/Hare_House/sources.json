@@ -1,0 +1,46 @@
+[
+  {
+    "file": "Hare_House_Exterior_Rendering_01.jpg",
+    "view_type": "Exterior_Rendering",
+    "width": 1200,
+    "height": 798,
+    "source_page": "https://archinect.com/tomwiscombe/project/hare-house",
+    "image_url": "https://archinect.gumlet.io/uploads/06/0607f17264a14050b6b07da7d1637e30.jpg?fit=crop&auto=compress&format=&enlarge=true&w=1200",
+    "caption": "  ",
+    "bytes": 75468,
+    "candidate": 1
+  },
+  {
+    "file": "Hare_House_Exterior_Rendering_02.jpg",
+    "view_type": "Exterior_Rendering",
+    "width": 1200,
+    "height": 798,
+    "source_page": "https://archinect.com/tomwiscombe/project/hare-house",
+    "image_url": "https://archinect.gumlet.io/uploads/63/63b06b80a3282516056e3c80aa55d4ed.jpg?fit=crop&auto=compress&format=&enlarge=true&w=1200",
+    "caption": "  ",
+    "bytes": 72517,
+    "candidate": 2
+  },
+  {
+    "file": "Hare_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1200,
+    "height": 798,
+    "source_page": "https://archinect.com/tomwiscombe/project/hare-house",
+    "image_url": "https://archinect.gumlet.io/uploads/94/94e62346ceb4595dbf593e0017756fe3.jpg?fit=crop&auto=compress&format=&enlarge=true&w=1200",
+    "caption": "  ",
+    "bytes": 137442,
+    "candidate": 5
+  },
+  {
+    "file": "Hare_House_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 4167,
+    "height": 2771,
+    "source_page": "https://archinect.com/tomwiscombe/project/hare-house",
+    "image_url": "https://archinect.gumlet.io/uploads/8b/8bfeca6a817c322abb23d1f6222240e7.jpg?auto=compress%2Cformat",
+    "caption": "  ",
+    "bytes": 485745,
+    "candidate": 8
+  }
+]

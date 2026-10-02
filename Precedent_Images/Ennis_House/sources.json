@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Ennis_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 860,
+    "height": 510,
+    "source_page": "https://www.mattconstruction.com/projects/museum-cultural/ennis-house/",
+    "image_url": "https://cdn.mattconstruction.com/wp-content/uploads/2016/05/Frank_Lloyd_Wright_Ennis_House_11.jpg",
+    "caption": "  ",
+    "bytes": 81929,
+    "candidate": 1
+  },
+  {
+    "file": "Ennis_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 860,
+    "height": 510,
+    "source_page": "https://www.mattconstruction.com/projects/museum-cultural/ennis-house/",
+    "image_url": "https://cdn.mattconstruction.com/wp-content/uploads/2016/05/Frank_Lloyd_Wright_Ennis_House_9.jpg",
+    "caption": "MATT construction Frank Lloyd Wright Ennis House exterior far  ",
+    "bytes": 120254,
+    "candidate": 11
+  },
+  {
+    "file": "Ennis_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 860,
+    "height": 510,
+    "source_page": "https://www.mattconstruction.com/projects/museum-cultural/ennis-house/",
+    "image_url": "https://cdn.mattconstruction.com/wp-content/uploads/2016/05/Frank_Lloyd_Wright_Ennis_House_10.jpg",
+    "caption": "MATT construction Frank Lloyd Wright Ennis House exterior landscaping  ",
+    "bytes": 88155,
+    "candidate": 12
+  },
+  {
+    "file": "Ennis_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1543,
+    "height": 794,
+    "source_page": "https://en.wikiarquitectura.com/building/ennis-house/",
+    "image_url": "https://en.wikiarquitectura.com/wp-content/uploads/2017/01/EnnisHouse_planta.jpg",
+    "caption": "Ennis floor plan",
+    "bytes": 558447,
+    "candidate": 1001
+  },
+  {
+    "file": "Ennis_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 860,
+    "height": 510,
+    "source_page": "https://www.mattconstruction.com/projects/museum-cultural/ennis-house/",
+    "image_url": "https://cdn.mattconstruction.com/wp-content/uploads/2016/05/Frank_Lloyd_Wright_Ennis_House_2.jpg",
+    "caption": "MATT construction Frank Lloyd Wright Ennis House Interior dining room  ",
+    "bytes": 92398,
+    "candidate": 5
+  },
+  {
+    "file": "Ennis_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 860,
+    "height": 510,
+    "source_page": "https://www.mattconstruction.com/projects/museum-cultural/ennis-house/",
+    "image_url": "https://cdn.mattconstruction.com/wp-content/uploads/2016/05/Frank_Lloyd_Wright_Ennis_House_6.jpg",
+    "caption": "MATT construction Frank Lloyd Wright Ennis House interior atrium  ",
+    "bytes": 108483,
+    "candidate": 9
+  }
+]

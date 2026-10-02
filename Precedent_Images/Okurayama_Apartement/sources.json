@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Okurayama_Apartement_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1078,
+    "height": 686,
+    "source_page": "https://www.area-arch.it/en/okurayama-apartments/",
+    "image_url": "https://static.tecnichenuove.it/areaarch/2017/04/102-111-SANAA-5.jpg",
+    "caption": "  ",
+    "bytes": 69110,
+    "candidate": 1
+  },
+  {
+    "file": "Okurayama_Apartement_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1078,
+    "height": 688,
+    "source_page": "https://www.area-arch.it/en/okurayama-apartments/",
+    "image_url": "https://static.tecnichenuove.it/areaarch/2017/04/102-111-SANAA-3.jpg",
+    "caption": "  ",
+    "bytes": 119491,
+    "candidate": 6
+  },
+  {
+    "file": "Okurayama_Apartement_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 983,
+    "height": 1280,
+    "source_page": "https://www.area-arch.it/en/okurayama-apartments/",
+    "image_url": "https://static.tecnichenuove.it/areaarch/2017/04/102-111-SANAA-2.jpg",
+    "caption": "  ",
+    "bytes": 178685,
+    "candidate": 8
+  },
+  {
+    "file": "Okurayama_Apartement_Floor_Plan_01.webp",
+    "view_type": "Floor_Plan",
+    "width": 2509,
+    "height": 1395,
+    "source_page": "https://arquitecturaviva.com/works/apartamentos-okurayama-2",
+    "image_url": "https://arquitecturaviva.com/assets/uploads/obras/40221/av_90796.webp?h=91a0470a",
+    "caption": " Apartamentos Okurayama, Yokohama ",
+    "bytes": 248164,
+    "candidate": 11
+  },
+  {
+    "file": "Okurayama_Apartement_Interior_01.webp",
+    "view_type": "Interior",
+    "width": 459,
+    "height": 463,
+    "source_page": "https://arquitecturaviva.com/works/apartamentos-okurayama-2",
+    "image_url": "https://arquitecturaviva.com/assets/uploads/obras/40221/av_medium__av_90783.webp?h=91a0470a",
+    "caption": " Apartamentos Okurayama, Yokohama ",
+    "bytes": 11584,
+    "candidate": 16
+  },
+  {
+    "file": "Okurayama_Apartement_Interior_02.webp",
+    "view_type": "Interior",
+    "width": 820,
+    "height": 711,
+    "source_page": "https://arquitecturaviva.com/works/apartamentos-okurayama-2",
+    "image_url": "https://arquitecturaviva.com/assets/uploads/obras/40221/av_medium__av_90789.webp?h=91a0470a",
+    "caption": " Apartamentos Okurayama, Yokohama ",
+    "bytes": 18838,
+    "candidate": 17
+  }
+]

@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "MaCH_Arquitectos_Minas_house_model_Group2_no_glass",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Minas_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MaCH_Arquitectos_Minas_house_model_Group2_no_glass_0.binvox",
+      "sha256": "8486cd1ae0b3b714a1814337fc076250599ba8506fabfd4ef4464206a2966ae6",
+      "bytes": 7155,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3612
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Minas_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MaCH_Arquitectos_Minas_house_model_Group2_no_glass_120.binvox",
+      "sha256": "7d9f60eb6fc4bb853218f4199d8812ed30144acfb865022f7a195d3144efb754",
+      "bytes": 7361,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3904
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Minas_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MaCH_Arquitectos_Minas_house_model_Group2_no_glass_150.binvox",
+      "sha256": "c5a754678a746970c2ed32712259b972b61012b678ed4c39dc3d4525580fa519",
+      "bytes": 6885,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3393
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Minas_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MaCH_Arquitectos_Minas_house_model_Group2_no_glass_180.binvox",
+      "sha256": "842bcdcbefe1b84d5396b2d4bb2fadc7f3d2537c5b8f256ddcc69393bfbe6df5",
+      "bytes": 7029,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3808
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Minas_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MaCH_Arquitectos_Minas_house_model_Group2_no_glass_210.binvox",
+      "sha256": "6f28520bb8a734d2a9969946e4646aed957f595e2ed97644f97016e810282689",
+      "bytes": 7083,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3609
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Minas_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MaCH_Arquitectos_Minas_house_model_Group2_no_glass_240.binvox",
+      "sha256": "b534a07d94ab5696dbe5254ac7283ea381f0caee37d36de3734072f7ec9feb32",
+      "bytes": 7217,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3670
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Minas_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MaCH_Arquitectos_Minas_house_model_Group2_no_glass_270.binvox",
+      "sha256": "6d83560ad65fe39334bb02c4349b4d1ffaa3569d337a8ff7c55005b886af8bb6",
+      "bytes": 7013,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3498
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Minas_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MaCH_Arquitectos_Minas_house_model_Group2_no_glass_30.binvox",
+      "sha256": "a8e150e99cffeeb9b151a61e655aa92fdcc4d2fbc67816ef473af5dee0faac1e",
+      "bytes": 6757,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3305
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Minas_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MaCH_Arquitectos_Minas_house_model_Group2_no_glass_300.binvox",
+      "sha256": "d5225a8328cc2afd592334909077179b67a90b83657ecbf04e0a16e78e1710ff",
+      "bytes": 6963,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3734
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Minas_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MaCH_Arquitectos_Minas_house_model_Group2_no_glass_330.binvox",
+      "sha256": "fe9328386d0383edb5824ad0ceefe875d1c8c29284650f290ac77203138567fd",
+      "bytes": 7015,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3585
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Minas_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MaCH_Arquitectos_Minas_house_model_Group2_no_glass_60.binvox",
+      "sha256": "c58b6e6e1fca5234547c51cb1849b85d3999f9d365e17197712917e74f3fd873",
+      "bytes": 7193,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3569
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Minas_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MaCH_Arquitectos_Minas_house_model_Group2_no_glass_90.binvox",
+      "sha256": "2464576625a949e947a52c517d1c5d85550bf052fa0a90f67af9bff284c962a6",
+      "bytes": 7105,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3569
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Minas_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/MaCH_Arquitectos_Minas_house_model_Group2_no_glass.binvox",
+      "sha256": "2251c1a50e5c4614595f28376a53151603c3b1aca9d74dd16c7f5669d93a91ba",
+      "bytes": 6193,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2981
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Minas_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/MaCH_Arquitectos_Minas_house_model_Group2_no_glass.binvox",
+      "sha256": "58f140629318ad2bf29ac8d30056e64d2ee83c37e05ef7db4439ee25fc47c9b0",
+      "bytes": 32356,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 14575
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Minas_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/MaCH_Arquitectos_Minas_house_model_Group2_no_glass.binvox",
+      "sha256": "b00194040ed37526970e557bff66eaa08411d1fb4904e970ece04b2eebb79de9",
+      "bytes": 193106,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 73597
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Minas_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/MaCH_Arquitectos_Minas_house_model_Group2_no_glass.binvox",
+      "sha256": "971ecae9871204e9c7d1570c17f7c69125f6ac307fb34cf14f3d80a92f449b99",
+      "bytes": 1677722,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 304934
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Minas_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/MaCH_Arquitectos_Minas_house_model_Group2_no_glass.binvox",
+    "resolution": 128,
+    "triangles": 2522,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "f95b9e123ef44b2ccf377df18bdcef662cd99a20b8f480f54fa33036b4f43f83"
+  }
+}

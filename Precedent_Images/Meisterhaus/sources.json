@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Meisterhaus_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 2032,
+    "height": 1364,
+    "source_page": "https://www.brenne-architekten.de/meisterhaus-muche-schlemmer/",
+    "image_url": "https://www.brenne-architekten.de/wp-content/uploads/Ansicht-Meisterhaus-Muche-Schlemmer.jpg",
+    "caption": "Nordansicht Straßenseite, © Thomas Wolf, Wüstenrot Stiftung  ",
+    "bytes": 430642,
+    "candidate": 37
+  },
+  {
+    "file": "Meisterhaus_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 2032,
+    "height": 1334,
+    "source_page": "https://www.brenne-architekten.de/meisterhaus-muche-schlemmer/",
+    "image_url": "https://www.brenne-architekten.de/wp-content/uploads/Westansicht-der-Fassade-Meisterhaus-Muche-Schlemmer.jpg",
+    "caption": "Westansicht der Fassade  ",
+    "bytes": 333862,
+    "candidate": 39
+  },
+  {
+    "file": "Meisterhaus_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 2032,
+    "height": 1356,
+    "source_page": "https://www.brenne-architekten.de/meisterhaus-muche-schlemmer/",
+    "image_url": "https://www.brenne-architekten.de/wp-content/uploads/Ostansicht-der-Fassade-Meisterhaus-Muche-Schlemmer.jpg",
+    "caption": "Ostansicht der Fassade mit Terrasse Muche  ",
+    "bytes": 328342,
+    "candidate": 41
+  },
+  {
+    "file": "Meisterhaus_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 2032,
+    "height": 1355,
+    "source_page": "https://www.brenne-architekten.de/meisterhaus-muche-schlemmer/",
+    "image_url": "https://www.brenne-architekten.de/wp-content/uploads/Grundrisse_MMS.jpg",
+    "caption": "Grundrisse Kellergeschoss, Erdgeschoss, 1. Obergeschoss, Dachgeschoss (v.l.n.r.u.)  ",
+    "bytes": 789999,
+    "candidate": 44
+  },
+  {
+    "file": "Meisterhaus_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 3626,
+    "height": 2719,
+    "source_page": "https://bauhaus-dessau.de/orte/meisterhaeuser/",
+    "image_url": "https://bauhaus-dessau.de/wp-content/uploads/2023/09/SBD_97372.jpg",
+    "caption": "Muche-Schlemmer House; 2024 Gracious Hosts installation. Photo Thomas Meyer / OSTKREUZ / Stiftung Bauhaus Dessau.",
+    "bytes": 696369,
+    "candidate": 26
+  },
+  {
+    "file": "Meisterhaus_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 3626,
+    "height": 2719,
+    "source_page": "https://bauhaus-dessau.de/orte/meisterhaeuser/",
+    "image_url": "https://bauhaus-dessau.de/wp-content/uploads/2023/09/SBD_97358.jpg",
+    "caption": "Muche-Schlemmer House; 2024 Gracious Hosts installation. Photo Thomas Meyer / OSTKREUZ / Stiftung Bauhaus Dessau.",
+    "bytes": 933224,
+    "candidate": 28
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "file": "Maison_Dartiste_Exterior_Model_01.jpg",
+    "view_type": "Exterior_Model",
+    "width": 1024,
+    "height": 1177,
+    "source_page": "https://www.lakenhal.nl/en/story/maison-d-artiste",
+    "image_url": "https://lh3.googleusercontent.com/5vJCrvpNO_C5RaWlABg3p05cq4GYrCi949jaz3QygJTuvG2S8s6uj4FSbK1UasizEXvzIHSXr1CH0FtrJ2ejHWap=s1177",
+    "caption": "  ",
+    "bytes": 316873,
+    "candidate": 1
+  },
+  {
+    "file": "Maison_Dartiste_Exterior_Model_02.jpg",
+    "view_type": "Exterior_Model",
+    "width": 1200,
+    "height": 743,
+    "source_page": "https://www.kunstmuseum.nl/nl/tentoonstellingen/100-jaar-van-doesburgs-maison-dartiste",
+    "image_url": "https://www.kunstmuseum.nl/sites/default/files/styles/1200x/public/images/_Z4A1995.jpg?itok=RrXQaKEI",
+    "caption": "  ",
+    "bytes": 102094,
+    "candidate": 3
+  },
+  {
+    "file": "Maison_Dartiste_Exterior_Model_03.jpg",
+    "view_type": "Exterior_Model",
+    "width": 529,
+    "height": 370,
+    "source_page": "https://www.kunstmuseum.nl/nl/tentoonstellingen/100-jaar-van-doesburgs-maison-dartiste",
+    "image_url": "https://www.kunstmuseum.nl/sites/default/files/styles/carousel_370y/public/images/_Z4A1985.jpg?itok=m39R_4xg",
+    "caption": "  ",
+    "bytes": 39249,
+    "candidate": 7
+  },
+  {
+    "file": "Maison_Dartiste_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 771,
+    "height": 882,
+    "source_page": "https://artunlimited.com.br/portfolio/mondrian-e-o-movimento-de-stijl/",
+    "image_url": "https://drive.google.com/file/d/1xEkU83jjWcFCxBG-DpEw5A72dDbyEbhK/view",
+    "caption": "Four original floor plans, 1923; Van Eesteren archive, Het Nieuwe Instituut. Extracted at native resolution from exhibition catalogue printed page 199, PDF page 100.",
+    "bytes": 42377,
+    "candidate": 0
+  },
+  {
+    "file": "Maison_Dartiste_Floor_Plan_02.gif",
+    "view_type": "Floor_Plan",
+    "width": 470,
+    "height": 231,
+    "source_page": "https://www.dbnl.org/tekst/_sti001stij03_01/_sti001stij03_01_0141.php",
+    "image_url": "https://www.dbnl.org/tekst/_sti001stij03_01/_sti001stij03_01ill192.gif",
+    "caption": "illustratie  ",
+    "bytes": 16014,
+    "candidate": 6
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "file": "Casa_en_Djerba_Exterior_Drawing_01.webp",
+    "view_type": "Exterior_Drawing",
+    "width": 1200,
+    "height": 800,
+    "source_page": "https://tecnne.com/arquitectura/machado-silvetti-casa-en-la-isla-de-djerba/",
+    "image_url": "https://tecnne.com/wp-content/uploads/2021/01/Casa-en-Djerba-Machado-Silvetti.webp",
+    "caption": "  ",
+    "bytes": 24686,
+    "candidate": 1
+  },
+  {
+    "file": "Casa_en_Djerba_Exterior_Drawing_02.jpg",
+    "view_type": "Exterior_Drawing",
+    "width": 820,
+    "height": 544,
+    "source_page": "https://tecnne.com/arquitectura/machado-silvetti-casa-en-la-isla-de-djerba/",
+    "image_url": "https://tecnne.com/wp-content/uploads/2021/01/Machado-Silvetti-casa-la-isla-de-Djerba-tecnne..jpg",
+    "caption": "Machado Silvetti, casa la isla de Djerba, tecnne  ",
+    "bytes": 69389,
+    "candidate": 4
+  },
+  {
+    "file": "Casa_en_Djerba_Exterior_Model_01.jpg",
+    "view_type": "Exterior_Model",
+    "width": 820,
+    "height": 512,
+    "source_page": "https://tecnne.com/arquitectura/machado-silvetti-casa-en-la-isla-de-djerba/",
+    "image_url": "https://tecnne.com/wp-content/uploads/2021/01/Machado-Silvetti-casa-la-isla-de-Djerba-tecnne....jpg",
+    "caption": "Machado Silvetti, casa la isla de Djerba, tecnne  ",
+    "bytes": 56557,
+    "candidate": 3
+  },
+  {
+    "file": "Casa_en_Djerba_Floor_Plan_01.png",
+    "view_type": "Floor_Plan",
+    "width": 709,
+    "height": 1598,
+    "source_page": "https://www.usmodernist.org/PA/PA-1978-01.pdf#page=91",
+    "image_url": "https://www.usmodernist.org/PA/PA-1978-01.pdf#page=91",
+    "caption": "Floor plan detail extracted from original-resolution archival magazine scan, including room legend.",
+    "bytes": 677820,
+    "candidate": 0
+  }
+]

@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "Srijit_Srinivas_Architects_Narrow_Brick_House_model_Group6_no_glass",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Narrow_Brick_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Srijit_Srinivas_Architects_Narrow_Brick_House_model_Group6_no_glass_0.binvox",
+      "sha256": "306f5b81f795dae6367815961f1821d25952a8bd45da761b2a0671bebd0cc456",
+      "bytes": 3553,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1617
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Narrow_Brick_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Srijit_Srinivas_Architects_Narrow_Brick_House_model_Group6_no_glass_120.binvox",
+      "sha256": "c52eb9948053840c4c95d21f18c2052c1bf4da0080f9c8b4efe6773dfa878e0f",
+      "bytes": 3647,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1624
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Narrow_Brick_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Srijit_Srinivas_Architects_Narrow_Brick_House_model_Group6_no_glass_150.binvox",
+      "sha256": "0f5a8891011e129a5b7c5a3694b56c34de0a7ecd27979952ed8445030e5a94f3",
+      "bytes": 3613,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1591
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Narrow_Brick_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Srijit_Srinivas_Architects_Narrow_Brick_House_model_Group6_no_glass_180.binvox",
+      "sha256": "1862b9722a47bc189fbf6e5bb7d699317e4f157d4cd11bd77782887fffd9a77a",
+      "bytes": 4055,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1581
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Narrow_Brick_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Srijit_Srinivas_Architects_Narrow_Brick_House_model_Group6_no_glass_210.binvox",
+      "sha256": "781353524c19b4af8586343304ae3abae509627f5920680e0719cb6b4cd1a1f3",
+      "bytes": 3663,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1635
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Narrow_Brick_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Srijit_Srinivas_Architects_Narrow_Brick_House_model_Group6_no_glass_240.binvox",
+      "sha256": "03cdaff677f5846661cfe917730bbe21dc3496e4f98f05b7b0e3837ebd0711d5",
+      "bytes": 4051,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1706
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Narrow_Brick_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Srijit_Srinivas_Architects_Narrow_Brick_House_model_Group6_no_glass_270.binvox",
+      "sha256": "7e14516e1a9f1cb8a758ec212fee1a5b0c9a9948d69e0e58744d3cdf011ebed0",
+      "bytes": 3641,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1388
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Narrow_Brick_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Srijit_Srinivas_Architects_Narrow_Brick_House_model_Group6_no_glass_30.binvox",
+      "sha256": "6415853638fa5c0aeda8ac162ee3d97f242dee2bee3783fc78e1a7086c203662",
+      "bytes": 3939,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1668
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Narrow_Brick_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Srijit_Srinivas_Architects_Narrow_Brick_House_model_Group6_no_glass_300.binvox",
+      "sha256": "f0d2e8c6e89b8a6fef4cc91395cc3c0845e8b7568127cdbf3d7e797aa8285d58",
+      "bytes": 4199,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1932
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Narrow_Brick_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Srijit_Srinivas_Architects_Narrow_Brick_House_model_Group6_no_glass_330.binvox",
+      "sha256": "535f9ad328334c8058d8d675dd52c89ca126329b05bc80d59d1f618f784b8607",
+      "bytes": 3767,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1383
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Narrow_Brick_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Srijit_Srinivas_Architects_Narrow_Brick_House_model_Group6_no_glass_60.binvox",
+      "sha256": "1380061fece7739a9fa30af7b2ccc8bd786179812c8be528a89a792f1fb539b0",
+      "bytes": 3771,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1462
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Narrow_Brick_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Srijit_Srinivas_Architects_Narrow_Brick_House_model_Group6_no_glass_90.binvox",
+      "sha256": "966a4a7b807565e2d880e97dde1e6c0b2e34710334acb872fb1b34daf27425e7",
+      "bytes": 3801,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1577
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Narrow_Brick_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/Srijit_Srinivas_Architects_Narrow_Brick_House_model_Group6_no_glass.binvox",
+      "sha256": "842248cd6e26ec71f614b1d4a452b8819125ecce341a71ad71c35c441f432ddf",
+      "bytes": 3171,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1231
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Narrow_Brick_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/Srijit_Srinivas_Architects_Narrow_Brick_House_model_Group6_no_glass.binvox",
+      "sha256": "f6b24185c5dd5b3dc7c4f3ebe5e7e96cc7d1f6e64fc5ce4a46ce06f305095503",
+      "bytes": 21166,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5497
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Narrow_Brick_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/Srijit_Srinivas_Architects_Narrow_Brick_House_model_Group6_no_glass.binvox",
+      "sha256": "700b4f98c43b762a47687ce725715dc94a1a31f57690ac69dbc3a5beb7f05c1e",
+      "bytes": 149856,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 26815
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Narrow_Brick_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/Srijit_Srinivas_Architects_Narrow_Brick_House_model_Group6_no_glass.binvox",
+      "sha256": "5317e8324241c6199e0d7f9450fa25b5a44688c0904b9adcdb119e93a2509635",
+      "bytes": 1134332,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 122263
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Narrow_Brick_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/Srijit_Srinivas_Architects_Narrow_Brick_House_model_Group6_no_glass.binvox",
+    "resolution": 128,
+    "triangles": 692,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "de210f8d200fe28f258ad42649db080bf7d3f237464e05068e83484e3f60cb05"
+  }
+}

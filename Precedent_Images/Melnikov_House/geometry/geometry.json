@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "Melnikov_Melnikovhouse_Master3D_Ganders_JanTjado",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Melnikov_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Melnikov_Melnikovhouse_Master3D_Ganders_JanTjado_0.binvox",
+      "sha256": "6b79c59291dc48864e8558975c0b23789468691787fd5c92799888347a28083a",
+      "bytes": 7717,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6037
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Melnikov_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Melnikov_Melnikovhouse_Master3D_Ganders_JanTjado_120.binvox",
+      "sha256": "27851e2ae0a89f35824967040be5c27a1f08b3eafe524fc358de3b0420f419e5",
+      "bytes": 7401,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6213
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Melnikov_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Melnikov_Melnikovhouse_Master3D_Ganders_JanTjado_150.binvox",
+      "sha256": "3a5fbe5642d01861a3af4ad4d855928a0b99c447e4b0ff3aba7bccf15696d8ae",
+      "bytes": 7061,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5888
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Melnikov_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Melnikov_Melnikovhouse_Master3D_Ganders_JanTjado_180.binvox",
+      "sha256": "15fdb7e18d554a6afd792e17d0fb1a7d7cd970f6d4cab81c345696497f41c78d",
+      "bytes": 7133,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6286
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Melnikov_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Melnikov_Melnikovhouse_Master3D_Ganders_JanTjado_210.binvox",
+      "sha256": "4a13786d623f1699dd394f98d8c074a3cc4c7eb586a1798cf534eb75bb3a6d19",
+      "bytes": 7271,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5894
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Melnikov_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Melnikov_Melnikovhouse_Master3D_Ganders_JanTjado_240.binvox",
+      "sha256": "ab848da1302b0977fa148759061373a83a7da3ff5e1816a140cfa8995a7e395c",
+      "bytes": 7037,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5894
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Melnikov_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Melnikov_Melnikovhouse_Master3D_Ganders_JanTjado_270.binvox",
+      "sha256": "d779cdecab94c4cf72dcb1bc18bb44c4fac738825522fda646bdd9ba121055cd",
+      "bytes": 7423,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6017
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Melnikov_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Melnikov_Melnikovhouse_Master3D_Ganders_JanTjado_30.binvox",
+      "sha256": "b51e8f686ebeef2eef39f089c3c7be7b30a8ed2f266584dbd3f33cecbcf8ca3c",
+      "bytes": 6767,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5570
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Melnikov_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Melnikov_Melnikovhouse_Master3D_Ganders_JanTjado_300.binvox",
+      "sha256": "2f0121fd85651e63190191d8dd414073a3a01d79f7f586f5ab3b5448d0de1da3",
+      "bytes": 7173,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5710
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Melnikov_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Melnikov_Melnikovhouse_Master3D_Ganders_JanTjado_330.binvox",
+      "sha256": "acf0321af5461fc63d5abb32d9e30455857a5a4dc8253621eb50ad00b8bf7cbe",
+      "bytes": 7481,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5947
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Melnikov_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Melnikov_Melnikovhouse_Master3D_Ganders_JanTjado_60.binvox",
+      "sha256": "cee13493e30500379ab99deb9d5611b21d729fb77d00ee6b136e1888f1c9bf75",
+      "bytes": 7681,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6126
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Melnikov_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Melnikov_Melnikovhouse_Master3D_Ganders_JanTjado_90.binvox",
+      "sha256": "ef81a7be1da207e3be8cc4ff4581a7eefa5980e2144ee4c0ff877b7255eac7b8",
+      "bytes": 6721,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5674
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Melnikov_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/Melnikov_Melnikovhouse_Master3D_Ganders_JanTjado.binvox",
+      "sha256": "13e504a850d681095a215066ac94602a8a2f13d0437b2b8bb7e696849c54ccca",
+      "bytes": 5807,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4689
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Melnikov_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/Melnikov_Melnikovhouse_Master3D_Ganders_JanTjado.binvox",
+      "sha256": "9d559cefec3c9486550d868196e0d304f689c4dd4e89b9cd8480649e65918db4",
+      "bytes": 34264,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 25445
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Melnikov_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/Melnikov_Melnikovhouse_Master3D_Ganders_JanTjado.binvox",
+      "sha256": "2b7e8cf900bf5dc12f0da99c78b9beb18b32c855d5b19c274b04708c45193ea8",
+      "bytes": 283112,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 113987
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Melnikov_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/Melnikov_Melnikovhouse_Master3D_Ganders_JanTjado.binvox",
+      "sha256": "f8a063ab99d9b78f0a433f17e066ca9f61185332bb8a350d000f39f617a42ed5",
+      "bytes": 1708042,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 478165
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Melnikov_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/Melnikov_Melnikovhouse_Master3D_Ganders_JanTjado.binvox",
+    "resolution": 128,
+    "triangles": 7136,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "9bff3b738659c80b3cca3e376c06720cec0cd73969754b03a6f1d110790fc29e"
+  }
+}

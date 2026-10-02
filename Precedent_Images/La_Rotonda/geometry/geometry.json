@@ -1,0 +1,220 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "AndreaPalladio_LaRotonda_Master3D_Hatches_Ferstl_Hanna",
+  "default": "aug_000_64",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/La_Rotonda_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_LaRotonda_Master3D_Hatches_Ferstl_Hanna_0.binvox",
+      "sha256": "2650a931eeea63fb970006ea890cb09b306a666ae194ab22d02194ad1f598d55",
+      "bytes": 20087,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 13079
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/La_Rotonda_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_LaRotonda_Master3D_Hatches_Ferstl_Hanna_120.binvox",
+      "sha256": "3a215c93c1773ef62b91983bc53876035fe99824e79f39bb60065e6dfc09415c",
+      "bytes": 19107,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 13012
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/La_Rotonda_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_LaRotonda_Master3D_Hatches_Ferstl_Hanna_150.binvox",
+      "sha256": "686b71478ba7a83fd6175bc08822cfb2cd0ebd235e87a8f95571d46b6d99eb20",
+      "bytes": 18541,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 12423
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/La_Rotonda_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_LaRotonda_Master3D_Hatches_Ferstl_Hanna_180.binvox",
+      "sha256": "d142322869f7c976805e74815a64b4aa5b5ae3f6302a0092f1f1af6905696684",
+      "bytes": 19149,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 12954
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/La_Rotonda_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_LaRotonda_Master3D_Hatches_Ferstl_Hanna_210.binvox",
+      "sha256": "db390dd8f9b83b90ce45c088a74187d9f0d91e2603f03d31e5974e714759bf66",
+      "bytes": 18547,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 13339
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/La_Rotonda_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_LaRotonda_Master3D_Hatches_Ferstl_Hanna_240.binvox",
+      "sha256": "815726922bcc18750252ba60fbb9ab30b168b42e0a23c677f97fac7f392a096f",
+      "bytes": 19655,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 13438
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/La_Rotonda_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_LaRotonda_Master3D_Hatches_Ferstl_Hanna_270.binvox",
+      "sha256": "e0b0c03dd54dc4545d06effa743f1f8b3a7ac58578ac591d61a64434d6073fda",
+      "bytes": 19467,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 12264
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/La_Rotonda_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_LaRotonda_Master3D_Hatches_Ferstl_Hanna_30.binvox",
+      "sha256": "686dd439b073f53528c1f94c1546f0b375814f920d337a5ebb681822ccfcf999",
+      "bytes": 18827,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 13149
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/La_Rotonda_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_LaRotonda_Master3D_Hatches_Ferstl_Hanna_300.binvox",
+      "sha256": "ce81e9555c98f17d43528ba2c20b622e9904b873ed9c1c807103289506b0cc11",
+      "bytes": 20263,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 13650
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/La_Rotonda_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_LaRotonda_Master3D_Hatches_Ferstl_Hanna_330.binvox",
+      "sha256": "93ebb7eab996b4a7757a346d4cf17df097fdf28c4f04c90ec8894279e1d2c813",
+      "bytes": 19697,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 12661
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/La_Rotonda_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_LaRotonda_Master3D_Hatches_Ferstl_Hanna_60.binvox",
+      "sha256": "a3f9c81caf941de83ce703e37f6e4c302fbe1494528f1c420a80eb9358325206",
+      "bytes": 19575,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 12999
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/La_Rotonda_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_LaRotonda_Master3D_Hatches_Ferstl_Hanna_90.binvox",
+      "sha256": "4deaf02c6754ea091b1e1a979ee075ce8c6abd8636862e198205eb209d15ef2e",
+      "bytes": 18737,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 13181
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/La_Rotonda_aug_000_64_Voxel_Surface.obj",
+    "source_key": "aug_000_64",
+    "source_archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_LaRotonda_Master3D_Hatches_Ferstl_Hanna_0.binvox",
+    "resolution": 64,
+    "triangles": 3526,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "31eec7db6f55bf19da296f89d65d99e65d07e0c297c60c56481b6cb03f5597c5"
+  }
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "file": "Bailey_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1024,
+    "height": 683,
+    "source_page": "https://www.architecturelab.net/case-study-house-21-bailey-house-pierre-koenig",
+    "image_url": "https://www.architecturelab.net/wp-content/uploads/2025/06/bailey-house-case-study-house-21-pierre-koenig-3.jpg",
+    "caption": "Case study house #21 (bailey house) / pierre koenig | classics on architecture lab Case Study House #21 ",
+    "bytes": 155799,
+    "candidate": 52
+  },
+  {
+    "file": "Bailey_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1545,
+    "height": 1000,
+    "source_page": "https://www.architecturelab.net/case-study-house-21-bailey-house-pierre-koenig",
+    "image_url": "https://www.architecturelab.net/wp-content/uploads/2025/06/bailey-house-case-study-house-21-pierre-koenig-20.jpg",
+    "caption": "Case study house #21 (bailey house) / pierre koenig | classics on architecture lab Bailey-House-Case-Study-House-21-Pierre-Koenig-20 ",
+    "bytes": 230265,
+    "candidate": 53
+  },
+  {
+    "file": "Bailey_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1545,
+    "height": 1000,
+    "source_page": "https://www.architecturelab.net/case-study-house-21-bailey-house-pierre-koenig",
+    "image_url": "https://www.architecturelab.net/wp-content/uploads/2025/06/bailey-house-case-study-house-21-pierre-koenig-12.jpg",
+    "caption": "Case study house #21 (bailey house) / pierre koenig | classics on architecture lab Bailey-House-Case-Study-House-21-Pierre-Koenig-12 ",
+    "bytes": 182392,
+    "candidate": 63
+  },
+  {
+    "file": "Bailey_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 851,
+    "height": 1000,
+    "source_page": "https://www.architecturelab.net/case-study-house-21-bailey-house-pierre-koenig",
+    "image_url": "https://www.architecturelab.net/wp-content/uploads/2025/06/bailey-house-case-study-house-21-pierre-koenig-31.jpg",
+    "caption": "  ",
+    "bytes": 108026,
+    "candidate": 59
+  },
+  {
+    "file": "Bailey_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1545,
+    "height": 1000,
+    "source_page": "https://www.architecturelab.net/case-study-house-21-bailey-house-pierre-koenig",
+    "image_url": "https://www.architecturelab.net/wp-content/uploads/2025/06/bailey-house-case-study-house-21-pierre-koenig-22.jpg",
+    "caption": "  ",
+    "bytes": 237296,
+    "candidate": 61
+  }
+]

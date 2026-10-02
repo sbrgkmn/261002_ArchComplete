@@ -1,0 +1,46 @@
+[
+  {
+    "file": "Moore_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1200,
+    "height": 674,
+    "source_page": "https://archeyes.com/moore-house-orinda/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2020/02/charles-moore-house-orinda-exterior.jpg?fit=1200%2C674&ssl=1",
+    "caption": "  ",
+    "bytes": 221466,
+    "candidate": 1
+  },
+  {
+    "file": "Moore_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 850,
+    "height": 760,
+    "source_page": "https://archeyes.com/moore-house-orinda/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2020/02/charles-moore-house-orinda-exterior-2.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 146996,
+    "candidate": 2
+  },
+  {
+    "file": "Moore_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1000,
+    "height": 891,
+    "source_page": "https://archeyes.com/moore-house-orinda/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2020/02/charles-moore-house-orinda-floor-plan.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 64501,
+    "candidate": 7
+  },
+  {
+    "file": "Moore_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 850,
+    "height": 684,
+    "source_page": "https://archeyes.com/moore-house-orinda/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2020/02/charles-moore-house-orinda-interior.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 109594,
+    "candidate": 3
+  }
+]

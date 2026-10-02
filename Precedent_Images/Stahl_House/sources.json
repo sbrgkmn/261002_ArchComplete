@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Stahl_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1024,
+    "height": 509,
+    "source_page": "https://www.archdaily.com/83038/ad-classics-stahl-house-pierre-koenig",
+    "image_url": "https://images.adsttc.com/media/images/5037/e581/28ba/0d59/9b00/0308/large_jpg/stringio.jpg?1414231087",
+    "caption": "  ",
+    "bytes": 151692,
+    "candidate": 1
+  },
+  {
+    "file": "Stahl_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1024,
+    "height": 768,
+    "source_page": "https://www.archdaily.com/83038/ad-classics-stahl-house-pierre-koenig",
+    "image_url": "https://images.adsttc.com/media/images/5037/e58e/28ba/0d59/9b00/030b/large_jpg/stringio.jpg?1414231095",
+    "caption": "AD Classics: Stahl House / Pierre Koenig - Image 4 of 14  https://www.archdaily.com/83038/ad-classics-stahl-house-pierre-koenig/5037e58e28ba0d599b00030b-ad-classics-stahl-house-pierre-koenig-image",
+    "bytes": 194678,
+    "candidate": 4
+  },
+  {
+    "file": "Stahl_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 800,
+    "height": 535,
+    "source_page": "https://www.archdaily.com/83038/ad-classics-stahl-house-pierre-koenig",
+    "image_url": "https://images.adsttc.com/media/images/5037/e565/28ba/0d59/9b00/0301/large_jpg/stringio.jpg?1414231108",
+    "caption": "  ",
+    "bytes": 126600,
+    "candidate": 9
+  },
+  {
+    "file": "Stahl_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 472,
+    "height": 445,
+    "source_page": "https://www.archdaily.com/83038/ad-classics-stahl-house-pierre-koenig",
+    "image_url": "https://images.adsttc.com/media/images/5037/e568/28ba/0d59/9b00/0302/large_jpg/stringio.jpg?1414231120",
+    "caption": "  ",
+    "bytes": 43906,
+    "candidate": 14
+  },
+  {
+    "file": "Stahl_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1024,
+    "height": 768,
+    "source_page": "https://www.archdaily.com/83038/ad-classics-stahl-house-pierre-koenig",
+    "image_url": "https://images.adsttc.com/media/images/5037/e589/28ba/0d59/9b00/030a/large_jpg/stringio.jpg?1414231100",
+    "caption": "  ",
+    "bytes": 250753,
+    "candidate": 6
+  },
+  {
+    "file": "Stahl_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 800,
+    "height": 535,
+    "source_page": "https://www.archdaily.com/83038/ad-classics-stahl-house-pierre-koenig",
+    "image_url": "https://images.adsttc.com/media/images/5037/e576/28ba/0d59/9b00/0305/large_jpg/stringio.jpg?1414231110",
+    "caption": "  ",
+    "bytes": 126027,
+    "candidate": 10
+  }
+]

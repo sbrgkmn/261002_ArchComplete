@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Radius_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1500,
+    "height": 1347,
+    "source_page": "https://www.archdaily.com/977870/radius-house-pentagon",
+    "image_url": "https://images.adsttc.com/media/images/6220/d9ec/4817/6b01/6459/baa4/large_jpg/staud6.jpg?1646320116",
+    "caption": "  ",
+    "bytes": 1825525,
+    "candidate": 1
+  },
+  {
+    "file": "Radius_House_Exterior_02.tif",
+    "view_type": "Exterior",
+    "width": 6336,
+    "height": 7925,
+    "source_page": "https://www.archdaily.com/977870/radius-house-pentagon",
+    "image_url": "https://images.adsttc.com/media/images/6220/da18/7fe1/8d01/65ed/d9bc/original/staud-220111-0219.jpg?1646320277",
+    "caption": "Radius House / Pentagon - Image 5 of 18 © Eric Staudenmaier Photography https://www.archdaily.com/977870/radius-house-pentagon/6220da187fe18d0165edd9bc-radius-house-pentagon-photo",
+    "bytes": 95445134,
+    "candidate": 5
+  },
+  {
+    "file": "Radius_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 3600,
+    "height": 2331,
+    "source_page": "https://www.archdaily.com/977870/radius-house-pentagon",
+    "image_url": "https://images.adsttc.com/media/images/6220/d9c1/7fe1/8d01/65ed/d9b4/original/220225-radius-house-fp1.jpg?1646320092",
+    "caption": "  ",
+    "bytes": 657248,
+    "candidate": 13
+  },
+  {
+    "file": "Radius_House_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 3600,
+    "height": 2330,
+    "source_page": "https://www.archdaily.com/977870/radius-house-pentagon",
+    "image_url": "https://images.adsttc.com/media/images/6220/d9c1/7fe1/8d01/65ed/d9b5/original/220225-radius-house-fp2.jpg?1646320120",
+    "caption": "  ",
+    "bytes": 288919,
+    "candidate": 14
+  },
+  {
+    "file": "Radius_House_Interior_01.tif",
+    "view_type": "Interior",
+    "width": 5875,
+    "height": 6659,
+    "source_page": "https://www.archdaily.com/977870/radius-house-pentagon",
+    "image_url": "https://images.adsttc.com/media/images/6220/da0e/4817/6b01/6459/baa5/original/staud-220111-0046.jpg?1646320242",
+    "caption": "Radius House / Pentagon - Image 2 of 18 © Eric Staudenmaier Photography https://www.archdaily.com/977870/radius-house-pentagon/6220da0e48176b016459baa5-radius-house-pentagon-photo",
+    "bytes": 68857456,
+    "candidate": 2
+  },
+  {
+    "file": "Radius_House_Interior_02.tif",
+    "view_type": "Interior",
+    "width": 5768,
+    "height": 5660,
+    "source_page": "https://www.archdaily.com/977870/radius-house-pentagon",
+    "image_url": "https://images.adsttc.com/media/images/6220/da0e/4817/6b01/6459/baa6/original/staud-220111-0136.jpg?1646320223",
+    "caption": "Radius House / Pentagon - Image 4 of 18 © Eric Staudenmaier Photography https://www.archdaily.com/977870/radius-house-pentagon/6220da0e48176b016459baa6-radius-house-pentagon-photo",
+    "bytes": 62458234,
+    "candidate": 4
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "file": "Maison_a_Bordeaux_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 1322,
+    "source_page": "https://www.archdaily.com/104724/ad-classics-maison-bordeaux-oma",
+    "image_url": "https://images.adsttc.com/media/images/5037/fb3c/28ba/0d59/9b00/0773/large_jpg/stringio.jpg?1414206743",
+    "caption": "  ",
+    "bytes": 1053798,
+    "candidate": 1
+  },
+  {
+    "file": "Maison_a_Bordeaux_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 1332,
+    "source_page": "https://www.archdaily.com/104724/ad-classics-maison-bordeaux-oma",
+    "image_url": "https://images.adsttc.com/media/images/5037/fb4b/28ba/0d59/9b00/0774/large_jpg/stringio.jpg?1414206749",
+    "caption": "AD Classics: Maison Bordeaux / OMA - Image 2 of 7 © Hans Werlemann, courtesy OMA https://www.archdaily.com/104724/ad-classics-maison-bordeaux-oma/5037fb4b28ba0d599b000774-ad-classics-maison-bordeaux-oma-photo",
+    "bytes": 679603,
+    "candidate": 2
+  },
+  {
+    "file": "Maison_a_Bordeaux_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 1968,
+    "source_page": "https://www.archdaily.com/104724/ad-classics-maison-bordeaux-oma",
+    "image_url": "https://images.adsttc.com/media/images/5037/fafb/28ba/0d59/9b00/0770/large_jpg/stringio.jpg?1414206763",
+    "caption": "AD Classics: Maison Bordeaux / OMA - Image 4 of 7 © Hans Werlemann, courtesy OMA https://www.archdaily.com/104724/ad-classics-maison-bordeaux-oma/5037fafb28ba0d599b000770-ad-classics-maison-bordeaux-oma-photo",
+    "bytes": 1022883,
+    "candidate": 4
+  },
+  {
+    "file": "Maison_a_Bordeaux_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 2200,
+    "height": 3000,
+    "source_page": "https://divisare.com/projects/302583-oma-office-of-metropolitan-architecture-maison-a-bordeaux",
+    "image_url": "https://images.divisare.com//images/f_auto,q_auto,w_auto/v1446826161/a2frp5ne6lp6vmmiwjng/oma-maison-a-bordeaux.jpg",
+    "caption": "OMA  · Maison à Bordeaux  ",
+    "bytes": 629651,
+    "candidate": 21
+  },
+  {
+    "file": "Maison_a_Bordeaux_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 2146,
+    "height": 3234,
+    "source_page": "https://divisare.com/projects/302583-oma-office-of-metropolitan-architecture-maison-a-bordeaux",
+    "image_url": "https://images.divisare.com//images/f_auto,q_auto,w_auto/v1446825488/mm6rctrobryvjky2drx1/oma-maison-a-bordeaux.jpg",
+    "caption": "OMA  · Maison à Bordeaux  ",
+    "bytes": 1201544,
+    "candidate": 23
+  },
+  {
+    "file": "Maison_a_Bordeaux_Floor_Plan_03.jpg",
+    "view_type": "Floor_Plan",
+    "width": 2134,
+    "height": 3228,
+    "source_page": "https://divisare.com/projects/302583-oma-office-of-metropolitan-architecture-maison-a-bordeaux",
+    "image_url": "https://images.divisare.com//images/f_auto,q_auto,w_auto/v1446825465/sl89lveyjccfeusdfsmr/oma-maison-a-bordeaux.jpg",
+    "caption": "OMA  · Maison à Bordeaux  ",
+    "bytes": 1100242,
+    "candidate": 25
+  },
+  {
+    "file": "Maison_a_Bordeaux_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 2000,
+    "height": 1358,
+    "source_page": "https://www.archdaily.com/104724/ad-classics-maison-bordeaux-oma",
+    "image_url": "https://images.adsttc.com/media/images/5037/fb26/28ba/0d59/9b00/0772/large_jpg/stringio.jpg?1414206756",
+    "caption": "AD Classics: Maison Bordeaux / OMA - Image 3 of 7 © Hans Werlemann, courtesy OMA https://www.archdaily.com/104724/ad-classics-maison-bordeaux-oma/5037fb2628ba0d599b000772-ad-classics-maison-bordeaux-oma-photo",
+    "bytes": 671994,
+    "candidate": 3
+  },
+  {
+    "file": "Maison_a_Bordeaux_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 2000,
+    "height": 1952,
+    "source_page": "https://www.archdaily.com/104724/ad-classics-maison-bordeaux-oma",
+    "image_url": "https://images.adsttc.com/media/images/5037/fb10/28ba/0d59/9b00/0771/large_jpg/stringio.jpg?1414206769",
+    "caption": "AD Classics: Maison Bordeaux / OMA - Image 5 of 7 © Hans Werlemann, courtesy OMA https://www.archdaily.com/104724/ad-classics-maison-bordeaux-oma/5037fb1028ba0d599b000771-ad-classics-maison-bordeaux-oma-photo",
+    "bytes": 965562,
+    "candidate": 5
+  }
+]

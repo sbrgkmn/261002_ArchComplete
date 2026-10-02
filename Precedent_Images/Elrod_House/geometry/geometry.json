@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "JohnLautner_ElrodHouse_Master3D_Zeller_Nathalie",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Elrod_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_ElrodHouse_Master3D_Zeller_Nathalie_0.binvox",
+      "sha256": "380951d1c880019e85d5b31d630014cffd5559b7068abe9cf1a31a3b956b6dc8",
+      "bytes": 16339,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9077
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Elrod_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_ElrodHouse_Master3D_Zeller_Nathalie_120.binvox",
+      "sha256": "63a78befff3f9562ce9fcf01d00d93e250569eb700f27c1092d28fa13bd2d464",
+      "bytes": 16613,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9512
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Elrod_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_ElrodHouse_Master3D_Zeller_Nathalie_150.binvox",
+      "sha256": "8b8c24fdaef2124f989f4d764aa55c7f0ba9fa411282856714bd2324aa26836f",
+      "bytes": 16879,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9645
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Elrod_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_ElrodHouse_Master3D_Zeller_Nathalie_180.binvox",
+      "sha256": "50901a6a1d408d5acca9565a65f1048be55457461a878380c987dc0eed6ec59a",
+      "bytes": 17213,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9900
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Elrod_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_ElrodHouse_Master3D_Zeller_Nathalie_210.binvox",
+      "sha256": "9e7fd1272445b95671a3ee80211f115e8795b54f5d78f02401b4230adbb6e36b",
+      "bytes": 16437,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9267
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Elrod_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_ElrodHouse_Master3D_Zeller_Nathalie_240.binvox",
+      "sha256": "8fc966e7a5c99ab27e269748ccb8726467066477cd97f23932561191eb839d7a",
+      "bytes": 17321,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9835
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Elrod_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_ElrodHouse_Master3D_Zeller_Nathalie_270.binvox",
+      "sha256": "2cdf1a4c04d8be71fdcd03740947dbacefe0f27cad70160dc31aacd426f4cd50",
+      "bytes": 16031,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9176
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Elrod_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_ElrodHouse_Master3D_Zeller_Nathalie_30.binvox",
+      "sha256": "f83743ed5d93df654588c146af350441cbf0d4a5edbab738d74f8743d44c8d79",
+      "bytes": 17311,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9620
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Elrod_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_ElrodHouse_Master3D_Zeller_Nathalie_300.binvox",
+      "sha256": "64cfb2077dc67fde10602e36804209dd7f21d7c5981dd761561b14ab7b64632b",
+      "bytes": 18049,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9970
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Elrod_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_ElrodHouse_Master3D_Zeller_Nathalie_330.binvox",
+      "sha256": "b32e955e5046c7b322bd6254760fd11d70c4ce28315644914f15bd944b49c26e",
+      "bytes": 16511,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9294
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Elrod_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_ElrodHouse_Master3D_Zeller_Nathalie_60.binvox",
+      "sha256": "399c160532af2c9a754035149e2354d425532fca6ccc2326fb4b2d1fa702c7d6",
+      "bytes": 16653,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9438
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Elrod_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_ElrodHouse_Master3D_Zeller_Nathalie_90.binvox",
+      "sha256": "914df3b073a64ec6f36c36c81ff14e650977fa924d42282ae328adaea8d02422",
+      "bytes": 17363,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 10318
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Elrod_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/JohnLautner_ElrodHouse_Master3D_Zeller_Nathalie.binvox",
+      "sha256": "be26ccfdad624db396c4a275efecbb68ba54236bafe54773ea51b2173df252a0",
+      "bytes": 14941,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8628
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Elrod_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/JohnLautner_ElrodHouse_Master3D_Zeller_Nathalie.binvox",
+      "sha256": "8e1281a0ee654b7490a623680d9d052ca9bfdc933fb410455c037c69c459ba66",
+      "bytes": 72050,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 41683
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Elrod_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/JohnLautner_ElrodHouse_Master3D_Zeller_Nathalie.binvox",
+      "sha256": "51613d1fb558756fa49fa65e06f7e6e763bf513aa7599cd0193fb3300c8fe58d",
+      "bytes": 386738,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 194781
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Elrod_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/JohnLautner_ElrodHouse_Master3D_Zeller_Nathalie.binvox",
+      "sha256": "2a08f9ea0332e988a8963a43d793ff8560dc6414090ae74e18fd2f824d485727",
+      "bytes": 2413724,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 825048
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Elrod_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/JohnLautner_ElrodHouse_Master3D_Zeller_Nathalie.binvox",
+    "resolution": 128,
+    "triangles": 25080,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "7d5c6dd4702362f40a643795ae751bfa1a4bc8f64e183967b16d86586b1da8d5"
+  }
+}

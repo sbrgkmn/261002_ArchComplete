@@ -1,0 +1,68 @@
+[
+  {
+    "file": "The_Miller_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 1500,
+    "source_page": "https://archeyes.com/the-miller-house-by-eero-saarinen-a-mid-century-modern-masterpiece/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2024/02/The-Miller-House-by-Eero-Saarinen-A-Mid-Century-Modern-home-Paula-Morrison.jpg?fit=2000%2C1500&ssl=1",
+    "caption": "  ",
+    "bytes": 1098528,
+    "candidate": 1
+  },
+  {
+    "file": "The_Miller_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 1333,
+    "source_page": "https://archeyes.com/the-miller-house-by-eero-saarinen-a-mid-century-modern-masterpiece/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2024/02/mattgilb13-The-Miller-House-by-Eero-Saarinen-A-Mid-Century-Modern-home-2.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 657550,
+    "candidate": 5
+  },
+  {
+    "file": "The_Miller_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 962,
+    "source_page": "https://archeyes.com/the-miller-house-by-eero-saarinen-a-mid-century-modern-masterpiece/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2024/02/Michael-Dant-The-Miller-House-by-Eero-Saarinen-A-Mid-Century-Modern-home-4.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 753604,
+    "candidate": 8
+  },
+  {
+    "file": "The_Miller_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1400,
+    "height": 1200,
+    "source_page": "https://archeyes.com/the-miller-house-by-eero-saarinen-a-mid-century-modern-masterpiece/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2024/02/The-Miller-House-by-Eero-Saarinen-A-Mid-Century-Modern-home-Floor-plan.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 240187,
+    "candidate": 14
+  },
+  {
+    "file": "The_Miller_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 2000,
+    "height": 1561,
+    "source_page": "https://archeyes.com/the-miller-house-by-eero-saarinen-a-mid-century-modern-masterpiece/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2024/02/The-Miller-House-by-Eero-Saarinen-A-Mid-Century-Modern-home-ModArchitecture.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 472362,
+    "candidate": 11
+  },
+  {
+    "file": "The_Miller_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 1900,
+    "height": 987,
+    "source_page": "https://archeyes.com/the-miller-house-by-eero-saarinen-a-mid-century-modern-masterpiece/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2024/02/James-Vaughan-The-Miller-House-by-Eero-Saarinen-A-Mid-Century-Modern-home-.jpg",
+    "caption": "James Vaughan The Miller House by Eero Saarinen A Mid Century Modern home  ",
+    "bytes": 336876,
+    "candidate": 22
+  }
+]

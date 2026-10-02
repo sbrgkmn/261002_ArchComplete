@@ -1,0 +1,688 @@
+[
+  {
+    "name": "128 House",
+    "id": "Herzog_de_Meuron_128_House_3Dmodel_Raphael_Pertl",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Alhamra Villa",
+    "id": "AtelierKoe_AlhamraVilla_Master3D_Group2",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Antivilla",
+    "id": "ArnoBrandlhuber_Antivilla_Master3D_Group1",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Bahia Azul House",
+    "id": "CeciliaPuga_BahiaAzulHouse_model_TimCarl",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Bailey House",
+    "id": "PierreKoenig_BaileyHouse_Master3D_Group3",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Boomer Residence",
+    "id": "FrankLloydWright_BoomerResidence_Master3D_Wasle_Alexander",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Brant House",
+    "id": "robertventuri_branthouse_model_BartlomiejGralek_new_no_glass",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Brick Vault House",
+    "id": "SpacePopular_BRICK_VAULT_HOUSE_Master3D_Thomas_Eder",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Care House of the Wind Chinmey",
+    "id": "HiroshiNakamura_NAP_CareHouseOfTheWindChinmey_Master3D_Group11",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Casa das Canoas",
+    "id": "OscarNiemeyer_CasaDasCanoas_Master3D_Group1",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Casa en Djerba",
+    "id": "Machado_Casaendjerba_model_GroupNumber",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Casa Luís Barragan",
+    "id": "LuísBarragan_CasaLuísBarragan_model_Group5_no_glass",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Chiswick House",
+    "id": "RichardBoyle_ChiswickHouse_Master3D_Prem_Carina",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Container House",
+    "id": "Mans_Tham_containerhouse_model_group11_no_glass",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Cornered House",
+    "id": "PrestonScott__CorneredHouse_Master3D_Pegger_Justus",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Double House",
+    "id": "Mvrdv_Double_House_Jakob_Valis",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Eames House",
+    "id": "Charles_RayEames_eameshouse_Master3D_markar_annegret",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Elrod House",
+    "id": "JohnLautner_ElrodHouse_Master3D_Zeller_Nathalie",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Ennis House",
+    "id": "FrankLloydWright_EnnisHouse_Master3D_Meier_Lynn",
+    "original": false,
+    "augmented": 12,
+    "availability": "Augmented only"
+  },
+  {
+    "name": "Ex-Of-In House",
+    "id": "StevenHollArchitects_Ex-Of-In-House_Master3D_Mayerhoffer_Carola",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Fallingwater",
+    "id": "FrankLloydWright_FallingWater_Master3D_Group1",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Farnsworth House",
+    "id": "LudwigMiesvanderRohe_FarnsworthHouse_Master3D_Ripp_Florence",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Fisher Building",
+    "id": "LouisKhan_FisherBuilding_Master3D_Rajkovic_Vladimir",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Garden House",
+    "id": "ContainerDesign_gardenhouse_model_group01_no_glass",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Giovannitti House",
+    "id": "richardmeier_giovannittihouse_Master3D_tollinger_katharina",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Glass House (Lina Bo Bardi)",
+    "id": "LinaBoBardi_GlassHouse_Master3D_Group3",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Glass House (Philip Johnson)",
+    "id": "PhilipJohnson_GlassHouse_GamonSamuel",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Goldstein Residence",
+    "id": "JohnLautner_GoldsteinResidence_Master3D_Wöhrle_Emily",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Gropius House",
+    "id": "WalterGropius_GropiusHouse_Master3D_Group08",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Hare House",
+    "id": "TomWiscombe_HareHouse_Master3D_Group11",
+    "original": true,
+    "augmented": 0,
+    "availability": "Original only"
+  },
+  {
+    "name": "Haus Schröder",
+    "id": "GerritRietveld_HausSchröder_Master3D_Blanc-Massit_Larissa",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Herning School Center",
+    "id": "JørnUtzon_HerningSchoolCenter_Master3D_Fornwagner_Samuel",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "House at Mols Hills",
+    "id": "LenschowPihlmann_HouseAtMolsHills_Master3D_Plattner_Stefanie",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "House for a Young Couple in Tokyo",
+    "id": "YunijiaIshigami_House_for_a_young_couple_in_Tokyo_3dmodel_van_Koll_Marvin",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "House II",
+    "id": "PeterEisenman_HouseII_model_SebastianTaudes_no_glass",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "House N",
+    "id": "Fujimoto_HouseN_Master3D_Graetzer_Anna",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "House N10",
+    "id": "MOS_Architects_House_N10_Harun_Özmen",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "House NA",
+    "id": "SaoFuijmoto_HouseNA_Master3D_Group10",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "House of Concrete Experiments",
+    "id": "SamiraRathod_House-of-Concrete-Experiments_model_group2_no_glass",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "House VI",
+    "id": "Peter_Eisenman_House_VI_Master_3D_Dogan_Gamze",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "House with One Wall",
+    "id": "ChristianKerez_housewithonewall_model_MichaelKofler",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Jacob House",
+    "id": "FrankLloydWright_JacobHouse_Master3D_Salzer_Moritz",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Juul House",
+    "id": "NKSarchitects_juulhouse_Master3D_Group07",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "La Rotonda",
+    "id": "AndreaPalladio_LaRotonda_Master3D_Hatches_Ferstl_Hanna",
+    "original": false,
+    "augmented": 12,
+    "availability": "Augmented only"
+  },
+  {
+    "name": "Leo Henriksen House",
+    "id": "ArneJacobsen_LeoHenriksenHouse_Master3D_LeopoldPretzel",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Lotus House",
+    "id": "Kengo_Kuma_Lotus_House_Master3D_Group04",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Lovell House",
+    "id": "Neutra_Richard_Lovellhouse_Master3D_Group5",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Lowell Beach House",
+    "id": "RudolfSchindler_LowellBeachHouse_Master3D_Group11",
+    "original": true,
+    "augmented": 0,
+    "availability": "Original only"
+  },
+  {
+    "name": "Maison à Bordeaux",
+    "id": "RemKoolhaas_MaisonABordeaux_Master3D_Rüscher_Bernhard",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Maison D’artiste",
+    "id": "Doesburg_MaisonD’artiste_Master3D__Stofft_Leon",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Maison Dordogne",
+    "id": "EgzonSinani_Maison_Dordogne_Lacton",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Maison Louise Carre",
+    "id": "AlvarAlto_MaisonLouiseCarre_MathiasBank_3dmodel",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Meisterhaus",
+    "id": "WalterGropius_Meisterhaus_model_group12_no_glass",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Melnikov House",
+    "id": "Melnikov_Melnikovhouse_Master3D_Ganders_JanTjado",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Meteorite Cabin",
+    "id": "Kivi_sotamaa_Meteorite_Cabin_Mirco_Fallert",
+    "original": true,
+    "augmented": 0,
+    "availability": "Original only"
+  },
+  {
+    "name": "Minas House",
+    "id": "MaCH_Arquitectos_Minas_house_model_Group2_no_glass",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Moore House",
+    "id": "charlesmoore_moorehouse_master3D_bliem_barbara",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Moriyama House",
+    "id": "Ryue_Nishizawa_MoriyamaHouse_cecileArent",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Muuratsalo Experimental House",
+    "id": "AlvarAalto_MuuratsaloExperimentalHouse_Master3D_Group08",
+    "original": false,
+    "augmented": 12,
+    "availability": "Augmented only"
+  },
+  {
+    "name": "Naked House",
+    "id": "ShigeruBan_NakedHouse_Master3D_Pauline_Heil",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Narrow Brick House",
+    "id": "Srijit_Srinivas_Architects_Narrow_Brick_House_model_Group6_no_glass",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Nasu Tepee",
+    "id": "Hiroshi_Nakamura_NAP_Nasu_Tepee_Master3D_Group04",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "nCaved House",
+    "id": "Mold_Architects_nCaved_House_Florian_Bauer",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Neuhofweg House",
+    "id": "BeckOserArchitekten_NeuhofwegHouse_Master3D_Group2",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Nine Square Grid House",
+    "id": "ShigeruBanArchitects_NineSquareGridHouse_Master3D_Krabacher_Aline",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Okurayama Apartement",
+    "id": "KazuyoSejima_OkurayamaApartement_Master3D_Group10s",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Orbital House",
+    "id": "EdwardOgosta_OrbitalHouse_Master3D_Group3",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Radius House",
+    "id": "Pentagon_Radius_House_Master3D_Group04",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Rambla Climate House",
+    "id": "Rambla_Climate_House_Niklas_Mueller",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Robie House",
+    "id": "FrankFloydWright_RobieHouse_Master3D_Group2",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "S House",
+    "id": "karasawa_shouse_Master3D_Group9",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Sagaponac House",
+    "id": "reiser-umemoto_sagaponac-house_Master3D_weissteiner_sebastian",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Schindler House",
+    "id": "rudolphschildler_schindlerhouse_Master3D_angenend_marina",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Schminke Haus",
+    "id": "HansScharoun_SchminkeHaus_Master3D_Ziernhöld_Erja",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Sky House",
+    "id": "Kiyonori_Kikutake_SkyHouse_Master3D_erlacher_samuel",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Small House",
+    "id": "Kayuyo_Sejima_Small_House_Master3D_Chan_YanTung",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Smith House",
+    "id": "RichardMeier_Smith_House_Niklas_Zeisler_no_glass",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Solo House",
+    "id": "OfficeKerstenGeersDavidVanSeveren_SoloHouse_Master3D_Spratler_Valentin",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Stahl House",
+    "id": "PierreKoenig_Stahlhouse_Group4_no_glass",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "The Dark Chalet",
+    "id": "TomWiscombe_TheDarkChalet_Master3D_Group10",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "The Miller House",
+    "id": "eerosaarinen_themillerhouse_Master3D_flatz_annika",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Toy Blocks House 1",
+    "id": "TakefumiAida_ToyBlocksHouse1_Master3D_Knüppel_Felicitas",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Trail House",
+    "id": "AnneHoltrop_TrailHouse_Master3D_GuyAlbertGlauner",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Triangle House",
+    "id": "ShigeruBan_TriangleHouse_Master3D_Prinz_Tobias",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Vanna Venturi House",
+    "id": "RobertVenturi_VannaVenturiHouse_model_Group09_no_glass",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "VDL",
+    "id": "Neutra_vdl_Fritz_Krall",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Villa Cornaro",
+    "id": "AndreaPalladio_VillaCornaro_Master3D_Acar_Tamer",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Villa Foscari",
+    "id": "AndreaPalladio_VillaFoscari_Master3D_Kurz_Vanessa",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Villa Glashütte",
+    "id": "Oswald_Mathias_Ungers_VillaGlashütte_Marvin_Müller",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Villa Muller",
+    "id": "AdolfLoos_VillaMuller_Master3D_Studer_Marvin",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Villa Savoye",
+    "id": "Le_Corbusier_Villa_Savoye_Master3D_Straka_Bastian",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Villa Tugendhat",
+    "id": "LudwigMiesvanderRohe_VillaTugendhat_Master3D_Eren_Kargi",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Vitra-Haus",
+    "id": "HdM_Vitra-Haus_group-3_no_glass",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Wall House",
+    "id": "johnhejduk_wallhouse_Master3D_Group07",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Weissenhof 14–15",
+    "id": "lecorbusier_weissenhof14-15_Master3D_Group07",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Winton Guest House",
+    "id": "FrankGehry_WintonGuestHouse_CebrailKaraca",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Wu House",
+    "id": "PrestonScottCohen_WuHouse_Master3D_Tappeiner_Philipp",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  },
+  {
+    "name": "Y-House",
+    "id": "StevenHoll_Y-House_Master3D_Klink_Lynn",
+    "original": true,
+    "augmented": 12,
+    "availability": "Original + augmented"
+  }
+]

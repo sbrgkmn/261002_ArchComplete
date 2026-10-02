@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "FrankLloydWright_FallingWater_Master3D_Group1",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Fallingwater_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_FallingWater_Master3D_Group1_0.binvox",
+      "sha256": "286b0bb2e0dd68d39bf6702e6cc92d8b739dfd09e473f2174f247ead4041f2d9",
+      "bytes": 11445,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7843
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Fallingwater_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_FallingWater_Master3D_Group1_120.binvox",
+      "sha256": "4e13f9fab8328d7dc2b68bbedeaba9e4defea6e0529eabf5fc5797684d973fba",
+      "bytes": 12373,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8596
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Fallingwater_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_FallingWater_Master3D_Group1_150.binvox",
+      "sha256": "0c105f96dbdf2784eae7e360d4340ccbec72f3c7ed6f1a2f1fbc34d225653dac",
+      "bytes": 11037,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7703
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Fallingwater_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_FallingWater_Master3D_Group1_180.binvox",
+      "sha256": "94715e6acb25eebe300f728583dcc99765fc8e47b266806a34a60b1a94783fc8",
+      "bytes": 13771,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9595
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Fallingwater_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_FallingWater_Master3D_Group1_210.binvox",
+      "sha256": "efe934d84db0937ec569edda56ae3131fad70fc9e66dbaa7ed0b0c43333f64b2",
+      "bytes": 11351,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7870
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Fallingwater_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_FallingWater_Master3D_Group1_240.binvox",
+      "sha256": "49f5617443ce4aa1dc31e52edbb3af52cf910181f3b54c1d0533fb49be083c95",
+      "bytes": 13611,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9329
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Fallingwater_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_FallingWater_Master3D_Group1_270.binvox",
+      "sha256": "83d8ae8e082da9904bdb51b027318234d3fed74f705fef7d7c235d476e0f38ab",
+      "bytes": 10917,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7750
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Fallingwater_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_FallingWater_Master3D_Group1_30.binvox",
+      "sha256": "05c62e72cb2be32a5bd7eb1c23428d4c5b8ea979776b88e399da900406d43d47",
+      "bytes": 11669,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8268
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Fallingwater_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_FallingWater_Master3D_Group1_300.binvox",
+      "sha256": "45345619e416ab3e93312f8f93062766307c27ff82c8cda78931f3b5dcf906fd",
+      "bytes": 12517,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8793
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Fallingwater_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_FallingWater_Master3D_Group1_330.binvox",
+      "sha256": "1b1c701c973bd5e03d72cfe7affc90f13480745716225f2bb3490c6fa61717d5",
+      "bytes": 11857,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7903
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Fallingwater_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_FallingWater_Master3D_Group1_60.binvox",
+      "sha256": "99881746edd6e8348be51d68765bd81e9c45b071e2df2e1855c9a6a342e36f4a",
+      "bytes": 11947,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8260
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Fallingwater_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_FallingWater_Master3D_Group1_90.binvox",
+      "sha256": "d42b93623347aebd45605709189c34f4d9edaa723accc7501448f0f482c0f0da",
+      "bytes": 11675,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7939
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Fallingwater_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/FrankLloydWright_FallingWater_Master3D_Group1.binvox",
+      "sha256": "c088802675f5ebc98b0f3f96b4d3892fe9c8fa660b14f2d606edc7b2374578a7",
+      "bytes": 9955,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6981
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Fallingwater_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/FrankLloydWright_FallingWater_Master3D_Group1.binvox",
+      "sha256": "5a8ce55eb9586b55fe84389929f2d1e3b51e2f6bd16b1d8b1f1ea902722f1fd3",
+      "bytes": 48544,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 34388
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Fallingwater_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/FrankLloydWright_FallingWater_Master3D_Group1.binvox",
+      "sha256": "77c4fc52dac4976d6b1300613e4a1b394ac33b498985685a274b9940dfc73a9c",
+      "bytes": 272678,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 167771
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Fallingwater_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/FrankLloydWright_FallingWater_Master3D_Group1.binvox",
+      "sha256": "fb0f734f1885d76cb8392cf2e40edc2c27e5d33f7cdd5c16aa7bb9a53182fe8d",
+      "bytes": 1922136,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 723386
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Fallingwater_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/FrankLloydWright_FallingWater_Master3D_Group1.binvox",
+    "resolution": 128,
+    "triangles": 18632,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "9b7e9ef691cd894bf8d26b023e788cad5678ab9dce8e822cab1440be3916d47c"
+  }
+}

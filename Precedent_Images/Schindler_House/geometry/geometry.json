@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "rudolphschildler_schindlerhouse_Master3D_angenend_marina",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Schindler_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/rudolphschildler_schindlerhouse_Master3D_angenend_marina_0.binvox",
+      "sha256": "fb5db1349094a32afe65b97e4dc2bcd18970ff816d4ef0e74fb0c41c62edb42a",
+      "bytes": 10637,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4703
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Schindler_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/rudolphschildler_schindlerhouse_Master3D_angenend_marina_120.binvox",
+      "sha256": "9a0d4a2dfc3912b42e859c95d19b678af4bd08d9febc20fc0d7b1d2520ade5a3",
+      "bytes": 10987,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4862
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Schindler_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/rudolphschildler_schindlerhouse_Master3D_angenend_marina_150.binvox",
+      "sha256": "adb36d7b4e778f28322ce805f0cf433047ceb06cf34e15b61a91e2aae29e5704",
+      "bytes": 10311,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4509
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Schindler_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/rudolphschildler_schindlerhouse_Master3D_angenend_marina_180.binvox",
+      "sha256": "ada79b00e63e07b646e334c4c0a983dc5339cbe5408f599088c25c08b09bd0cd",
+      "bytes": 10893,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4824
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Schindler_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/rudolphschildler_schindlerhouse_Master3D_angenend_marina_210.binvox",
+      "sha256": "4f431c965b2b88adac96b68797be7a4dce01cb24b01a380e63062a8c8ae1fc32",
+      "bytes": 10389,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4553
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Schindler_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/rudolphschildler_schindlerhouse_Master3D_angenend_marina_240.binvox",
+      "sha256": "cb89f37450831ea87c9da3379a4930b10a2fb9b5360766cdb002e2df4c7bed6b",
+      "bytes": 10493,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4316
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Schindler_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/rudolphschildler_schindlerhouse_Master3D_angenend_marina_270.binvox",
+      "sha256": "76ab1568439bdfbe7417fc669040c36d477e662eb352cefecfe937d1e78cbad5",
+      "bytes": 10241,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4371
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Schindler_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/rudolphschildler_schindlerhouse_Master3D_angenend_marina_30.binvox",
+      "sha256": "bc2d1cb2c50fcb7166fd5791770efecc80707d1cef6b49b06cf31f93d5f457b5",
+      "bytes": 10197,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4344
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Schindler_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/rudolphschildler_schindlerhouse_Master3D_angenend_marina_300.binvox",
+      "sha256": "d84c74c59a679f15fd79902ac7261c7db29d6bfb5c4b3353eb64d6c952c29176",
+      "bytes": 10525,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4550
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Schindler_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/rudolphschildler_schindlerhouse_Master3D_angenend_marina_330.binvox",
+      "sha256": "9f770031a18b9b08574e1d6275f9b83adbd6d429705055b8c8ff342236b1db23",
+      "bytes": 10329,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4443
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Schindler_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/rudolphschildler_schindlerhouse_Master3D_angenend_marina_60.binvox",
+      "sha256": "9ba252b43e214ed3d46b39bbf25e2c2a9df5ce6da54922e7a3213c724ca4579a",
+      "bytes": 10605,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4799
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Schindler_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/rudolphschildler_schindlerhouse_Master3D_angenend_marina_90.binvox",
+      "sha256": "9b4f2ecd281cbdc953a2ef230209edbae0cccf57bd544e66d9625b77f8072488",
+      "bytes": 10347,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4545
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Schindler_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/rudolphschildler_schindlerhouse_Master3D_angenend_marina.binvox",
+      "sha256": "0ae84cd8b13d819b3bf7f97d8dbe510ff5b869f008a08e054e2c8690109e3f16",
+      "bytes": 9173,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3945
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Schindler_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/rudolphschildler_schindlerhouse_Master3D_angenend_marina.binvox",
+      "sha256": "aa834ca17d9cb276399e5267d8c8354b07ce9955d4fce5814c6b738e0affa782",
+      "bytes": 43116,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 24339
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Schindler_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/rudolphschildler_schindlerhouse_Master3D_angenend_marina.binvox",
+      "sha256": "f150e81a2fb90e99a7529a492efdc86bff8fa7d6248f0c6b244f31969e86f6e7",
+      "bytes": 346204,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 102941
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Schindler_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/rudolphschildler_schindlerhouse_Master3D_angenend_marina.binvox",
+      "sha256": "d03ea45b9c7baa3840baf1975af88dcda8921e04b717cf3f83eefb3218044600",
+      "bytes": 2071768,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 428550
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Schindler_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/rudolphschildler_schindlerhouse_Master3D_angenend_marina.binvox",
+    "resolution": 128,
+    "triangles": 1594,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "784beea6b7e72e156b470d2ee603c395d216dcc2552afaf7f260e494ed7f29b7"
+  }
+}

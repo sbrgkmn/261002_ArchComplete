@@ -1,0 +1,57 @@
+[
+  {
+    "file": "Chiswick_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 4000,
+    "height": 3000,
+    "source_page": "https://commons.wikimedia.org/wiki/Category:Interior_of_Chiswick_House",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Chiswick_House_from_SE.jpg",
+    "caption": "  ",
+    "bytes": 10344848,
+    "candidate": 1
+  },
+  {
+    "file": "Chiswick_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 640,
+    "height": 480,
+    "source_page": "https://commons.wikimedia.org/wiki/Category:Interior_of_Chiswick_House",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Chiswick_House_and_Gardens_from_the_air_-_geograph.org.uk_-_5074268.jpg",
+    "caption": "  ",
+    "bytes": 187914,
+    "candidate": 6
+  },
+  {
+    "file": "Chiswick_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 984,
+    "height": 603,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Floor_paln_of_Chiswick_House_with_additional_wings.jpg",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Floor_paln_of_Chiswick_House_with_additional_wings.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail_unscaled",
+    "caption": "  ",
+    "bytes": 150397,
+    "candidate": 1
+  },
+  {
+    "file": "Chiswick_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1280,
+    "height": 1707,
+    "source_page": "https://commons.wikimedia.org/wiki/Category:Interior_of_Chiswick_House",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/The_Gallery%2C_Chiswick_House_-_geograph.org.uk_-_3492723.jpg/1280px-The_Gallery%2C_Chiswick_House_-_geograph.org.uk_-_3492723.jpg",
+    "caption": "  ",
+    "bytes": 444484,
+    "candidate": 32
+  },
+  {
+    "file": "Chiswick_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 1280,
+    "height": 1707,
+    "source_page": "https://commons.wikimedia.org/wiki/Category:Interior_of_Chiswick_House",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/View_of_Upper_Tribune_from_Portico.JPG/1280px-View_of_Upper_Tribune_from_Portico.JPG",
+    "caption": "  ",
+    "bytes": 450102,
+    "candidate": 40
+  }
+]

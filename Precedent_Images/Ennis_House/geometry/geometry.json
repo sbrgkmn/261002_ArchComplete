@@ -1,0 +1,220 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "FrankLloydWright_EnnisHouse_Master3D_Meier_Lynn",
+  "default": "aug_000_64",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Ennis_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_EnnisHouse_Master3D_Meier_Lynn_0.binvox",
+      "sha256": "2dd8b0b7c0cd189dfcca0b2c1c9832113f5a88832b9bbac0479566e316482258",
+      "bytes": 16327,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9211
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Ennis_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_EnnisHouse_Master3D_Meier_Lynn_120.binvox",
+      "sha256": "20179152644ae91db5eb5964b63770696f17d5720272d12ce8de334f266254fe",
+      "bytes": 17277,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 10010
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Ennis_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_EnnisHouse_Master3D_Meier_Lynn_150.binvox",
+      "sha256": "fe69a1f8159131005235eebd0c5d687e544e75a86d44eba2764bbe738913b242",
+      "bytes": 17351,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9811
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Ennis_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_EnnisHouse_Master3D_Meier_Lynn_180.binvox",
+      "sha256": "669a99ff379bf1a156d2e743542578e1256dbc43085cd143f9c7dc8809fef2fe",
+      "bytes": 18361,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 10606
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Ennis_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_EnnisHouse_Master3D_Meier_Lynn_210.binvox",
+      "sha256": "1b2f90e6fdd32962a2a73be90767344a3cdc425bc8b44fc0855972eb3417c1f8",
+      "bytes": 16531,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9589
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Ennis_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_EnnisHouse_Master3D_Meier_Lynn_240.binvox",
+      "sha256": "5a76071ca12419ae564509640f64068d2db2f08acb1c7e32ff06adf8e235d058",
+      "bytes": 19371,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 10473
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Ennis_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_EnnisHouse_Master3D_Meier_Lynn_270.binvox",
+      "sha256": "b3648dfe1cee3e7baf5dd07ec42fb85819ab736677b23aedaac4a3e9e75b497c",
+      "bytes": 16665,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9433
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Ennis_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_EnnisHouse_Master3D_Meier_Lynn_30.binvox",
+      "sha256": "0d69109cd4a9df73659e40a45e8ef57b10165603e8fbcf82507a99cf235c3fe5",
+      "bytes": 18175,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 10470
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Ennis_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_EnnisHouse_Master3D_Meier_Lynn_300.binvox",
+      "sha256": "59b71b3761db1cb09ce30f161c41db2f2ff08c24d2f7a06cfc8be68721da6285",
+      "bytes": 18889,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 10733
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Ennis_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_EnnisHouse_Master3D_Meier_Lynn_330.binvox",
+      "sha256": "aeed854cb5b7829f12a4cdbaf7789e03d67fcba6a10407427edcd896cd040018",
+      "bytes": 16169,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9415
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Ennis_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_EnnisHouse_Master3D_Meier_Lynn_60.binvox",
+      "sha256": "a94d46763c6060e932c382240a8f2f00c085f2e108c7925b3e156279a83909d3",
+      "bytes": 16407,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9695
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Ennis_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_EnnisHouse_Master3D_Meier_Lynn_90.binvox",
+      "sha256": "07da57f707d379ed92eeef8cbfce09a1fc2e311004b661488592831fe7fcd75d",
+      "bytes": 18369,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 10427
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Ennis_House_aug_000_64_Voxel_Surface.obj",
+    "source_key": "aug_000_64",
+    "source_archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_EnnisHouse_Master3D_Meier_Lynn_0.binvox",
+    "resolution": 64,
+    "triangles": 2206,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "18d644f2ec3bf5a0fa9c05783d3d16d1eaff6d3fd7cfe66ff7c12b9449cb14fb"
+  }
+}

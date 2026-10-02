@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Container_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 3987,
+    "height": 4496,
+    "source_page": "https://www.archdaily.com/977267/container-house-mans-tham-arkitektkontor",
+    "image_url": "https://images.adsttc.com/media/images/6214/3a53/ae7d/4d01/65a8/8dbb/original/exterior-1-photo-staffan-andersson.jpg?1645492870",
+    "caption": "  ",
+    "bytes": 13235055,
+    "candidate": 1
+  },
+  {
+    "file": "Container_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 3496,
+    "height": 3340,
+    "source_page": "https://www.archdaily.com/977267/container-house-mans-tham-arkitektkontor",
+    "image_url": "https://images.adsttc.com/media/images/6214/3a68/b0be/7051/844e/a34c/original/exterior-5-photo-staffan-andersson.jpg?1645492873",
+    "caption": "Container House / Måns Tham Arkitektkontor - Exterior Photography, Facade © Staffan Andersson https://www.archdaily.com/977267/container-house-mans-tham-arkitektkontor/62143a68b0be7051844ea34c-container-house-mans-tham-arkitektkontor-photo",
+    "bytes": 8494778,
+    "candidate": 2
+  },
+  {
+    "file": "Container_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 4520,
+    "height": 3612,
+    "source_page": "https://www.archdaily.com/977267/container-house-mans-tham-arkitektkontor",
+    "image_url": "https://images.adsttc.com/media/images/6214/3a76/b0be/7051/844e/a34f/original/exterior-3-photo-staffan-andersson.jpg?1645492898",
+    "caption": "  ",
+    "bytes": 13161474,
+    "candidate": 7
+  },
+  {
+    "file": "Container_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 4874,
+    "height": 2615,
+    "source_page": "https://www.archdaily.com/977267/container-house-mans-tham-arkitektkontor",
+    "image_url": "https://images.adsttc.com/media/images/6214/3acf/b0be/7051/844e/a352/original/plandrawings.jpg?1645492971",
+    "caption": "  ",
+    "bytes": 1163546,
+    "candidate": 11
+  },
+  {
+    "file": "Container_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 7170,
+    "height": 6100,
+    "source_page": "https://www.archdaily.com/977267/container-house-mans-tham-arkitektkontor",
+    "image_url": "https://images.adsttc.com/media/images/6214/3a7c/b0be/7051/844e/a350/original/living-dining-and-mezzanine-photo-staffan-andersson.jpg?1645492970",
+    "caption": "Container House / Måns Tham Arkitektkontor - Interior Photography, Table, Chair © Staffan Andersson https://www.archdaily.com/977267/container-house-mans-tham-arkitektkontor/62143a7cb0be7051844ea350-container-house-mans-tham-arkitektkontor-photo",
+    "bytes": 35120954,
+    "candidate": 4
+  },
+  {
+    "file": "Container_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 5376,
+    "height": 5376,
+    "source_page": "https://www.archdaily.com/977267/container-house-mans-tham-arkitektkontor",
+    "image_url": "https://images.adsttc.com/media/images/622f/3059/3e4b/3123/e000/0017/original/Bathroom_photo_Staffan_Andersson.jpg?1647259701",
+    "caption": "  ",
+    "bytes": 18735343,
+    "candidate": 10
+  }
+]

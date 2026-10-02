@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "HdM_Vitra-Haus_group-3_no_glass",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Vitra_Haus_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HdM_Vitra-Haus_group-3_no_glass_0.binvox",
+      "sha256": "0fada3c563c8b10d45a40350ea877191d6d4e27f065bd3f336a242a1814c5fee",
+      "bytes": 38443,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 24587
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Vitra_Haus_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HdM_Vitra-Haus_group-3_no_glass_120.binvox",
+      "sha256": "e7ff7d4d969226e460d31badff62ef95f04a6dbde47afee0fb7943843bf03ea2",
+      "bytes": 37891,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 24428
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Vitra_Haus_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HdM_Vitra-Haus_group-3_no_glass_150.binvox",
+      "sha256": "2271a1d875dbe77e4e3092eec46c6c00992fa5d036d23d7f7dbead74337d5d91",
+      "bytes": 36695,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 23404
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Vitra_Haus_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HdM_Vitra-Haus_group-3_no_glass_180.binvox",
+      "sha256": "88f1e5a2acfb724f1ee6dd5d37fbf5f8ff3d8e5b557d95b885516cf2eff4039c",
+      "bytes": 37927,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 23779
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Vitra_Haus_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HdM_Vitra-Haus_group-3_no_glass_210.binvox",
+      "sha256": "19dc02baf6600936c0bf1128132147c0121fc9f8272769d25930c9561172daf5",
+      "bytes": 37085,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 23415
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Vitra_Haus_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HdM_Vitra-Haus_group-3_no_glass_240.binvox",
+      "sha256": "af329520920c240eb95d886a4f39c36916b95b2b91acdabe7fa960c5686416ed",
+      "bytes": 38797,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 25035
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Vitra_Haus_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HdM_Vitra-Haus_group-3_no_glass_270.binvox",
+      "sha256": "208ce96472063dfe82b5ae5d630607a78c0e767fad14ff7c8cb2dde89ae5f109",
+      "bytes": 37437,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 24086
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Vitra_Haus_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HdM_Vitra-Haus_group-3_no_glass_30.binvox",
+      "sha256": "312a64817c7b81d4da1ea6e41774b30ea2c5a6a4db223e63bb7f9a4974831e7d",
+      "bytes": 38795,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 24453
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Vitra_Haus_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HdM_Vitra-Haus_group-3_no_glass_300.binvox",
+      "sha256": "12fb77189175519cff7177cc6767de9e81d50ffcaa12791c88f6ae58473e92bd",
+      "bytes": 39047,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 25019
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Vitra_Haus_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HdM_Vitra-Haus_group-3_no_glass_330.binvox",
+      "sha256": "155e319d97711aca4669247e8ff83600ef33fc63868fa59e37b4f9e5daab453d",
+      "bytes": 38025,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 23640
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Vitra_Haus_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HdM_Vitra-Haus_group-3_no_glass_60.binvox",
+      "sha256": "ac07d317c24fd03ca975d99230091ede0b84ad14c2a87116444c012a044bdc10",
+      "bytes": 37985,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 23752
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Vitra_Haus_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HdM_Vitra-Haus_group-3_no_glass_90.binvox",
+      "sha256": "987b9cbfd38a7abaecd27f86c2aaa9ef1193c75abe6c82b07ac95d9694109d5f",
+      "bytes": 38079,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 24091
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Vitra_Haus_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/HdM_Vitra-Haus_group-3_no_glass.binvox",
+      "sha256": "e01773afd77ef8fbe4e550ffbbefecc91df950cbee1dd2c5da25e85e21d61ca5",
+      "bytes": 35739,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 22962
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Vitra_Haus_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/HdM_Vitra-Haus_group-3_no_glass.binvox",
+      "sha256": "b8db9e995f3103a7469189a5acece58c7b38a13d3a5b2b78af08fe4c7822c613",
+      "bytes": 152654,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 103579
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Vitra_Haus_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/HdM_Vitra-Haus_group-3_no_glass.binvox",
+      "sha256": "f4e1633fed362d6c9366065ab47e7c2199a133aab9120e36e84df777ae2c5672",
+      "bytes": 644538,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 549646
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Vitra_Haus_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/HdM_Vitra-Haus_group-3_no_glass.binvox",
+      "sha256": "64d5bdda36bcccb647785160f26ec7ba062a47815b08a951386bee4677584d2a",
+      "bytes": 4412632,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2545961
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Vitra_Haus_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/HdM_Vitra-Haus_group-3_no_glass.binvox",
+    "resolution": 128,
+    "triangles": 54016,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "ba4e138715be34b9dec8b939e17d04bd88830a68203b984684833d04a7967691"
+  }
+}

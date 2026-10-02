@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Minas_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 3543,
+    "height": 2364,
+    "source_page": "https://www.archdaily.com/986100/minas-house-mach-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/62e1/5988/dec7/be01/68e0/e605/original/casa-das-minas-mach-arquitetos_13.jpg?1658935714",
+    "caption": "  ",
+    "bytes": 8286991,
+    "candidate": 1
+  },
+  {
+    "file": "Minas_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 3543,
+    "height": 2363,
+    "source_page": "https://www.archdaily.com/986100/minas-house-mach-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/62e1/5977/dec7/be01/68e0/e5ff/original/casa-das-minas-mach-arquitetos_6.jpg?1658935695",
+    "caption": "Minas' House / MACh Arquitetos - Exterior Photography, Windows, Forest © Leonardo Finotti https://www.archdaily.com/986100/minas-house-mach-arquitetos/62e15977dec7be0168e0e5ff-minas-house-mach-arquitetos-photo",
+    "bytes": 8597964,
+    "candidate": 2
+  },
+  {
+    "file": "Minas_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 3543,
+    "height": 2360,
+    "source_page": "https://www.archdaily.com/986100/minas-house-mach-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/62e1/597c/5772/6201/654f/a864/original/casa-das-minas-mach-arquitetos_20.jpg?1658936302",
+    "caption": "  ",
+    "bytes": 9913330,
+    "candidate": 6
+  },
+  {
+    "file": "Minas_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 2481,
+    "height": 1754,
+    "source_page": "https://www.archdaily.com/986100/minas-house-mach-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/62e1/59cf/dec7/be01/7fe0/e5ce/original/03-planta-terreo-5.jpg?1658935771",
+    "caption": "  ",
+    "bytes": 305587,
+    "candidate": 32
+  },
+  {
+    "file": "Minas_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 3543,
+    "height": 2364,
+    "source_page": "https://www.archdaily.com/986100/minas-house-mach-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/62e1/5974/dec7/be01/68e0/e5fe/original/casa-das-minas-mach-arquitetos_14.jpg?1658935692",
+    "caption": "Minas' House / MACh Arquitetos - Interior Photography, Kitchen, Table, Windows © Leonardo Finotti https://www.archdaily.com/986100/minas-house-mach-arquitetos/62e15974dec7be0168e0e5fe-minas-house-mach-arquitetos-photo",
+    "bytes": 7139759,
+    "candidate": 3
+  },
+  {
+    "file": "Minas_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 3543,
+    "height": 2363,
+    "source_page": "https://www.archdaily.com/986100/minas-house-mach-arquitetos",
+    "image_url": "https://images.adsttc.com/media/images/62e1/597d/dec7/be01/68e0/e601/original/casa-das-minas-mach-arquitetos_16.jpg?1658936300",
+    "caption": "  ",
+    "bytes": 6866372,
+    "candidate": 9
+  }
+]

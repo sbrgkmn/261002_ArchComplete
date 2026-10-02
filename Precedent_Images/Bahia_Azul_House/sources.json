@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Bahia_Azul_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 620,
+    "height": 598,
+    "source_page": "https://www.archaic-studio.com/journal/casa-en-bahia-azul-cecilia-puga",
+    "image_url": "https://images.squarespace-cdn.com/content/59cf7b252994ca305e64d591/1506823136691-DXLGOSZE7JJBWD68PRSQ/10645075_10152333273986120_6143533448599228362_n.jpg?content-type=image%2Fjpeg",
+    "caption": "  ",
+    "bytes": 84668,
+    "candidate": 1
+  },
+  {
+    "file": "Bahia_Azul_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 989,
+    "height": 1024,
+    "source_page": "https://www.archaic-studio.com/journal/casa-en-bahia-azul-cecilia-puga",
+    "image_url": "https://images.squarespace-cdn.com/content/59cf7b252994ca305e64d591/1506823222093-Z4P1YDY3IVV7RLCKNPPG/documenti00251-989x1024.jpg?content-type=image%2Fjpeg",
+    "caption": "  ",
+    "bytes": 310677,
+    "candidate": 9
+  },
+  {
+    "file": "Bahia_Azul_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 777,
+    "height": 1024,
+    "source_page": "https://www.archaic-studio.com/journal/casa-en-bahia-azul-cecilia-puga",
+    "image_url": "https://images.squarespace-cdn.com/content/59cf7b252994ca305e64d591/1506823226538-2O9D5STHMY4E929EPP9Y/documenti00258-777x1024.jpg?content-type=image%2Fjpeg",
+    "caption": "  ",
+    "bytes": 206843,
+    "candidate": 11
+  },
+  {
+    "file": "Bahia_Azul_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 804,
+    "height": 1024,
+    "source_page": "https://www.archaic-studio.com/journal/casa-en-bahia-azul-cecilia-puga",
+    "image_url": "https://images.squarespace-cdn.com/content/59cf7b252994ca305e64d591/1506823228101-2FQQB9ZE9IHW873XPBSL/documenti00259-804x1024.jpg?content-type=image%2Fjpeg",
+    "caption": "  ",
+    "bytes": 90560,
+    "candidate": 19
+  },
+  {
+    "file": "Bahia_Azul_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1024,
+    "height": 868,
+    "source_page": "https://www.archaic-studio.com/journal/casa-en-bahia-azul-cecilia-puga",
+    "image_url": "https://images.squarespace-cdn.com/content/59cf7b252994ca305e64d591/1506823224911-9G196VBAP1GWEPJMXQ2I/documenti00255-1024x868.jpg?content-type=image%2Fjpeg",
+    "caption": "  ",
+    "bytes": 210967,
+    "candidate": 13
+  },
+  {
+    "file": "Bahia_Azul_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 778,
+    "height": 1024,
+    "source_page": "https://www.archaic-studio.com/journal/casa-en-bahia-azul-cecilia-puga",
+    "image_url": "https://images.squarespace-cdn.com/content/59cf7b252994ca305e64d591/1506823225509-8JMC6ZIOUEJIBEM71S7Z/documenti00256-778x1024.jpg?content-type=image%2Fjpeg",
+    "caption": "  ",
+    "bytes": 205359,
+    "candidate": 15
+  }
+]

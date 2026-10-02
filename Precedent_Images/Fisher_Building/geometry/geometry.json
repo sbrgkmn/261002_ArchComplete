@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "LouisKhan_FisherBuilding_Master3D_Rajkovic_Vladimir",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Fisher_Building_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LouisKhan_FisherBuilding_Master3D_Rajkovic_Vladimir_0.binvox",
+      "sha256": "1afba18641b0ec580ddb6cbc7dc339f033c43edb445457e506466f9db7cca3f9",
+      "bytes": 7419,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4640
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Fisher_Building_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LouisKhan_FisherBuilding_Master3D_Rajkovic_Vladimir_120.binvox",
+      "sha256": "d8a6481c9cc8b737600fdcb9f359d5eb7e0d501b305c4a457ed8fecdd707dbd7",
+      "bytes": 7445,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4740
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Fisher_Building_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LouisKhan_FisherBuilding_Master3D_Rajkovic_Vladimir_150.binvox",
+      "sha256": "051ecb3c2985d21fdd5cfa76f3360edbd4d3aefc26c64370bdd2a43b6f39647e",
+      "bytes": 7777,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4834
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Fisher_Building_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LouisKhan_FisherBuilding_Master3D_Rajkovic_Vladimir_180.binvox",
+      "sha256": "949cf58f05e2746762b69ff84799d0c56f402a2fc458c13eec94170e457e07a7",
+      "bytes": 6899,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4580
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Fisher_Building_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LouisKhan_FisherBuilding_Master3D_Rajkovic_Vladimir_210.binvox",
+      "sha256": "078b754dc2ac8c592287f58e8d45020f0b881de03ccf1a67a581bd61f6c79bf5",
+      "bytes": 7427,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5455
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Fisher_Building_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LouisKhan_FisherBuilding_Master3D_Rajkovic_Vladimir_240.binvox",
+      "sha256": "8c66b4ea053745b095bf259941536bd7512ec5f59bc3cedcf668c5d3505d80f2",
+      "bytes": 7595,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4796
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Fisher_Building_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LouisKhan_FisherBuilding_Master3D_Rajkovic_Vladimir_270.binvox",
+      "sha256": "48a443042bc7364fb8f50ba2e469849168caedf0cd34744d7b4af62d57381a4b",
+      "bytes": 7715,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4863
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Fisher_Building_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LouisKhan_FisherBuilding_Master3D_Rajkovic_Vladimir_30.binvox",
+      "sha256": "ef5cf93448d812289df9b211b46450fc59ef559d61228f3445038a3f60aa6736",
+      "bytes": 7111,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4804
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Fisher_Building_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LouisKhan_FisherBuilding_Master3D_Rajkovic_Vladimir_300.binvox",
+      "sha256": "72a1960b84ecf1c58e0a76da4ec1ee46855e548e6a28a70d9d62cf865a13fe24",
+      "bytes": 7591,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4996
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Fisher_Building_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LouisKhan_FisherBuilding_Master3D_Rajkovic_Vladimir_330.binvox",
+      "sha256": "25beafeb2079d556a51832723fb83ae591b4c6fc0cce302b5a4f0665d99f4126",
+      "bytes": 7385,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4639
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Fisher_Building_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LouisKhan_FisherBuilding_Master3D_Rajkovic_Vladimir_60.binvox",
+      "sha256": "d79fb3b0231effa5dc567cb0d5f3f3f8b00f39fe58ba2fd963a8ed3cdc6a6497",
+      "bytes": 7613,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4896
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Fisher_Building_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LouisKhan_FisherBuilding_Master3D_Rajkovic_Vladimir_90.binvox",
+      "sha256": "3d3d4cdeee43fba2676ad5af3382588893b1a260cce1eebe90c3f92629940799",
+      "bytes": 7117,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4825
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Fisher_Building_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/LouisKhan_FisherBuilding_Master3D_Rajkovic_Vladimir.binvox",
+      "sha256": "cdda626b21fff67503f339c44c346c21e9a75aae5917888edb951ca7aedafa9f",
+      "bytes": 6087,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3876
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Fisher_Building_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/LouisKhan_FisherBuilding_Master3D_Rajkovic_Vladimir.binvox",
+      "sha256": "6f1ebf83bc2d56e8c03f07657adca9c32e93a13ef016b32b7ca55be0778d6b8c",
+      "bytes": 37814,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 21573
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Fisher_Building_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/LouisKhan_FisherBuilding_Master3D_Rajkovic_Vladimir.binvox",
+      "sha256": "32bb2bd8f5159716632b576ea652b19774dfaeaa42b1c429e6a99328066a97cf",
+      "bytes": 262638,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 97123
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Fisher_Building_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/LouisKhan_FisherBuilding_Master3D_Rajkovic_Vladimir.binvox",
+      "sha256": "83d8084c40a927d3a15797ef33c1339219f7068dfd70bf8e7c0d3049b1d47349",
+      "bytes": 1615896,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 420278
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Fisher_Building_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/LouisKhan_FisherBuilding_Master3D_Rajkovic_Vladimir.binvox",
+    "resolution": 128,
+    "triangles": 3946,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "7f5be88f7b1c91ce8bbd869ec9778497720fca981989c8caad6378cbf7104fa8"
+  }
+}

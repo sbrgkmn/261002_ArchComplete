@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "johnhejduk_wallhouse_Master3D_Group07",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Wall_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/johnhejduk_wallhouse_Master3D_Group07_0.binvox",
+      "sha256": "9e50ffd88c509a61c4b90afe259e54746d4c85b5a8e7bde7134375770bcd781d",
+      "bytes": 3725,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2638
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Wall_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/johnhejduk_wallhouse_Master3D_Group07_120.binvox",
+      "sha256": "b5ea6920a2de2adaefd6c393027be092bbf6c83ef2e7e3aaf47fed7a6f622ae6",
+      "bytes": 3827,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2749
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Wall_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/johnhejduk_wallhouse_Master3D_Group07_150.binvox",
+      "sha256": "3dfa8b103a9a829750fd85316352e9c123de13345a38bcfd2b163eb0216291df",
+      "bytes": 3867,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2847
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Wall_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/johnhejduk_wallhouse_Master3D_Group07_180.binvox",
+      "sha256": "8325c4122f78255e6ef6149678620732bd60d5533111c474d4f6e398bee2d6f4",
+      "bytes": 4005,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3371
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Wall_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/johnhejduk_wallhouse_Master3D_Group07_210.binvox",
+      "sha256": "49435f05f738b3100bf7b5d34538d5182c557be0509c0631cba166a7d334a9eb",
+      "bytes": 3835,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2834
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Wall_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/johnhejduk_wallhouse_Master3D_Group07_240.binvox",
+      "sha256": "060ecfc5e101a435f7116cb49ced432f3dc0f0e2417aa2efb8c526ab5a417de9",
+      "bytes": 4223,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3237
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Wall_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/johnhejduk_wallhouse_Master3D_Group07_270.binvox",
+      "sha256": "97a5db695dacec9e49035932efa9715e23f0260655a48f7ac6efe084a843a37c",
+      "bytes": 3823,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2877
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Wall_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/johnhejduk_wallhouse_Master3D_Group07_30.binvox",
+      "sha256": "1baecfa24c651213c3d85781eaf6b7c446fbd61adf9cc8359c336002bb1c8148",
+      "bytes": 4259,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2973
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Wall_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/johnhejduk_wallhouse_Master3D_Group07_300.binvox",
+      "sha256": "0136a6c48f6bd771d0a2f217d15248eb48b3c4efbbdc57e39328a6894efa43ed",
+      "bytes": 4255,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3479
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Wall_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/johnhejduk_wallhouse_Master3D_Group07_330.binvox",
+      "sha256": "db90cb3e8b2591e44f398c1e28144e89e8cf2a9852e7438e2206e6418ce7e8bd",
+      "bytes": 3905,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2741
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Wall_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/johnhejduk_wallhouse_Master3D_Group07_60.binvox",
+      "sha256": "cec14f58517ca0179341a501c41a24fc73046d4f217d52ace846851f4289c788",
+      "bytes": 3875,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2806
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Wall_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/johnhejduk_wallhouse_Master3D_Group07_90.binvox",
+      "sha256": "a315de381482449449b5ed4f8b44c0cfcbb5c503b3588edf4f61e575e7f06260",
+      "bytes": 3981,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3081
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Wall_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/johnhejduk_wallhouse_Master3D_Group07.binvox",
+      "sha256": "cf55e03d9738ac195b636959b22f325cb3b1831ce05dcafabee91774644448f7",
+      "bytes": 3621,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2323
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Wall_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/johnhejduk_wallhouse_Master3D_Group07.binvox",
+      "sha256": "4aad4a8060654f586919d70e33b7cc48989886632f232a295149ef3e99e27020",
+      "bytes": 23258,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 12624
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Wall_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/johnhejduk_wallhouse_Master3D_Group07.binvox",
+      "sha256": "c74c91b419bb4e48070ec9733962f65825d75a55ca7f2239dc3038455b79f59e",
+      "bytes": 164520,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 66728
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Wall_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/johnhejduk_wallhouse_Master3D_Group07.binvox",
+      "sha256": "f5d994d0b929ce4fa8621663b49e3b899d165bd0942ea21e58138f41643058ac",
+      "bytes": 1344008,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 280064
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Wall_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/johnhejduk_wallhouse_Master3D_Group07.binvox",
+    "resolution": 128,
+    "triangles": 1786,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "4b6013aa41ba75ccc7b7aea1ee747470d1c0e95a3a2e9274b9b352910494eaaa"
+  }
+}

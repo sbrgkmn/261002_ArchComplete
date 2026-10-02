@@ -1,0 +1,101 @@
+[
+  {
+    "file": "Lovell_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 2048,
+    "height": 1642,
+    "source_page": "https://neutra.org/project/philip-m-and-lea-lovell-house/",
+    "image_url": "https://neutra.org/wp-content/uploads/2023/05/Philip-M.-and-Lea-Lovell-House-7.jpg",
+    "caption": "  ",
+    "bytes": 554865,
+    "candidate": 2
+  },
+  {
+    "file": "Lovell_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 2048,
+    "height": 1636,
+    "source_page": "https://neutra.org/project/philip-m-and-lea-lovell-house/",
+    "image_url": "https://neutra.org/wp-content/uploads/2023/05/Philip-M.-and-Lea-Lovell-House-8.jpg",
+    "caption": "  ",
+    "bytes": 386476,
+    "candidate": 9
+  },
+  {
+    "file": "Lovell_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 2048,
+    "height": 1654,
+    "source_page": "https://neutra.org/project/philip-m-and-lea-lovell-house/",
+    "image_url": "https://neutra.org/wp-content/uploads/2023/05/Philip-M.-and-Lea-Lovell-House-12.jpg",
+    "caption": "  ",
+    "bytes": 426065,
+    "candidate": 13
+  },
+  {
+    "file": "Lovell_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 2000,
+    "height": 2507,
+    "source_page": "https://archeyes.com/lovell-house-by-richard-neutra-a-rational-machine-for-living/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2025/05/PlansLovell-House-by-Richard-Neutra-.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 263504,
+    "candidate": 16
+  },
+  {
+    "file": "Lovell_House_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1856,
+    "height": 1422,
+    "source_page": "https://archeyes.com/lovell-house-by-richard-neutra-a-rational-machine-for-living/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2025/05/Floor-PlanLovell-House-by-Richard-Neutra-3.jpg",
+    "caption": "Floor PlanLovell House by Richard Neutra  ",
+    "bytes": 165709,
+    "candidate": 25
+  },
+  {
+    "file": "Lovell_House_Floor_Plan_03.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1880,
+    "height": 1413,
+    "source_page": "https://archeyes.com/lovell-house-by-richard-neutra-a-rational-machine-for-living/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2025/05/Floor-Plan-2Lovell-House-by-Richard-Neutra-.jpg",
+    "caption": "Floor Plan Lovell House by Richard Neutra  ",
+    "bytes": 194791,
+    "candidate": 26
+  },
+  {
+    "file": "Lovell_House_Floor_Plan_04.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1868,
+    "height": 1425,
+    "source_page": "https://archeyes.com/lovell-house-by-richard-neutra-a-rational-machine-for-living/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2025/05/Floor-Plan-1Lovell-House-by-Richard-Neutra-.jpg",
+    "caption": "Floor Plan Lovell House by Richard Neutra  ",
+    "bytes": 146260,
+    "candidate": 27
+  },
+  {
+    "file": "Lovell_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1632,
+    "height": 2048,
+    "source_page": "https://neutra.org/project/philip-m-and-lea-lovell-house/",
+    "image_url": "https://neutra.org/wp-content/uploads/2023/05/Philip-M.-and-Lea-Lovell-House-2.jpg",
+    "caption": "  ",
+    "bytes": 255442,
+    "candidate": 4
+  },
+  {
+    "file": "Lovell_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 2048,
+    "height": 1635,
+    "source_page": "https://neutra.org/project/philip-m-and-lea-lovell-house/",
+    "image_url": "https://neutra.org/wp-content/uploads/2023/05/Philip-M.-and-Lea-Lovell-House-4.jpg",
+    "caption": "  ",
+    "bytes": 239884,
+    "candidate": 6
+  }
+]

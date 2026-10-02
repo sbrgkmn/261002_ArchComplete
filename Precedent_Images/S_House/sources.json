@@ -1,0 +1,90 @@
+[
+  {
+    "file": "S_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1559,
+    "height": 1040,
+    "source_page": "https://www.archdaily.com/558859/s-house-yuusuke-karasawa-architects",
+    "image_url": "https://images.adsttc.com/media/images/5444/75ae/c07a/8076/2d00/04c1/large_jpg/s-house_001.jpg?1413772703",
+    "caption": "  ",
+    "bytes": 406412,
+    "candidate": 1
+  },
+  {
+    "file": "S_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1559,
+    "height": 1039,
+    "source_page": "https://www.archdaily.com/558859/s-house-yuusuke-karasawa-architects",
+    "image_url": "https://images.adsttc.com/media/images/5444/75c2/c07a/8076/2d00/04c2/large_jpg/s-house_007.jpg?1413772719",
+    "caption": "  ",
+    "bytes": 606012,
+    "candidate": 6
+  },
+  {
+    "file": "S_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1559,
+    "height": 1040,
+    "source_page": "https://www.archdaily.com/558859/s-house-yuusuke-karasawa-architects",
+    "image_url": "https://images.adsttc.com/media/images/5444/7756/c07a/8076/2d00/04cf/large_jpg/s-house_057.jpg?1413773120",
+    "caption": "  ",
+    "bytes": 340749,
+    "candidate": 8
+  },
+  {
+    "file": "S_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 3839,
+    "height": 2714,
+    "source_page": "https://www.archdaily.com/558859/s-house-yuusuke-karasawa-architects",
+    "image_url": "https://images.adsttc.com/media/images/5444/760f/c07a/8076/2d00/04c4/original/1_level_foor_plan.jpg?1413772778",
+    "caption": "  ",
+    "bytes": 676211,
+    "candidate": 19
+  },
+  {
+    "file": "S_House_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 3839,
+    "height": 2714,
+    "source_page": "https://www.archdaily.com/558859/s-house-yuusuke-karasawa-architects",
+    "image_url": "https://images.adsttc.com/media/images/5444/75cd/c07a/802a/6900/04ff/original/1_copy.jpg?1413772710",
+    "caption": "  ",
+    "bytes": 620285,
+    "candidate": 21
+  },
+  {
+    "file": "S_House_Floor_Plan_03.jpg",
+    "view_type": "Floor_Plan",
+    "width": 3839,
+    "height": 2714,
+    "source_page": "https://www.archdaily.com/558859/s-house-yuusuke-karasawa-architects",
+    "image_url": "https://images.adsttc.com/media/images/5444/7653/c07a/802a/6900/0503/original/2_level_floor_plan.jpg?1413772846",
+    "caption": "  ",
+    "bytes": 609486,
+    "candidate": 22
+  },
+  {
+    "file": "S_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1559,
+    "height": 1040,
+    "source_page": "https://www.archdaily.com/558859/s-house-yuusuke-karasawa-architects",
+    "image_url": "https://images.adsttc.com/media/images/5444/7704/c07a/8076/2d00/04cc/large_jpg/s-house_047.jpg?1413773039",
+    "caption": "  ",
+    "bytes": 296107,
+    "candidate": 12
+  },
+  {
+    "file": "S_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 1559,
+    "height": 1039,
+    "source_page": "https://www.archdaily.com/558859/s-house-yuusuke-karasawa-architects",
+    "image_url": "https://images.adsttc.com/media/images/5444/7615/c07a/801f/e700/0590/large_jpg/s-house_018.jpg?1413772798",
+    "caption": "  ",
+    "bytes": 286930,
+    "candidate": 16
+  }
+]

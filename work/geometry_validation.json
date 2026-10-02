@@ -1,0 +1,887 @@
+{
+  "native_files_verified": 1520,
+  "models_verified": [
+    {
+      "folder": "128_House",
+      "source": "original_128",
+      "occupied": 9989,
+      "surface_voxel_faces": 12140,
+      "triangles": 1512,
+      "signed_mesh_volume": 0.004763126373291016,
+      "expected_voxel_volume": 0.004763126373291016
+    },
+    {
+      "folder": "Alhamra_Villa",
+      "source": "original_128",
+      "occupied": 34016,
+      "surface_voxel_faces": 35434,
+      "triangles": 3200,
+      "signed_mesh_volume": 0.0162200927734375,
+      "expected_voxel_volume": 0.0162200927734375
+    },
+    {
+      "folder": "Antivilla",
+      "source": "original_128",
+      "occupied": 19391,
+      "surface_voxel_faces": 23228,
+      "triangles": 1314,
+      "signed_mesh_volume": 0.009246349334716797,
+      "expected_voxel_volume": 0.009246349334716797
+    },
+    {
+      "folder": "Bahia_Azul_House",
+      "source": "original_128",
+      "occupied": 15148,
+      "surface_voxel_faces": 17856,
+      "triangles": 1474,
+      "signed_mesh_volume": 0.0072231292724609375,
+      "expected_voxel_volume": 0.0072231292724609375
+    },
+    {
+      "folder": "Bailey_House",
+      "source": "original_128",
+      "occupied": 2173,
+      "surface_voxel_faces": 4204,
+      "triangles": 350,
+      "signed_mesh_volume": 0.0010361671447753906,
+      "expected_voxel_volume": 0.0010361671447753906
+    },
+    {
+      "folder": "Boomer_Residence",
+      "source": "original_128",
+      "occupied": 12740,
+      "surface_voxel_faces": 17550,
+      "triangles": 6780,
+      "signed_mesh_volume": 0.0060749053955078125,
+      "expected_voxel_volume": 0.0060749053955078125
+    },
+    {
+      "folder": "Brant_House",
+      "source": "original_128",
+      "occupied": 16678,
+      "surface_voxel_faces": 23822,
+      "triangles": 1494,
+      "signed_mesh_volume": 0.007952690124511719,
+      "expected_voxel_volume": 0.007952690124511719
+    },
+    {
+      "folder": "Brick_Vault_House",
+      "source": "original_128",
+      "occupied": 12975,
+      "surface_voxel_faces": 20480,
+      "triangles": 1554,
+      "signed_mesh_volume": 0.006186962127685547,
+      "expected_voxel_volume": 0.006186962127685547
+    },
+    {
+      "folder": "Care_House_of_the_Wind_Chinmey",
+      "source": "original_128",
+      "occupied": 36739,
+      "surface_voxel_faces": 49856,
+      "triangles": 11106,
+      "signed_mesh_volume": 0.01751852035522461,
+      "expected_voxel_volume": 0.01751852035522461
+    },
+    {
+      "folder": "Casa_das_Canoas",
+      "source": "original_128",
+      "occupied": 18249,
+      "surface_voxel_faces": 21200,
+      "triangles": 3422,
+      "signed_mesh_volume": 0.008701801300048828,
+      "expected_voxel_volume": 0.008701801300048828
+    },
+    {
+      "folder": "Casa_en_Djerba",
+      "source": "original_128",
+      "occupied": 132334,
+      "surface_voxel_faces": 205914,
+      "triangles": 5844,
+      "signed_mesh_volume": 0.06310176849365234,
+      "expected_voxel_volume": 0.06310176849365234
+    },
+    {
+      "folder": "Casa_Luis_Barragan",
+      "source": "original_128",
+      "occupied": 55291,
+      "surface_voxel_faces": 74212,
+      "triangles": 3652,
+      "signed_mesh_volume": 0.026364803314208984,
+      "expected_voxel_volume": 0.026364803314208984
+    },
+    {
+      "folder": "Chiswick_House",
+      "source": "original_128",
+      "occupied": 45239,
+      "surface_voxel_faces": 71744,
+      "triangles": 14192,
+      "signed_mesh_volume": 0.021571636199951172,
+      "expected_voxel_volume": 0.021571636199951172
+    },
+    {
+      "folder": "Container_House",
+      "source": "original_128",
+      "occupied": 6992,
+      "surface_voxel_faces": 9748,
+      "triangles": 1242,
+      "signed_mesh_volume": 0.00333404541015625,
+      "expected_voxel_volume": 0.00333404541015625
+    },
+    {
+      "folder": "Cornered_House",
+      "source": "original_128",
+      "occupied": 19857,
+      "surface_voxel_faces": 25796,
+      "triangles": 6856,
+      "signed_mesh_volume": 0.009468555450439453,
+      "expected_voxel_volume": 0.009468555450439453
+    },
+    {
+      "folder": "Double_House",
+      "source": "original_128",
+      "occupied": 19182,
+      "surface_voxel_faces": 27358,
+      "triangles": 3204,
+      "signed_mesh_volume": 0.009146690368652344,
+      "expected_voxel_volume": 0.009146690368652344
+    },
+    {
+      "folder": "Eames_House",
+      "source": "original_128",
+      "occupied": 11064,
+      "surface_voxel_faces": 18158,
+      "triangles": 1306,
+      "signed_mesh_volume": 0.005275726318359375,
+      "expected_voxel_volume": 0.005275726318359375
+    },
+    {
+      "folder": "Elrod_House",
+      "source": "original_128",
+      "occupied": 41683,
+      "surface_voxel_faces": 58852,
+      "triangles": 25080,
+      "signed_mesh_volume": 0.01987600326538086,
+      "expected_voxel_volume": 0.01987600326538086
+    },
+    {
+      "folder": "Ennis_House",
+      "source": "aug_000_64",
+      "occupied": 9211,
+      "surface_voxel_faces": 14226,
+      "triangles": 2206,
+      "signed_mesh_volume": 0.035137176513671875,
+      "expected_voxel_volume": 0.035137176513671875
+    },
+    {
+      "folder": "Ex_Of_In_House",
+      "source": "original_128",
+      "occupied": 3902,
+      "surface_voxel_faces": 5478,
+      "triangles": 2250,
+      "signed_mesh_volume": 0.0018606185913085938,
+      "expected_voxel_volume": 0.0018606185913085938
+    },
+    {
+      "folder": "Fallingwater",
+      "source": "original_128",
+      "occupied": 34388,
+      "surface_voxel_faces": 44298,
+      "triangles": 18632,
+      "signed_mesh_volume": 0.016397476196289062,
+      "expected_voxel_volume": 0.016397476196289062
+    },
+    {
+      "folder": "Farnsworth_House",
+      "source": "original_128",
+      "occupied": 9855,
+      "surface_voxel_faces": 11152,
+      "triangles": 784,
+      "signed_mesh_volume": 0.004699230194091797,
+      "expected_voxel_volume": 0.004699230194091797
+    },
+    {
+      "folder": "Fisher_Building",
+      "source": "original_128",
+      "occupied": 21573,
+      "surface_voxel_faces": 26108,
+      "triangles": 3946,
+      "signed_mesh_volume": 0.010286808013916016,
+      "expected_voxel_volume": 0.010286808013916016
+    },
+    {
+      "folder": "Garden_House",
+      "source": "original_128",
+      "occupied": 6446,
+      "surface_voxel_faces": 9008,
+      "triangles": 3754,
+      "signed_mesh_volume": 0.0030736923217773438,
+      "expected_voxel_volume": 0.0030736923217773438
+    },
+    {
+      "folder": "Giovannitti_House",
+      "source": "original_128",
+      "occupied": 15518,
+      "surface_voxel_faces": 23282,
+      "triangles": 2618,
+      "signed_mesh_volume": 0.007399559020996094,
+      "expected_voxel_volume": 0.007399559020996094
+    },
+    {
+      "folder": "Glass_House_Lina_Bo_Bardi",
+      "source": "original_128",
+      "occupied": 48218,
+      "surface_voxel_faces": 57666,
+      "triangles": 2514,
+      "signed_mesh_volume": 0.02299213409423828,
+      "expected_voxel_volume": 0.02299213409423828
+    },
+    {
+      "folder": "Glass_House_Philip_Johnson",
+      "source": "original_128",
+      "occupied": 3730,
+      "surface_voxel_faces": 5698,
+      "triangles": 968,
+      "signed_mesh_volume": 0.0017786026000976562,
+      "expected_voxel_volume": 0.0017786026000976562
+    },
+    {
+      "folder": "Goldstein_Residence",
+      "source": "original_128",
+      "occupied": 29639,
+      "surface_voxel_faces": 32602,
+      "triangles": 12206,
+      "signed_mesh_volume": 0.014132976531982422,
+      "expected_voxel_volume": 0.014132976531982422
+    },
+    {
+      "folder": "Gropius_House",
+      "source": "original_128",
+      "occupied": 13001,
+      "surface_voxel_faces": 15044,
+      "triangles": 2180,
+      "signed_mesh_volume": 0.006199359893798828,
+      "expected_voxel_volume": 0.006199359893798828
+    },
+    {
+      "folder": "Hare_House",
+      "source": "original_128",
+      "occupied": 109264,
+      "surface_voxel_faces": 158864,
+      "triangles": 15462,
+      "signed_mesh_volume": 0.05210113525390625,
+      "expected_voxel_volume": 0.05210113525390625
+    },
+    {
+      "folder": "Haus_Schroder",
+      "source": "original_128",
+      "occupied": 3295,
+      "surface_voxel_faces": 5792,
+      "triangles": 1112,
+      "signed_mesh_volume": 0.0015711784362792969,
+      "expected_voxel_volume": 0.0015711784362792969
+    },
+    {
+      "folder": "Herning_School_Center",
+      "source": "original_128",
+      "occupied": 36362,
+      "surface_voxel_faces": 42142,
+      "triangles": 9088,
+      "signed_mesh_volume": 0.01733875274658203,
+      "expected_voxel_volume": 0.01733875274658203
+    },
+    {
+      "folder": "House_at_Mols_Hills",
+      "source": "original_128",
+      "occupied": 7163,
+      "surface_voxel_faces": 10768,
+      "triangles": 1354,
+      "signed_mesh_volume": 0.0034155845642089844,
+      "expected_voxel_volume": 0.0034155845642089844
+    },
+    {
+      "folder": "House_for_a_Young_Couple_in_Tokyo",
+      "source": "original_128",
+      "occupied": 2841,
+      "surface_voxel_faces": 6158,
+      "triangles": 1384,
+      "signed_mesh_volume": 0.0013546943664550781,
+      "expected_voxel_volume": 0.0013546943664550781
+    },
+    {
+      "folder": "House_II",
+      "source": "original_128",
+      "occupied": 10353,
+      "surface_voxel_faces": 16034,
+      "triangles": 2718,
+      "signed_mesh_volume": 0.004936695098876953,
+      "expected_voxel_volume": 0.004936695098876953
+    },
+    {
+      "folder": "House_N",
+      "source": "original_128",
+      "occupied": 12885,
+      "surface_voxel_faces": 19296,
+      "triangles": 1018,
+      "signed_mesh_volume": 0.006144046783447266,
+      "expected_voxel_volume": 0.006144046783447266
+    },
+    {
+      "folder": "House_N10",
+      "source": "original_128",
+      "occupied": 22494,
+      "surface_voxel_faces": 34244,
+      "triangles": 5442,
+      "signed_mesh_volume": 0.010725975036621094,
+      "expected_voxel_volume": 0.010725975036621094
+    },
+    {
+      "folder": "House_NA",
+      "source": "original_128",
+      "occupied": 3650,
+      "surface_voxel_faces": 5910,
+      "triangles": 2004,
+      "signed_mesh_volume": 0.0017404556274414062,
+      "expected_voxel_volume": 0.0017404556274414062
+    },
+    {
+      "folder": "House_of_Concrete_Experiments",
+      "source": "original_128",
+      "occupied": 29700,
+      "surface_voxel_faces": 39454,
+      "triangles": 6998,
+      "signed_mesh_volume": 0.014162063598632812,
+      "expected_voxel_volume": 0.014162063598632812
+    },
+    {
+      "folder": "House_VI",
+      "source": "original_128",
+      "occupied": 5050,
+      "surface_voxel_faces": 6644,
+      "triangles": 846,
+      "signed_mesh_volume": 0.0024080276489257812,
+      "expected_voxel_volume": 0.0024080276489257812
+    },
+    {
+      "folder": "House_with_One_Wall",
+      "source": "original_128",
+      "occupied": 83038,
+      "surface_voxel_faces": 104756,
+      "triangles": 9656,
+      "signed_mesh_volume": 0.039595603942871094,
+      "expected_voxel_volume": 0.039595603942871094
+    },
+    {
+      "folder": "Jacob_House",
+      "source": "original_128",
+      "occupied": 15472,
+      "surface_voxel_faces": 17358,
+      "triangles": 1582,
+      "signed_mesh_volume": 0.00737762451171875,
+      "expected_voxel_volume": 0.00737762451171875
+    },
+    {
+      "folder": "Juul_House",
+      "source": "original_128",
+      "occupied": 16387,
+      "surface_voxel_faces": 17848,
+      "triangles": 1546,
+      "signed_mesh_volume": 0.00781393051147461,
+      "expected_voxel_volume": 0.00781393051147461
+    },
+    {
+      "folder": "La_Rotonda",
+      "source": "aug_000_64",
+      "occupied": 13079,
+      "surface_voxel_faces": 18582,
+      "triangles": 3526,
+      "signed_mesh_volume": 0.049892425537109375,
+      "expected_voxel_volume": 0.049892425537109375
+    },
+    {
+      "folder": "Leo_Henriksen_House",
+      "source": "original_128",
+      "occupied": 9028,
+      "surface_voxel_faces": 13726,
+      "triangles": 3678,
+      "signed_mesh_volume": 0.0043048858642578125,
+      "expected_voxel_volume": 0.0043048858642578125
+    },
+    {
+      "folder": "Lotus_House",
+      "source": "original_128",
+      "occupied": 19018,
+      "surface_voxel_faces": 21976,
+      "triangles": 2616,
+      "signed_mesh_volume": 0.009068489074707031,
+      "expected_voxel_volume": 0.009068489074707031
+    },
+    {
+      "folder": "Lovell_House",
+      "source": "original_128",
+      "occupied": 59609,
+      "surface_voxel_faces": 91402,
+      "triangles": 4502,
+      "signed_mesh_volume": 0.028423786163330078,
+      "expected_voxel_volume": 0.028423786163330078
+    },
+    {
+      "folder": "Lowell_Beach_House",
+      "source": "original_128",
+      "occupied": 17191,
+      "surface_voxel_faces": 18978,
+      "triangles": 3154,
+      "signed_mesh_volume": 0.008197307586669922,
+      "expected_voxel_volume": 0.008197307586669922
+    },
+    {
+      "folder": "Maison_a_Bordeaux",
+      "source": "original_128",
+      "occupied": 31658,
+      "surface_voxel_faces": 35276,
+      "triangles": 1672,
+      "signed_mesh_volume": 0.015095710754394531,
+      "expected_voxel_volume": 0.015095710754394531
+    },
+    {
+      "folder": "Maison_Dartiste",
+      "source": "original_128",
+      "occupied": 15146,
+      "surface_voxel_faces": 17994,
+      "triangles": 1976,
+      "signed_mesh_volume": 0.007222175598144531,
+      "expected_voxel_volume": 0.007222175598144531
+    },
+    {
+      "folder": "Maison_Dordogne",
+      "source": "original_128",
+      "occupied": 12032,
+      "surface_voxel_faces": 13660,
+      "triangles": 1152,
+      "signed_mesh_volume": 0.0057373046875,
+      "expected_voxel_volume": 0.0057373046875
+    },
+    {
+      "folder": "Maison_Louise_Carre",
+      "source": "original_128",
+      "occupied": 39594,
+      "surface_voxel_faces": 42528,
+      "triangles": 3318,
+      "signed_mesh_volume": 0.01887989044189453,
+      "expected_voxel_volume": 0.01887989044189453
+    },
+    {
+      "folder": "Meisterhaus",
+      "source": "original_128",
+      "occupied": 23636,
+      "surface_voxel_faces": 30828,
+      "triangles": 2256,
+      "signed_mesh_volume": 0.011270523071289062,
+      "expected_voxel_volume": 0.011270523071289062
+    },
+    {
+      "folder": "Melnikov_House",
+      "source": "original_128",
+      "occupied": 25445,
+      "surface_voxel_faces": 30854,
+      "triangles": 7136,
+      "signed_mesh_volume": 0.012133121490478516,
+      "expected_voxel_volume": 0.012133121490478516
+    },
+    {
+      "folder": "Meteorite_Cabin",
+      "source": "original_128",
+      "occupied": 9901,
+      "surface_voxel_faces": 15258,
+      "triangles": 6346,
+      "signed_mesh_volume": 0.004721164703369141,
+      "expected_voxel_volume": 0.004721164703369141
+    },
+    {
+      "folder": "Minas_House",
+      "source": "original_128",
+      "occupied": 14575,
+      "surface_voxel_faces": 17546,
+      "triangles": 2522,
+      "signed_mesh_volume": 0.006949901580810547,
+      "expected_voxel_volume": 0.006949901580810547
+    },
+    {
+      "folder": "Moore_House",
+      "source": "original_128",
+      "occupied": 3677,
+      "surface_voxel_faces": 4814,
+      "triangles": 1068,
+      "signed_mesh_volume": 0.0017533302307128906,
+      "expected_voxel_volume": 0.0017533302307128906
+    },
+    {
+      "folder": "Moriyama_House",
+      "source": "original_128",
+      "occupied": 10335,
+      "surface_voxel_faces": 18766,
+      "triangles": 1816,
+      "signed_mesh_volume": 0.004928112030029297,
+      "expected_voxel_volume": 0.004928112030029297
+    },
+    {
+      "folder": "Muuratsalo_Experimental_House",
+      "source": "aug_000_64",
+      "occupied": 2137,
+      "surface_voxel_faces": 3350,
+      "triangles": 516,
+      "signed_mesh_volume": 0.008152008056640625,
+      "expected_voxel_volume": 0.008152008056640625
+    },
+    {
+      "folder": "Naked_House",
+      "source": "original_128",
+      "occupied": 7640,
+      "surface_voxel_faces": 11102,
+      "triangles": 1336,
+      "signed_mesh_volume": 0.003643035888671875,
+      "expected_voxel_volume": 0.003643035888671875
+    },
+    {
+      "folder": "Narrow_Brick_House",
+      "source": "original_128",
+      "occupied": 5497,
+      "surface_voxel_faces": 7760,
+      "triangles": 692,
+      "signed_mesh_volume": 0.002621173858642578,
+      "expected_voxel_volume": 0.002621173858642578
+    },
+    {
+      "folder": "Nasu_Tepee",
+      "source": "original_128",
+      "occupied": 8495,
+      "surface_voxel_faces": 10930,
+      "triangles": 7808,
+      "signed_mesh_volume": 0.004050731658935547,
+      "expected_voxel_volume": 0.004050731658935547
+    },
+    {
+      "folder": "nCaved_House",
+      "source": "original_128",
+      "occupied": 50523,
+      "surface_voxel_faces": 59674,
+      "triangles": 6616,
+      "signed_mesh_volume": 0.024091243743896484,
+      "expected_voxel_volume": 0.024091243743896484
+    },
+    {
+      "folder": "Neuhofweg_House",
+      "source": "original_128",
+      "occupied": 23751,
+      "surface_voxel_faces": 26312,
+      "triangles": 3098,
+      "signed_mesh_volume": 0.011325359344482422,
+      "expected_voxel_volume": 0.011325359344482422
+    },
+    {
+      "folder": "Nine_Square_Grid_House",
+      "source": "original_128",
+      "occupied": 5845,
+      "surface_voxel_faces": 7586,
+      "triangles": 796,
+      "signed_mesh_volume": 0.0027871131896972656,
+      "expected_voxel_volume": 0.0027871131896972656
+    },
+    {
+      "folder": "Okurayama_Apartement",
+      "source": "original_128",
+      "occupied": 24794,
+      "surface_voxel_faces": 32128,
+      "triangles": 6362,
+      "signed_mesh_volume": 0.011822700500488281,
+      "expected_voxel_volume": 0.011822700500488281
+    },
+    {
+      "folder": "Orbital_House",
+      "source": "original_128",
+      "occupied": 12364,
+      "surface_voxel_faces": 20870,
+      "triangles": 2356,
+      "signed_mesh_volume": 0.0058956146240234375,
+      "expected_voxel_volume": 0.0058956146240234375
+    },
+    {
+      "folder": "Radius_House",
+      "source": "original_128",
+      "occupied": 19326,
+      "surface_voxel_faces": 25616,
+      "triangles": 2532,
+      "signed_mesh_volume": 0.009215354919433594,
+      "expected_voxel_volume": 0.009215354919433594
+    },
+    {
+      "folder": "Rambla_Climate_House",
+      "source": "original_128",
+      "occupied": 10290,
+      "surface_voxel_faces": 17058,
+      "triangles": 6558,
+      "signed_mesh_volume": 0.004906654357910156,
+      "expected_voxel_volume": 0.004906654357910156
+    },
+    {
+      "folder": "Robie_House",
+      "source": "original_128",
+      "occupied": 31670,
+      "surface_voxel_faces": 37538,
+      "triangles": 5318,
+      "signed_mesh_volume": 0.015101432800292969,
+      "expected_voxel_volume": 0.015101432800292969
+    },
+    {
+      "folder": "S_House",
+      "source": "original_128",
+      "occupied": 4365,
+      "surface_voxel_faces": 6536,
+      "triangles": 1396,
+      "signed_mesh_volume": 0.0020813941955566406,
+      "expected_voxel_volume": 0.0020813941955566406
+    },
+    {
+      "folder": "Sagaponac_House",
+      "source": "original_128",
+      "occupied": 15835,
+      "surface_voxel_faces": 23282,
+      "triangles": 6572,
+      "signed_mesh_volume": 0.007550716400146484,
+      "expected_voxel_volume": 0.007550716400146484
+    },
+    {
+      "folder": "Schindler_House",
+      "source": "original_128",
+      "occupied": 24339,
+      "surface_voxel_faces": 24860,
+      "triangles": 1594,
+      "signed_mesh_volume": 0.01160573959350586,
+      "expected_voxel_volume": 0.01160573959350586
+    },
+    {
+      "folder": "Schminke_Haus",
+      "source": "original_128",
+      "occupied": 20468,
+      "surface_voxel_faces": 26408,
+      "triangles": 3982,
+      "signed_mesh_volume": 0.009759902954101562,
+      "expected_voxel_volume": 0.009759902954101562
+    },
+    {
+      "folder": "Sky_House",
+      "source": "original_128",
+      "occupied": 9021,
+      "surface_voxel_faces": 11918,
+      "triangles": 1604,
+      "signed_mesh_volume": 0.004301548004150391,
+      "expected_voxel_volume": 0.004301548004150391
+    },
+    {
+      "folder": "Small_House",
+      "source": "original_128",
+      "occupied": 4564,
+      "surface_voxel_faces": 6986,
+      "triangles": 2010,
+      "signed_mesh_volume": 0.0021762847900390625,
+      "expected_voxel_volume": 0.0021762847900390625
+    },
+    {
+      "folder": "Smith_House",
+      "source": "original_128",
+      "occupied": 19123,
+      "surface_voxel_faces": 25782,
+      "triangles": 9358,
+      "signed_mesh_volume": 0.00911855697631836,
+      "expected_voxel_volume": 0.00911855697631836
+    },
+    {
+      "folder": "Solo_House",
+      "source": "original_128",
+      "occupied": 28278,
+      "surface_voxel_faces": 35648,
+      "triangles": 10056,
+      "signed_mesh_volume": 0.013484001159667969,
+      "expected_voxel_volume": 0.013484001159667969
+    },
+    {
+      "folder": "Stahl_House",
+      "source": "original_128",
+      "occupied": 22294,
+      "surface_voxel_faces": 36890,
+      "triangles": 1568,
+      "signed_mesh_volume": 0.010630607604980469,
+      "expected_voxel_volume": 0.010630607604980469
+    },
+    {
+      "folder": "The_Dark_Chalet",
+      "source": "original_128",
+      "occupied": 84190,
+      "surface_voxel_faces": 102972,
+      "triangles": 13364,
+      "signed_mesh_volume": 0.040144920349121094,
+      "expected_voxel_volume": 0.040144920349121094
+    },
+    {
+      "folder": "The_Miller_House",
+      "source": "original_128",
+      "occupied": 25356,
+      "surface_voxel_faces": 30018,
+      "triangles": 846,
+      "signed_mesh_volume": 0.012090682983398438,
+      "expected_voxel_volume": 0.012090682983398438
+    },
+    {
+      "folder": "Toy_Blocks_House_1",
+      "source": "original_128",
+      "occupied": 8140,
+      "surface_voxel_faces": 11946,
+      "triangles": 1742,
+      "signed_mesh_volume": 0.0038814544677734375,
+      "expected_voxel_volume": 0.0038814544677734375
+    },
+    {
+      "folder": "Trail_House",
+      "source": "original_128",
+      "occupied": 4922,
+      "surface_voxel_faces": 9780,
+      "triangles": 2478,
+      "signed_mesh_volume": 0.0023469924926757812,
+      "expected_voxel_volume": 0.0023469924926757812
+    },
+    {
+      "folder": "Triangle_House",
+      "source": "original_128",
+      "occupied": 17703,
+      "surface_voxel_faces": 20996,
+      "triangles": 6966,
+      "signed_mesh_volume": 0.008441448211669922,
+      "expected_voxel_volume": 0.008441448211669922
+    },
+    {
+      "folder": "Vanna_Venturi_House",
+      "source": "original_128",
+      "occupied": 9526,
+      "surface_voxel_faces": 10304,
+      "triangles": 2128,
+      "signed_mesh_volume": 0.004542350769042969,
+      "expected_voxel_volume": 0.004542350769042969
+    },
+    {
+      "folder": "VDL",
+      "source": "original_128",
+      "occupied": 30154,
+      "surface_voxel_faces": 37650,
+      "triangles": 3804,
+      "signed_mesh_volume": 0.014378547668457031,
+      "expected_voxel_volume": 0.014378547668457031
+    },
+    {
+      "folder": "Villa_Cornaro",
+      "source": "original_128",
+      "occupied": 66867,
+      "surface_voxel_faces": 106250,
+      "triangles": 5876,
+      "signed_mesh_volume": 0.03188467025756836,
+      "expected_voxel_volume": 0.03188467025756836
+    },
+    {
+      "folder": "Villa_Foscari",
+      "source": "original_128",
+      "occupied": 66884,
+      "surface_voxel_faces": 70826,
+      "triangles": 5328,
+      "signed_mesh_volume": 0.03189277648925781,
+      "expected_voxel_volume": 0.03189277648925781
+    },
+    {
+      "folder": "Villa_Glashutte",
+      "source": "original_128",
+      "occupied": 30005,
+      "surface_voxel_faces": 30822,
+      "triangles": 3766,
+      "signed_mesh_volume": 0.014307498931884766,
+      "expected_voxel_volume": 0.014307498931884766
+    },
+    {
+      "folder": "Villa_Muller",
+      "source": "original_128",
+      "occupied": 34444,
+      "surface_voxel_faces": 39502,
+      "triangles": 4052,
+      "signed_mesh_volume": 0.016424179077148438,
+      "expected_voxel_volume": 0.016424179077148438
+    },
+    {
+      "folder": "Villa_Savoye",
+      "source": "original_128",
+      "occupied": 39770,
+      "surface_voxel_faces": 49810,
+      "triangles": 3724,
+      "signed_mesh_volume": 0.01896381378173828,
+      "expected_voxel_volume": 0.01896381378173828
+    },
+    {
+      "folder": "Villa_Tugendhat",
+      "source": "original_128",
+      "occupied": 67381,
+      "surface_voxel_faces": 88778,
+      "triangles": 5044,
+      "signed_mesh_volume": 0.032129764556884766,
+      "expected_voxel_volume": 0.032129764556884766
+    },
+    {
+      "folder": "Vitra_Haus",
+      "source": "original_128",
+      "occupied": 103579,
+      "surface_voxel_faces": 149814,
+      "triangles": 54016,
+      "signed_mesh_volume": 0.049390316009521484,
+      "expected_voxel_volume": 0.049390316009521484
+    },
+    {
+      "folder": "Wall_House",
+      "source": "original_128",
+      "occupied": 12624,
+      "surface_voxel_faces": 14710,
+      "triangles": 1786,
+      "signed_mesh_volume": 0.00601959228515625,
+      "expected_voxel_volume": 0.00601959228515625
+    },
+    {
+      "folder": "Weissenhof_1415",
+      "source": "original_128",
+      "occupied": 24941,
+      "surface_voxel_faces": 31072,
+      "triangles": 3350,
+      "signed_mesh_volume": 0.01189279556274414,
+      "expected_voxel_volume": 0.01189279556274414
+    },
+    {
+      "folder": "Winton_Guest_House",
+      "source": "original_128",
+      "occupied": 22851,
+      "surface_voxel_faces": 24820,
+      "triangles": 4208,
+      "signed_mesh_volume": 0.01089620590209961,
+      "expected_voxel_volume": 0.01089620590209961
+    },
+    {
+      "folder": "Wu_House",
+      "source": "original_128",
+      "occupied": 30829,
+      "surface_voxel_faces": 37324,
+      "triangles": 4830,
+      "signed_mesh_volume": 0.01470041275024414,
+      "expected_voxel_volume": 0.01470041275024414
+    },
+    {
+      "folder": "Y_House",
+      "source": "original_128",
+      "occupied": 18775,
+      "surface_voxel_faces": 28930,
+      "triangles": 3480,
+      "signed_mesh_volume": 0.008952617645263672,
+      "expected_voxel_volume": 0.008952617645263672
+    }
+  ]
+}

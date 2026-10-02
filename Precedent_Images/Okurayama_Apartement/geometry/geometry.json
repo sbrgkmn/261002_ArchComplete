@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "KazuyoSejima_OkurayamaApartement_Master3D_Group10s",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Okurayama_Apartement_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/KazuyoSejima_OkurayamaApartement_Master3D_Group10s_0.binvox",
+      "sha256": "ebbb2c0fc913774178054f5c9d5483eec3eb9c5969e5dc3020da6bf638d8687c",
+      "bytes": 8371,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6507
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Okurayama_Apartement_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/KazuyoSejima_OkurayamaApartement_Master3D_Group10s_120.binvox",
+      "sha256": "14e18e9e7d378f7b36a0de515ab8b084b3da1314aebf177d3cf74664a10421fe",
+      "bytes": 8853,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6699
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Okurayama_Apartement_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/KazuyoSejima_OkurayamaApartement_Master3D_Group10s_150.binvox",
+      "sha256": "38bd5c52a4a0c9eaeacde5764fff19712737ba0546ca0d046a8a7807801ce86c",
+      "bytes": 8193,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6195
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Okurayama_Apartement_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/KazuyoSejima_OkurayamaApartement_Master3D_Group10s_180.binvox",
+      "sha256": "1e8865dc43dd2a17a7ea8a2f593581b57a079fc202da5933f6f5ef966ae7f8e1",
+      "bytes": 8277,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6170
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Okurayama_Apartement_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/KazuyoSejima_OkurayamaApartement_Master3D_Group10s_210.binvox",
+      "sha256": "e33e86cdb710795313b129e29e0be6340baffeb8d335f7a7b1382ed7d1dce8f5",
+      "bytes": 8481,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6412
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Okurayama_Apartement_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/KazuyoSejima_OkurayamaApartement_Master3D_Group10s_240.binvox",
+      "sha256": "2790d2987864e457c6a37b2f2eaf87561eff5fe9beebfbac837ca3ef11048424",
+      "bytes": 8443,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5842
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Okurayama_Apartement_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/KazuyoSejima_OkurayamaApartement_Master3D_Group10s_270.binvox",
+      "sha256": "ae97b6bead7cef1f88971e1666209f8cbc213f486c42c945508a70e3d0e5427b",
+      "bytes": 9103,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6095
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Okurayama_Apartement_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/KazuyoSejima_OkurayamaApartement_Master3D_Group10s_30.binvox",
+      "sha256": "11d77f403170d9379bfe57c0fc8c990d67bcd26162243a7797e206737c34e290",
+      "bytes": 8059,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5621
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Okurayama_Apartement_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/KazuyoSejima_OkurayamaApartement_Master3D_Group10s_300.binvox",
+      "sha256": "3405de56a93cd27c5bef9ca19fb6669467a1fb10ed547bc201a0aa14b799d33b",
+      "bytes": 8123,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6259
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Okurayama_Apartement_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/KazuyoSejima_OkurayamaApartement_Master3D_Group10s_330.binvox",
+      "sha256": "9504d5bd55ee8b8a9a1cf75d5eac260616e2401573510fa851586e0da2e6b0b8",
+      "bytes": 8691,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6182
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Okurayama_Apartement_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/KazuyoSejima_OkurayamaApartement_Master3D_Group10s_60.binvox",
+      "sha256": "f0c9c16e8e2f0f07720de1a67c826a82dfd07c362fe3d7b92761be38ba66a229",
+      "bytes": 8721,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6564
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Okurayama_Apartement_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/KazuyoSejima_OkurayamaApartement_Master3D_Group10s_90.binvox",
+      "sha256": "67ca9166f27e794b8b4a955556cb9e6254b99da6c24e9abecc53bf13a2a2a175",
+      "bytes": 7767,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5861
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Okurayama_Apartement_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/KazuyoSejima_OkurayamaApartement_Master3D_Group10s.binvox",
+      "sha256": "165820de6dc5539ae0607b467f7d96edfc5f747c57514fe272d7ded68f358544",
+      "bytes": 7115,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5364
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Okurayama_Apartement_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/KazuyoSejima_OkurayamaApartement_Master3D_Group10s.binvox",
+      "sha256": "27dfac33ad724f0f28077d8c6b0b88311bab1bb89e295207d936a05ef970ec9e",
+      "bytes": 37180,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 24794
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Okurayama_Apartement_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/KazuyoSejima_OkurayamaApartement_Master3D_Group10s.binvox",
+      "sha256": "a723ad013ede14342ce941bcc2f530f921d560fe21aa385513f93fa188e47fc9",
+      "bytes": 233856,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 123155
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Okurayama_Apartement_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/KazuyoSejima_OkurayamaApartement_Master3D_Group10s.binvox",
+      "sha256": "893686471f7cad346d9bf48f91d0c72adb4c34c927eb8b97b13dfd70255bcc84",
+      "bytes": 1740964,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 529899
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Okurayama_Apartement_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/KazuyoSejima_OkurayamaApartement_Master3D_Group10s.binvox",
+    "resolution": 128,
+    "triangles": 6362,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "9f80b72fc5f64010e40d12e23eb4e9ecbfe3c1a47aa4c10ca5359e18ff899e12"
+  }
+}

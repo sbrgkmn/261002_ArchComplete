@@ -1,0 +1,84 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "TomWiscombe_HareHouse_Master3D_Group11",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Hare_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/TomWiscombe_HareHouse_Master3D_Group11.binvox",
+      "sha256": "c667e4cd6cb66187cb5901351f59dacdaaad2c9e4ade1ee99036bb65fc68c0d0",
+      "bytes": 27997,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 24477
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Hare_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/TomWiscombe_HareHouse_Master3D_Group11.binvox",
+      "sha256": "a65a585a80b95e8dbdc1df85c8827a332dab6cd33e7aa8e0394cd55f6a5bb560",
+      "bytes": 149784,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 109264
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Hare_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/TomWiscombe_HareHouse_Master3D_Group11.binvox",
+      "sha256": "3beff0fffc958a0a410eb0c1902e83f2f410c5b145cd7c79179c192d081ae363",
+      "bytes": 720880,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 503460
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Hare_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/TomWiscombe_HareHouse_Master3D_Group11.binvox",
+      "sha256": "9a575d8ab14fc2dae6640474abd1b5e03e9c70432ec54e87717460def79b5511",
+      "bytes": 3694056,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2046067
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Hare_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/TomWiscombe_HareHouse_Master3D_Group11.binvox",
+    "resolution": 128,
+    "triangles": 15462,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "a7a0649bb6f50e26efdee1656cdaf863c5458f7bb3266943d19399fb44377d5d"
+  }
+}

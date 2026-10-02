@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "richardmeier_giovannittihouse_Master3D_tollinger_katharina",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Giovannitti_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/richardmeier_giovannittihouse_Master3D_tollinger_katharina_0.binvox",
+      "sha256": "0b72066f8814efada4545b28dab184ecb1f0da82a8182bfbc912c7a0be7b2759",
+      "bytes": 8077,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3389
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Giovannitti_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/richardmeier_giovannittihouse_Master3D_tollinger_katharina_120.binvox",
+      "sha256": "fbe2e2d832dcd7cda26c57ee11e08747ef8e914424f1a4d79bcc862379d60ffd",
+      "bytes": 8609,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3891
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Giovannitti_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/richardmeier_giovannittihouse_Master3D_tollinger_katharina_150.binvox",
+      "sha256": "3540b98fcc161b8f296599a86f9392014d6078d3658061471adb418c58b863cc",
+      "bytes": 8207,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3695
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Giovannitti_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/richardmeier_giovannittihouse_Master3D_tollinger_katharina_180.binvox",
+      "sha256": "eddb6669df086c0dda13dca3adab3f69a7872782b96963df00a0faf46882971f",
+      "bytes": 8485,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3402
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Giovannitti_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/richardmeier_giovannittihouse_Master3D_tollinger_katharina_210.binvox",
+      "sha256": "957a7faa363964480c0e83e0dcfb84daaa554b068ce42bcaaf9eee1adfcc25c9",
+      "bytes": 8365,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3443
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Giovannitti_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/richardmeier_giovannittihouse_Master3D_tollinger_katharina_240.binvox",
+      "sha256": "751873faa4e7b1a10e4ea4922253cf61214bfd154e1b3e57c49a469f97ac5129",
+      "bytes": 9987,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4124
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Giovannitti_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/richardmeier_giovannittihouse_Master3D_tollinger_katharina_270.binvox",
+      "sha256": "8ab7b8969d95e101cfb8b9ea7e3d79b9e920e8eede34b614ce770627c720bfb2",
+      "bytes": 7833,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3377
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Giovannitti_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/richardmeier_giovannittihouse_Master3D_tollinger_katharina_30.binvox",
+      "sha256": "630eb719acc378297690593be497ceed9d4d34191afdd7cc03517c49c5a0e0ec",
+      "bytes": 8703,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3761
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Giovannitti_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/richardmeier_giovannittihouse_Master3D_tollinger_katharina_300.binvox",
+      "sha256": "2ae71d2767470a3698d69392980fdbbe5dff98f0f6eafe7918f8d35b8ff76484",
+      "bytes": 9163,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4020
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Giovannitti_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/richardmeier_giovannittihouse_Master3D_tollinger_katharina_330.binvox",
+      "sha256": "495a4327f576cfe9a8e49fe995c109c78c5105a800bd41edaeec8fad6fda6f3b",
+      "bytes": 7995,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3385
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Giovannitti_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/richardmeier_giovannittihouse_Master3D_tollinger_katharina_60.binvox",
+      "sha256": "9fd40ea514050d5b1c6deda3673cbc93ed381adc8e7a0e8c71d62cf93b8934d2",
+      "bytes": 8129,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3319
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Giovannitti_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/richardmeier_giovannittihouse_Master3D_tollinger_katharina_90.binvox",
+      "sha256": "745b36e300eecdda1e9d26f941e058bac77d1af330f7f8e77d2903e32fe616c2",
+      "bytes": 8681,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3765
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Giovannitti_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/richardmeier_giovannittihouse_Master3D_tollinger_katharina.binvox",
+      "sha256": "81016671d01654e7f8817d90b24840045447b949db493be53bfbc4d78b7e6208",
+      "bytes": 7521,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2976
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Giovannitti_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/richardmeier_giovannittihouse_Master3D_tollinger_katharina.binvox",
+      "sha256": "e09dcc138634dcaf458c8cb2e4543e6b7e75a1dbda25d4f528b6f25f6342be29",
+      "bytes": 38862,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 15518
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Giovannitti_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/richardmeier_giovannittihouse_Master3D_tollinger_katharina.binvox",
+      "sha256": "1c5f2400201b31770359e70658bf43f197f64fb44b71a5acc12ca3308c12d291",
+      "bytes": 215352,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 84065
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Giovannitti_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/richardmeier_giovannittihouse_Master3D_tollinger_katharina.binvox",
+      "sha256": "10c434ba4acaf85cb030f8a4a37bb90a3f8bc9b324a81721c8c32c2f9f3e86d2",
+      "bytes": 1678472,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 416375
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Giovannitti_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/richardmeier_giovannittihouse_Master3D_tollinger_katharina.binvox",
+    "resolution": 128,
+    "triangles": 2618,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "36d244cc2fe8c0c9e42dc82cde646d92162869485553b87851fb84d2797fab86"
+  }
+}

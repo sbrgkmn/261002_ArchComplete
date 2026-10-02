@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "HansScharoun_SchminkeHaus_Master3D_Ziernhöld_Erja",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Schminke_Haus_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HansScharoun_SchminkeHaus_Master3D_Ziernhöld_Erja_0.binvox",
+      "sha256": "a7db56a3640650522faa3fadc015c2ae143198c1cf0b4133d96991d8ea1f62aa",
+      "bytes": 8271,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4525
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Schminke_Haus_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HansScharoun_SchminkeHaus_Master3D_Ziernhöld_Erja_120.binvox",
+      "sha256": "addac4eb24d8d923fb826cc04993e76d5be7074af00e3d93345396a26244d2d9",
+      "bytes": 8755,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4824
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Schminke_Haus_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HansScharoun_SchminkeHaus_Master3D_Ziernhöld_Erja_150.binvox",
+      "sha256": "9587a7c8d0a716aa2a68094ed36923db9c28bcd14c9243a93f5ceca273fe4ff3",
+      "bytes": 8613,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4772
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Schminke_Haus_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HansScharoun_SchminkeHaus_Master3D_Ziernhöld_Erja_180.binvox",
+      "sha256": "5356d554769462c86f6b7eb95acadf382085b5e9150bd9b0f2701d45f31148a8",
+      "bytes": 9627,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5257
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Schminke_Haus_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HansScharoun_SchminkeHaus_Master3D_Ziernhöld_Erja_210.binvox",
+      "sha256": "636f64afb1de25604a144d1ae28852cc667ee07e7e88f5f8c304d3d6f3d66a58",
+      "bytes": 8263,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4517
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Schminke_Haus_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HansScharoun_SchminkeHaus_Master3D_Ziernhöld_Erja_240.binvox",
+      "sha256": "7a27f17ef4eab048e5031e604acdeb309368e90c3f0e411e14d4c6a257bbe516",
+      "bytes": 8963,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5032
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Schminke_Haus_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HansScharoun_SchminkeHaus_Master3D_Ziernhöld_Erja_270.binvox",
+      "sha256": "5947028e3f96adcb89ce12d94c8fd96222eef8d9165f89c91798b95c6926a389",
+      "bytes": 8177,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4481
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Schminke_Haus_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HansScharoun_SchminkeHaus_Master3D_Ziernhöld_Erja_30.binvox",
+      "sha256": "c95df0c0d31dabd4848c8e8b51873ca185393c19da5cd8daa0590d5ea28b5ac7",
+      "bytes": 9133,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4980
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Schminke_Haus_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HansScharoun_SchminkeHaus_Master3D_Ziernhöld_Erja_300.binvox",
+      "sha256": "58b57542808772a9d8d48cf1a1868a3e8541c9816c05cadae7668ce45ecd7161",
+      "bytes": 9939,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5416
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Schminke_Haus_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HansScharoun_SchminkeHaus_Master3D_Ziernhöld_Erja_330.binvox",
+      "sha256": "67da6d1f278847e735f8f5d14c6068a520fc3390d28e6aee4a49bf83964ea196",
+      "bytes": 8371,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4642
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Schminke_Haus_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HansScharoun_SchminkeHaus_Master3D_Ziernhöld_Erja_60.binvox",
+      "sha256": "1e8c125873362446c37b5f117062298f25654d964c9d267acc48c49b9ca0e6b4",
+      "bytes": 8621,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4820
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Schminke_Haus_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/HansScharoun_SchminkeHaus_Master3D_Ziernhöld_Erja_90.binvox",
+      "sha256": "427bab536101cae34d624f427143e55906424b1766ddb94c51a4b56a7e980b12",
+      "bytes": 8447,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4655
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Schminke_Haus_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/HansScharoun_SchminkeHaus_Master3D_Ziernhöld_Erja.binvox",
+      "sha256": "751e924971d73991926742bf66a449d6538ebb81a84c3209865ae10a52fb2778",
+      "bytes": 7611,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4139
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Schminke_Haus_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/HansScharoun_SchminkeHaus_Master3D_Ziernhöld_Erja.binvox",
+      "sha256": "fca4a28d73128747a4a2e0fd3a46a276c74e6ac8b9c8efd1e8f39753cb71c9dc",
+      "bytes": 37676,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 20468
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Schminke_Haus_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/HansScharoun_SchminkeHaus_Master3D_Ziernhöld_Erja.binvox",
+      "sha256": "f7542a7bfb8e4fc31433b6534cbaf02dc5034882478d8dfc1bf5f1dac48d6aa4",
+      "bytes": 232388,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 99507
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Schminke_Haus_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/HansScharoun_SchminkeHaus_Master3D_Ziernhöld_Erja.binvox",
+      "sha256": "5c725557cfa380dc0464a12273c1aa12847efd57c3883b2fe909dcdcbbad3d89",
+      "bytes": 1756410,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 419644
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Schminke_Haus_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/HansScharoun_SchminkeHaus_Master3D_Ziernhöld_Erja.binvox",
+    "resolution": 128,
+    "triangles": 3982,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "2fe3237133aa9f6b89dd2bdd8456a07fe1b9e4c14919918d299b5328a1727a50"
+  }
+}

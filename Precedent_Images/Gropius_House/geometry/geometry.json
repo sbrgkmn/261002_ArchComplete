@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "WalterGropius_GropiusHouse_Master3D_Group08",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Gropius_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_GropiusHouse_Master3D_Group08_0.binvox",
+      "sha256": "8a4a8e901f1cda73f903c7247923f79cd33188b7f35fdc621c1a2dadb12fa7c2",
+      "bytes": 6323,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2875
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Gropius_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_GropiusHouse_Master3D_Group08_120.binvox",
+      "sha256": "3fa5f4c3884a664f9c3c7bf6066c43f6241df3af888272e528442d12ed774343",
+      "bytes": 6273,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3000
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Gropius_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_GropiusHouse_Master3D_Group08_150.binvox",
+      "sha256": "6f02f47dd6ca45d11c537c54845551c791d92eb8881f18a77d4efe8a496b2638",
+      "bytes": 5771,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2998
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Gropius_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_GropiusHouse_Master3D_Group08_180.binvox",
+      "sha256": "e31c491509b96124d8d323eb485e451ade261bb058de44f5bcb3f8e7c44b302a",
+      "bytes": 5931,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3064
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Gropius_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_GropiusHouse_Master3D_Group08_210.binvox",
+      "sha256": "251f295faca5ed089e961b7d9cb26972e0d5632f82942ac7266de1f6b0b76f5c",
+      "bytes": 5709,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3009
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Gropius_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_GropiusHouse_Master3D_Group08_240.binvox",
+      "sha256": "37cae76abf47b369cb6e7c8f17f8c7b36d780b615e9f4ab141d1def61e590b2a",
+      "bytes": 6485,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3466
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Gropius_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_GropiusHouse_Master3D_Group08_270.binvox",
+      "sha256": "95b220e776ce21f0238e8c1b06a45670e952c4a0db1e75499fcdc576c2b48938",
+      "bytes": 5935,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2865
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Gropius_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_GropiusHouse_Master3D_Group08_30.binvox",
+      "sha256": "9de14a1507fe5aa328aef8adf5cba9902ea8e0bdcd6a02d3f06c5eaf543e3bae",
+      "bytes": 6137,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3266
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Gropius_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_GropiusHouse_Master3D_Group08_300.binvox",
+      "sha256": "5c94588c69b1fb88e594d51fd707a68cfc8c36e60f7954a612eda7c586fefded",
+      "bytes": 6617,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3259
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Gropius_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_GropiusHouse_Master3D_Group08_330.binvox",
+      "sha256": "1a89d3a34dec65411cdef36f04d951a7e29e75096c8da977c3e27871066d25d9",
+      "bytes": 6045,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2923
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Gropius_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_GropiusHouse_Master3D_Group08_60.binvox",
+      "sha256": "b3cc651d3c493b4e39a81a8fe19ce810d8836e7f028a4563438cf8629be6c8af",
+      "bytes": 6225,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3236
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Gropius_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_GropiusHouse_Master3D_Group08_90.binvox",
+      "sha256": "0fd1b014cd0a58a10974782333b9fae732486286dcd2ea9ae1b5c7ac7c219177",
+      "bytes": 6055,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2979
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Gropius_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/WalterGropius_GropiusHouse_Master3D_Group08.binvox",
+      "sha256": "cb03601425b6e420383ef4ab8d09953898e8fc20d38a47de317508354ee2bb69",
+      "bytes": 5123,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2447
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Gropius_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/WalterGropius_GropiusHouse_Master3D_Group08.binvox",
+      "sha256": "bf1d525ee7896e9c13001e9308980d6024827823671e2d688fe39225a5e6778b",
+      "bytes": 29014,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 13001
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Gropius_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/WalterGropius_GropiusHouse_Master3D_Group08.binvox",
+      "sha256": "744405a38a241ab2d2c6892addbd6b15aaf4c2d85d480215d4431a0cbf06dd65",
+      "bytes": 224022,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 56221
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Gropius_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/WalterGropius_GropiusHouse_Master3D_Group08.binvox",
+      "sha256": "6374e6ca16d34e228dc9196dd7131025d7feb3e175312347537807c53c268be8",
+      "bytes": 1445508,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 232433
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Gropius_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/WalterGropius_GropiusHouse_Master3D_Group08.binvox",
+    "resolution": 128,
+    "triangles": 2180,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "a559bd6d8287b120a589ddbc2bbbed50e8d7d38aee250d579f602b59a51333c3"
+  }
+}

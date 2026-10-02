@@ -1,0 +1,79 @@
+[
+  {
+    "file": "Giovannitti_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1024,
+    "height": 814,
+    "source_page": "https://architecture-history.org/architects/architects/MEIER/OBJ/1979%20-%201983%2C%20Giovannitti%20House%2C%20Pittsburgh%2C%20Pennsylvania.html",
+    "image_url": "https://architecture-history.org/architects/architects/MEIER/PIC/GH01.jpg",
+    "caption": "  ",
+    "bytes": 331903,
+    "candidate": 1
+  },
+  {
+    "file": "Giovannitti_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 612,
+    "height": 779,
+    "source_page": "https://architecture-history.org/architects/architects/MEIER/OBJ/1979%20-%201983%2C%20Giovannitti%20House%2C%20Pittsburgh%2C%20Pennsylvania.html",
+    "image_url": "https://architecture-history.org/architects/architects/MEIER/PIC/GH02.JPG",
+    "caption": "  ",
+    "bytes": 80955,
+    "candidate": 2
+  },
+  {
+    "file": "Giovannitti_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 607,
+    "height": 781,
+    "source_page": "https://architecture-history.org/architects/architects/MEIER/OBJ/1979%20-%201983%2C%20Giovannitti%20House%2C%20Pittsburgh%2C%20Pennsylvania.html",
+    "image_url": "https://architecture-history.org/architects/architects/MEIER/PIC/GH05.JPG",
+    "caption": "  ",
+    "bytes": 59335,
+    "candidate": 5
+  },
+  {
+    "file": "Giovannitti_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1024,
+    "height": 790,
+    "source_page": "https://architecture-history.org/architects/architects/MEIER/OBJ/1979%20-%201983%2C%20Giovannitti%20House%2C%20Pittsburgh%2C%20Pennsylvania.html",
+    "image_url": "https://architecture-history.org/architects/architects/MEIER/PIC/GH002.jpg",
+    "caption": "  ",
+    "bytes": 45924,
+    "candidate": 7
+  },
+  {
+    "file": "Giovannitti_House_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1024,
+    "height": 793,
+    "source_page": "https://architecture-history.org/architects/architects/MEIER/OBJ/1979%20-%201983%2C%20Giovannitti%20House%2C%20Pittsburgh%2C%20Pennsylvania.html",
+    "image_url": "https://architecture-history.org/architects/architects/MEIER/PIC/GH003.jpg",
+    "caption": "  ",
+    "bytes": 43115,
+    "candidate": 8
+  },
+  {
+    "file": "Giovannitti_House_Floor_Plan_03.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1024,
+    "height": 788,
+    "source_page": "https://architecture-history.org/architects/architects/MEIER/OBJ/1979%20-%201983%2C%20Giovannitti%20House%2C%20Pittsburgh%2C%20Pennsylvania.html",
+    "image_url": "https://architecture-history.org/architects/architects/MEIER/PIC/GH004.jpg",
+    "caption": "  ",
+    "bytes": 37751,
+    "candidate": 9
+  },
+  {
+    "file": "Giovannitti_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1024,
+    "height": 808,
+    "source_page": "https://architecture-history.org/architects/architects/MEIER/OBJ/1979%20-%201983%2C%20Giovannitti%20House%2C%20Pittsburgh%2C%20Pennsylvania.html",
+    "image_url": "https://architecture-history.org/architects/architects/MEIER/PIC/GH04.jpg",
+    "caption": "  ",
+    "bytes": 149389,
+    "candidate": 4
+  }
+]

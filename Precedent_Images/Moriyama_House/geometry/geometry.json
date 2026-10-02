@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "Ryue_Nishizawa_MoriyamaHouse_cecileArent",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Moriyama_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Ryue_Nishizawa_MoriyamaHouse_cecileArent_0.binvox",
+      "sha256": "9c0df2f71be982bd707f2622be47e879fb80b2d49914142b5429a80c6a9e50e8",
+      "bytes": 7225,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2753
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Moriyama_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Ryue_Nishizawa_MoriyamaHouse_cecileArent_120.binvox",
+      "sha256": "48a75574a50aeeae2de6098f83a0163d0b10a367ec3e212df7bcfbb900eeb5f7",
+      "bytes": 7303,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2741
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Moriyama_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Ryue_Nishizawa_MoriyamaHouse_cecileArent_150.binvox",
+      "sha256": "8305f04a072b7755617b2cba33a909c9ec3d6027a591829aba15d990e3b98965",
+      "bytes": 7293,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2759
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Moriyama_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Ryue_Nishizawa_MoriyamaHouse_cecileArent_180.binvox",
+      "sha256": "ef8b25ec319d10ef60fd2cb66016d58e67d4bb1d53a0dc7e848c5479c6199f2f",
+      "bytes": 7871,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3139
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Moriyama_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Ryue_Nishizawa_MoriyamaHouse_cecileArent_210.binvox",
+      "sha256": "dd06bfe5cfd1d8e166a31e92256e9f455e4264d98822b05fb4bd44ef54097199",
+      "bytes": 6999,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2511
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Moriyama_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Ryue_Nishizawa_MoriyamaHouse_cecileArent_240.binvox",
+      "sha256": "4e20a537aa147e67d9674276e328b979585501526f8dcaa2cc0f98de60ef8c01",
+      "bytes": 8209,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3255
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Moriyama_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Ryue_Nishizawa_MoriyamaHouse_cecileArent_270.binvox",
+      "sha256": "2028a1509e466aa0ad6bdb9fc65ff54bbd107a7d4ede02f0e8eddd7d8aa9e674",
+      "bytes": 7101,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2681
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Moriyama_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Ryue_Nishizawa_MoriyamaHouse_cecileArent_30.binvox",
+      "sha256": "4e30a7fbf83027a3e1bb77b86dcbd1deb0c5f7218a363d6492d9a6d5a25a32dd",
+      "bytes": 7693,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2918
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Moriyama_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Ryue_Nishizawa_MoriyamaHouse_cecileArent_300.binvox",
+      "sha256": "a74755ce5a62f98ccc4c45e85d6a33c548b59f4be25153da7ee2687144aca74e",
+      "bytes": 8169,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3112
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Moriyama_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Ryue_Nishizawa_MoriyamaHouse_cecileArent_330.binvox",
+      "sha256": "a675ff12d2afa15d7986afbeb7d067dccddf534ccd1d45ef44d533f2ee16a377",
+      "bytes": 6771,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2528
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Moriyama_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Ryue_Nishizawa_MoriyamaHouse_cecileArent_60.binvox",
+      "sha256": "634449a631c36a504dbf75993b5e4b3261004e481d7a34a22f4c7351c69ec423",
+      "bytes": 6871,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2587
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Moriyama_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Ryue_Nishizawa_MoriyamaHouse_cecileArent_90.binvox",
+      "sha256": "899db9f77312cfbdd3a614a0b474b6fa7b9f5ae8bc4a0f8e8867bc7038affb8a",
+      "bytes": 7193,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2755
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Moriyama_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/Ryue_Nishizawa_MoriyamaHouse_cecileArent.binvox",
+      "sha256": "cadc254910f730b1dfd2f6666f6065ccfcfa24f6fb842b236224525dba5fe9c9",
+      "bytes": 6397,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2357
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Moriyama_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/Ryue_Nishizawa_MoriyamaHouse_cecileArent.binvox",
+      "sha256": "615959f4af8c45d5ffc275ce71f0bee13d2b4066a1a255a7eacd42dcab7c78b1",
+      "bytes": 33212,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 10335
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Moriyama_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/Ryue_Nishizawa_MoriyamaHouse_cecileArent.binvox",
+      "sha256": "e80ca26dc7065f6c3dbc3a586af020f241e133c196c649fc14409e98d2cfa237",
+      "bytes": 188008,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 45088
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Moriyama_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/Ryue_Nishizawa_MoriyamaHouse_cecileArent.binvox",
+      "sha256": "0c6680a56487559d8c9df7dfe9c9f623d4db825cbabb10819f60d2715cb145a4",
+      "bytes": 1277998,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 248679
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Moriyama_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/Ryue_Nishizawa_MoriyamaHouse_cecileArent.binvox",
+    "resolution": 128,
+    "triangles": 1816,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "54f6c60c5c976d60cb73a3f4443b9fddbc081d33469962b4c0d1cc4ccbd53062"
+  }
+}

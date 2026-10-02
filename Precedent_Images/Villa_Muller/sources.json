@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Villa_Muller_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1920,
+    "height": 1152,
+    "source_page": "https://en.wikiarquitectura.com/building/villa-mueller/",
+    "image_url": "https://en.wikiarquitectura.com/wp-content/uploads/2024/02/Villa-Muller.jpg",
+    "caption": "  ",
+    "bytes": 293035,
+    "candidate": 1
+  },
+  {
+    "file": "Villa_Muller_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1024,
+    "height": 576,
+    "source_page": "https://en.wikiarquitectura.com/building/villa-mueller/",
+    "image_url": "https://en.wikiarquitectura.com/wp-content/uploads/2017/01/Mueller_9.jpg",
+    "caption": "  ",
+    "bytes": 225160,
+    "candidate": 6
+  },
+  {
+    "file": "Villa_Muller_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 430,
+    "height": 323,
+    "source_page": "https://en.wikiarquitectura.com/building/villa-mueller/",
+    "image_url": "https://en.wikiarquitectura.com/wp-content/uploads/2017/01/Mueller_1.jpg",
+    "caption": "  ",
+    "bytes": 85424,
+    "candidate": 12
+  },
+  {
+    "file": "Villa_Muller_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 723,
+    "height": 511,
+    "source_page": "https://histoirearchitecture19.uqam.ca/la-villa-muller-dadolf-loos/",
+    "image_url": "https://histoirearchitecture19.uqam.ca/wp-content/uploads/2022/03/villa-muller-plans.jpg",
+    "caption": "  ",
+    "bytes": 40493,
+    "candidate": 1
+  },
+  {
+    "file": "Villa_Muller_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 864,
+    "height": 1096,
+    "source_page": "https://en.wikiarquitectura.com/building/villa-mueller/",
+    "image_url": "https://en.wikiarquitectura.com/wp-content/uploads/2017/01/Mueller_12.jpg",
+    "caption": "  ",
+    "bytes": 585477,
+    "candidate": 31
+  },
+  {
+    "file": "Villa_Muller_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 864,
+    "height": 1084,
+    "source_page": "https://en.wikiarquitectura.com/building/villa-mueller/",
+    "image_url": "https://en.wikiarquitectura.com/wp-content/uploads/2017/01/Mueller_11.jpg",
+    "caption": "  ",
+    "bytes": 753955,
+    "candidate": 33
+  }
+]

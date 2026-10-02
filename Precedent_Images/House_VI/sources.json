@@ -1,0 +1,79 @@
+[
+  {
+    "file": "House_VI_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 650,
+    "height": 452,
+    "source_page": "https://www.archdaily.com/63267/ad-classics-house-vi-peter-eisenman",
+    "image_url": "https://images.adsttc.com/media/images/5037/e0ec/28ba/0d59/9b00/0190/large_jpg/stringio.jpg?1414230699",
+    "caption": "  ",
+    "bytes": 82450,
+    "candidate": 1
+  },
+  {
+    "file": "House_VI_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 863,
+    "height": 510,
+    "source_page": "https://www.archdaily.com/63267/ad-classics-house-vi-peter-eisenman",
+    "image_url": "https://images.adsttc.com/media/images/5037/e0da/28ba/0d59/9b00/018b/large_jpg/stringio.jpg?1414230701",
+    "caption": "AD Classics: House VI / Peter Eisenman - Image 2 of 15 © NJIT https://www.archdaily.com/63267/ad-classics-house-vi-peter-eisenman/5037e0da28ba0d599b00018b-ad-classics-house-vi-peter-eisenman-photo",
+    "bytes": 122839,
+    "candidate": 2
+  },
+  {
+    "file": "House_VI_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 842,
+    "height": 509,
+    "source_page": "https://www.archdaily.com/63267/ad-classics-house-vi-peter-eisenman",
+    "image_url": "https://images.adsttc.com/media/images/5037/e0d7/28ba/0d59/9b00/018a/large_jpg/stringio.jpg?1414230713",
+    "caption": "  ",
+    "bytes": 84374,
+    "candidate": 7
+  },
+  {
+    "file": "House_VI_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 793,
+    "height": 622,
+    "source_page": "https://www.archdaily.com/63267/ad-classics-house-vi-peter-eisenman",
+    "image_url": "https://images.adsttc.com/media/images/5037/e0cf/28ba/0d59/9b00/0187/large_jpg/stringio.jpg?1414230715",
+    "caption": "  ",
+    "bytes": 36443,
+    "candidate": 8
+  },
+  {
+    "file": "House_VI_Floor_Plan_03.jpg",
+    "view_type": "Floor_Plan",
+    "width": 770,
+    "height": 629,
+    "source_page": "https://www.archdaily.com/63267/ad-classics-house-vi-peter-eisenman",
+    "image_url": "https://images.adsttc.com/media/images/5037/e0cb/28ba/0d59/9b00/0186/large_jpg/stringio.jpg?1414230718",
+    "caption": "  ",
+    "bytes": 35468,
+    "candidate": 9
+  },
+  {
+    "file": "House_VI_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 690,
+    "height": 457,
+    "source_page": "https://www.archdaily.com/63267/ad-classics-house-vi-peter-eisenman",
+    "image_url": "https://images.adsttc.com/media/images/5037/e0e1/28ba/0d59/9b00/018d/large_jpg/stringio.jpg?1414230704",
+    "caption": "AD Classics: House VI / Peter Eisenman - Column © NJIT https://www.archdaily.com/63267/ad-classics-house-vi-peter-eisenman/5037e0e128ba0d599b00018d-ad-classics-house-vi-peter-eisenman-photo",
+    "bytes": 41303,
+    "candidate": 3
+  },
+  {
+    "file": "House_VI_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 633,
+    "height": 407,
+    "source_page": "https://www.archdaily.com/63267/ad-classics-house-vi-peter-eisenman",
+    "image_url": "https://images.adsttc.com/media/images/5037/e0e8/28ba/0d59/9b00/018f/large_jpg/stringio.jpg?1414230706",
+    "caption": "AD Classics: House VI / Peter Eisenman - Bed, Bedroom © NJIT https://www.archdaily.com/63267/ad-classics-house-vi-peter-eisenman/5037e0e828ba0d599b00018f-ad-classics-house-vi-peter-eisenman-photo",
+    "bytes": 50993,
+    "candidate": 4
+  }
+]

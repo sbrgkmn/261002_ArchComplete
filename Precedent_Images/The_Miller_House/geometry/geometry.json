@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "eerosaarinen_themillerhouse_Master3D_flatz_annika",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/The_Miller_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/eerosaarinen_themillerhouse_Master3D_flatz_annika_0.binvox",
+      "sha256": "9b82dc34b8f8d7d2ee0a6dc161e17f842b628578bfe10cdc6fe3e51dd70cf64d",
+      "bytes": 11731,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6020
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/The_Miller_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/eerosaarinen_themillerhouse_Master3D_flatz_annika_120.binvox",
+      "sha256": "370540d6d8ad9cf887100b7cd566fb4b9a2d694e7c22b09ad4ce9e15223e94af",
+      "bytes": 11593,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6513
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/The_Miller_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/eerosaarinen_themillerhouse_Master3D_flatz_annika_150.binvox",
+      "sha256": "46711912a53ce33383b5e5391a25335645ddbc02c64143125c70ad1c2cd0b498",
+      "bytes": 11597,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6362
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/The_Miller_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/eerosaarinen_themillerhouse_Master3D_flatz_annika_180.binvox",
+      "sha256": "2a533613636378d69c2381678c0c485592b86056dce0225188785ff8d2af8ad9",
+      "bytes": 12137,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6538
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/The_Miller_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/eerosaarinen_themillerhouse_Master3D_flatz_annika_210.binvox",
+      "sha256": "10afdaaff374a25fde6955b3a9b13eacddacbda01426710cd25419112857d85f",
+      "bytes": 11151,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6329
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/The_Miller_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/eerosaarinen_themillerhouse_Master3D_flatz_annika_240.binvox",
+      "sha256": "1594fb0e0e144d951ba9e4ce45e8cdbe7644660b1c60eb26b08d47abad6e8ad1",
+      "bytes": 11873,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6463
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/The_Miller_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/eerosaarinen_themillerhouse_Master3D_flatz_annika_270.binvox",
+      "sha256": "d511c4b026d1b1b331212de9fa9d3ffab3c92b41b45a7da5751923ae1b56c139",
+      "bytes": 11315,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6157
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/The_Miller_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/eerosaarinen_themillerhouse_Master3D_flatz_annika_30.binvox",
+      "sha256": "d7e3ef0459ec2259e5ffdb33d8e3b16123461edad51ee9f67fb959d67a27b443",
+      "bytes": 11337,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6250
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/The_Miller_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/eerosaarinen_themillerhouse_Master3D_flatz_annika_300.binvox",
+      "sha256": "39ba304f5b94a42fe956189a79da24e8ec2457f6e0155009e9dea5f994ca40f2",
+      "bytes": 11889,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6422
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/The_Miller_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/eerosaarinen_themillerhouse_Master3D_flatz_annika_330.binvox",
+      "sha256": "3f603afe01056448c985b849ca43e3c2fdf3749b1cb5d9fcdf0ede4b666ecc87",
+      "bytes": 11365,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6104
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/The_Miller_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/eerosaarinen_themillerhouse_Master3D_flatz_annika_60.binvox",
+      "sha256": "7a5a26c0b2bbf8028b4e035a576615241537fc3a237cb694cde270cec1a4142a",
+      "bytes": 11931,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6073
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/The_Miller_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/eerosaarinen_themillerhouse_Master3D_flatz_annika_90.binvox",
+      "sha256": "c9ec81f4e89246ba5f2fb7618937f7ea978474a23f35ad45cfb10247f824e752",
+      "bytes": 11377,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6239
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/The_Miller_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/eerosaarinen_themillerhouse_Master3D_flatz_annika.binvox",
+      "sha256": "71b402c42f9720a80b1afdf7d183d2868de7b9a4cfda984a77c2f10ac0e1a607",
+      "bytes": 10035,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5500
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/The_Miller_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/eerosaarinen_themillerhouse_Master3D_flatz_annika.binvox",
+      "sha256": "62b26ff462876c9a04f266b6820114523dde94858c662fbd16f2040f390f5e1c",
+      "bytes": 47530,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 25356
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/The_Miller_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/eerosaarinen_themillerhouse_Master3D_flatz_annika.binvox",
+      "sha256": "fb11ba63f875b367c689d3c69dedad5b4e7c8a6e76d81456e2da324f86f6d98f",
+      "bytes": 276982,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 150401
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/The_Miller_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/eerosaarinen_themillerhouse_Master3D_flatz_annika.binvox",
+      "sha256": "97a63bcc87788b87785a34ec0b11297e3af1eb23af6f4197e70c362e20e6dc72",
+      "bytes": 2306078,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 613528
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/The_Miller_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/eerosaarinen_themillerhouse_Master3D_flatz_annika.binvox",
+    "resolution": 128,
+    "triangles": 846,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "611e0f57e05a36a2665de35bcb740478fd42fa4243f4a7c122917070b81a298a"
+  }
+}

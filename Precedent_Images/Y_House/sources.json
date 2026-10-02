@@ -1,0 +1,79 @@
+[
+  {
+    "file": "Y_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 2250,
+    "height": 1348,
+    "source_page": "https://www.stevenholl.com/project/y-house/",
+    "image_url": "https://www.stevenholl.com/wp-content/uploads/2000/01/99-101-13B-scaled-e1745012439422.jpg",
+    "caption": "  ",
+    "bytes": 373977,
+    "candidate": 2
+  },
+  {
+    "file": "Y_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 2560,
+    "height": 2044,
+    "source_page": "https://www.stevenholl.com/project/y-house/",
+    "image_url": "https://www.stevenholl.com/wp-content/uploads/2000/01/99-101-12B-scaled.jpg",
+    "caption": "  ",
+    "bytes": 541942,
+    "candidate": 6
+  },
+  {
+    "file": "Y_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 2049,
+    "height": 2560,
+    "source_page": "https://www.stevenholl.com/project/y-house/",
+    "image_url": "https://www.stevenholl.com/wp-content/uploads/2000/01/99-101-16B-scaled.jpg",
+    "caption": "  ",
+    "bytes": 330589,
+    "candidate": 12
+  },
+  {
+    "file": "Y_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 3300,
+    "height": 2551,
+    "source_page": "https://yewjyee.wixsite.com/jyyew-archi/design-communication",
+    "image_url": "https://static.wixstatic.com/media/5403ce_f5e0983c25e24ccaa49a1b301526c44e~mv2_d_3300_2551_s_4_2.jpg",
+    "caption": "Student drawing - ground floor",
+    "bytes": 1477997,
+    "candidate": 1001
+  },
+  {
+    "file": "Y_House_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 3300,
+    "height": 2551,
+    "source_page": "https://yewjyee.wixsite.com/jyyew-archi/design-communication",
+    "image_url": "https://static.wixstatic.com/media/5403ce_fcb3d0694eef410ebb414601ad334682~mv2_d_3300_2551_s_4_2.jpg",
+    "caption": "Student drawing - first floor",
+    "bytes": 1377747,
+    "candidate": 1002
+  },
+  {
+    "file": "Y_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 2024,
+    "height": 2560,
+    "source_page": "https://www.stevenholl.com/project/y-house/",
+    "image_url": "https://www.stevenholl.com/wp-content/uploads/2000/01/99-101-01B-scaled.jpg",
+    "caption": "  ",
+    "bytes": 323646,
+    "candidate": 14
+  },
+  {
+    "file": "Y_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 2050,
+    "height": 2560,
+    "source_page": "https://www.stevenholl.com/project/y-house/",
+    "image_url": "https://www.stevenholl.com/wp-content/uploads/2000/01/99-101-06B-scaled.jpg",
+    "caption": "  ",
+    "bytes": 409699,
+    "candidate": 16
+  }
+]

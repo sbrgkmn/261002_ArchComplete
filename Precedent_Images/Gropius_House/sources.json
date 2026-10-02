@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Gropius_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 1500,
+    "source_page": "https://www.archdaily.com/118207/ad-classics-gropius-house-walter-gropius",
+    "image_url": "https://images.adsttc.com/media/images/5038/04e2/28ba/0d59/9b00/0956/large_jpg/stringio.jpg?1414207698",
+    "caption": "  ",
+    "bytes": 969925,
+    "candidate": 1
+  },
+  {
+    "file": "Gropius_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 1500,
+    "source_page": "https://www.archdaily.com/118207/ad-classics-gropius-house-walter-gropius",
+    "image_url": "https://images.adsttc.com/media/images/5038/04ed/28ba/0d59/9b00/0957/large_jpg/stringio.jpg?1414207715",
+    "caption": "  ",
+    "bytes": 1136784,
+    "candidate": 7
+  },
+  {
+    "file": "Gropius_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1024,
+    "height": 727,
+    "source_page": "https://www.archdaily.com/118207/ad-classics-gropius-house-walter-gropius",
+    "image_url": "https://images.adsttc.com/media/images/5038/0501/28ba/0d59/9b00/095a/large_jpg/stringio.jpg?1414207721",
+    "caption": "  ",
+    "bytes": 163889,
+    "candidate": 9
+  },
+  {
+    "file": "Gropius_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 480,
+    "height": 365,
+    "source_page": "https://www.archdaily.com/118207/ad-classics-gropius-house-walter-gropius",
+    "image_url": "https://images.adsttc.com/media/images/5038/0507/28ba/0d59/9b00/095c/large_jpg/stringio.jpg?1414207735",
+    "caption": "  ",
+    "bytes": 23925,
+    "candidate": 14
+  },
+  {
+    "file": "Gropius_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1024,
+    "height": 768,
+    "source_page": "https://www.archdaily.com/118207/ad-classics-gropius-house-walter-gropius",
+    "image_url": "https://images.adsttc.com/media/images/5038/04bf/28ba/0d59/9b00/094f/large_jpg/stringio.jpg?1414207724",
+    "caption": "  ",
+    "bytes": 231713,
+    "candidate": 10
+  },
+  {
+    "file": "Gropius_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 1024,
+    "height": 768,
+    "source_page": "https://www.archdaily.com/118207/ad-classics-gropius-house-walter-gropius",
+    "image_url": "https://images.adsttc.com/media/images/5038/04cb/28ba/0d59/9b00/0951/large_jpg/stringio.jpg?1414207729",
+    "caption": "  ",
+    "bytes": 177527,
+    "candidate": 12
+  }
+]

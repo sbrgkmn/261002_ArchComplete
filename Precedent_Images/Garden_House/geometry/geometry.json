@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "ContainerDesign_gardenhouse_model_group01_no_glass",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Garden_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ContainerDesign_gardenhouse_model_group01_no_glass_0.binvox",
+      "sha256": "830f2f70a287471e3579b1d51e854c67d60c66206a8e93c736502154a251e085",
+      "bytes": 3769,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1703
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Garden_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ContainerDesign_gardenhouse_model_group01_no_glass_120.binvox",
+      "sha256": "62ec9b68f6cfd377c51f33bc976be02cdc65b5c6a2d374010a8e607424601513",
+      "bytes": 3901,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1820
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Garden_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ContainerDesign_gardenhouse_model_group01_no_glass_150.binvox",
+      "sha256": "c8058876af9968298a2d0c8ed70de1c52f9e5ef8106120b6bbd0174041be9393",
+      "bytes": 3889,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1754
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Garden_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ContainerDesign_gardenhouse_model_group01_no_glass_180.binvox",
+      "sha256": "7ddf16fe023b9fce44aca4f084fa03f78a82013a6940d2ac4cce4398ad9f19fc",
+      "bytes": 3935,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1986
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Garden_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ContainerDesign_gardenhouse_model_group01_no_glass_210.binvox",
+      "sha256": "89b42aca2750b937a5c4a520ca933fff721b841e763549aeb70ddf996d5ea019",
+      "bytes": 3743,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1674
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Garden_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ContainerDesign_gardenhouse_model_group01_no_glass_240.binvox",
+      "sha256": "0971b126b1bd7d25227d4bb570cd2fd8cbf84a0d8ee035d5b8a2ec20e427a216",
+      "bytes": 4379,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2060
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Garden_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ContainerDesign_gardenhouse_model_group01_no_glass_270.binvox",
+      "sha256": "6d8861dc6bfbcc100b75a2328a745678968bdaf7d085976f6096925b988ec578",
+      "bytes": 3807,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1708
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Garden_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ContainerDesign_gardenhouse_model_group01_no_glass_30.binvox",
+      "sha256": "687e6d4a138b074498c96f0b6c8d02e990a3949bfe1cacf08ab7ca74bf03e848",
+      "bytes": 3969,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1913
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Garden_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ContainerDesign_gardenhouse_model_group01_no_glass_300.binvox",
+      "sha256": "9c788068fca9110c42f978d5907b9eafc87caa17c48db6b8ba2b5d6dfa585316",
+      "bytes": 4245,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2082
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Garden_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ContainerDesign_gardenhouse_model_group01_no_glass_330.binvox",
+      "sha256": "e1d20c7880e2759032b2bf18367e6afd8b3620e72cca11901b4d8ddbbe5b5fb2",
+      "bytes": 3791,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1688
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Garden_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ContainerDesign_gardenhouse_model_group01_no_glass_60.binvox",
+      "sha256": "6055425ec5eba3e2b51562846a6632e839361739986519675bdebe625d3be408",
+      "bytes": 3987,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1790
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Garden_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ContainerDesign_gardenhouse_model_group01_no_glass_90.binvox",
+      "sha256": "d73f18d1e08fdfd4c727a3cd49ffc5f1eca93151894e0d64c3a3700a0ee777f7",
+      "bytes": 3961,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1738
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Garden_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/ContainerDesign_gardenhouse_model_group01_no_glass.binvox",
+      "sha256": "f93559d81d37764085f373eb811b50d2c0d325bad501058568d9304ad1bf7309",
+      "bytes": 3405,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1383
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Garden_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/ContainerDesign_gardenhouse_model_group01_no_glass.binvox",
+      "sha256": "89f7d747817694a11af6a2370904f83725d171dd12e49f3336abf12a653121a1",
+      "bytes": 24250,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6446
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Garden_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/ContainerDesign_gardenhouse_model_group01_no_glass.binvox",
+      "sha256": "63115921a2072202c07ca5017cbe77334658d25818ea509ad3b993e1a1dd9493",
+      "bytes": 172830,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 30430
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Garden_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/ContainerDesign_gardenhouse_model_group01_no_glass.binvox",
+      "sha256": "10786ad7691ff879018dc78422b3eba83728020e95a166b2cf877ba14aedf461",
+      "bytes": 1236588,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 135430
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Garden_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/ContainerDesign_gardenhouse_model_group01_no_glass.binvox",
+    "resolution": 128,
+    "triangles": 3754,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "a3028f67dd4ed19bcc7f782ac277e691b4e707cbfdcb05fe517b3589cf8a809b"
+  }
+}

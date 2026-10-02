@@ -1,0 +1,57 @@
+[
+  {
+    "file": "House_for_a_Young_Couple_in_Tokyo_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 960,
+    "height": 640,
+    "source_page": "https://archeyes.com/house-young-couple-tokyo/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2016/03/junya-ishigami-house-tokyo-archeyes-3.jpg?fit=960%2C640&ssl=1",
+    "caption": "  ",
+    "bytes": 178185,
+    "candidate": 1
+  },
+  {
+    "file": "House_for_a_Young_Couple_in_Tokyo_Floor_Plan_01.png",
+    "view_type": "Floor_Plan",
+    "width": 960,
+    "height": 650,
+    "source_page": "https://archeyes.com/house-young-couple-tokyo/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2016/03/junya-ishigami-house-tokyo-archeyes-2.gif?resize=960%2C650&ssl=1",
+    "caption": "Floor Plan of Junya ishigami House in Tokyo  ",
+    "bytes": 35654,
+    "candidate": 4
+  },
+  {
+    "file": "House_for_a_Young_Couple_in_Tokyo_Floor_Plan_02.png",
+    "view_type": "Floor_Plan",
+    "width": 960,
+    "height": 650,
+    "source_page": "https://archeyes.com/house-young-couple-tokyo/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2016/03/junya-ishigami-house-tokyo-archeyes-1.gif?resize=960%2C650&ssl=1",
+    "caption": "Roof Plan of Junya ishigami House in Tokyo  ",
+    "bytes": 16660,
+    "candidate": 5
+  },
+  {
+    "file": "House_for_a_Young_Couple_in_Tokyo_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 960,
+    "height": 820,
+    "source_page": "https://archeyes.com/house-young-couple-tokyo/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2016/03/junya-ishigami-house-tokyo-archeyes-4.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 274713,
+    "candidate": 2
+  },
+  {
+    "file": "House_for_a_Young_Couple_in_Tokyo_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 960,
+    "height": 640,
+    "source_page": "https://archeyes.com/house-young-couple-tokyo/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2016/03/junya-ishigami-house-tokyo-archeyes-5.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 206384,
+    "candidate": 3
+  }
+]

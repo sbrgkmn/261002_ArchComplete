@@ -1,0 +1,79 @@
+[
+  {
+    "file": "Wall_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 600,
+    "height": 500,
+    "source_page": "https://www.archdaily.com/205541/ad-classics-wall-house-2-john-hejduk",
+    "image_url": "https://images.adsttc.com/media/images/5038/230c/28ba/0d59/9b00/1036/large_jpg/stringio.jpg?1414199783",
+    "caption": "  ",
+    "bytes": 90027,
+    "candidate": 1
+  },
+  {
+    "file": "Wall_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 900,
+    "height": 657,
+    "source_page": "https://www.archdaily.com/205541/ad-classics-wall-house-2-john-hejduk",
+    "image_url": "https://images.adsttc.com/media/images/5038/22c8/28ba/0d59/9b00/1027/large_jpg/stringio.jpg?1414199796",
+    "caption": "  ",
+    "bytes": 246900,
+    "candidate": 6
+  },
+  {
+    "file": "Wall_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 628,
+    "height": 500,
+    "source_page": "https://www.archdaily.com/205541/ad-classics-wall-house-2-john-hejduk",
+    "image_url": "https://images.adsttc.com/media/images/5038/22c4/28ba/0d59/9b00/1026/large_jpg/stringio.jpg?1414199810",
+    "caption": "  ",
+    "bytes": 86052,
+    "candidate": 12
+  },
+  {
+    "file": "Wall_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 500,
+    "height": 309,
+    "source_page": "https://www.archdaily.com/205541/ad-classics-wall-house-2-john-hejduk",
+    "image_url": "https://images.adsttc.com/media/images/5038/22c1/28ba/0d59/9b00/1025/large_jpg/stringio.jpg?1414199788",
+    "caption": "AD Classics: Wall House 2 / John Hejduk, Thomas Muller/van Raimann Architekten & Otonomo Architecten - Image 3 of 25 Courtesy of wall house 2 website https://www.archdaily.com/205541/ad-classics-wall-house-2-john-hejduk/503822c128ba0d599b001025-ad-classics-wall-house-2-john-hejduk-image",
+    "bytes": 16652,
+    "candidate": 3
+  },
+  {
+    "file": "Wall_House_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 500,
+    "height": 300,
+    "source_page": "https://www.archdaily.com/205541/ad-classics-wall-house-2-john-hejduk",
+    "image_url": "https://images.adsttc.com/media/images/5038/22bf/28ba/0d59/9b00/1024/large_jpg/stringio.jpg?1414199790",
+    "caption": "AD Classics: Wall House 2 / John Hejduk, Thomas Muller/van Raimann Architekten & Otonomo Architecten - Image 4 of 25 Courtesy of wall house 2 website https://www.archdaily.com/205541/ad-classics-wall-house-2-john-hejduk/503822bf28ba0d599b001024-ad-classics-wall-house-2-john-hejduk-image",
+    "bytes": 16542,
+    "candidate": 4
+  },
+  {
+    "file": "Wall_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 640,
+    "height": 480,
+    "source_page": "https://www.archdaily.com/205541/ad-classics-wall-house-2-john-hejduk",
+    "image_url": "https://images.adsttc.com/media/images/5038/22ee/28ba/0d59/9b00/102f/large_jpg/stringio.jpg?1414199827",
+    "caption": "  ",
+    "bytes": 105025,
+    "candidate": 19
+  },
+  {
+    "file": "Wall_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 640,
+    "height": 480,
+    "source_page": "https://www.archdaily.com/205541/ad-classics-wall-house-2-john-hejduk",
+    "image_url": "https://images.adsttc.com/media/images/5038/22e9/28ba/0d59/9b00/102e/large_jpg/stringio.jpg?1414199830",
+    "caption": "  ",
+    "bytes": 85706,
+    "candidate": 20
+  }
+]

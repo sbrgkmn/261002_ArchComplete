@@ -1,0 +1,79 @@
+[
+  {
+    "file": "Jacob_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1024,
+    "height": 540,
+    "source_page": "https://architecture-history.org/architects/architects/WRIGHT/OBJECTS/1937%2C%20Jacobs%20House%20I%2C%20Madison%2C%20USA.html",
+    "image_url": "https://architecture-history.org/architects/architects/WRIGHT/PIC/JH03.jpeg",
+    "caption": "  ",
+    "bytes": 153950,
+    "candidate": 3
+  },
+  {
+    "file": "Jacob_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 3000,
+    "height": 2100,
+    "source_page": "https://architecture-history.org/architects/architects/WRIGHT/OBJECTS/1937%2C%20Jacobs%20House%20I%2C%20Madison%2C%20USA.html",
+    "image_url": "https://architecture-history.org/architects/architects/WRIGHT/PIC/JH07.jpeg",
+    "caption": "  ",
+    "bytes": 1420852,
+    "candidate": 6
+  },
+  {
+    "file": "Jacob_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1024,
+    "height": 683,
+    "source_page": "https://architecture-history.org/architects/architects/WRIGHT/OBJECTS/1937%2C%20Jacobs%20House%20I%2C%20Madison%2C%20USA.html",
+    "image_url": "https://architecture-history.org/architects/architects/WRIGHT/PIC/JH17.jpeg",
+    "caption": "  ",
+    "bytes": 186897,
+    "candidate": 11
+  },
+  {
+    "file": "Jacob_House_Floor_Plan_01.gif",
+    "view_type": "Floor_Plan",
+    "width": 540,
+    "height": 694,
+    "source_page": "https://architecture-history.org/architects/architects/WRIGHT/OBJECTS/1937%2C%20Jacobs%20House%20I%2C%20Madison%2C%20USA.html",
+    "image_url": "https://architecture-history.org/architects/architects/WRIGHT/PIC/JH001.gif",
+    "caption": "  ",
+    "bytes": 77549,
+    "candidate": 23
+  },
+  {
+    "file": "Jacob_House_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1023,
+    "height": 845,
+    "source_page": "https://architecture-history.org/architects/architects/WRIGHT/OBJECTS/1937%2C%20Jacobs%20House%20I%2C%20Madison%2C%20USA.html",
+    "image_url": "https://architecture-history.org/architects/architects/WRIGHT/PIC/JH002.jpeg",
+    "caption": "  ",
+    "bytes": 97448,
+    "candidate": 24
+  },
+  {
+    "file": "Jacob_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 736,
+    "height": 444,
+    "source_page": "https://architecture-history.org/architects/architects/WRIGHT/OBJECTS/1937%2C%20Jacobs%20House%20I%2C%20Madison%2C%20USA.html",
+    "image_url": "https://architecture-history.org/architects/architects/WRIGHT/PIC/JH21.jpeg",
+    "caption": "  ",
+    "bytes": 79282,
+    "candidate": 13
+  },
+  {
+    "file": "Jacob_House_Interior_02.png",
+    "view_type": "Interior",
+    "width": 987,
+    "height": 651,
+    "source_page": "https://architecture-history.org/architects/architects/WRIGHT/OBJECTS/1937%2C%20Jacobs%20House%20I%2C%20Madison%2C%20USA.html",
+    "image_url": "https://architecture-history.org/architects/architects/WRIGHT/PIC/JH26.png",
+    "caption": "  ",
+    "bytes": 1281481,
+    "candidate": 17
+  }
+]

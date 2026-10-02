@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "Pentagon_Radius_House_Master3D_Group04",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Radius_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Pentagon_Radius_House_Master3D_Group04_0.binvox",
+      "sha256": "6f7dbfd45f37e454422711750da05a14fba9931460dd1903b31e931affe9751e",
+      "bytes": 6499,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4657
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Radius_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Pentagon_Radius_House_Master3D_Group04_120.binvox",
+      "sha256": "78ad6b13229624d33e825edd4cbb37da77918c0525532d68dde07983312ebae2",
+      "bytes": 6781,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4568
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Radius_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Pentagon_Radius_House_Master3D_Group04_150.binvox",
+      "sha256": "8a448ccf0b4f98594975401f8e8fe3908ea2ad015919cdeeeef0ed0a016972cf",
+      "bytes": 6765,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4107
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Radius_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Pentagon_Radius_House_Master3D_Group04_180.binvox",
+      "sha256": "2f5d64d302148799fa3f27a9625ad9dc96f0523e7df20b9ea6e743c78ba62557",
+      "bytes": 7251,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5358
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Radius_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Pentagon_Radius_House_Master3D_Group04_210.binvox",
+      "sha256": "7d38ed125784cc3324f038d1ca567c1aa0a65a8bf4b233f598b65f3518c88e7d",
+      "bytes": 6717,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4400
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Radius_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Pentagon_Radius_House_Master3D_Group04_240.binvox",
+      "sha256": "da069e341a3e6284dcd7705af240407f816347c14c33439e0ef615c11a4dc77d",
+      "bytes": 7885,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5405
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Radius_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Pentagon_Radius_House_Master3D_Group04_270.binvox",
+      "sha256": "f1658d659bcf2d2f910d989e9b5a2ef03f348dfab6529351aec193a23d62eb6f",
+      "bytes": 6555,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4175
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Radius_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Pentagon_Radius_House_Master3D_Group04_30.binvox",
+      "sha256": "ee583cad6a6a55a004fd5325dc172370330773a858c48956248ed4530e6d051b",
+      "bytes": 8439,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5231
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Radius_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Pentagon_Radius_House_Master3D_Group04_300.binvox",
+      "sha256": "f9a0da1d91053788070b24aba5c9c9d394ea7a5ec8def3d3b8c24f15b6b732dc",
+      "bytes": 9311,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5508
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Radius_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Pentagon_Radius_House_Master3D_Group04_330.binvox",
+      "sha256": "64a5aa4cfe20ecde1dc63d1663575bfaf9d024c36f38d44fc8e1234accab6e9b",
+      "bytes": 6565,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4633
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Radius_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Pentagon_Radius_House_Master3D_Group04_60.binvox",
+      "sha256": "87d7a26b2979ac21af8d978e14709c66a1d0e039626b10b0a87c3c082fd176a5",
+      "bytes": 7043,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4719
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Radius_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Pentagon_Radius_House_Master3D_Group04_90.binvox",
+      "sha256": "f97c62b0f983f4f688c8f9ffda25215ee33328c98fd303547539075aa12d25f3",
+      "bytes": 6917,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4712
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Radius_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/Pentagon_Radius_House_Master3D_Group04.binvox",
+      "sha256": "5e0232788b9631dfe68b5aabe93eab045c24ea06e851dad92c8335578bef6552",
+      "bytes": 6443,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4018
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Radius_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/Pentagon_Radius_House_Master3D_Group04.binvox",
+      "sha256": "5a0a7c62d9ea106408e3eebbc3a933fd6b8d7de8454b25fb6d452ec4e1e1a5d5",
+      "bytes": 33966,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 19326
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Radius_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/Pentagon_Radius_House_Master3D_Group04.binvox",
+      "sha256": "5eab746c11461b53414b41184e01d4e21de1c46538b684f3b7638bd647e6f990",
+      "bytes": 197348,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 103391
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Radius_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/Pentagon_Radius_House_Master3D_Group04.binvox",
+      "sha256": "552b7d4b33d322cd9ee5e9cbfb85fd3900be1db76b1d9710b8249a3efe365530",
+      "bytes": 1649730,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 448420
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Radius_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/Pentagon_Radius_House_Master3D_Group04.binvox",
+    "resolution": 128,
+    "triangles": 2532,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "205c08203482368598bdd1416c30e4019a49a3fd191403129e8c0de3a25c1a8f"
+  }
+}

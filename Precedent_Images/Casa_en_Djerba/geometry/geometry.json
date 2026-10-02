@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "Machado_Casaendjerba_model_GroupNumber",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Casa_en_Djerba_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Machado_Casaendjerba_model_GroupNumber_0.binvox",
+      "sha256": "e03aea0fc341f9d4d3851fab95ce41c83c404ef350199da40704e4eaf2fa3698",
+      "bytes": 34129,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 32661
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Casa_en_Djerba_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Machado_Casaendjerba_model_GroupNumber_120.binvox",
+      "sha256": "c1fa82a5b31ab2eedfd397802976b23b8f824689e6b2972f6e0984176db5b302",
+      "bytes": 34517,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 32373
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Casa_en_Djerba_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Machado_Casaendjerba_model_GroupNumber_150.binvox",
+      "sha256": "62173d4b75ffbc552186d064ff877e45750a6765c5d36e91031c38ec78bcd804",
+      "bytes": 32909,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 33773
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Casa_en_Djerba_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Machado_Casaendjerba_model_GroupNumber_180.binvox",
+      "sha256": "8d3aed329621fbde6a79864bac1af645a39bcce3e2d45a696c5b07e3ecda1259",
+      "bytes": 32031,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 31862
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Casa_en_Djerba_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Machado_Casaendjerba_model_GroupNumber_210.binvox",
+      "sha256": "5326c963af519d4f2c30a0b47c9f9397de42528725e9c7d280e0f8e6f1401351",
+      "bytes": 32907,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 30514
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Casa_en_Djerba_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Machado_Casaendjerba_model_GroupNumber_240.binvox",
+      "sha256": "86b339af865ae3fbbf2d1b64c178d2aa0d40934087c66da3febef291c7053d70",
+      "bytes": 33333,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 31460
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Casa_en_Djerba_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Machado_Casaendjerba_model_GroupNumber_270.binvox",
+      "sha256": "6ffe35a685394f281882fe6db3409df833b83d5421c40f8b0c15620a7338d378",
+      "bytes": 33797,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 30818
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Casa_en_Djerba_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Machado_Casaendjerba_model_GroupNumber_30.binvox",
+      "sha256": "d6b58920489b1fc4f6963f66fbf7496972bdd73bb1be39d7997e4b2e3a89f90f",
+      "bytes": 32187,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 31899
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Casa_en_Djerba_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Machado_Casaendjerba_model_GroupNumber_300.binvox",
+      "sha256": "bb2b716db5ebe6e03b8e52f5183765736489eb1e5ed6f2b4f41a99daeec775d1",
+      "bytes": 33161,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 32687
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Casa_en_Djerba_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Machado_Casaendjerba_model_GroupNumber_330.binvox",
+      "sha256": "4a71e1008e6452bdfc2c781dbf0980e02a92ff0950d8ce436450024cc7fd69e1",
+      "bytes": 33515,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 31788
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Casa_en_Djerba_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Machado_Casaendjerba_model_GroupNumber_60.binvox",
+      "sha256": "ab86fe5fb9ce4b81082ccb5fd583f8a0fb6aa95b6100273304545c996ff9bbfb",
+      "bytes": 32919,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 31092
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Casa_en_Djerba_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Machado_Casaendjerba_model_GroupNumber_90.binvox",
+      "sha256": "604c43f094cc5e2935e3ab43e0103820447f355e619d5360076267741a52fce8",
+      "bytes": 33059,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 30539
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Casa_en_Djerba_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/Machado_Casaendjerba_model_GroupNumber.binvox",
+      "sha256": "118335ecefdbd7fc585c2bafbee68a33de69358731ec7e7b9ad2099af3f86df6",
+      "bytes": 32431,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 28081
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Casa_en_Djerba_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/Machado_Casaendjerba_model_GroupNumber.binvox",
+      "sha256": "39b2568e952f35b57214585cf6a9dc1c24cd3173fa7e33c1b51834cc71c7ce61",
+      "bytes": 213668,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 132334
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Casa_en_Djerba_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/Machado_Casaendjerba_model_GroupNumber.binvox",
+      "sha256": "8a05d5cda69a19be069e2e557b4f3b6c6600499a4d537562ec21455231690585",
+      "bytes": 1017682,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 536479
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Casa_en_Djerba_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/Machado_Casaendjerba_model_GroupNumber.binvox",
+      "sha256": "f9395fa59a979afd84966a26bfd01ee51a229855f089b7b5f5fe4f164d432b53",
+      "bytes": 4663298,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2165633
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Casa_en_Djerba_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/Machado_Casaendjerba_model_GroupNumber.binvox",
+    "resolution": 128,
+    "triangles": 5844,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "913f6aee091bcb8861d50c0783f1281c6fba10f444c5fbb2ea9c0dc15835fbbb"
+  }
+}

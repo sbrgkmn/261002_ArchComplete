@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "PierreKoenig_BaileyHouse_Master3D_Group3",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Bailey_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_BaileyHouse_Master3D_Group3_0.binvox",
+      "sha256": "b2a3bf3dfd2eff6f29f11a9923373e49bd8347a577d4b80f117918e4d538a634",
+      "bytes": 3833,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 731
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Bailey_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_BaileyHouse_Master3D_Group3_120.binvox",
+      "sha256": "f4b856ea7b62f6e7787843e193bcc1e7db58f637fea3e98982886c40703e4f7b",
+      "bytes": 3993,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 806
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Bailey_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_BaileyHouse_Master3D_Group3_150.binvox",
+      "sha256": "29a202c3dda67cc1b82595d9064e9a2d6b55c967dd367f29fec3d2d8ef14f82c",
+      "bytes": 3725,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 702
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Bailey_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_BaileyHouse_Master3D_Group3_180.binvox",
+      "sha256": "fb9caface262970348be2e63b4f4fac17b2c5b717a510e37dd1b4cf1a37ef886",
+      "bytes": 3785,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 792
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Bailey_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_BaileyHouse_Master3D_Group3_210.binvox",
+      "sha256": "e4c13610833cf820d4d5fd0160724ac7cc6a14575b287fd52acf9720572ee24f",
+      "bytes": 3841,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 712
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Bailey_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_BaileyHouse_Master3D_Group3_240.binvox",
+      "sha256": "28daae13120a5d5bd98da2b015e0f4310101c94c0f7581365eb42f11f3947d96",
+      "bytes": 3777,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 720
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Bailey_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_BaileyHouse_Master3D_Group3_270.binvox",
+      "sha256": "fc15c37dab07d40cecf1efa897ec37f7b83f418089f6660c0d100256998ca62d",
+      "bytes": 3661,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 717
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Bailey_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_BaileyHouse_Master3D_Group3_30.binvox",
+      "sha256": "a8be538426f3e2dffbd3f0a5625da8877dbabc987bddc1a388669a4b4ff5561e",
+      "bytes": 3501,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 695
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Bailey_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_BaileyHouse_Master3D_Group3_300.binvox",
+      "sha256": "3e96d5b0763e6576dbd370b9e23a8cbebd101a6c4aa976ba08728639ad63f430",
+      "bytes": 3691,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 790
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Bailey_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_BaileyHouse_Master3D_Group3_330.binvox",
+      "sha256": "b2f88d23d4a06e6b6f9b2fe9cf50e1241b5c8a719a86674f02de14f3d4f12368",
+      "bytes": 3811,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 705
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Bailey_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_BaileyHouse_Master3D_Group3_60.binvox",
+      "sha256": "c83795e46d6de72d2ff44cd83e09cbccbed27918ddd23a1dd6b42a0c558e9cee",
+      "bytes": 3865,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 814
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Bailey_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_BaileyHouse_Master3D_Group3_90.binvox",
+      "sha256": "845b8f8591d10ee390bb2639d6ba07a58329e691ba2e298df114b50f556b7f50",
+      "bytes": 3687,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 645
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Bailey_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/PierreKoenig_BaileyHouse_Master3D_Group3.binvox",
+      "sha256": "95e49e17647c6d4a2826d5cdb3266bd2ce5b6a465ce681bc539ec4116ede0bb9",
+      "bytes": 3249,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 510
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Bailey_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/PierreKoenig_BaileyHouse_Master3D_Group3.binvox",
+      "sha256": "4f8dd7550bc213f3dd8b8dc22fd4e40a8142a7408493e72195093a374266399a",
+      "bytes": 20688,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2173
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Bailey_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/PierreKoenig_BaileyHouse_Master3D_Group3.binvox",
+      "sha256": "2f3f036bdec51962998f62a38a26febbd69f75542f29208cffbb2f40387bf69e",
+      "bytes": 144948,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11269
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Bailey_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/PierreKoenig_BaileyHouse_Master3D_Group3.binvox",
+      "sha256": "6171608d8807daee25f6ac47e032685771273df92ef442db0e11c6aa085b73c9",
+      "bytes": 1124546,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 61491
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Bailey_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/PierreKoenig_BaileyHouse_Master3D_Group3.binvox",
+    "resolution": 128,
+    "triangles": 350,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "109d1be1480c424a2aa092c8b276848bcecd9a93f400aed12fa3d2796e9866de"
+  }
+}

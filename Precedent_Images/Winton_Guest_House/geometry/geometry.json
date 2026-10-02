@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "FrankGehry_WintonGuestHouse_CebrailKaraca",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Winton_Guest_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankGehry_WintonGuestHouse_CebrailKaraca_0.binvox",
+      "sha256": "40db649d096fca1ecd8e362b1763625b328eacb16feb16fa63ce658a6c5852b5",
+      "bytes": 7237,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4888
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Winton_Guest_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankGehry_WintonGuestHouse_CebrailKaraca_120.binvox",
+      "sha256": "9a6abad9a5c6564061b078e62be4d221f435dab06bc2553acb80c7f74462977a",
+      "bytes": 7095,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5109
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Winton_Guest_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankGehry_WintonGuestHouse_CebrailKaraca_150.binvox",
+      "sha256": "8a14b5a04a3740dceda17cc1387678ab8b1f06fda597dc6019dd5fc53c6f5989",
+      "bytes": 6989,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4933
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Winton_Guest_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankGehry_WintonGuestHouse_CebrailKaraca_180.binvox",
+      "sha256": "98d81c66a581ae81223e0c0411696c059d1bb690df12177e2bca2a235efbb5ed",
+      "bytes": 6457,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4569
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Winton_Guest_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankGehry_WintonGuestHouse_CebrailKaraca_210.binvox",
+      "sha256": "41a12cb0fe3c0b9b223aa0ee6a00806cb5b1abcbaabc6a609a5338faac5a2565",
+      "bytes": 6265,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4331
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Winton_Guest_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankGehry_WintonGuestHouse_CebrailKaraca_240.binvox",
+      "sha256": "1e83f476faa6c949ba51d1125551a265da63900468c41fff629d602ea30352c1",
+      "bytes": 6959,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4929
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Winton_Guest_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankGehry_WintonGuestHouse_CebrailKaraca_270.binvox",
+      "sha256": "40be388f0d3a5f3176ac8f784d6e0f944fbdfc4bd5e9fdc14f2a5335b8a4981e",
+      "bytes": 6995,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4826
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Winton_Guest_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankGehry_WintonGuestHouse_CebrailKaraca_30.binvox",
+      "sha256": "f7fb46d4649b0557391e563e1c56d058a23df02a600486466fc5444bf99bc378",
+      "bytes": 6701,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4626
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Winton_Guest_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankGehry_WintonGuestHouse_CebrailKaraca_300.binvox",
+      "sha256": "901d6923feb189f8999a3d2363dbee639b85dd235f892e361187fda86c63d3a2",
+      "bytes": 7045,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4779
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Winton_Guest_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankGehry_WintonGuestHouse_CebrailKaraca_330.binvox",
+      "sha256": "968d0502f75fe6d83f44155f407e3288e8b6d83fe3a53e1c5996ed8a06c0a062",
+      "bytes": 6931,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4975
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Winton_Guest_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankGehry_WintonGuestHouse_CebrailKaraca_60.binvox",
+      "sha256": "2076c7729ab09b1a5ce457b042d855a2089eb55a2badf2ecf1d6378f3994acde",
+      "bytes": 6889,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4798
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Winton_Guest_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankGehry_WintonGuestHouse_CebrailKaraca_90.binvox",
+      "sha256": "c0dce353fe1d87f308ff2a626bcc9a906e539966277843aaaf9e85ed354d1153",
+      "bytes": 6709,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4902
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Winton_Guest_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/FrankGehry_WintonGuestHouse_CebrailKaraca.binvox",
+      "sha256": "059bc5c252423ee86df3b6684f7be1bee2be657d3b0616616bac9a37b7e75628",
+      "bytes": 5941,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3979
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Winton_Guest_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/FrankGehry_WintonGuestHouse_CebrailKaraca.binvox",
+      "sha256": "8d5e63af9efd2b2dbce7542042fd35e197efb57348db60557d1435b9a4438464",
+      "bytes": 31510,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 22851
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Winton_Guest_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/FrankGehry_WintonGuestHouse_CebrailKaraca.binvox",
+      "sha256": "1e842a7cc9b270573457e357275eebe942cd91030646ba41347defeac4895bbd",
+      "bytes": 211948,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 106642
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Winton_Guest_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/FrankGehry_WintonGuestHouse_CebrailKaraca.binvox",
+      "sha256": "e8ad4bd30aa4f0d90f41c3b53ab6ad27c4d8acb510fb5c5005931521294d2a84",
+      "bytes": 1565424,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 436733
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Winton_Guest_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/FrankGehry_WintonGuestHouse_CebrailKaraca.binvox",
+    "resolution": 128,
+    "triangles": 4208,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "e132f20063bc00528beef6a51bbc5507f1b46d8216b8a5d062820fd941a72ef3"
+  }
+}

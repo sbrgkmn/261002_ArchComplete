@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "StevenHollArchitects_Ex-Of-In-House_Master3D_Mayerhoffer_Carola",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Ex_Of_In_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/StevenHollArchitects_Ex-Of-In-House_Master3D_Mayerhoffer_Carola_0.binvox",
+      "sha256": "e24100366d3bae6f23f0fda2f3d76b52bd44ba4e31cd65e22b0fc1917cbe0cc7",
+      "bytes": 3473,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1073
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Ex_Of_In_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/StevenHollArchitects_Ex-Of-In-House_Master3D_Mayerhoffer_Carola_120.binvox",
+      "sha256": "a265d27aa6e328fec4750d3d60cc5273c54e355c384eb2e2599a305e337a67e0",
+      "bytes": 3459,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1077
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Ex_Of_In_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/StevenHollArchitects_Ex-Of-In-House_Master3D_Mayerhoffer_Carola_150.binvox",
+      "sha256": "d8749a06f9c144dbb3f2155ec60f1b9adafe7dd661ad8439d694db1525d9cc47",
+      "bytes": 3377,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1160
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Ex_Of_In_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/StevenHollArchitects_Ex-Of-In-House_Master3D_Mayerhoffer_Carola_180.binvox",
+      "sha256": "e832882319d38dd800496084b8fd866ddaeaf49c888cef3c1b9ee6c1e45591b7",
+      "bytes": 3667,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1333
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Ex_Of_In_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/StevenHollArchitects_Ex-Of-In-House_Master3D_Mayerhoffer_Carola_210.binvox",
+      "sha256": "99ff9ea4629964f9a5b590ac4d78fbb41acdc045f4c3fedaaa3424a3f145fcfd",
+      "bytes": 3603,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1136
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Ex_Of_In_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/StevenHollArchitects_Ex-Of-In-House_Master3D_Mayerhoffer_Carola_240.binvox",
+      "sha256": "cfbeba818107ead12d0d2844acabae52fa6c4be9e19b42c62fdff1a95a33a351",
+      "bytes": 3369,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1082
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Ex_Of_In_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/StevenHollArchitects_Ex-Of-In-House_Master3D_Mayerhoffer_Carola_270.binvox",
+      "sha256": "0288cff859d991f6e0b7861cd8d8477643658a65445dc7bfaddbb7e472d39cc9",
+      "bytes": 3439,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1077
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Ex_Of_In_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/StevenHollArchitects_Ex-Of-In-House_Master3D_Mayerhoffer_Carola_30.binvox",
+      "sha256": "18ceb30c7d2d384202944ec22a15303518a3f2f1e2ff9c35fbeea1c091336256",
+      "bytes": 3483,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1111
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Ex_Of_In_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/StevenHollArchitects_Ex-Of-In-House_Master3D_Mayerhoffer_Carola_300.binvox",
+      "sha256": "92a25561f4684adfc958cffff6bdc15bf8bcd1dc98a8b38b3504c87cce26dc6f",
+      "bytes": 3657,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1270
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Ex_Of_In_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/StevenHollArchitects_Ex-Of-In-House_Master3D_Mayerhoffer_Carola_330.binvox",
+      "sha256": "d9db8e50cf3856c8d4914f40db951cf0cea35add7c02e89f03df49d197d5d06e",
+      "bytes": 3549,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1102
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Ex_Of_In_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/StevenHollArchitects_Ex-Of-In-House_Master3D_Mayerhoffer_Carola_60.binvox",
+      "sha256": "1b3dbefa4187ae48d5dcaba080fde0d49e2b95ac2338f78168b233472afebb1e",
+      "bytes": 3589,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1199
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Ex_Of_In_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/StevenHollArchitects_Ex-Of-In-House_Master3D_Mayerhoffer_Carola_90.binvox",
+      "sha256": "73f8c11047dd25368fa70e660a7deab9c599c0170d1837b79787f3eaa92922ae",
+      "bytes": 3565,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1075
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Ex_Of_In_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/StevenHollArchitects_Ex-Of-In-House_Master3D_Mayerhoffer_Carola.binvox",
+      "sha256": "9c4da38872d2d65f36efefe8348622ea4192ee4d722d296fcc986db864504366",
+      "bytes": 3025,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 799
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Ex_Of_In_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/StevenHollArchitects_Ex-Of-In-House_Master3D_Mayerhoffer_Carola.binvox",
+      "sha256": "02f2b2a6dd6d37df770969e859c9739ac596d978290a9fb15facb1e110bb0aba",
+      "bytes": 20360,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3902
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Ex_Of_In_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/StevenHollArchitects_Ex-Of-In-House_Master3D_Mayerhoffer_Carola.binvox",
+      "sha256": "6eff56330e7fa51277271b06bfc17ac5e00e826f4e9f64eff23dff6f17500353",
+      "bytes": 147982,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 19432
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Ex_Of_In_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/StevenHollArchitects_Ex-Of-In-House_Master3D_Mayerhoffer_Carola.binvox",
+      "sha256": "77f0fdbb0f4f8f109905ae2ae35c5888391601fb0f9dd7a3cc25e4b1fbb6da1c",
+      "bytes": 1146970,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 92737
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Ex_Of_In_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/StevenHollArchitects_Ex-Of-In-House_Master3D_Mayerhoffer_Carola.binvox",
+    "resolution": 128,
+    "triangles": 2250,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "248c963d30e73530cdac288d7e8f2e51237bf4049a123411d4969922799f15d0"
+  }
+}

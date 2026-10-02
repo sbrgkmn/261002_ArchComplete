@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Villa_Tugendhat_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 3639,
+    "height": 2511,
+    "source_page": "https://www.archdaily.com/157555/ad-classics-villa-tugendhat-mies-van-der-rohe",
+    "image_url": "https://images.adsttc.com/media/images/572a/173b/e58e/ce2f/0800/0002/original/01_Villa_Tugendhat.jpg?1462376234",
+    "caption": "  ",
+    "bytes": 5466611,
+    "candidate": 1
+  },
+  {
+    "file": "Villa_Tugendhat_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 3783,
+    "height": 2307,
+    "source_page": "https://www.archdaily.com/157555/ad-classics-villa-tugendhat-mies-van-der-rohe",
+    "image_url": "https://images.adsttc.com/media/images/572a/1ac5/e58e/ce2d/1d00/0019/original/26_Villa_Tugendhat.jpg?1462377142",
+    "caption": "  ",
+    "bytes": 2629685,
+    "candidate": 6
+  },
+  {
+    "file": "Villa_Tugendhat_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 2759,
+    "height": 1743,
+    "source_page": "https://www.archdaily.com/157555/ad-classics-villa-tugendhat-mies-van-der-rohe",
+    "image_url": "https://images.adsttc.com/media/images/572a/1722/e58e/ce2f/0800/0001/original/03_Villa_Tugendhat.jpg?1462376215",
+    "caption": "  ",
+    "bytes": 2625724,
+    "candidate": 26
+  },
+  {
+    "file": "Villa_Tugendhat_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 636,
+    "height": 900,
+    "source_page": "https://www.e-architect.com/brno/tugendhat-villa-brno",
+    "image_url": "https://www.e-architect.com/images/jpgs/brno/villa_tugendhat_brno_a210312_16.jpg",
+    "caption": "  ",
+    "bytes": 67549,
+    "candidate": 35
+  },
+  {
+    "file": "Villa_Tugendhat_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 3728,
+    "height": 2313,
+    "source_page": "https://www.archdaily.com/157555/ad-classics-villa-tugendhat-mies-van-der-rohe",
+    "image_url": "https://images.adsttc.com/media/images/572a/1892/e58e/ce2f/0800/000c/original/13_Villa_Tugendhat.jpg?1462376580",
+    "caption": "  ",
+    "bytes": 2632115,
+    "candidate": 7
+  },
+  {
+    "file": "Villa_Tugendhat_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 3644,
+    "height": 2347,
+    "source_page": "https://www.archdaily.com/157555/ad-classics-villa-tugendhat-mies-van-der-rohe",
+    "image_url": "https://images.adsttc.com/media/images/572a/18f2/e58e/ce2f/0800/0010/original/15_Villa_Tugendhat.jpg?1462376674",
+    "caption": "  ",
+    "bytes": 5072782,
+    "candidate": 8
+  }
+]

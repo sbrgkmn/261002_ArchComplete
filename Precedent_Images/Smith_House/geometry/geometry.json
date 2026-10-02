@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "RichardMeier_Smith_House_Niklas_Zeisler_no_glass",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Smith_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardMeier_Smith_House_Niklas_Zeisler_no_glass_0.binvox",
+      "sha256": "e3ad8f7dab135f63b6a37f5115ab650ce38acb588831de41037a290560dceab3",
+      "bytes": 7115,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4684
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Smith_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardMeier_Smith_House_Niklas_Zeisler_no_glass_120.binvox",
+      "sha256": "4e5977770ee7f8380a56c6724977e2df60796d86e70e8a99cf585f096f9b679d",
+      "bytes": 7103,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4673
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Smith_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardMeier_Smith_House_Niklas_Zeisler_no_glass_150.binvox",
+      "sha256": "56ff7afd5bef8fec1109235fa22bf4254aaab907920234c16754889062faa547",
+      "bytes": 6451,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4382
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Smith_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardMeier_Smith_House_Niklas_Zeisler_no_glass_180.binvox",
+      "sha256": "604e557b53ee67fe02cf84ba3bc230177cdba3904b49fa5a7582feda2e8ee3e5",
+      "bytes": 7449,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5024
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Smith_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardMeier_Smith_House_Niklas_Zeisler_no_glass_210.binvox",
+      "sha256": "281edee6c2b20e205970df63b50a3ff1e35d5514391d52524625932c27830382",
+      "bytes": 6479,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4388
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Smith_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardMeier_Smith_House_Niklas_Zeisler_no_glass_240.binvox",
+      "sha256": "4fecf7a2ab40c350f7e005e7a9a887d40474e3ce297737bdf35d7b7a09f21f1a",
+      "bytes": 7365,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5139
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Smith_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardMeier_Smith_House_Niklas_Zeisler_no_glass_270.binvox",
+      "sha256": "ef12f0b6ef2b12e4bab8e02e5c04e979895c01f3df9863844915b614e77d38e1",
+      "bytes": 6681,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4713
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Smith_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardMeier_Smith_House_Niklas_Zeisler_no_glass_30.binvox",
+      "sha256": "eae622817e7d9f2929c7f7a4c8e714b197ce224fa15f92ef2cd04a6a1c8b9566",
+      "bytes": 6609,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4427
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Smith_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardMeier_Smith_House_Niklas_Zeisler_no_glass_300.binvox",
+      "sha256": "71ace94d3943c78466e106af312a3cb6d0b7276234e68fe0a3626c2b8bd9575f",
+      "bytes": 6849,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4795
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Smith_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardMeier_Smith_House_Niklas_Zeisler_no_glass_330.binvox",
+      "sha256": "e4286aa66d355e97cb22ebe7b119322a26acdf7210781153f3556bf31140a6dd",
+      "bytes": 6615,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4534
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Smith_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardMeier_Smith_House_Niklas_Zeisler_no_glass_60.binvox",
+      "sha256": "82f3ce567750a8365f0047e2f1b2dfa0b343c2cec892f970d692c3bfdab7ed64",
+      "bytes": 6949,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4851
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Smith_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardMeier_Smith_House_Niklas_Zeisler_no_glass_90.binvox",
+      "sha256": "3985daf3b8939f3f70aa3b4860d6ff0d8ddb47dd20694d1f83d1d75cf92665eb",
+      "bytes": 6531,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4295
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Smith_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/RichardMeier_Smith_House_Niklas_Zeisler_no_glass.binvox",
+      "sha256": "ee82033b2cc3112bca29848565c3fb89c029a95dfa0f7956bfbf5909c83b5372",
+      "bytes": 5677,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3946
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Smith_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/RichardMeier_Smith_House_Niklas_Zeisler_no_glass.binvox",
+      "sha256": "14f5bc3361bbb776caf93ce1562f10244670d435e22a15d1ab9db63ef9c6c0b2",
+      "bytes": 31220,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 19123
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Smith_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/RichardMeier_Smith_House_Niklas_Zeisler_no_glass.binvox",
+      "sha256": "a25727cee6446fb46f16215605478aa683e9f315df114684db2f078ceaf935d5",
+      "bytes": 216302,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 96640
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Smith_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/RichardMeier_Smith_House_Niklas_Zeisler_no_glass.binvox",
+      "sha256": "0e4b76eaca9aad3ac38cc1652d04541e769e95c4b893c14f08d63ee0aaedc934",
+      "bytes": 1562688,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 421108
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Smith_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/RichardMeier_Smith_House_Niklas_Zeisler_no_glass.binvox",
+    "resolution": 128,
+    "triangles": 9358,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "97602c309f618a19e52c617bbe33c53e792f8bdc62bb702b12a4fbb49a723a5b"
+  }
+}

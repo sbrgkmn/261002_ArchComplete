@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "OfficeKerstenGeersDavidVanSeveren_SoloHouse_Master3D_Spratler_Valentin",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Solo_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OfficeKerstenGeersDavidVanSeveren_SoloHouse_Master3D_Spratler_Valentin_0.binvox",
+      "sha256": "908794e4ad505e2c3082a46b62f2ee395d174f548761ef8ad9442a24fdd15c55",
+      "bytes": 11383,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6852
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Solo_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OfficeKerstenGeersDavidVanSeveren_SoloHouse_Master3D_Spratler_Valentin_120.binvox",
+      "sha256": "3029e2e8f234c06f3037c9ca7c1d2eae21843ff1364d83b494e96192a949c1a6",
+      "bytes": 11519,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6996
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Solo_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OfficeKerstenGeersDavidVanSeveren_SoloHouse_Master3D_Spratler_Valentin_150.binvox",
+      "sha256": "f84df757506f138539b99297f351692e89fbe44ddee6290e79fa3fd3aa57d6a7",
+      "bytes": 11571,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6937
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Solo_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OfficeKerstenGeersDavidVanSeveren_SoloHouse_Master3D_Spratler_Valentin_180.binvox",
+      "sha256": "fc81d533f4a527eb329aa5714397c7e3e3c00366fe5a813684d0e12635149cb8",
+      "bytes": 11533,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7003
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Solo_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OfficeKerstenGeersDavidVanSeveren_SoloHouse_Master3D_Spratler_Valentin_210.binvox",
+      "sha256": "264d28d640708e0cd5e721f381ea2d236454b6057a568d75153b41f18a256c78",
+      "bytes": 11395,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6871
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Solo_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OfficeKerstenGeersDavidVanSeveren_SoloHouse_Master3D_Spratler_Valentin_240.binvox",
+      "sha256": "0f5caa7f3a52f9370e89f6ff90800e5de1ed9f56d2dcfd44555d710f7a1d39fc",
+      "bytes": 11495,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6926
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Solo_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OfficeKerstenGeersDavidVanSeveren_SoloHouse_Master3D_Spratler_Valentin_270.binvox",
+      "sha256": "97ad2408abe1d830f6d842def8dd10c0175ec96a13462460b7aaf8fec89e9e2c",
+      "bytes": 11445,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6912
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Solo_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OfficeKerstenGeersDavidVanSeveren_SoloHouse_Master3D_Spratler_Valentin_30.binvox",
+      "sha256": "2d46930ef089917663cdbd5381299b1a1d8f2b1a1f48bae8258cbbee3cb15ed0",
+      "bytes": 11393,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6880
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Solo_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OfficeKerstenGeersDavidVanSeveren_SoloHouse_Master3D_Spratler_Valentin_300.binvox",
+      "sha256": "149778e7528f7b12913d765b00b5c0c603519b6abdfb1abdcd4a39a63e6b02f6",
+      "bytes": 11495,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6815
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Solo_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OfficeKerstenGeersDavidVanSeveren_SoloHouse_Master3D_Spratler_Valentin_330.binvox",
+      "sha256": "49f8e9ca6c953452a59f0dc9767d565ebef7b9c3c77087f0c19136a9bc6cc078",
+      "bytes": 11429,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6870
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Solo_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OfficeKerstenGeersDavidVanSeveren_SoloHouse_Master3D_Spratler_Valentin_60.binvox",
+      "sha256": "8c7fe8330010922e1bc16c68f0ca98aad8dd6bb92c5292cd129f51431311f12b",
+      "bytes": 11433,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6900
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Solo_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OfficeKerstenGeersDavidVanSeveren_SoloHouse_Master3D_Spratler_Valentin_90.binvox",
+      "sha256": "030f7ac6262913017be649fd5e9c7c5bb538feef805ef0357c78197823e4ee35",
+      "bytes": 11443,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7010
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Solo_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/OfficeKerstenGeersDavidVanSeveren_SoloHouse_Master3D_Spratler_Valentin.binvox",
+      "sha256": "74f17ca9bfe4283820a44d0321239703496c54cb6c20e79137c4854caf3ee665",
+      "bytes": 10951,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6628
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Solo_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/OfficeKerstenGeersDavidVanSeveren_SoloHouse_Master3D_Spratler_Valentin.binvox",
+      "sha256": "b576a1c9d05d60a34c4ed0f0b366967b17c78088f0a7aa1c89a56ae37e55ad8a",
+      "bytes": 52244,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 28278
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Solo_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/OfficeKerstenGeersDavidVanSeveren_SoloHouse_Master3D_Spratler_Valentin.binvox",
+      "sha256": "ecd149a83d853847fe7a5b6db2ef9334a693842ddef8caae962943d6643b2c35",
+      "bytes": 395884,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 120953
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Solo_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/OfficeKerstenGeersDavidVanSeveren_SoloHouse_Master3D_Spratler_Valentin.binvox",
+      "sha256": "f43b01ecc920628a1e733a1dc47d41fd67321b23b2258522409531d9ef028e46",
+      "bytes": 2141654,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 515536
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Solo_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/OfficeKerstenGeersDavidVanSeveren_SoloHouse_Master3D_Spratler_Valentin.binvox",
+    "resolution": 128,
+    "triangles": 10056,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "4dba6d481b3b7aa8d99cc4b5f2562e4e382319ee73272198251944ca2e8ec9a7"
+  }
+}

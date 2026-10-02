@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Brant_House_Exterior_01.png",
+    "view_type": "Exterior",
+    "width": 2234,
+    "height": 1406,
+    "source_page": "https://architecture-history.org/architects/architects/VENTURI/OBJ/1973%2C%20Brant%20House%2C%20Greenwich%2C%20USA.html",
+    "image_url": "https://architecture-history.org/architects/architects/VENTURI/PIC/ya01.png",
+    "caption": "  ",
+    "bytes": 4554599,
+    "candidate": 1
+  },
+  {
+    "file": "Brant_House_Exterior_02.png",
+    "view_type": "Exterior",
+    "width": 2374,
+    "height": 1600,
+    "source_page": "https://architecture-history.org/architects/architects/VENTURI/OBJ/1973%2C%20Brant%20House%2C%20Greenwich%2C%20USA.html",
+    "image_url": "https://architecture-history.org/architects/architects/VENTURI/PIC/YA02.png",
+    "caption": "  ",
+    "bytes": 4966896,
+    "candidate": 2
+  },
+  {
+    "file": "Brant_House_Exterior_03.png",
+    "view_type": "Exterior",
+    "width": 2216,
+    "height": 1556,
+    "source_page": "https://architecture-history.org/architects/architects/VENTURI/OBJ/1973%2C%20Brant%20House%2C%20Greenwich%2C%20USA.html",
+    "image_url": "https://architecture-history.org/architects/architects/VENTURI/PIC/YA08.png",
+    "caption": "  ",
+    "bytes": 3368197,
+    "candidate": 7
+  },
+  {
+    "file": "Brant_House_Floor_Plan_01.png",
+    "view_type": "Floor_Plan",
+    "width": 1103,
+    "height": 970,
+    "source_page": "https://usmodernist.org/PA/PA-1976-08.pdf#page=52",
+    "image_url": "https://usmodernist.org/PA/PA-1976-08.pdf#page=52",
+    "caption": "Floor plan detail extracted from original-resolution archival magazine scan, including room legend.",
+    "bytes": 908279,
+    "candidate": 0
+  },
+  {
+    "file": "Brant_House_Interior_01.png",
+    "view_type": "Interior",
+    "width": 2216,
+    "height": 1556,
+    "source_page": "https://architecture-history.org/architects/architects/VENTURI/OBJ/1973%2C%20Brant%20House%2C%20Greenwich%2C%20USA.html",
+    "image_url": "https://architecture-history.org/architects/architects/VENTURI/PIC/YA05.png",
+    "caption": "  ",
+    "bytes": 4505387,
+    "candidate": 4
+  },
+  {
+    "file": "Brant_House_Interior_02.png",
+    "view_type": "Interior",
+    "width": 2216,
+    "height": 1556,
+    "source_page": "https://architecture-history.org/architects/architects/VENTURI/OBJ/1973%2C%20Brant%20House%2C%20Greenwich%2C%20USA.html",
+    "image_url": "https://architecture-history.org/architects/architects/VENTURI/PIC/YA06.png",
+    "caption": "  ",
+    "bytes": 4624573,
+    "candidate": 5
+  }
+]

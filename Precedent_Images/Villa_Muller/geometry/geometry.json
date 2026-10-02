@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "AdolfLoos_VillaMuller_Master3D_Studer_Marvin",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Villa_Muller_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AdolfLoos_VillaMuller_Master3D_Studer_Marvin_0.binvox",
+      "sha256": "d339a9704115c6f94f462c27afff329b540db7fbfaeb08aa0a7be759d3488474",
+      "bytes": 8977,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7234
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Villa_Muller_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AdolfLoos_VillaMuller_Master3D_Studer_Marvin_120.binvox",
+      "sha256": "463dd02f4ec50f1aebb481177926310f9acd85199097d8b4517d7fb825478ef2",
+      "bytes": 8339,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8602
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Villa_Muller_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AdolfLoos_VillaMuller_Master3D_Studer_Marvin_150.binvox",
+      "sha256": "8826245434b95a2144bab337e014db4d416613cdfe7f59bedb4163d0e1167ae1",
+      "bytes": 8459,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8288
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Villa_Muller_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AdolfLoos_VillaMuller_Master3D_Studer_Marvin_180.binvox",
+      "sha256": "cad6576bb688188c112d0c657aaad85fc4e199548d60b3786f96bc2841e64d32",
+      "bytes": 8859,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7827
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Villa_Muller_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AdolfLoos_VillaMuller_Master3D_Studer_Marvin_210.binvox",
+      "sha256": "1af085280ddfa68b2ead8e1941b78d9fd915081818cbfdd65446f169a1d4773a",
+      "bytes": 8763,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7657
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Villa_Muller_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AdolfLoos_VillaMuller_Master3D_Studer_Marvin_240.binvox",
+      "sha256": "563b58e04f048094ac7e6d5623636aa089406ae75c6894dd32ee61ea3083e130",
+      "bytes": 9935,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8625
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Villa_Muller_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AdolfLoos_VillaMuller_Master3D_Studer_Marvin_270.binvox",
+      "sha256": "d3e92e7ce9d2c8918ab08dc6c74c3c388f92497c29a359f86fc86f98cfef99cc",
+      "bytes": 8301,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7852
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Villa_Muller_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AdolfLoos_VillaMuller_Master3D_Studer_Marvin_30.binvox",
+      "sha256": "ba47714b6a415d0b18e4befb489e6cd489ef1675ffefcb8806858a67e5066f3f",
+      "bytes": 8887,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8329
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Villa_Muller_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AdolfLoos_VillaMuller_Master3D_Studer_Marvin_300.binvox",
+      "sha256": "83f620a8e59d50200cb66ad1cdf28a064cc262fb564ac94cd73d9b69ed393562",
+      "bytes": 9781,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7874
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Villa_Muller_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AdolfLoos_VillaMuller_Master3D_Studer_Marvin_330.binvox",
+      "sha256": "232a4d10525ab449d52721fd45668dfbf816c585539a7b337694251f00a1ce0b",
+      "bytes": 8485,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7385
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Villa_Muller_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AdolfLoos_VillaMuller_Master3D_Studer_Marvin_60.binvox",
+      "sha256": "05c1fe379b80e6c7adfe61c1120b77ce7cd478c429607559610b965f8d348981",
+      "bytes": 8523,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7969
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Villa_Muller_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AdolfLoos_VillaMuller_Master3D_Studer_Marvin_90.binvox",
+      "sha256": "53d945808f644ad4e786c7bfe2d59ef517ab00b5768c8fb820868236d09c6458",
+      "bytes": 9189,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8386
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Villa_Muller_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/AdolfLoos_VillaMuller_Master3D_Studer_Marvin.binvox",
+      "sha256": "852396c061f4add4ab488a10d3d8c345066b696f70582e5817fb4bf9c6084fd9",
+      "bytes": 7359,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6170
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Villa_Muller_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/AdolfLoos_VillaMuller_Master3D_Studer_Marvin.binvox",
+      "sha256": "addf5ed11459111c85c398bece725786882c2684aa650b810d5027fc4875608c",
+      "bytes": 42046,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 34444
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Villa_Muller_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/AdolfLoos_VillaMuller_Master3D_Studer_Marvin.binvox",
+      "sha256": "862efa9d57345d10b040156b6f6bb491b0ea7c484b848f040f37a687fa7336d5",
+      "bytes": 316560,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 154610
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Villa_Muller_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/AdolfLoos_VillaMuller_Master3D_Studer_Marvin.binvox",
+      "sha256": "0e3e350e4c37b3fe25f1de6687b825f51be46dedc32bd5742268d0eb5c2fb662",
+      "bytes": 1899092,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 665644
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Villa_Muller_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/AdolfLoos_VillaMuller_Master3D_Studer_Marvin.binvox",
+    "resolution": 128,
+    "triangles": 4052,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "0dfb7ec3ab06a15d9cde3543eaa99e4b5cd89980f80101092668c4547ae815cb"
+  }
+}

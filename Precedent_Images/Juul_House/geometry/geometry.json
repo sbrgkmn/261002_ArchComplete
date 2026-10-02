@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "NKSarchitects_juulhouse_Master3D_Group07",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Juul_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/NKSarchitects_juulhouse_Master3D_Group07_0.binvox",
+      "sha256": "0ba3bf92a048b13244847e874864a871e1ceaad6d7e136b8b108681a78217c5b",
+      "bytes": 6707,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3485
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Juul_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/NKSarchitects_juulhouse_Master3D_Group07_120.binvox",
+      "sha256": "0a5bdc339c6456689c81903ad7783b243e9c7d8d359f09fca69c96728f764327",
+      "bytes": 6353,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4148
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Juul_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/NKSarchitects_juulhouse_Master3D_Group07_150.binvox",
+      "sha256": "4312147850b78bd507f6b2b761a3f8cd6b5e151e2d26584ef686b5c7b04d8ca5",
+      "bytes": 6353,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3890
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Juul_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/NKSarchitects_juulhouse_Master3D_Group07_180.binvox",
+      "sha256": "63a28b6764f4d61b5d5e733d2f7c19d72d367d9cf68ea8c24162ebd8dc21d820",
+      "bytes": 6675,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4046
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Juul_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/NKSarchitects_juulhouse_Master3D_Group07_210.binvox",
+      "sha256": "7aa85e3b3d01ae92a80a40c6cc92b467ada9d0a955a4bac1671d1d6b96633aeb",
+      "bytes": 6383,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3849
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Juul_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/NKSarchitects_juulhouse_Master3D_Group07_240.binvox",
+      "sha256": "142e14401929f1978f647f9335ce313f590169d4becc7ce6eb2fe75216ef3051",
+      "bytes": 6421,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3807
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Juul_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/NKSarchitects_juulhouse_Master3D_Group07_270.binvox",
+      "sha256": "2ea3a88dfe284b9d17680b68e028f5d603847dbdd821c59aebc6050f011b4ece",
+      "bytes": 6435,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3803
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Juul_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/NKSarchitects_juulhouse_Master3D_Group07_30.binvox",
+      "sha256": "4eaf3f007ae44fddf799584823207572fb566546410929da099297a4915be534",
+      "bytes": 6007,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3522
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Juul_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/NKSarchitects_juulhouse_Master3D_Group07_300.binvox",
+      "sha256": "6478b93348ed378fae154f316c53721533b45c3f6a3136b3a2653c7d6806fee7",
+      "bytes": 6425,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3671
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Juul_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/NKSarchitects_juulhouse_Master3D_Group07_330.binvox",
+      "sha256": "2f61d67987519b926b4922b8268c69981cfaab4519b8fc74ff4f1da7b383e564",
+      "bytes": 6307,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3721
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Juul_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/NKSarchitects_juulhouse_Master3D_Group07_60.binvox",
+      "sha256": "155e09b8982287b823fc45f3f26f3d4b5a0738b1e462796cbc87e6a8892197ae",
+      "bytes": 6487,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3941
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Juul_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/NKSarchitects_juulhouse_Master3D_Group07_90.binvox",
+      "sha256": "e3341ab7cad5b55d006b261c9ba6b31ce79abea53e55118b3983f9ab2c655b6c",
+      "bytes": 6201,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3468
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Juul_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/NKSarchitects_juulhouse_Master3D_Group07.binvox",
+      "sha256": "a10e439c63fceec7c443029b13cd79b2173f4e9b349fc3577c13ea952d604f2b",
+      "bytes": 5235,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2881
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Juul_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/NKSarchitects_juulhouse_Master3D_Group07.binvox",
+      "sha256": "371e8294b7e5ec533cc09fe72758095e79def43f14835f5d0508118ce49defb7",
+      "bytes": 30010,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 16387
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Juul_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/NKSarchitects_juulhouse_Master3D_Group07.binvox",
+      "sha256": "f520fb17b0dc14179af3117b975c90489263c001a34afbc8faa8b4f5ce440820",
+      "bytes": 218450,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 80521
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Juul_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/NKSarchitects_juulhouse_Master3D_Group07.binvox",
+      "sha256": "32a983b845b8dc1fd97979448f58417d82d594a5b1905ca09eb10525f2253a3c",
+      "bytes": 1517688,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 342866
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Juul_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/NKSarchitects_juulhouse_Master3D_Group07.binvox",
+    "resolution": 128,
+    "triangles": 1546,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "6b26489142fecfc2a27869465175bea68801bcfbccb509e582e601d2c1438249"
+  }
+}

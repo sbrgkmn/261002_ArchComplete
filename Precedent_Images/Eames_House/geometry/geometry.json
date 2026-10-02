@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "Charles_RayEames_eameshouse_Master3D_markar_annegret",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Eames_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Charles_RayEames_eameshouse_Master3D_markar_annegret_0.binvox",
+      "sha256": "2148d4b3be633fe3c15f5e59e318ea947a96d63a0123f01f40d0148ed110fce3",
+      "bytes": 8645,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3553
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Eames_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Charles_RayEames_eameshouse_Master3D_markar_annegret_120.binvox",
+      "sha256": "f08902c7b934e7b189be16d61617a23a4678a7e6ea79ee7ad9b3fa77511da496",
+      "bytes": 6973,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3236
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Eames_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Charles_RayEames_eameshouse_Master3D_markar_annegret_150.binvox",
+      "sha256": "e0f737c80c7bb5e8ac73c9bc1810e164f8d71faf0b1148f74af9567214de17ac",
+      "bytes": 6895,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2877
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Eames_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Charles_RayEames_eameshouse_Master3D_markar_annegret_180.binvox",
+      "sha256": "f47dd1285cbe868872c215bbb89ea78d7bb26abcb9de6fa1d64316d01c121e56",
+      "bytes": 6985,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3084
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Eames_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Charles_RayEames_eameshouse_Master3D_markar_annegret_210.binvox",
+      "sha256": "ac45eed2affda93c072892f5b9a7df8fca0a6e2c197467eb2db9302afecd74e0",
+      "bytes": 6987,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2902
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Eames_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Charles_RayEames_eameshouse_Master3D_markar_annegret_240.binvox",
+      "sha256": "f4e7fd743434aa55b78f0586e5b9fa33913bcaefb280f2d11f009c4ff60e474f",
+      "bytes": 6611,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2670
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Eames_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Charles_RayEames_eameshouse_Master3D_markar_annegret_270.binvox",
+      "sha256": "357950f801a8389e477ffed7b57badfa453564952b7b9e56a5b4e799cb2fc0be",
+      "bytes": 8023,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3825
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Eames_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Charles_RayEames_eameshouse_Master3D_markar_annegret_30.binvox",
+      "sha256": "b12c79e1bfcd769ef638aaacfc3c916e146b58c49d74c8808aff44f7407246a2",
+      "bytes": 6911,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2963
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Eames_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Charles_RayEames_eameshouse_Master3D_markar_annegret_300.binvox",
+      "sha256": "fcf9db8feaa3a6c9451918a7f9a1d1dee1584c5202ff16459ee568e645a14edb",
+      "bytes": 6913,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2813
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Eames_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Charles_RayEames_eameshouse_Master3D_markar_annegret_330.binvox",
+      "sha256": "cdddddda9b4604e187d0c475b5b3dc8fd0e1879ab1e8930d2b1dd31940d9ec16",
+      "bytes": 8163,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3238
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Eames_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Charles_RayEames_eameshouse_Master3D_markar_annegret_60.binvox",
+      "sha256": "edc414bcabbbe985b986bb6eec77671a5f7705fc34b2a3e0fd23797d25727651",
+      "bytes": 7793,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3319
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Eames_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Charles_RayEames_eameshouse_Master3D_markar_annegret_90.binvox",
+      "sha256": "2ef6bfa6e2554e11e58df5b4ebed3ecd6d8c0c89c5c0e803fc5c360e5f554cf4",
+      "bytes": 6553,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2697
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Eames_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/Charles_RayEames_eameshouse_Master3D_markar_annegret.binvox",
+      "sha256": "9d2cf7dab08631c46bcd88706d7c32e77157cf228408de941ebecebaf1983397",
+      "bytes": 6165,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2462
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Eames_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/Charles_RayEames_eameshouse_Master3D_markar_annegret.binvox",
+      "sha256": "b6bf58290f8f587a0db2826535e9c169e0392e4ed8ca194d18a648e5e9eb8c8a",
+      "bytes": 32632,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11064
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Eames_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/Charles_RayEames_eameshouse_Master3D_markar_annegret.binvox",
+      "sha256": "0341bb708a6e2f92cc98632c4b1562fcbd2355a82924d4cb19cf249d6525eeee",
+      "bytes": 205516,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 59974
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Eames_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/Charles_RayEames_eameshouse_Master3D_markar_annegret.binvox",
+      "sha256": "873cb2cb2134ac81c73c8b3967c4b99bd39179acaef70062a5bd634ae4e87093",
+      "bytes": 1502856,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 271708
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Eames_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/Charles_RayEames_eameshouse_Master3D_markar_annegret.binvox",
+    "resolution": 128,
+    "triangles": 1306,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "da7c72373e3e5a82567f2865d4f459ff095e53fda016a70c45ca4d62b194119f"
+  }
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "file": "House_with_One_Wall_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 3000,
+    "height": 2288,
+    "source_page": "https://www.archdaily.com/604014/house-with-one-wall-christian-kerez",
+    "image_url": "https://images.adsttc.com/media/images/54f1/4ee7/e58e/ce7e/1000/0232/original/01_Exterior_%C2%A9Walter_Mair.jpg?1425100500",
+    "caption": "  ",
+    "bytes": 2670642,
+    "candidate": 1
+  },
+  {
+    "file": "House_with_One_Wall_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1280,
+    "height": 1759,
+    "source_page": "https://www.thisispaper.com/mag/house-with-one-wall-christian-kerez",
+    "image_url": "https://cdn.prod.website-files.com/5d70caf362d15d860bedae09/69c78f4b14150e67c2e0c318_5f85a2a559186d5940b74ca1_thisispaper-swiss-family-House-with-One-Wall-Christian-Kerez-7.jpeg",
+    "caption": "House with One Wall by Christian Kerez — Christian Kerez's 1997 two-family house in Zürich presents a radical structural strategy made fully legible through continuous glazing.  ",
+    "bytes": 271775,
+    "candidate": 3
+  },
+  {
+    "file": "House_with_One_Wall_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1200,
+    "height": 926,
+    "source_page": "https://divisare.com/projects/310214-christian-kerez-walter-mair-house-with-one-wall-zurich-switzerland",
+    "image_url": "https://images.divisare.com//image/upload/c_fit,f_jpg,q_80,w_1200/v1455268916/anv0h6wcsvwfzkcqhw3a.jpg",
+    "caption": "  ",
+    "bytes": 210488,
+    "candidate": 15
+  },
+  {
+    "file": "House_with_One_Wall_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1867,
+    "height": 3000,
+    "source_page": "https://www.archdaily.com/604014/house-with-one-wall-christian-kerez",
+    "image_url": "https://images.adsttc.com/media/images/54f1/4dc2/e58e/ce89/2500/0202/large_jpg/ground_floor_plan.jpg?1425100216",
+    "caption": "  ",
+    "bytes": 183640,
+    "candidate": 8
+  },
+  {
+    "file": "House_with_One_Wall_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1833,
+    "height": 3000,
+    "source_page": "https://www.archdaily.com/604014/house-with-one-wall-christian-kerez",
+    "image_url": "https://images.adsttc.com/media/images/54f1/4db7/e58e/ce89/2500/0201/large_jpg/first_floor_plan.jpg?1425100203",
+    "caption": "  ",
+    "bytes": 147058,
+    "candidate": 9
+  },
+  {
+    "file": "House_with_One_Wall_Floor_Plan_03.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1908,
+    "height": 3000,
+    "source_page": "https://www.archdaily.com/604014/house-with-one-wall-christian-kerez",
+    "image_url": "https://images.adsttc.com/media/images/54f1/4dca/e58e/ce7e/1000/0231/large_jpg/second_floor_plan.jpg?1425100221",
+    "caption": "  ",
+    "bytes": 199519,
+    "candidate": 10
+  },
+  {
+    "file": "House_with_One_Wall_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 3000,
+    "height": 2299,
+    "source_page": "https://www.archdaily.com/604014/house-with-one-wall-christian-kerez",
+    "image_url": "https://images.adsttc.com/media/images/54f1/4c23/e58e/ce7e/1000/022f/original/portada_06_L02_South_%C2%A9Walter_Mair.jpg?1425099792",
+    "caption": "House with One Wall / Christian Kerez - Image 2 of 12 © Walter Mair https://www.archdaily.com/604014/house-with-one-wall-christian-kerez/54f14c23e58ece7e1000022f-portada_06_l02_south_-walter_mair-jpg",
+    "bytes": 1885042,
+    "candidate": 2
+  },
+  {
+    "file": "House_with_One_Wall_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 3000,
+    "height": 2299,
+    "source_page": "https://www.archdaily.com/604014/house-with-one-wall-christian-kerez",
+    "image_url": "https://images.adsttc.com/media/images/54f1/4c00/e58e/ce7e/1000/022e/original/05_L01_North_%C2%A9Walter_Mair.jpg?1425099753",
+    "caption": "House with One Wall / Christian Kerez - Image 5 of 12 © Walter Mair https://www.archdaily.com/604014/house-with-one-wall-christian-kerez/54f14c00e58ece7e1000022e-05_l01_north_-walter_mair-jpg",
+    "bytes": 2174928,
+    "candidate": 5
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "file": "Triangle_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1920,
+    "height": 910,
+    "source_page": "https://shigerubanarchitects.com/works/timber-and-bamboo/triangle-house/",
+    "image_url": "https://shigerubanarchitects.com/wp-content/uploads/2022/10/shigeru-ban-triangle-house0.jpg",
+    "caption": "  ",
+    "bytes": 143323,
+    "candidate": 1
+  },
+  {
+    "file": "Triangle_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 800,
+    "height": 533,
+    "source_page": "https://shigerubanarchitects.com/works/timber-and-bamboo/triangle-house/",
+    "image_url": "https://shigerubanarchitects.com/wp-content/uploads/2019/10/03.jpg",
+    "caption": "  ",
+    "bytes": 644936,
+    "candidate": 3
+  },
+  {
+    "file": "Triangle_House_Floor_Plan_01.webp",
+    "view_type": "Floor_Plan",
+    "width": 900,
+    "height": 550,
+    "source_page": "https://www.architecturalrecord.com/articles/12760-triangle-house-by-shigeru-ban-architects",
+    "image_url": "https://www.architecturalrecord.com/ext/resources/Issues/2017/June/record-houses/1706-Record-Houses-Shigeru-Ban-Architects-Tokyo-Triangle-House-09.webp?t=1495722472&width=1080",
+    "caption": "Triangle House  ",
+    "bytes": 15156,
+    "candidate": 10
+  },
+  {
+    "file": "Triangle_House_Floor_Plan_02.webp",
+    "view_type": "Floor_Plan",
+    "width": 900,
+    "height": 550,
+    "source_page": "https://www.architecturalrecord.com/articles/12760-triangle-house-by-shigeru-ban-architects",
+    "image_url": "https://www.architecturalrecord.com/ext/resources/Issues/2017/June/record-houses/1706-Record-Houses-Shigeru-Ban-Architects-Tokyo-Triangle-House-10.webp?t=1495722488&width=1080",
+    "caption": "Triangle House  ",
+    "bytes": 20602,
+    "candidate": 11
+  },
+  {
+    "file": "Triangle_House_Floor_Plan_03.webp",
+    "view_type": "Floor_Plan",
+    "width": 900,
+    "height": 550,
+    "source_page": "https://www.architecturalrecord.com/articles/12760-triangle-house-by-shigeru-ban-architects",
+    "image_url": "https://www.architecturalrecord.com/ext/resources/Issues/2017/June/record-houses/1706-Record-Houses-Shigeru-Ban-Architects-Tokyo-Triangle-House-11.webp?t=1495722503&width=1080",
+    "caption": "Triangle House  ",
+    "bytes": 13594,
+    "candidate": 12
+  },
+  {
+    "file": "Triangle_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1478,
+    "height": 1000,
+    "source_page": "https://shigerubanarchitects.com/works/timber-and-bamboo/triangle-house/",
+    "image_url": "https://shigerubanarchitects.com/wp-content/uploads/2022/10/shigeru-ban-triangle-house4.jpg",
+    "caption": "  ",
+    "bytes": 228012,
+    "candidate": 4
+  },
+  {
+    "file": "Triangle_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 1478,
+    "height": 1000,
+    "source_page": "https://shigerubanarchitects.com/works/timber-and-bamboo/triangle-house/",
+    "image_url": "https://shigerubanarchitects.com/wp-content/uploads/2022/10/shigeru-ban-triangle-house2.jpg",
+    "caption": "  ",
+    "bytes": 185142,
+    "candidate": 6
+  }
+]

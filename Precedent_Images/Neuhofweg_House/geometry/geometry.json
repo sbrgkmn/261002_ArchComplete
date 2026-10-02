@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "BeckOserArchitekten_NeuhofwegHouse_Master3D_Group2",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Neuhofweg_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/BeckOserArchitekten_NeuhofwegHouse_Master3D_Group2_0.binvox",
+      "sha256": "c21cdf30261b6057a2cba85f0c6c03d705831c1d1c431263971ea807fce352b4",
+      "bytes": 8479,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5319
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Neuhofweg_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/BeckOserArchitekten_NeuhofwegHouse_Master3D_Group2_120.binvox",
+      "sha256": "d6506ef769123fb915141a4013409637d4739c9b7cd64e626238cca06cf8b701",
+      "bytes": 8633,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5434
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Neuhofweg_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/BeckOserArchitekten_NeuhofwegHouse_Master3D_Group2_150.binvox",
+      "sha256": "4796216e38051be119076d93dc6879988889318f02ab3d3bc8e3ba0701cb05f8",
+      "bytes": 8587,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5231
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Neuhofweg_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/BeckOserArchitekten_NeuhofwegHouse_Master3D_Group2_180.binvox",
+      "sha256": "0d88b4ffdcd55ab638c5094738652d49ec67d0eeafb4116339360020d52e6220",
+      "bytes": 8803,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5753
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Neuhofweg_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/BeckOserArchitekten_NeuhofwegHouse_Master3D_Group2_210.binvox",
+      "sha256": "caed9a6f7ea30dbbd360ca65f60be87a9c921f43a3aa7c5758301fe9b92d4a24",
+      "bytes": 8327,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5154
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Neuhofweg_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/BeckOserArchitekten_NeuhofwegHouse_Master3D_Group2_240.binvox",
+      "sha256": "4fbb475f99a3839939457c9bb4d150622abf3918f959ad3ca2ecf06cc89ebd2a",
+      "bytes": 9023,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5670
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Neuhofweg_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/BeckOserArchitekten_NeuhofwegHouse_Master3D_Group2_270.binvox",
+      "sha256": "c500e435fd90fe0a1386dca30a4a1367ce0f4ca3bb175b06b20cdb48330061b4",
+      "bytes": 8539,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5082
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Neuhofweg_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/BeckOserArchitekten_NeuhofwegHouse_Master3D_Group2_30.binvox",
+      "sha256": "50493a8449d9e4d404c75f70be582f19a8d1308091444dc002b3e7db5af236ec",
+      "bytes": 8465,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5080
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Neuhofweg_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/BeckOserArchitekten_NeuhofwegHouse_Master3D_Group2_300.binvox",
+      "sha256": "34f167978d19b5c3fe12d6d7555247d1802b7a580a6b172c2b2594adc7b946fc",
+      "bytes": 9113,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5409
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Neuhofweg_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/BeckOserArchitekten_NeuhofwegHouse_Master3D_Group2_330.binvox",
+      "sha256": "75bcc433acc161e3ec6ff30cd59623621becc4c2a956e5758529bc74a1df9104",
+      "bytes": 8049,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5156
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Neuhofweg_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/BeckOserArchitekten_NeuhofwegHouse_Master3D_Group2_60.binvox",
+      "sha256": "760ccca86c1c8a67fafaab252e847c88659d2cb1483ec6cb4e69e37417e0252a",
+      "bytes": 8419,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5303
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Neuhofweg_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/BeckOserArchitekten_NeuhofwegHouse_Master3D_Group2_90.binvox",
+      "sha256": "a27a949b3d902b7282d4450d136af7d901ed3183f916f30972a91aac7d12fcef",
+      "bytes": 8471,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5370
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Neuhofweg_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/BeckOserArchitekten_NeuhofwegHouse_Master3D_Group2.binvox",
+      "sha256": "25516d86383ad9ab026e4c1b35fc440772dbb41b0fe8ae34452a88d9b424517c",
+      "bytes": 6981,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4194
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Neuhofweg_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/BeckOserArchitekten_NeuhofwegHouse_Master3D_Group2.binvox",
+      "sha256": "881c2a26309f6da54ff5c3fd62a01efdad72e204bd08afbfdfde8219f7ab4a91",
+      "bytes": 37542,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 23751
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Neuhofweg_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/BeckOserArchitekten_NeuhofwegHouse_Master3D_Group2.binvox",
+      "sha256": "f0e1db0582462a3a20db85b52de414606dc11a83a5328411c05665f53306dd64",
+      "bytes": 315792,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 111437
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Neuhofweg_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/BeckOserArchitekten_NeuhofwegHouse_Master3D_Group2.binvox",
+      "sha256": "e0b5a0228c745bee6cb68780254adc8bd4289dcca941db0d5cdb5a309f234346",
+      "bytes": 1823934,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 469006
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Neuhofweg_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/BeckOserArchitekten_NeuhofwegHouse_Master3D_Group2.binvox",
+    "resolution": 128,
+    "triangles": 3098,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "12821e8ab16c012ab33bd45597302256b0e5ba542bd07feb4e1ac12c772aa014"
+  }
+}

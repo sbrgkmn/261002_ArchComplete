@@ -1,0 +1,68 @@
+[
+  {
+    "file": "La_Rotonda_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 1334,
+    "source_page": "https://archeyes.com/villa-capra-la-rotonda-andrea-palladio/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2020/05/andrea-palladio-mario-ferrara-la-rotonda-di-andrea-palladio10.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 356499,
+    "candidate": 2
+  },
+  {
+    "file": "La_Rotonda_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 1334,
+    "source_page": "https://archeyes.com/villa-capra-la-rotonda-andrea-palladio/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2020/05/andrea-palladio-mario-ferrara-la-rotonda-di-andrea-palladio11.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 431311,
+    "candidate": 3
+  },
+  {
+    "file": "La_Rotonda_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 1230,
+    "source_page": "https://archeyes.com/villa-capra-la-rotonda-andrea-palladio/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2020/05/andrea-palladio-atelier-xyz-Villa-Rotonda-palladio-ArchEyes-italy-palace-2.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 910739,
+    "candidate": 8
+  },
+  {
+    "file": "La_Rotonda_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1100,
+    "height": 1700,
+    "source_page": "https://archeyes.com/villa-capra-la-rotonda-andrea-palladio/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2020/05/Villa-Rotonda-palladio-ArchEyes-italy-palace-plans.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 212649,
+    "candidate": 12
+  },
+  {
+    "file": "La_Rotonda_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 311,
+    "height": 465,
+    "source_page": "https://commons.wikimedia.org/wiki/Category:Interior_of_Villa_Capra_%22La_Rotonda%22",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Palladio_Rotonda_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+    "caption": "  ",
+    "bytes": 35093,
+    "candidate": 7
+  },
+  {
+    "file": "La_Rotonda_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 3672,
+    "height": 4896,
+    "source_page": "https://commons.wikimedia.org/wiki/Category:Interior_of_Villa_Capra_%22La_Rotonda%22",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Vicenza%2C_La_Rotonda%2C_interno_%2811%29.jpg",
+    "caption": "  ",
+    "bytes": 6276871,
+    "candidate": 46
+  }
+]

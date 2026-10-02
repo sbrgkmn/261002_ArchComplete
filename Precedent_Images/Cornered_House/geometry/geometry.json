@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "PrestonScott__CorneredHouse_Master3D_Pegger_Justus",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Cornered_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PrestonScott__CorneredHouse_Master3D_Pegger_Justus_0.binvox",
+      "sha256": "80dac798674598e00e3e355995e797a55d367181ae22344cabb9100ab795e497",
+      "bytes": 7257,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4498
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Cornered_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PrestonScott__CorneredHouse_Master3D_Pegger_Justus_120.binvox",
+      "sha256": "3be4fc41b8c1cb93ff36104cda3e85e6b597443d09bc45cd10592a388b197f3f",
+      "bytes": 7683,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4592
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Cornered_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PrestonScott__CorneredHouse_Master3D_Pegger_Justus_150.binvox",
+      "sha256": "c8668ba047bac6207d2799ab65d74f58cf953416cf2157fa084d765d3d1a5032",
+      "bytes": 7735,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4720
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Cornered_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PrestonScott__CorneredHouse_Master3D_Pegger_Justus_180.binvox",
+      "sha256": "d065a86704688c1e8740f1f69aed491833afc5284d4261ce29081bbf386b1586",
+      "bytes": 7699,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4991
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Cornered_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PrestonScott__CorneredHouse_Master3D_Pegger_Justus_210.binvox",
+      "sha256": "8b7baefcb72447494b0609a1036c967a7747896b2edaa7e21bf19a288cf84d91",
+      "bytes": 7445,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4497
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Cornered_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PrestonScott__CorneredHouse_Master3D_Pegger_Justus_240.binvox",
+      "sha256": "269ca58a7ec39b40bb84e1629026f7a807a90b6956636431af1d5ace93d5d9f6",
+      "bytes": 9213,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5176
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Cornered_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PrestonScott__CorneredHouse_Master3D_Pegger_Justus_270.binvox",
+      "sha256": "6e9816f5ca792376b7f3c3d0b63029603c5473b316424bca3d689ee70dc73df8",
+      "bytes": 7319,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4370
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Cornered_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PrestonScott__CorneredHouse_Master3D_Pegger_Justus_30.binvox",
+      "sha256": "8253d8e458872b2e4f5a11dd14f09f1161094962c8fd33a18c7e0ab283842439",
+      "bytes": 8777,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5109
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Cornered_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PrestonScott__CorneredHouse_Master3D_Pegger_Justus_300.binvox",
+      "sha256": "11c90a2aeea45a1da0575dded29c2c740f6f35077c1947d8d6c6ee3d3327a733",
+      "bytes": 9681,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5471
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Cornered_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PrestonScott__CorneredHouse_Master3D_Pegger_Justus_330.binvox",
+      "sha256": "f96e9f6cfd95f43a94abc096c09ecd157d8c8d9c12b08705d426099d1df6435e",
+      "bytes": 7271,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4524
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Cornered_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PrestonScott__CorneredHouse_Master3D_Pegger_Justus_60.binvox",
+      "sha256": "05c1477545e56a0eb80cac28ea9ecfd73a509a05fe791384bde2f6f64409c874",
+      "bytes": 7359,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4626
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Cornered_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PrestonScott__CorneredHouse_Master3D_Pegger_Justus_90.binvox",
+      "sha256": "f34f6a9e6b9dd3b276abf74696a0086fa62060c5eefc0d5bad07f2d067762d1b",
+      "bytes": 8047,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4824
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Cornered_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/PrestonScott__CorneredHouse_Master3D_Pegger_Justus.binvox",
+      "sha256": "6a1ff73e3454a6c38238f45d93f5c4ca42160af0d0bb198eb2d5f868dcee77ec",
+      "bytes": 6705,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3959
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Cornered_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/PrestonScott__CorneredHouse_Master3D_Pegger_Justus.binvox",
+      "sha256": "2681ff491782ee60d00be5fbe112dae6e4cefc83eeb65603b04c0c035d4db3b2",
+      "bytes": 36184,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 19857
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Cornered_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/PrestonScott__CorneredHouse_Master3D_Pegger_Justus.binvox",
+      "sha256": "bb6ced599a78e821fe173219823e63a24ca2e55f09eabdfddd6d8a2823d125fc",
+      "bytes": 206868,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 101549
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Cornered_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/PrestonScott__CorneredHouse_Master3D_Pegger_Justus.binvox",
+      "sha256": "1782b8f45126180b61ed967805a0accbde17408b60570ce5e626ec31332a4458",
+      "bytes": 1547568,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 474184
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Cornered_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/PrestonScott__CorneredHouse_Master3D_Pegger_Justus.binvox",
+    "resolution": 128,
+    "triangles": 6856,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "12067f758b0e546d07484bc6b9e4bfe427d60e44783d29268661006fdccbd7e3"
+  }
+}

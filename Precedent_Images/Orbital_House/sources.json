@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Orbital_House_Exterior_Rendering_01.jpg",
+    "view_type": "Exterior_Rendering",
+    "width": 2500,
+    "height": 1669,
+    "source_page": "https://www.edwardogosta.com/orbital-house",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/520555f8e4b02e3485381f97/1630455936427-3IIYZ8DGM460L53PP93T/EOA-Sun-Side-crop.jpg?format=2500w",
+    "caption": "orbital house  ",
+    "bytes": 1008908,
+    "candidate": 1
+  },
+  {
+    "file": "Orbital_House_Exterior_Rendering_02.jpg",
+    "view_type": "Exterior_Rendering",
+    "width": 2000,
+    "height": 1125,
+    "source_page": "https://www.edwardogosta.com/orbital-house",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/520555f8e4b02e3485381f97/1630453495223-94UIRH7JSW6LU9P179RC/EOA-From+Below.jpg?format=2500w",
+    "caption": "EOA-From Below.jpg  ",
+    "bytes": 485341,
+    "candidate": 5
+  },
+  {
+    "file": "Orbital_House_Exterior_Rendering_03.jpg",
+    "view_type": "Exterior_Rendering",
+    "width": 2000,
+    "height": 1125,
+    "source_page": "https://www.edwardogosta.com/orbital-house",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/520555f8e4b02e3485381f97/1630453492993-YUVV1REXF5C18K2ZH7FM/EOA-Aerial.jpg?format=2500w",
+    "caption": "EOA-Aerial.jpg  ",
+    "bytes": 690429,
+    "candidate": 16
+  },
+  {
+    "file": "Orbital_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 2500,
+    "height": 1758,
+    "source_page": "https://www.edwardogosta.com/orbital-house",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/520555f8e4b02e3485381f97/1630457323761-6MGWN9OJA8T2JLU45LM8/EOA-Orbital-Plans.jpg?format=2500w",
+    "caption": "EOA-Orbital-Plans.jpg  ",
+    "bytes": 342236,
+    "candidate": 17
+  },
+  {
+    "file": "Orbital_House_Interior_Rendering_01.jpg",
+    "view_type": "Interior_Rendering",
+    "width": 2000,
+    "height": 1125,
+    "source_page": "https://www.edwardogosta.com/orbital-house",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/520555f8e4b02e3485381f97/1630453496682-4IS4G8TRGZ5X4O2JSF10/EOA-Panorama+morning.jpg?format=2500w",
+    "caption": "EOA-Panorama morning.jpg  ",
+    "bytes": 293358,
+    "candidate": 10
+  },
+  {
+    "file": "Orbital_House_Interior_Rendering_02.jpg",
+    "view_type": "Interior_Rendering",
+    "width": 2000,
+    "height": 1125,
+    "source_page": "https://www.edwardogosta.com/orbital-house",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/520555f8e4b02e3485381f97/1630453494311-8BHD7KCYGZHV0PDKCVEO/EOA-Fire.jpg?format=2500w",
+    "caption": "EOA-Fire.jpg  ",
+    "bytes": 197154,
+    "candidate": 11
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "file": "Leo_Henriksen_House_Exterior_01.webp",
+    "view_type": "Exterior",
+    "width": 921,
+    "height": 600,
+    "source_page": "https://www.arkitekturbilleder.dk/bygning/leo-henriksens-hus",
+    "image_url": "https://www.arkitekturbilleder.dk/api/image/3045/19580e8d9cf32ea8e86b6237f876d1d7?height=600&return=webp",
+    "caption": "Leo Henriksens hus   ",
+    "bytes": 353788,
+    "candidate": 3
+  },
+  {
+    "file": "Leo_Henriksen_House_Exterior_02.webp",
+    "view_type": "Exterior",
+    "width": 650,
+    "height": 440,
+    "source_page": "https://www.arkitekturbilleder.dk/bygning/leo-henriksens-hus",
+    "image_url": "https://www.arkitekturbilleder.dk/api/image/3047/1447d667c227098870521b664c200db7?height=600&return=webp",
+    "caption": "Leo Henriksens hus Østterrasse  ",
+    "bytes": 158530,
+    "candidate": 5
+  },
+  {
+    "file": "Leo_Henriksen_House_Exterior_03.webp",
+    "view_type": "Exterior",
+    "width": 861,
+    "height": 600,
+    "source_page": "https://www.arkitekturbilleder.dk/bygning/leo-henriksens-hus",
+    "image_url": "https://www.arkitekturbilleder.dk/api/image/3048/0d0275d5f0c9e952034355e4498d4e7f?height=600&return=webp",
+    "caption": "Leo Henriksens hus   ",
+    "bytes": 368756,
+    "candidate": 6
+  },
+  {
+    "file": "Leo_Henriksen_House_Floor_Plan_01.webp",
+    "view_type": "Floor_Plan",
+    "width": 570,
+    "height": 400,
+    "source_page": "https://www.arkitekturbilleder.dk/bygning/leo-henriksens-hus",
+    "image_url": "https://www.arkitekturbilleder.dk/api/image/3050/9326069e1435d140c915d25c87e89323?height=600&return=webp",
+    "caption": "Leo Henriksens hus Plan  ",
+    "bytes": 44494,
+    "candidate": 8
+  },
+  {
+    "file": "Leo_Henriksen_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 313,
+    "height": 311,
+    "source_page": "https://fundacion.arquia.com/files/public/download/cLzg__uLr1OCf-WUTnQJ8e-nNvY/NTY4MDI/Mw/2015-06-12-Bardi_-Berta-Tesis-Jacobsen.pdf#page=11",
+    "image_url": "https://fundacion.arquia.com/files/public/download/cLzg__uLr1OCf-WUTnQJ8e-nNvY/NTY4MDI/Mw/2015-06-12-Bardi_-Berta-Tesis-Jacobsen.pdf#page=11",
+    "caption": "Leo Henriksen House interior. Archival photograph reproduced in Berta Bardi summary, page 11. Native embedded resolution.",
+    "bytes": 18431,
+    "candidate": 0
+  }
+]

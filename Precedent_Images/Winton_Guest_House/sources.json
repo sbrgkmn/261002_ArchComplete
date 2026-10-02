@@ -1,0 +1,79 @@
+[
+  {
+    "file": "Winton_Guest_House_Exterior_01.png",
+    "view_type": "Exterior",
+    "width": 2372,
+    "height": 1592,
+    "source_page": "https://architecture-history.org/architects/architects/GEHRY/OBJ/1981%2C%20Winton%20Guest%20House%2C%20Wayzata%2C%20USA.html",
+    "image_url": "https://architecture-history.org/architects/architects/GEHRY/PIC/PV04.png",
+    "caption": "  ",
+    "bytes": 7374158,
+    "candidate": 4
+  },
+  {
+    "file": "Winton_Guest_House_Exterior_02.png",
+    "view_type": "Exterior",
+    "width": 2372,
+    "height": 1586,
+    "source_page": "https://architecture-history.org/architects/architects/GEHRY/OBJ/1981%2C%20Winton%20Guest%20House%2C%20Wayzata%2C%20USA.html",
+    "image_url": "https://architecture-history.org/architects/architects/GEHRY/PIC/PV07.png",
+    "caption": "  ",
+    "bytes": 6870977,
+    "candidate": 7
+  },
+  {
+    "file": "Winton_Guest_House_Exterior_03.png",
+    "view_type": "Exterior",
+    "width": 2038,
+    "height": 1336,
+    "source_page": "https://architecture-history.org/architects/architects/GEHRY/OBJ/1981%2C%20Winton%20Guest%20House%2C%20Wayzata%2C%20USA.html",
+    "image_url": "https://architecture-history.org/architects/architects/GEHRY/PIC/PV11.png",
+    "caption": "  ",
+    "bytes": 3665212,
+    "candidate": 11
+  },
+  {
+    "file": "Winton_Guest_House_Floor_Plan_01.png",
+    "view_type": "Floor_Plan",
+    "width": 3400,
+    "height": 1552,
+    "source_page": "https://architecture-history.org/architects/architects/GEHRY/OBJ/1981%2C%20Winton%20Guest%20House%2C%20Wayzata%2C%20USA.html",
+    "image_url": "https://architecture-history.org/architects/architects/GEHRY/PIC/PV25.png",
+    "caption": "  ",
+    "bytes": 2745292,
+    "candidate": 25
+  },
+  {
+    "file": "Winton_Guest_House_Floor_Plan_02.png",
+    "view_type": "Floor_Plan",
+    "width": 2282,
+    "height": 2050,
+    "source_page": "https://architecture-history.org/architects/architects/GEHRY/OBJ/1981%2C%20Winton%20Guest%20House%2C%20Wayzata%2C%20USA.html",
+    "image_url": "https://architecture-history.org/architects/architects/GEHRY/PIC/PV26.png",
+    "caption": "  ",
+    "bytes": 1184478,
+    "candidate": 26
+  },
+  {
+    "file": "Winton_Guest_House_Interior_01.png",
+    "view_type": "Interior",
+    "width": 2384,
+    "height": 1598,
+    "source_page": "https://architecture-history.org/architects/architects/GEHRY/OBJ/1981%2C%20Winton%20Guest%20House%2C%20Wayzata%2C%20USA.html",
+    "image_url": "https://architecture-history.org/architects/architects/GEHRY/PIC/PV14.png",
+    "caption": "  ",
+    "bytes": 4130817,
+    "candidate": 14
+  },
+  {
+    "file": "Winton_Guest_House_Interior_02.png",
+    "view_type": "Interior",
+    "width": 2384,
+    "height": 1548,
+    "source_page": "https://architecture-history.org/architects/architects/GEHRY/OBJ/1981%2C%20Winton%20Guest%20House%2C%20Wayzata%2C%20USA.html",
+    "image_url": "https://architecture-history.org/architects/architects/GEHRY/PIC/PV17.png",
+    "caption": "  ",
+    "bytes": 5428273,
+    "candidate": 17
+  }
+]

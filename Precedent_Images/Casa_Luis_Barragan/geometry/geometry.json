@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "LuísBarragan_CasaLuísBarragan_model_Group5_no_glass",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Casa_Luis_Barragan_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LuísBarragan_CasaLuísBarragan_model_Group5_no_glass_0.binvox",
+      "sha256": "6e22522d61af871d90d5656f4e93dcf3a47444c8efe40755c8764bd264c95936",
+      "bytes": 13003,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 13034
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Casa_Luis_Barragan_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LuísBarragan_CasaLuísBarragan_model_Group5_no_glass_120.binvox",
+      "sha256": "845d5cf0e9824f2f39fc0a11559ca25507c07cf0a1ea89107ebc29bc6a674772",
+      "bytes": 13239,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 12553
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Casa_Luis_Barragan_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LuísBarragan_CasaLuísBarragan_model_Group5_no_glass_150.binvox",
+      "sha256": "20db3b4476f50de9f69c15928cdf1e51fe8f12c2fc40c3e51fd1e8c1f759a783",
+      "bytes": 12733,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 12047
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Casa_Luis_Barragan_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LuísBarragan_CasaLuísBarragan_model_Group5_no_glass_180.binvox",
+      "sha256": "5148388567d71dba4ea003bd7cf34c13e729190e8e217cf12fe5f9148d6dd6d8",
+      "bytes": 13051,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 12319
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Casa_Luis_Barragan_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LuísBarragan_CasaLuísBarragan_model_Group5_no_glass_210.binvox",
+      "sha256": "1db14cdd19c9c76c3fd7d1081f6594432bf852b1dd0c8998a287405baa45ae19",
+      "bytes": 13035,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 12828
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Casa_Luis_Barragan_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LuísBarragan_CasaLuísBarragan_model_Group5_no_glass_240.binvox",
+      "sha256": "c19d922a2837944f666128c43c91680615cf0b434db92fe877804bbddcebf510",
+      "bytes": 12675,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 12885
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Casa_Luis_Barragan_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LuísBarragan_CasaLuísBarragan_model_Group5_no_glass_270.binvox",
+      "sha256": "778f90ccad16f722de7ec189402fdadbbcf0ebfcbd8299fb0b1b4e6bc2070339",
+      "bytes": 12999,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 12339
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Casa_Luis_Barragan_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LuísBarragan_CasaLuísBarragan_model_Group5_no_glass_30.binvox",
+      "sha256": "b22488773f5d462f5af1828f7fe09b8096eb310bd1d4e30de4348c7bc8fee1f4",
+      "bytes": 12015,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11844
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Casa_Luis_Barragan_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LuísBarragan_CasaLuísBarragan_model_Group5_no_glass_300.binvox",
+      "sha256": "c668d2cc1f9582fe6e52c868944fdcc63b0af93aaf1a974cf05bc629efd050da",
+      "bytes": 12165,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11492
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Casa_Luis_Barragan_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LuísBarragan_CasaLuísBarragan_model_Group5_no_glass_330.binvox",
+      "sha256": "601e124e5e8362bd8acb5f1f314c94928f8d065b1fbeb95444646cef3647bc55",
+      "bytes": 13137,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 12338
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Casa_Luis_Barragan_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LuísBarragan_CasaLuísBarragan_model_Group5_no_glass_60.binvox",
+      "sha256": "a1442ec0016f4e8e29b64a18bec6e83d8e0c04ec67b0c61cf4aaf915b2b2e36b",
+      "bytes": 13401,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 13473
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Casa_Luis_Barragan_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LuísBarragan_CasaLuísBarragan_model_Group5_no_glass_90.binvox",
+      "sha256": "7da42223c376c8da28a5fe9da1cd2b479738525a2529690d432f4bbfc9d3f107",
+      "bytes": 12587,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 12732
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Casa_Luis_Barragan_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/LuísBarragan_CasaLuísBarragan_model_Group5_no_glass.binvox",
+      "sha256": "5d85f841985a0da2554b965cf383cd4c735b4c2cbbb9a3deb5bfd17cb898a2ca",
+      "bytes": 11153,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 10739
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Casa_Luis_Barragan_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/LuísBarragan_CasaLuísBarragan_model_Group5_no_glass.binvox",
+      "sha256": "f3427d666ce9222a0816f33c9df044f72034706af2c40ce9ac440d219bd0162b",
+      "bytes": 87532,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 55291
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Casa_Luis_Barragan_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/LuísBarragan_CasaLuísBarragan_model_Group5_no_glass.binvox",
+      "sha256": "ea0ff4fe9766277c4b43462feb5acfcf86bf7f5d751c21ea44fc4be01cc64c48",
+      "bytes": 453240,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 250105
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Casa_Luis_Barragan_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/LuísBarragan_CasaLuísBarragan_model_Group5_no_glass.binvox",
+      "sha256": "2d618c2b9c224d8fa9d54db6c35e2a881890f2af4ad33054e13f61b6985f531c",
+      "bytes": 2571782,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1063704
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Casa_Luis_Barragan_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/LuísBarragan_CasaLuísBarragan_model_Group5_no_glass.binvox",
+    "resolution": 128,
+    "triangles": 3652,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "dbe2f50024ecbdd16f164866d77c5186f70f32522272ec8225b6d61cb45b5bda"
+  }
+}

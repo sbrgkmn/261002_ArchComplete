@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>ArchComplete · Geometry + Images</title><link rel="stylesheet" href="viewer_assets/viewer.css"></head>
+<body>
+<header><a class="brand" href="index.html">ARCHCOMPLETE <span>Reference collection</span></a><span class="header-label">Geometry + images</span><button id="exportReviews">Export review notes</button></header>
+<div class="app">
+<aside><div class="side-heading"><h2>Precedents</h2><span>98</span></div><label class="sr-only" for="search">Find a building</label><input id="search" type="search" placeholder="Find a building…"><div id="list" role="navigation" aria-label="Buildings"></div><p class="aside-note">● Original geometry<br><span class="amber">● Augmented geometry only</span></p></aside>
+<main>
+<div class="heading"><div><div class="eyebrow" id="number"></div><h1 id="title">Loading collection…</h1></div><a id="galleryLink" href="index.html">All reference images ↗</a></div>
+<div class="notice" id="notice" hidden></div>
+<div class="comparison">
+<section class="model-panel" aria-label="3D geometry">
+<div class="panel-heading"><h2>3D geometry</h2><span id="modelBadge" class="badge"></span></div>
+<div class="model-selection"><label>Model<select id="variant"></select></label><label>Resolution<select id="resolution"></select></label></div>
+<div id="viewport"><div id="loading" role="status">Loading model…</div><div id="axisLegend">X <span>Y</span> Z</div><div class="gestures">Drag to orbit · scroll to zoom · right-drag to pan</div></div>
+<div class="toolbar views"><button data-view="iso" class="active">Isometric</button><button data-view="top">Top</button><button data-view="front">Front</button><button data-view="side">Side</button><button id="fit">Fit</button><label>Up <select id="up"><option>Y</option><option>Z</option><option>X</option></select></label><label><input id="wire" type="checkbox"> Wireframe</label></div>
+<div class="toolbar section"><label>Cutaway <select id="cutAxis"><option value="none">Off</option><option value="Y">Y</option><option value="Z">Z</option><option value="X">X</option></select></label><input id="cut" aria-label="Cutaway position" type="range" min="0" max="100" value="100" disabled><output id="cutValue">100%</output><button id="flipCut" title="Reverse cutaway direction" disabled>Flip</button></div>
+<div class="model-footer"><span id="meshStats">Exact voxel surface</span><div><a id="nativeDownload" download>BINVOX ↓</a><button id="exportObj" disabled>Export OBJ ↓</button></div></div>
+</section>
+<section class="image-panel" aria-label="Reference images">
+<div class="panel-heading"><h2>Reference images</h2><span id="photoCount" class="badge"></span></div>
+<div class="filters" role="group" aria-label="Image type"><button data-filter="all" class="active">All</button><button data-filter="exterior">Exterior</button><button data-filter="interior">Interior</button><button data-filter="plan">Plans</button></div>
+<div id="imageStage"><img id="mainImage" alt=""><p id="noImages" hidden>No images found for this view type.</p></div>
+<div class="toolbar image-actions"><button id="previousImage" aria-label="Previous image">←</button><span id="imageType"></span><button id="nextImage" aria-label="Next image">→</button><label>Zoom <input id="imageZoom" type="range" min="1" max="3" step=".25" value="1"></label><a id="openImage" target="_blank">Full image ↗</a></div>
+<div id="thumbnails" aria-label="Choose reference image"></div>
+<div class="image-footer"><span id="dimensions"></span><a id="imageSource" target="_blank" rel="noreferrer">Source ↗</a><p id="caption"></p></div>
+</section>
+</div>
+<details class="details"><summary>Dataset files &amp; precedent notes</summary><p id="datasetId"></p><p id="buildingNotes"></p><p id="imageCoverage"></p><p>Surfaces follow the dataset’s occupied voxels. Preview original models at 64³, 128³ or 256³; all native 512³ files are also preserved below. Coordinates are normalized; physical units are not specified. OBJ exports are voxel-derived meshes.</p><div id="fileLinks"></div><p><a href="https://gitlab.cg.tuwien.ac.at/srasoulzadeh/archcomplete" target="_blank" rel="noreferrer">Dataset repository ↗</a> · <a id="geometryManifest">Geometry provenance &amp; checksums</a></p></details>
+<section class="review"><div><h2>Comparison notes</h2><p id="saveStatus">Saved in this browser</p></div><label class="sr-only" for="reviewStatus">Review status</label><select id="reviewStatus"><option value="unchecked">Not checked</option><option value="consistent">Looks consistent</option><option value="review">Needs review</option></select><label class="sr-only" for="reviewNotes">Notes</label><textarea id="reviewNotes" placeholder="Record a mismatch, orientation, missing feature, or useful photo…" rows="2"></textarea></section>
+</main></div>
+<script src="viewer_assets/three.min.js"></script><script src="viewer_assets/OrbitControls.js"></script><script src="viewer_assets/catalog.js"></script><script src="viewer_assets/mesh-worker.js"></script><script src="viewer_assets/viewer.js"></script>
+</body></html>

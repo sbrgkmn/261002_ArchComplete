@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "FrankLloydWright_BoomerResidence_Master3D_Wasle_Alexander",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Boomer_Residence_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_BoomerResidence_Master3D_Wasle_Alexander_0.binvox",
+      "sha256": "fee8aa69c6e7f48a0bab49947ca4dc6674a111d0334e8f7e6fa4b5daa0217d59",
+      "bytes": 6501,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2891
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Boomer_Residence_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_BoomerResidence_Master3D_Wasle_Alexander_120.binvox",
+      "sha256": "81bae6e69de996ecf3ba7375d16e68864fe5c0c158a9979e454f04408d17c050",
+      "bytes": 6771,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2979
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Boomer_Residence_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_BoomerResidence_Master3D_Wasle_Alexander_150.binvox",
+      "sha256": "951bde0c23363a684815585f483af65fa32d71878536154f2ec336f20ca348cf",
+      "bytes": 6565,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2924
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Boomer_Residence_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_BoomerResidence_Master3D_Wasle_Alexander_180.binvox",
+      "sha256": "d352b078737c9f16d393c784565b2fb4dba97e9f74f69a80ea5a9cb5d9d3f254",
+      "bytes": 7317,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3457
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Boomer_Residence_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_BoomerResidence_Master3D_Wasle_Alexander_210.binvox",
+      "sha256": "373c2f179e9a1235a186a3d51a0842607abd2bd62576a9bcf9d12e13b6214207",
+      "bytes": 6711,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3085
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Boomer_Residence_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_BoomerResidence_Master3D_Wasle_Alexander_240.binvox",
+      "sha256": "2f2a801e73bd07a09050ff30867412058179c2f35a74da848ccd0b1db8cfc209",
+      "bytes": 7037,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3381
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Boomer_Residence_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_BoomerResidence_Master3D_Wasle_Alexander_270.binvox",
+      "sha256": "d71a459fc33aea310a00db5aa542e3e82c034771de5460f8c441516ea0c82836",
+      "bytes": 6321,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2857
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Boomer_Residence_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_BoomerResidence_Master3D_Wasle_Alexander_30.binvox",
+      "sha256": "94b46429a40000060d77c4e3fc713c3612884d4573d308d0d3af83f70aaf0712",
+      "bytes": 6815,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2986
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Boomer_Residence_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_BoomerResidence_Master3D_Wasle_Alexander_300.binvox",
+      "sha256": "9c023a642fd43d2acc6be4789ff3531faffc8e93cb916644b10383a912432696",
+      "bytes": 7131,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3229
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Boomer_Residence_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_BoomerResidence_Master3D_Wasle_Alexander_330.binvox",
+      "sha256": "3b112f406fab8beced14ffbec93aaec293f39ca5422673956dd224797ea04ac6",
+      "bytes": 6785,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3042
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Boomer_Residence_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_BoomerResidence_Master3D_Wasle_Alexander_60.binvox",
+      "sha256": "c9ac2c35dd7ed2d42c8d5dc8cc88f75fee1edebf42a16445ae574bedb85a600b",
+      "bytes": 6825,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3148
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Boomer_Residence_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/FrankLloydWright_BoomerResidence_Master3D_Wasle_Alexander_90.binvox",
+      "sha256": "959c79930bc2b72c3c138d009846bd1095de36b254e93891d6bece09394d00a5",
+      "bytes": 6651,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3136
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Boomer_Residence_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/FrankLloydWright_BoomerResidence_Master3D_Wasle_Alexander.binvox",
+      "sha256": "08e1a705d4d8ab56aad2405f64074cbd2d6360054d8da2c5c8723a733e15e3e1",
+      "bytes": 5755,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2545
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Boomer_Residence_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/FrankLloydWright_BoomerResidence_Master3D_Wasle_Alexander.binvox",
+      "sha256": "cd3a2a7834cf0b40c44d10d75f9817c1d1c89334063f8b6c2dee971db218ab06",
+      "bytes": 31270,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 12740
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Boomer_Residence_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/FrankLloydWright_BoomerResidence_Master3D_Wasle_Alexander.binvox",
+      "sha256": "624367c951ca5576cc668852dfa4e2a0309c8cca3c5f032467de941b9b05bc36",
+      "bytes": 186594,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 68487
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Boomer_Residence_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/FrankLloydWright_BoomerResidence_Master3D_Wasle_Alexander.binvox",
+      "sha256": "fc26aab0a7daff40ed1bfabd0cccbfe0e63b01cda2cc1225f0a546897cace2d9",
+      "bytes": 1479114,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 302294
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Boomer_Residence_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/FrankLloydWright_BoomerResidence_Master3D_Wasle_Alexander.binvox",
+    "resolution": 128,
+    "triangles": 6780,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "0d2d40bbb7ce41ec54e92443c57b9c6bb1cb8c457609fd925a578a722d66e7a8"
+  }
+}

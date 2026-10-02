@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "TomWiscombe_TheDarkChalet_Master3D_Group10",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/The_Dark_Chalet_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TomWiscombe_TheDarkChalet_Master3D_Group10_0.binvox",
+      "sha256": "1ab225c843ac5d1a72523d7ad4782fdd7b3d6a57d5846ae1261ac68ac21376e6",
+      "bytes": 27605,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 18929
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/The_Dark_Chalet_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TomWiscombe_TheDarkChalet_Master3D_Group10_120.binvox",
+      "sha256": "3fffda261909f714f4e4987364a52f29c62ce0e86cc64cadc37f93d994083d2c",
+      "bytes": 29103,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 19277
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/The_Dark_Chalet_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TomWiscombe_TheDarkChalet_Master3D_Group10_150.binvox",
+      "sha256": "0a7c1263824be782c90e279cea932f4983ab95e25c705f694497d5c807b128da",
+      "bytes": 26947,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 18561
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/The_Dark_Chalet_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TomWiscombe_TheDarkChalet_Master3D_Group10_180.binvox",
+      "sha256": "4f92ac62b7dfaf63963f71c7ca2e86f40e40c692e7aeb021da424e138a9f6a1b",
+      "bytes": 28133,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 19542
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/The_Dark_Chalet_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TomWiscombe_TheDarkChalet_Master3D_Group10_210.binvox",
+      "sha256": "b016511b258c87b8a5653ec8c8615513d2e0ea4c4fe402aa3e8a3fd880d39282",
+      "bytes": 26945,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 18658
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/The_Dark_Chalet_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TomWiscombe_TheDarkChalet_Master3D_Group10_240.binvox",
+      "sha256": "741637adb4f0bf498b0ef289d75b4ad42f3eff64ab7e9dd295819a7ca1888d11",
+      "bytes": 29099,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 19063
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/The_Dark_Chalet_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TomWiscombe_TheDarkChalet_Master3D_Group10_270.binvox",
+      "sha256": "1f418fa277cac3d611883a48c61872b3b0e8411f453ec7f9b913417145ba6a9e",
+      "bytes": 27871,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 18841
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/The_Dark_Chalet_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TomWiscombe_TheDarkChalet_Master3D_Group10_30.binvox",
+      "sha256": "6acc61fefec327815ae167261c1e795b7d2c489769c3747c9ada907a62b812ec",
+      "bytes": 27917,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 18387
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/The_Dark_Chalet_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TomWiscombe_TheDarkChalet_Master3D_Group10_300.binvox",
+      "sha256": "0d70199e93b242b17e048d51ce64dbf8aea6466ae6bdedb0b79cc50fc6f4dc23",
+      "bytes": 28109,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 18591
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/The_Dark_Chalet_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TomWiscombe_TheDarkChalet_Master3D_Group10_330.binvox",
+      "sha256": "9c0bafcdd43f9652cdea44d6bc44eb6e64de0991c1831a87fe17af33c4ac80ef",
+      "bytes": 28039,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 20089
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/The_Dark_Chalet_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TomWiscombe_TheDarkChalet_Master3D_Group10_60.binvox",
+      "sha256": "ab08c962c18c80a4a7bdf1583acf3daf1b402d6afdd279caaa55c78544abc2c6",
+      "bytes": 28773,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 20454
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/The_Dark_Chalet_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/TomWiscombe_TheDarkChalet_Master3D_Group10_90.binvox",
+      "sha256": "377971043baa4ee4c73faacf0117c6fba0d81e1e5004efe3ef58ef8abcc5854f",
+      "bytes": 28059,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 18790
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/The_Dark_Chalet_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/TomWiscombe_TheDarkChalet_Master3D_Group10.binvox",
+      "sha256": "8b7234d0a4ab72364d98eba3005f896abbfc2396f9578395af5ebdd42c1f8d85",
+      "bytes": 25057,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 16678
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/The_Dark_Chalet_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/TomWiscombe_TheDarkChalet_Master3D_Group10.binvox",
+      "sha256": "dba7ef8e731af7491342c91fdc081d77b193280b022cae4e26b6931345404577",
+      "bytes": 130470,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 84190
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/The_Dark_Chalet_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/TomWiscombe_TheDarkChalet_Master3D_Group10.binvox",
+      "sha256": "bfb640ab5e920fdb7cf16d296fd9d83a4fcbc4c2d8ecc9cc97655121275244f9",
+      "bytes": 838316,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 361926
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/The_Dark_Chalet_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/TomWiscombe_TheDarkChalet_Master3D_Group10.binvox",
+      "sha256": "b92f611ee89843e5bab9de6a223151dc7f12bfdfdc2a9aba8543dcf24ea31945",
+      "bytes": 4077598,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1598176
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/The_Dark_Chalet_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/TomWiscombe_TheDarkChalet_Master3D_Group10.binvox",
+    "resolution": 128,
+    "triangles": 13364,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "3525110ff716c76d715e600215284664885e3d10a52b345b77dee681e73c6f6a"
+  }
+}

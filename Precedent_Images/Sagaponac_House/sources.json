@@ -1,0 +1,79 @@
+[
+  {
+    "file": "Sagaponac_House_Exterior_Model_01.jpg",
+    "view_type": "Exterior_Model",
+    "width": 1500,
+    "height": 1000,
+    "source_page": "https://www.reiser-umemoto.com/reiser-umemoto-selected-projects/sagaponac-house",
+    "image_url": "https://images.squarespace-cdn.com/content/61a9579c03009d6091efefc7/1639607603235-JVPFVS7RHK5T7VZYMQQH/15_Proj_ch15_001.jpg?format=1500w&content-type=image%2Fjpeg",
+    "caption": "  ",
+    "bytes": 102485,
+    "candidate": 1
+  },
+  {
+    "file": "Sagaponac_House_Exterior_Model_02.jpg",
+    "view_type": "Exterior_Model",
+    "width": 2500,
+    "height": 1667,
+    "source_page": "https://www.reiser-umemoto.com/reiser-umemoto-selected-projects/sagaponac-house",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/61a9579c03009d6091efefc7/6753c0a2-8bda-44af-a395-a390476749a2/15_Proj_ch15_011.jpg?format=2500w",
+    "caption": "  ",
+    "bytes": 311797,
+    "candidate": 2
+  },
+  {
+    "file": "Sagaponac_House_Exterior_Model_03.jpg",
+    "view_type": "Exterior_Model",
+    "width": 2500,
+    "height": 1667,
+    "source_page": "https://www.reiser-umemoto.com/reiser-umemoto-selected-projects/sagaponac-house",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/61a9579c03009d6091efefc7/83b2c98e-482e-4774-be04-06308d664d41/15_Proj_ch15_014.jpg?format=2500w",
+    "caption": "  ",
+    "bytes": 290964,
+    "candidate": 7
+  },
+  {
+    "file": "Sagaponac_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 613,
+    "height": 415,
+    "source_page": "https://sagaponac.blogspot.com/2014/01/0-0-1-49-248-itesm-8-2-295-14.html",
+    "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh53ajGS0IoA0YzUznWXKEFiJhEkb7Rx3NrBXxVk4ES5wQTx-Sv67t5QJ8lcwBk6QToHSD7qvczLTL-XZw85N3L6OyRFR-HTCFi4rsHeB1t9ii14QNKdhGFfL2cAo8cQnyCYscUYYt4DXDW/s1600/plano1.jpg",
+    "caption": "  ",
+    "bytes": 28271,
+    "candidate": 12
+  },
+  {
+    "file": "Sagaponac_House_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 625,
+    "height": 370,
+    "source_page": "https://sagaponac.blogspot.com/2014/01/0-0-1-49-248-itesm-8-2-295-14.html",
+    "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdJ5c4obe_r8yP4R3FEv93wStEwA3NutQybYGfzyh_lSvIUJDPrqJsh7OPeVt3kYIdOnu7hGXcm4rOvPsq_41Tjv7jM1BoLuPXw9dbHE7KkgiaL9QPs5I0RwDHeRfoIRX3YA9FWXDeb1v0/s1600/plano2.jpg",
+    "caption": "  ",
+    "bytes": 23072,
+    "candidate": 13
+  },
+  {
+    "file": "Sagaponac_House_Interior_Drawing_01.jpg",
+    "view_type": "Interior_Drawing",
+    "width": 2500,
+    "height": 1667,
+    "source_page": "https://www.reiser-umemoto.com/reiser-umemoto-selected-projects/sagaponac-house",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/61a9579c03009d6091efefc7/fde399ca-d34c-4e2f-970c-7fee68c8e221/15_Proj_ch15_008.jpg?format=2500w",
+    "caption": "  ",
+    "bytes": 304185,
+    "candidate": 3
+  },
+  {
+    "file": "Sagaponac_House_Interior_Drawing_02.jpg",
+    "view_type": "Interior_Drawing",
+    "width": 2500,
+    "height": 2000,
+    "source_page": "https://www.reiser-umemoto.com/reiser-umemoto-selected-projects/sagaponac-house",
+    "image_url": "https://images.squarespace-cdn.com/content/v1/61a9579c03009d6091efefc7/e679445a-26b4-4761-a1c6-a455326d0290/15_Proj_ch15_003.jpg?format=2500w",
+    "caption": "  ",
+    "bytes": 1315818,
+    "candidate": 5
+  }
+]

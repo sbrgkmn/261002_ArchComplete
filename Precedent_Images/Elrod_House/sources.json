@@ -1,0 +1,90 @@
+[
+  {
+    "file": "Elrod_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 750,
+    "height": 528,
+    "source_page": "https://www.homedsgn.com/2011/05/24/elrod-house-by-john-lautner/",
+    "image_url": "https://cdn.homedsgn.com/wp-content/uploads/2011/05/Elrod-House-33.jpg",
+    "caption": " Elrod House by John Lautner ",
+    "bytes": 42466,
+    "candidate": 28
+  },
+  {
+    "file": "Elrod_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 750,
+    "height": 519,
+    "source_page": "https://www.homedsgn.com/2011/05/24/elrod-house-by-john-lautner/",
+    "image_url": "https://cdn.homedsgn.com/wp-content/uploads/2011/05/Elrod-House-31.jpg",
+    "caption": " Elrod House by John Lautner ",
+    "bytes": 69466,
+    "candidate": 30
+  },
+  {
+    "file": "Elrod_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 800,
+    "height": 535,
+    "source_page": "https://www.homedsgn.com/2011/05/24/elrod-house-by-john-lautner/",
+    "image_url": "https://cdn.homedsgn.com/wp-content/uploads/2011/05/Elrod-House-03-2.jpg",
+    "caption": "  ",
+    "bytes": 50805,
+    "candidate": 1
+  },
+  {
+    "file": "Elrod_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1009,
+    "height": 656,
+    "source_page": "https://www.homedsgn.com/2011/05/24/elrod-house-by-john-lautner/",
+    "image_url": "https://cdn.homedsgn.com/wp-content/uploads/2011/05/Elrod-House-50.jpg",
+    "caption": " Elrod House by John Lautner ",
+    "bytes": 19058,
+    "candidate": 36
+  },
+  {
+    "file": "Elrod_House_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1013,
+    "height": 764,
+    "source_page": "https://www.homedsgn.com/2011/05/24/elrod-house-by-john-lautner/",
+    "image_url": "https://cdn.homedsgn.com/wp-content/uploads/2011/05/Elrod-House-51.jpg",
+    "caption": " Elrod House by John Lautner ",
+    "bytes": 22688,
+    "candidate": 37
+  },
+  {
+    "file": "Elrod_House_Floor_Plan_03.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1069,
+    "height": 601,
+    "source_page": "https://www.homedsgn.com/2011/05/24/elrod-house-by-john-lautner/",
+    "image_url": "https://cdn.homedsgn.com/wp-content/uploads/2011/05/Elrod-House-52.jpg",
+    "caption": " Elrod House by John Lautner ",
+    "bytes": 15178,
+    "candidate": 38
+  },
+  {
+    "file": "Elrod_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 800,
+    "height": 535,
+    "source_page": "https://www.homedsgn.com/2011/05/24/elrod-house-by-john-lautner/",
+    "image_url": "https://cdn.homedsgn.com/wp-content/uploads/2011/05/Elrod-House-04-3.jpg",
+    "caption": " Elrod House by John Lautner ",
+    "bytes": 53332,
+    "candidate": 14
+  },
+  {
+    "file": "Elrod_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 800,
+    "height": 535,
+    "source_page": "https://www.homedsgn.com/2011/05/24/elrod-house-by-john-lautner/",
+    "image_url": "https://cdn.homedsgn.com/wp-content/uploads/2011/05/Elrod-House-09-1.jpg",
+    "caption": " Elrod House by John Lautner ",
+    "bytes": 48123,
+    "candidate": 19
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "file": "Goldstein_Residence_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 1333,
+    "source_page": "https://www.wallpaper.com/architecture/residential/john-lautner-sheats-goldstein-residence-los-angeles-usa",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/ggh5mG5hRgQaXEmeAdkQQ6.jpg",
+    "caption": "  ",
+    "bytes": 1948717,
+    "candidate": 1
+  },
+  {
+    "file": "Goldstein_Residence_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 1333,
+    "source_page": "https://www.wallpaper.com/architecture/residential/john-lautner-sheats-goldstein-residence-los-angeles-usa",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/w8iMCMijdvJAvqtPcW9dL6.jpg",
+    "caption": "  ",
+    "bytes": 2537411,
+    "candidate": 19
+  },
+  {
+    "file": "Goldstein_Residence_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 2160,
+    "height": 1440,
+    "source_page": "https://www.wallpaper.com/architecture/residential/john-lautner-sheats-goldstein-residence-los-angeles-usa",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/HtMpWLYzPUVBNwh3QzZe76.jpg",
+    "caption": "  ",
+    "bytes": 1246923,
+    "candidate": 25
+  },
+  {
+    "file": "Goldstein_Residence_Floor_Plan_01.gif",
+    "view_type": "Floor_Plan",
+    "width": 343,
+    "height": 228,
+    "source_page": "https://www.johnlautner.org/Sheats.html",
+    "image_url": "https://www.johnlautner.org/Photos/Sheatsplan1.gif",
+    "caption": "Sheats -Goldstein plan: lower level Sheats-Goldstein plan; lower level ",
+    "bytes": 32903,
+    "candidate": 12
+  },
+  {
+    "file": "Goldstein_Residence_Floor_Plan_02.gif",
+    "view_type": "Floor_Plan",
+    "width": 600,
+    "height": 354,
+    "source_page": "https://www.johnlautner.org/Sheats.html",
+    "image_url": "https://www.johnlautner.org/Photos/Sheatsplan2.gif",
+    "caption": "Sheats-Goldstein plan: upper level Sheats-Goldstein plan: upper level ",
+    "bytes": 60285,
+    "candidate": 13
+  },
+  {
+    "file": "Goldstein_Residence_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 2160,
+    "height": 1440,
+    "source_page": "https://www.wallpaper.com/architecture/residential/john-lautner-sheats-goldstein-residence-los-angeles-usa",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/fnStBcrozpKfXZzt7e6C66.jpg",
+    "caption": "  ",
+    "bytes": 1358099,
+    "candidate": 17
+  },
+  {
+    "file": "Goldstein_Residence_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 1440,
+    "height": 2160,
+    "source_page": "https://www.wallpaper.com/architecture/residential/john-lautner-sheats-goldstein-residence-los-angeles-usa",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/Eq6nbFaLpwHQrPkaXN2RH6.jpg",
+    "caption": "  ",
+    "bytes": 1231363,
+    "candidate": 23
+  }
+]

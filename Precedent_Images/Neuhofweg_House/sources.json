@@ -1,0 +1,90 @@
+[
+  {
+    "file": "Neuhofweg_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 1333,
+    "source_page": "https://www.archdaily.com/918984/neuhofweg-house-beck-plus-oser-architekten",
+    "image_url": "https://images.adsttc.com/media/images/5d01/8e92/284d/d16c/8700/0116/large_jpg/feature_-_20180518_beckoser-agostinis_0139.jpg?1560383115",
+    "caption": "  ",
+    "bytes": 500016,
+    "candidate": 1
+  },
+  {
+    "file": "Neuhofweg_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1333,
+    "height": 2000,
+    "source_page": "https://www.archdaily.com/918984/neuhofweg-house-beck-plus-oser-architekten",
+    "image_url": "https://images.adsttc.com/media/images/5d01/8de4/284d/d152/0500/006c/large_jpg/20180518_beckoser-agostinis_0127-HDR.jpg?1560382941",
+    "caption": "  ",
+    "bytes": 638036,
+    "candidate": 6
+  },
+  {
+    "file": "Neuhofweg_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 1333,
+    "source_page": "https://www.archdaily.com/918984/neuhofweg-house-beck-plus-oser-architekten",
+    "image_url": "https://images.adsttc.com/media/images/5d01/8e65/284d/d16c/8700/0114/large_jpg/20180518_beckoser-agostinis_0232_B.jpg?1560383071",
+    "caption": "  ",
+    "bytes": 515122,
+    "candidate": 13
+  },
+  {
+    "file": "Neuhofweg_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 993,
+    "height": 1197,
+    "source_page": "https://www.archdaily.com/918984/neuhofweg-house-beck-plus-oser-architekten",
+    "image_url": "https://images.adsttc.com/media/images/5d01/8dd7/284d/d152/0500/006b/large_jpg/UG_1_200.jpg?1560382930",
+    "caption": "  ",
+    "bytes": 88291,
+    "candidate": 17
+  },
+  {
+    "file": "Neuhofweg_House_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 993,
+    "height": 1197,
+    "source_page": "https://www.archdaily.com/918984/neuhofweg-house-beck-plus-oser-architekten",
+    "image_url": "https://images.adsttc.com/media/images/5d01/8d11/284d/d152/0500/0064/large_jpg/EG_1_200.jpg?1560382732",
+    "caption": "  ",
+    "bytes": 100815,
+    "candidate": 18
+  },
+  {
+    "file": "Neuhofweg_House_Floor_Plan_03.jpg",
+    "view_type": "Floor_Plan",
+    "width": 993,
+    "height": 1197,
+    "source_page": "https://www.archdaily.com/918984/neuhofweg-house-beck-plus-oser-architekten",
+    "image_url": "https://images.adsttc.com/media/images/5d01/8d70/284d/d152/0500/0068/large_jpg/OG_1_200.jpg?1560382826",
+    "caption": "  ",
+    "bytes": 114073,
+    "candidate": 19
+  },
+  {
+    "file": "Neuhofweg_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 2000,
+    "height": 1333,
+    "source_page": "https://www.archdaily.com/918984/neuhofweg-house-beck-plus-oser-architekten",
+    "image_url": "https://images.adsttc.com/media/images/5d01/8e2d/284d/d152/0500/006f/large_jpg/20180518_beckoser-agostinis_0181.jpg?1560383014",
+    "caption": "Neuhofweg House / Beck Oser Architekten - Interior Photography, Living Room © Börje Müller https://www.archdaily.com/918984/neuhofweg-house-beck-plus-oser-architekten/5d018e2d284dd1520500006f-neuhofweg-house-beck-plus-oser-architekten-photo",
+    "bytes": 596136,
+    "candidate": 3
+  },
+  {
+    "file": "Neuhofweg_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 2000,
+    "height": 1333,
+    "source_page": "https://www.archdaily.com/918984/neuhofweg-house-beck-plus-oser-architekten",
+    "image_url": "https://images.adsttc.com/media/images/5d01/8e16/284d/d16c/8700/0111/large_jpg/20180518_beckoser-agostinis_0148-HDR.jpg?1560382991",
+    "caption": "Neuhofweg House / Beck Oser Architekten - Interior Photography, Kitchen, Table, Chair, Windows © Börje Müller https://www.archdaily.com/918984/neuhofweg-house-beck-plus-oser-architekten/5d018e16284dd16c87000111-neuhofweg-house-beck-plus-oser-architekten-photo",
+    "bytes": 627251,
+    "candidate": 5
+  }
+]

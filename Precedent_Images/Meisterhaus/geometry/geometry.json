@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "WalterGropius_Meisterhaus_model_group12_no_glass",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Meisterhaus_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_Meisterhaus_model_group12_no_glass_0.binvox",
+      "sha256": "73b079aea3d631c39635796560eeda020541579542db435dd184b04d3bfdec41",
+      "bytes": 7751,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5065
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Meisterhaus_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_Meisterhaus_model_group12_no_glass_120.binvox",
+      "sha256": "34c648f261081f960e9e6e0f8b7c257b6c6666d9efb93d81f35c54c9d3789ac3",
+      "bytes": 8297,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5816
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Meisterhaus_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_Meisterhaus_model_group12_no_glass_150.binvox",
+      "sha256": "ba60ceecd8aaa833f3b42355913067fb1383a462a64eecb8415976f7085caa81",
+      "bytes": 7699,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5058
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Meisterhaus_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_Meisterhaus_model_group12_no_glass_180.binvox",
+      "sha256": "f9599fd86be9276b91445abbe9b66899c503012db09c0c033a58894d087e6b00",
+      "bytes": 9095,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6497
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Meisterhaus_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_Meisterhaus_model_group12_no_glass_210.binvox",
+      "sha256": "3febb886a1a820910d27abd4b37cbf8507fa84f842f1db8c370db33b35db8115",
+      "bytes": 7539,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4955
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Meisterhaus_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_Meisterhaus_model_group12_no_glass_240.binvox",
+      "sha256": "0de8bdf6e472b6022e694938c4c52e57ea8cbd2f60d0eeda8a47dd934f8b8e25",
+      "bytes": 9871,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6377
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Meisterhaus_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_Meisterhaus_model_group12_no_glass_270.binvox",
+      "sha256": "29da417543bd14e95bde0248109145dea84ec1ae12bd356b0c4b396ba8aed1f9",
+      "bytes": 7419,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4894
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Meisterhaus_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_Meisterhaus_model_group12_no_glass_30.binvox",
+      "sha256": "6182eb25a9b5656c0555df54739f70b6ab46c91d2bf95b7da0783ba9e586d567",
+      "bytes": 8503,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5402
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Meisterhaus_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_Meisterhaus_model_group12_no_glass_300.binvox",
+      "sha256": "2fe8f0ee59fc51012ec65a5f08883efd0928200a0894e76b8268814f79c76ab1",
+      "bytes": 9139,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5346
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Meisterhaus_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_Meisterhaus_model_group12_no_glass_330.binvox",
+      "sha256": "792b38c1ed6c60f24be3e2c91ac8153e7fa8540e4f6d15102c2924f3df5fa91c",
+      "bytes": 7765,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4804
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Meisterhaus_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_Meisterhaus_model_group12_no_glass_60.binvox",
+      "sha256": "54a7c6e0671d587aa5eb3e2c311677baae27cc73fff7dcd15e1618baf1afddea",
+      "bytes": 7859,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5152
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Meisterhaus_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/WalterGropius_Meisterhaus_model_group12_no_glass_90.binvox",
+      "sha256": "f3c42e9be5468b2d022265ca1e9138338e7a90e8ad18e9beb3ce304d690a5a2e",
+      "bytes": 7827,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5185
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Meisterhaus_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/WalterGropius_Meisterhaus_model_group12_no_glass.binvox",
+      "sha256": "09bbdf518f3d0f5980c6660e1c1f11826ed15e6ed00e4fcdfde65f5ca2fc1501",
+      "bytes": 7135,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4799
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Meisterhaus_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/WalterGropius_Meisterhaus_model_group12_no_glass.binvox",
+      "sha256": "78196945aa9033f79e320375dd2c931c7efcbc89efab692c3e144ce181a81435",
+      "bytes": 45152,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 23636
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Meisterhaus_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/WalterGropius_Meisterhaus_model_group12_no_glass.binvox",
+      "sha256": "b0524fc2be8ec78d347193ab6a3f16444853a2ff60b9440dc4ab06c1ea82872a",
+      "bytes": 283548,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 109801
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Meisterhaus_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/WalterGropius_Meisterhaus_model_group12_no_glass.binvox",
+      "sha256": "eb34f3f81559e86188b58c90a4b07614b0a28e9741ce4c9363654d943522e5e3",
+      "bytes": 1821768,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 451313
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Meisterhaus_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/WalterGropius_Meisterhaus_model_group12_no_glass.binvox",
+    "resolution": 128,
+    "triangles": 2256,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "d2307666e31c6a3522757d8ebf8af271cc78818d8f59516955b9ed4aecf175d8"
+  }
+}

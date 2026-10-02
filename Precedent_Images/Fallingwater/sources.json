@@ -1,0 +1,101 @@
+[
+  {
+    "file": "Fallingwater_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 850,
+    "height": 663,
+    "source_page": "https://archeyes.com/fallingwater-house-frank-lloyd-wright-edgar-kaufmann/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2021/02/Photograph-by-Robert-P-Ruschak-courtesy-of-the-Western-Pennsylvania-Conservancy-featured.jpg",
+    "caption": "  ",
+    "bytes": 211367,
+    "candidate": 1
+  },
+  {
+    "file": "Fallingwater_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1600,
+    "height": 901,
+    "source_page": "https://archeyes.com/fallingwater-house-frank-lloyd-wright-edgar-kaufmann/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2021/02/Fallingwater-frank-lloyd-wright-kauffman-house-edgar-ArchEyes-Nick-Stanley.jpg",
+    "caption": "  ",
+    "bytes": 368197,
+    "candidate": 3
+  },
+  {
+    "file": "Fallingwater_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1600,
+    "height": 1064,
+    "source_page": "https://archeyes.com/fallingwater-house-frank-lloyd-wright-edgar-kaufmann/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2021/02/Fallingwater-frank-lloyd-wright-kauffman-house-edgar-ArchEyes-Jessica.jpg",
+    "caption": "  ",
+    "bytes": 615843,
+    "candidate": 6
+  },
+  {
+    "file": "Fallingwater_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 2000,
+    "height": 1600,
+    "source_page": "https://archeyes.com/fallingwater-house-frank-lloyd-wright-edgar-kaufmann/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2021/02/Fallingwater-frank-lloyd-wright-kauffman-house-edgar-ArchEyes-roof.jpg",
+    "caption": "  ",
+    "bytes": 319642,
+    "candidate": 11
+  },
+  {
+    "file": "Fallingwater_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 2000,
+    "height": 1580,
+    "source_page": "https://archeyes.com/fallingwater-house-frank-lloyd-wright-edgar-kaufmann/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2021/02/Fallingwater-frank-lloyd-wright-kauffman-house-edgar-ArchEyes-seconf-floor.jpg",
+    "caption": "  ",
+    "bytes": 383897,
+    "candidate": 13
+  },
+  {
+    "file": "Fallingwater_Floor_Plan_03.jpg",
+    "view_type": "Floor_Plan",
+    "width": 2000,
+    "height": 1589,
+    "source_page": "https://archeyes.com/fallingwater-house-frank-lloyd-wright-edgar-kaufmann/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2021/02/Fallingwater-frank-lloyd-wright-kauffman-house-edgar-ArchEyes-level-1.jpg",
+    "caption": "  ",
+    "bytes": 441628,
+    "candidate": 14
+  },
+  {
+    "file": "Fallingwater_Floor_Plan_04.jpg",
+    "view_type": "Floor_Plan",
+    "width": 2000,
+    "height": 1580,
+    "source_page": "https://archeyes.com/fallingwater-house-frank-lloyd-wright-edgar-kaufmann/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2021/02/Fallingwater-frank-lloyd-wright-kauffman-house-edgar-ArchEyes-basement-plan.jpg",
+    "caption": "  ",
+    "bytes": 362810,
+    "candidate": 15
+  },
+  {
+    "file": "Fallingwater_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1600,
+    "height": 815,
+    "source_page": "https://archeyes.com/fallingwater-house-frank-lloyd-wright-edgar-kaufmann/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2021/02/Fallingwater-frank-lloyd-wright-kauffman-house-edgar-ArchEyes-Photograph-by-Christopher-Little.jpg",
+    "caption": "  ",
+    "bytes": 347190,
+    "candidate": 8
+  },
+  {
+    "file": "Fallingwater_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 1600,
+    "height": 1072,
+    "source_page": "https://archeyes.com/fallingwater-house-frank-lloyd-wright-edgar-kaufmann/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2021/02/Fallingwater-frank-lloyd-wright-kauffman-house-edgar-ArchEyes-Wally-Gobetz.jpg",
+    "caption": "  ",
+    "bytes": 355519,
+    "candidate": 9
+  }
+]

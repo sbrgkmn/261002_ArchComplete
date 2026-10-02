@@ -1,0 +1,90 @@
+[
+  {
+    "file": "Robie_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1024,
+    "height": 681,
+    "source_page": "https://www.archdaily.com/60246/ad-classics-frederick-c-robie-house-frank-lloyd-wright",
+    "image_url": "https://images.adsttc.com/media/images/5037/de11/28ba/0d59/9b00/00a4/large_jpg/stringio.jpg?1414230389",
+    "caption": "  ",
+    "bytes": 336750,
+    "candidate": 1
+  },
+  {
+    "file": "Robie_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1024,
+    "height": 683,
+    "source_page": "https://www.archdaily.com/60246/ad-classics-frederick-c-robie-house-frank-lloyd-wright",
+    "image_url": "https://images.adsttc.com/media/images/5037/de15/28ba/0d59/9b00/00a5/large_jpg/stringio.jpg?1414230392",
+    "caption": "AD Classics: Frederick C. Robie House / Frank Lloyd Wright - Image 2 of 11  https://www.archdaily.com/60246/ad-classics-frederick-c-robie-house-frank-lloyd-wright/5037de1528ba0d599b0000a5-ad-classics-frederick-c-robie-house-frank-lloyd-wright-image",
+    "bytes": 334797,
+    "candidate": 2
+  },
+  {
+    "file": "Robie_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1024,
+    "height": 683,
+    "source_page": "https://www.archdaily.com/60246/ad-classics-frederick-c-robie-house-frank-lloyd-wright",
+    "image_url": "https://images.adsttc.com/media/images/5037/de1b/28ba/0d59/9b00/00a6/large_jpg/stringio.jpg?1414230397",
+    "caption": "AD Classics: Frederick C. Robie House / Frank Lloyd Wright - Image 4 of 11  https://www.archdaily.com/60246/ad-classics-frederick-c-robie-house-frank-lloyd-wright/5037de1b28ba0d599b0000a6-ad-classics-frederick-c-robie-house-frank-lloyd-wright-image",
+    "bytes": 320509,
+    "candidate": 4
+  },
+  {
+    "file": "Robie_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 640,
+    "height": 292,
+    "source_page": "https://www.archdaily.com/60246/ad-classics-frederick-c-robie-house-frank-lloyd-wright",
+    "image_url": "https://images.adsttc.com/media/images/5037/de33/28ba/0d59/9b00/00ac/large_jpg/stringio.jpg?1414230410",
+    "caption": "  ",
+    "bytes": 38993,
+    "candidate": 9
+  },
+  {
+    "file": "Robie_House_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 640,
+    "height": 286,
+    "source_page": "https://www.archdaily.com/60246/ad-classics-frederick-c-robie-house-frank-lloyd-wright",
+    "image_url": "https://images.adsttc.com/media/images/5037/de35/28ba/0d59/9b00/00ad/large_jpg/stringio.jpg?1414230412",
+    "caption": "  ",
+    "bytes": 42558,
+    "candidate": 10
+  },
+  {
+    "file": "Robie_House_Floor_Plan_03.jpg",
+    "view_type": "Floor_Plan",
+    "width": 653,
+    "height": 299,
+    "source_page": "https://www.archdaily.com/60246/ad-classics-frederick-c-robie-house-frank-lloyd-wright",
+    "image_url": "https://images.adsttc.com/media/images/5037/de39/28ba/0d59/9b00/00ae/large_jpg/stringio.jpg?1414230414",
+    "caption": "  ",
+    "bytes": 33703,
+    "candidate": 11
+  },
+  {
+    "file": "Robie_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 885,
+    "height": 669,
+    "source_page": "https://www.archdaily.com/60246/ad-classics-frederick-c-robie-house-frank-lloyd-wright",
+    "image_url": "https://images.adsttc.com/media/images/5037/de30/28ba/0d59/9b00/00ab/large_jpg/stringio.jpg?1414230394",
+    "caption": "AD Classics: Frederick C. Robie House / Frank Lloyd Wright - Image 3 of 11  https://www.archdaily.com/60246/ad-classics-frederick-c-robie-house-frank-lloyd-wright/5037de3028ba0d599b0000ab-ad-classics-frederick-c-robie-house-frank-lloyd-wright-image",
+    "bytes": 177543,
+    "candidate": 3
+  },
+  {
+    "file": "Robie_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 640,
+    "height": 473,
+    "source_page": "https://www.archdaily.com/60246/ad-classics-frederick-c-robie-house-frank-lloyd-wright",
+    "image_url": "https://images.adsttc.com/media/images/5037/de24/28ba/0d59/9b00/00a8/large_jpg/stringio.jpg?1414230402",
+    "caption": "  ",
+    "bytes": 127524,
+    "candidate": 6
+  }
+]

@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "Doesburg_MaisonD’artiste_Master3D__Stofft_Leon",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Maison_Dartiste_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Doesburg_MaisonD’artiste_Master3D__Stofft_Leon_0.binvox",
+      "sha256": "6924f4e66d72ce05d05b76605ffd31729ba5ad576c0bc477c31cba5993e9d65c",
+      "bytes": 7223,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3741
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Maison_Dartiste_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Doesburg_MaisonD’artiste_Master3D__Stofft_Leon_120.binvox",
+      "sha256": "c7b2dfc6a33e18e96ed08d2e82ee9b72b9b95b950a6f342041b051ac59ffe1e2",
+      "bytes": 7591,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4224
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Maison_Dartiste_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Doesburg_MaisonD’artiste_Master3D__Stofft_Leon_150.binvox",
+      "sha256": "c60cd36fd08ba5b59f4a5f6eade8f4ece54970d0f6865bd2d3f9d026f4fa24fa",
+      "bytes": 6539,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3522
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Maison_Dartiste_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Doesburg_MaisonD’artiste_Master3D__Stofft_Leon_180.binvox",
+      "sha256": "908f69b4c374a2669bd534d096ad2298b9f0de0317694869381c46d81a5faf05",
+      "bytes": 7851,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4457
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Maison_Dartiste_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Doesburg_MaisonD’artiste_Master3D__Stofft_Leon_210.binvox",
+      "sha256": "b21f03befe971e49c11a11a026855bf656898e74fc28be102d3094438056d251",
+      "bytes": 6323,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3680
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Maison_Dartiste_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Doesburg_MaisonD’artiste_Master3D__Stofft_Leon_240.binvox",
+      "sha256": "bc5b83ff890f47c70c6622894f4cdbaa0b84fa847318164d17c5c64db17b2102",
+      "bytes": 7135,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4166
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Maison_Dartiste_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Doesburg_MaisonD’artiste_Master3D__Stofft_Leon_270.binvox",
+      "sha256": "b7415cd2f83e5a2c85696a30a28a744e9507c14596460f40e2bd17f3fbf42df7",
+      "bytes": 6861,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3570
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Maison_Dartiste_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Doesburg_MaisonD’artiste_Master3D__Stofft_Leon_30.binvox",
+      "sha256": "940f9c637077c9faa811caa811ec1137c0e82581b4db46ae0d413aaada2e76d4",
+      "bytes": 6547,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3698
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Maison_Dartiste_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Doesburg_MaisonD’artiste_Master3D__Stofft_Leon_300.binvox",
+      "sha256": "4fe9e7e2754677d96d65367f45e4c1c5165f1a0638e2aaf675013282ac9c7b49",
+      "bytes": 7575,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3655
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Maison_Dartiste_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Doesburg_MaisonD’artiste_Master3D__Stofft_Leon_330.binvox",
+      "sha256": "ea162253fb24f10f4882f8dd9032b3d28488af2c1fc4d2656550d9af883f892a",
+      "bytes": 6575,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3702
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Maison_Dartiste_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Doesburg_MaisonD’artiste_Master3D__Stofft_Leon_60.binvox",
+      "sha256": "d9c9220ad103aa37e9ffb4e5c743a823d75c2de4c875717c68fcf65384c3c822",
+      "bytes": 7013,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3986
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Maison_Dartiste_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Doesburg_MaisonD’artiste_Master3D__Stofft_Leon_90.binvox",
+      "sha256": "25d962a9efa1fcf4f61200a0e7e62192cb373eb49036c19f0daaf260cc5ff443",
+      "bytes": 6463,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3608
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Maison_Dartiste_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/Doesburg_MaisonD’artiste_Master3D__Stofft_Leon.binvox",
+      "sha256": "b984898d453f4561a5c5b6112c504969423bc42f97e0a538743153eb4ec06859",
+      "bytes": 5579,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3201
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Maison_Dartiste_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/Doesburg_MaisonD’artiste_Master3D__Stofft_Leon.binvox",
+      "sha256": "dc4c5e1c2817c4e84d4614e6b2c5db0b18d5700df029103f82af1c2c6d3b41d5",
+      "bytes": 30906,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 15146
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Maison_Dartiste_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/Doesburg_MaisonD’artiste_Master3D__Stofft_Leon.binvox",
+      "sha256": "6f985a21d5319e3c7ffdac5f40cb8c21297f7d458cab268eece32da1dae9416c",
+      "bytes": 200692,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 71725
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Maison_Dartiste_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/Doesburg_MaisonD’artiste_Master3D__Stofft_Leon.binvox",
+      "sha256": "c52aeef54f6a0f2fc32dd48f7250eab3b73425dff93f439a418d1e429120d703",
+      "bytes": 1487588,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 304442
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Maison_Dartiste_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/Doesburg_MaisonD’artiste_Master3D__Stofft_Leon.binvox",
+    "resolution": 128,
+    "triangles": 1976,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "98d1a70fff3819d8c76454bc6b72ae02b7962ada0834c8edd6fa65567c0f1945"
+  }
+}

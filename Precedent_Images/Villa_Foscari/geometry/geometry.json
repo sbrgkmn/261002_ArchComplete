@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "AndreaPalladio_VillaFoscari_Master3D_Kurz_Vanessa",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Villa_Foscari_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaFoscari_Master3D_Kurz_Vanessa_0.binvox",
+      "sha256": "b9f9a7e698e6237505e9ad26795ca6fc579fbd758bb9aba423c8e1a6bb3cde7e",
+      "bytes": 18623,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 14341
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Villa_Foscari_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaFoscari_Master3D_Kurz_Vanessa_120.binvox",
+      "sha256": "450f3f187d72bf94c3cc05b12f93275eba040618977f800be7749e20c28427f8",
+      "bytes": 19543,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 14952
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Villa_Foscari_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaFoscari_Master3D_Kurz_Vanessa_150.binvox",
+      "sha256": "38d9d8aad40affc40aaaa5cc6d08e646597096320f0ab0368f433e091e4eb366",
+      "bytes": 19253,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 13859
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Villa_Foscari_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaFoscari_Master3D_Kurz_Vanessa_180.binvox",
+      "sha256": "9f842cf5c5cde6648d63db1cf0c4d62d34be811c436e3ea4ef2dd9d6939446ea",
+      "bytes": 19889,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 15065
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Villa_Foscari_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaFoscari_Master3D_Kurz_Vanessa_210.binvox",
+      "sha256": "29f04cf99d6c08172170e2a60a388e876efaf03a8282095197aa94eb97dad48c",
+      "bytes": 18887,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 14292
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Villa_Foscari_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaFoscari_Master3D_Kurz_Vanessa_240.binvox",
+      "sha256": "e15af23796f316c905fb6e6ce849a1dc7929db1195a7054c6ff897a37d85733f",
+      "bytes": 19111,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 14657
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Villa_Foscari_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaFoscari_Master3D_Kurz_Vanessa_270.binvox",
+      "sha256": "a95e6737bf4b91df7724818cef564571e39ce1feac82eedd565c855944d7eb6e",
+      "bytes": 18929,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 14052
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Villa_Foscari_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaFoscari_Master3D_Kurz_Vanessa_30.binvox",
+      "sha256": "1f42fd22fa1443b873ada33ac902fde41adf406d871b35a9de69358567d9d3e2",
+      "bytes": 18507,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 13796
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Villa_Foscari_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaFoscari_Master3D_Kurz_Vanessa_300.binvox",
+      "sha256": "344e3fef6f76268fbb60afcdcb7ac361486a5505c14bdea44a33dfbd60bb7f7e",
+      "bytes": 19335,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 14842
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Villa_Foscari_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaFoscari_Master3D_Kurz_Vanessa_330.binvox",
+      "sha256": "7f4c4bb73553d234177a7bb5e66d41964fb1736c2741e0f9ea903ba9149dca02",
+      "bytes": 18967,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 13961
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Villa_Foscari_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaFoscari_Master3D_Kurz_Vanessa_60.binvox",
+      "sha256": "4032b143c4492a38a40f09ffd835ef8f6bbd81d98831cf09e12b0ff84fefa3f4",
+      "bytes": 18907,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 14722
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Villa_Foscari_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaFoscari_Master3D_Kurz_Vanessa_90.binvox",
+      "sha256": "70e37377e423f9fb81c03db9e3ce6430c6d4db26070e68dd6bae6d622d007589",
+      "bytes": 17695,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 14714
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Villa_Foscari_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/AndreaPalladio_VillaFoscari_Master3D_Kurz_Vanessa.binvox",
+      "sha256": "2b391d987aef44a8ec63e802ce62935089075d37c97d303b7968b98626b5157c",
+      "bytes": 15741,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 12441
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Villa_Foscari_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/AndreaPalladio_VillaFoscari_Master3D_Kurz_Vanessa.binvox",
+      "sha256": "40f4ef0c82a3100c36830ef7a4571090637e28b318db76ad7ebc6783d5de7c51",
+      "bytes": 78126,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 66884
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Villa_Foscari_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/AndreaPalladio_VillaFoscari_Master3D_Kurz_Vanessa.binvox",
+      "sha256": "c91a20c734b2dc5f3313ca6d8a3e3b1d5c2d1b53835bd438ce67bdebde1969e2",
+      "bytes": 472834,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 308535
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Villa_Foscari_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/AndreaPalladio_VillaFoscari_Master3D_Kurz_Vanessa.binvox",
+      "sha256": "10fc668f9732d5a59cfcbdd3e0f8440000a9de255f70afd3d14b50860c730a08",
+      "bytes": 3237328,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1263288
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Villa_Foscari_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/AndreaPalladio_VillaFoscari_Master3D_Kurz_Vanessa.binvox",
+    "resolution": 128,
+    "triangles": 5328,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "ddc092f78e5bd9522a886899f9326b886baec585196881cd485eb51bc2687664"
+  }
+}

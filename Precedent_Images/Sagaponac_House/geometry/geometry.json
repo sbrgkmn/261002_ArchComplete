@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "reiser-umemoto_sagaponac-house_Master3D_weissteiner_sebastian",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Sagaponac_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/reiser-umemoto_sagaponac-house_Master3D_weissteiner_sebastian_0.binvox",
+      "sha256": "3aaf3d267b6ee7de45d2762430eb2e19c206175176f83b253dc798a0a5686666",
+      "bytes": 6953,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3946
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Sagaponac_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/reiser-umemoto_sagaponac-house_Master3D_weissteiner_sebastian_120.binvox",
+      "sha256": "523a6d5e8fbb9a9dd3bb2f09efb69d282124e1a42d4a5171810883655ec93de3",
+      "bytes": 6993,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3911
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Sagaponac_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/reiser-umemoto_sagaponac-house_Master3D_weissteiner_sebastian_150.binvox",
+      "sha256": "e47282964d37324b4735a1c658a9612814a3a28d6b1752a9204f8f53b7b629c0",
+      "bytes": 7401,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4104
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Sagaponac_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/reiser-umemoto_sagaponac-house_Master3D_weissteiner_sebastian_180.binvox",
+      "sha256": "30ebba06b496f5d11e8e09f49f51bf1167b8e909db51b1d6609a3b7923f9c397",
+      "bytes": 6963,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4184
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Sagaponac_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/reiser-umemoto_sagaponac-house_Master3D_weissteiner_sebastian_210.binvox",
+      "sha256": "9a79796aba8abf4e99187a76a6a811fb0e105e96e8d8f718a11f2b86313a58eb",
+      "bytes": 6849,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3839
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Sagaponac_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/reiser-umemoto_sagaponac-house_Master3D_weissteiner_sebastian_240.binvox",
+      "sha256": "0a091a408c76a85f6340233bf048b7dad9f43f264741670b6aec76b8dc2826fe",
+      "bytes": 7417,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4133
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Sagaponac_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/reiser-umemoto_sagaponac-house_Master3D_weissteiner_sebastian_270.binvox",
+      "sha256": "5c3a8d93bd03eb5957ed563ab5e435f8535399225cc7760cf1d88b6616faf651",
+      "bytes": 6963,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3943
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Sagaponac_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/reiser-umemoto_sagaponac-house_Master3D_weissteiner_sebastian_30.binvox",
+      "sha256": "f1604d162af28ae06eee5221e6ce15e774227330749cbca509519636c91e1e5a",
+      "bytes": 7635,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4302
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Sagaponac_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/reiser-umemoto_sagaponac-house_Master3D_weissteiner_sebastian_300.binvox",
+      "sha256": "102437602d75e00f85bb837e9392b99fe4c8cbe648bd3e987c90aa4b0fb8aaa9",
+      "bytes": 8297,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4434
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Sagaponac_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/reiser-umemoto_sagaponac-house_Master3D_weissteiner_sebastian_330.binvox",
+      "sha256": "09102141454f29b7a2534156aa74a8e536292b3ed64790c1310f4da9dd5c2af2",
+      "bytes": 6689,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3798
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Sagaponac_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/reiser-umemoto_sagaponac-house_Master3D_weissteiner_sebastian_60.binvox",
+      "sha256": "52c2ce3491f8ec3db0439ac52a78884942c4ebe696808aecdb29bf270e6ecdc9",
+      "bytes": 6657,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3717
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Sagaponac_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/reiser-umemoto_sagaponac-house_Master3D_weissteiner_sebastian_90.binvox",
+      "sha256": "d21c871ae5b80265f2a3991abb86c7176c478e4d530ef86694e21eddfc9c1904",
+      "bytes": 7303,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3890
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Sagaponac_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/reiser-umemoto_sagaponac-house_Master3D_weissteiner_sebastian.binvox",
+      "sha256": "3e5ad5cc3c0cd4255e8f43da27a24334ac72546ea3658c13f11a5511b27f7d62",
+      "bytes": 6271,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3421
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Sagaponac_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/reiser-umemoto_sagaponac-house_Master3D_weissteiner_sebastian.binvox",
+      "sha256": "330fe732eae33256a59a9ce5968b14efa4c726ff5ed55f2b38c5ecf699586820",
+      "bytes": 33534,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 15835
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Sagaponac_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/reiser-umemoto_sagaponac-house_Master3D_weissteiner_sebastian.binvox",
+      "sha256": "784e230d8866c72ca9a2baeac283e1f695b14b1300b60be5f4edf15412700dd7",
+      "bytes": 188096,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 77826
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Sagaponac_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/reiser-umemoto_sagaponac-house_Master3D_weissteiner_sebastian.binvox",
+      "sha256": "a97bf0847a11bec3e3f14f386d309c86c1e1b6684b329120ca430c0368b6ba4c",
+      "bytes": 1317064,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 361082
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Sagaponac_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/reiser-umemoto_sagaponac-house_Master3D_weissteiner_sebastian.binvox",
+    "resolution": 128,
+    "triangles": 6572,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "72afeafe3668731a99484857b6e2b5f0e8a6fe0f9febe53748d2378083ffea44"
+  }
+}

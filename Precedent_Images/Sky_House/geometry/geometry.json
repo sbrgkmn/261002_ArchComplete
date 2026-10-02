@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "Kiyonori_Kikutake_SkyHouse_Master3D_erlacher_samuel",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Sky_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kiyonori_Kikutake_SkyHouse_Master3D_erlacher_samuel_0.binvox",
+      "sha256": "74f7953ff1004572b8120ea212a74b3aa0bd38b80bbac0099b97fda252a611ff",
+      "bytes": 6185,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2368
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Sky_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kiyonori_Kikutake_SkyHouse_Master3D_erlacher_samuel_120.binvox",
+      "sha256": "a34cedd8dea62fd32c8d6f4219234d386616fcebf71f2b0e37464dc1e5b17bbc",
+      "bytes": 6667,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2567
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Sky_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kiyonori_Kikutake_SkyHouse_Master3D_erlacher_samuel_150.binvox",
+      "sha256": "e664ca9a90ae33f4b55ac1189632928b053b2215e6d18ea30ba581580d60eb02",
+      "bytes": 6421,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2406
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Sky_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kiyonori_Kikutake_SkyHouse_Master3D_erlacher_samuel_180.binvox",
+      "sha256": "1780a20d05e17f43a8545bc98bcdc45ad7448fd8f64118378b749604733e6b3f",
+      "bytes": 6711,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2595
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Sky_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kiyonori_Kikutake_SkyHouse_Master3D_erlacher_samuel_210.binvox",
+      "sha256": "67f5a5522c38145e19bf8ca47f89c9249ee3ef76fb9a855e53865e5cb0a82c39",
+      "bytes": 6445,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2421
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Sky_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kiyonori_Kikutake_SkyHouse_Master3D_erlacher_samuel_240.binvox",
+      "sha256": "0116d27db7198458c282fae544a1871119c02a74ea9f77d1160dd22b0474cd8c",
+      "bytes": 6575,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2539
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Sky_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kiyonori_Kikutake_SkyHouse_Master3D_erlacher_samuel_270.binvox",
+      "sha256": "d07c1b362285885f1e25d9becd0adba9e4c8bd7e8aafe546e92dbd79d12ae763",
+      "bytes": 6267,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2344
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Sky_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kiyonori_Kikutake_SkyHouse_Master3D_erlacher_samuel_30.binvox",
+      "sha256": "5a48b3efd8c23a099fd7db756fa8a486b3c68c1162b1e6c69c10943c2af283ac",
+      "bytes": 6271,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2298
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Sky_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kiyonori_Kikutake_SkyHouse_Master3D_erlacher_samuel_300.binvox",
+      "sha256": "d51d874f8b0ee9d775d293ee06b89aed29a416f2825b241cdb647f4b7c19452b",
+      "bytes": 6623,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2397
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Sky_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kiyonori_Kikutake_SkyHouse_Master3D_erlacher_samuel_330.binvox",
+      "sha256": "bd514018b76b98167181aaabf492a997b4bd5e3a0f679da75e7f0d1a1d2ec963",
+      "bytes": 6377,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2296
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Sky_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kiyonori_Kikutake_SkyHouse_Master3D_erlacher_samuel_60.binvox",
+      "sha256": "8241bbc64dbc02726ce4650f81e2349f647a4ad71505137ea4e9f75a4312753f",
+      "bytes": 6575,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2521
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Sky_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Kiyonori_Kikutake_SkyHouse_Master3D_erlacher_samuel_90.binvox",
+      "sha256": "06001a22f4b5fd9902e87ed6c30af840906f98d54f8b3a5dd77b123eba76ed57",
+      "bytes": 6321,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2357
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Sky_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/Kiyonori_Kikutake_SkyHouse_Master3D_erlacher_samuel.binvox",
+      "sha256": "5bf541f5d627c7e18b6d0a48add6ae4548a53409f801637494a63f7a75719911",
+      "bytes": 5219,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1776
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Sky_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/Kiyonori_Kikutake_SkyHouse_Master3D_erlacher_samuel.binvox",
+      "sha256": "0dfc72ed574592091afabd26fb91df08565838aa4beb159ac5c8757061bed6bd",
+      "bytes": 28888,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9021
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Sky_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/Kiyonori_Kikutake_SkyHouse_Master3D_erlacher_samuel.binvox",
+      "sha256": "922a70721612fcb3e3245e6e4f12729f1cad6bfe857db50b13e0d5be8e39eeb6",
+      "bytes": 202068,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 42028
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Sky_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/Kiyonori_Kikutake_SkyHouse_Master3D_erlacher_samuel.binvox",
+      "sha256": "ff7d26dc9a23bf0535bf3ba9351f07e1368e8a87f3ccf206d56c723b618db438",
+      "bytes": 1386866,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 192776
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Sky_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/Kiyonori_Kikutake_SkyHouse_Master3D_erlacher_samuel.binvox",
+    "resolution": 128,
+    "triangles": 1604,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "ce41a62937ab039e3b7069d1066ed9fb5de520b4e838c5070b0ea6145f582782"
+  }
+}

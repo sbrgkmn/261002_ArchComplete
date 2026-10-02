@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Villa_Foscari_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1280,
+    "height": 872,
+    "source_page": "https://commons.wikimedia.org/wiki/Category:Villa_Foscari",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Villa_Foscari_20070710-1.jpg/1280px-Villa_Foscari_20070710-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
+    "caption": "  ",
+    "bytes": 333057,
+    "candidate": 1
+  },
+  {
+    "file": "Villa_Foscari_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1280,
+    "height": 853,
+    "source_page": "https://commons.wikimedia.org/wiki/Category:Villa_Foscari",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/VillaFoscari_2007_07_10_03.jpg/1280px-VillaFoscari_2007_07_10_03.jpg",
+    "caption": "  ",
+    "bytes": 475085,
+    "candidate": 29
+  },
+  {
+    "file": "Villa_Foscari_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1280,
+    "height": 846,
+    "source_page": "https://commons.wikimedia.org/wiki/Category:Villa_Foscari",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/La_Malcontenta_-_back_2015-07-28-1.jpg/1280px-La_Malcontenta_-_back_2015-07-28-1.jpg",
+    "caption": "  ",
+    "bytes": 339456,
+    "candidate": 35
+  },
+  {
+    "file": "Villa_Foscari_Floor_Plan_01.png",
+    "view_type": "Floor_Plan",
+    "width": 1024,
+    "height": 768,
+    "source_page": "https://www.lamalcontenta.it/3-interno-gli-spazi/?lang=en",
+    "image_url": "https://www.lamalcontenta.it/wp-content/uploads/2018/05/C2.png",
+    "caption": " La pianta della casa mostra la simmetria spaziale interna; la divisione in due appartamenti con tre stanze ognuno e, in proiezione, la diversità delle volte che ricoprono le stanze. ",
+    "bytes": 93987,
+    "candidate": 6
+  },
+  {
+    "file": "Villa_Foscari_Interior_01.png",
+    "view_type": "Interior",
+    "width": 1024,
+    "height": 768,
+    "source_page": "https://www.lamalcontenta.it/3-interno-gli-spazi/?lang=en",
+    "image_url": "https://www.lamalcontenta.it/wp-content/uploads/2018/05/C.png",
+    "caption": " Porta di acceso alla casa palladiana. Replica il portale di un antico tempio romano (foto: Inoue). ",
+    "bytes": 921196,
+    "candidate": 5
+  },
+  {
+    "file": "Villa_Foscari_Interior_02.png",
+    "view_type": "Interior",
+    "width": 1024,
+    "height": 768,
+    "source_page": "https://www.lamalcontenta.it/3-interno-gli-spazi/?lang=en",
+    "image_url": "https://www.lamalcontenta.it/wp-content/uploads/2018/05/C3.png",
+    "caption": " La vista verso meridione, mostra l’armonia spaziale della sala centrale (foto: Sassi). ",
+    "bytes": 1483722,
+    "candidate": 7
+  }
+]

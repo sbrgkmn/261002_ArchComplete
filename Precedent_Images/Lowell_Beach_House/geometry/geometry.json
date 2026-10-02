@@ -1,0 +1,84 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "RudolfSchindler_LowellBeachHouse_Master3D_Group11",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Lowell_Beach_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/RudolfSchindler_LowellBeachHouse_Master3D_Group11.binvox",
+      "sha256": "3248e8d431769eaa00ec44b1649f310e9f50145e82efd0766e03a1ab0377fbf5",
+      "bytes": 5451,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3465
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Lowell_Beach_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/RudolfSchindler_LowellBeachHouse_Master3D_Group11.binvox",
+      "sha256": "665ec2ad8162a035837bb71bbeb175bdbe148fabb78cbaeec385baef099dba39",
+      "bytes": 31310,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 17191
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Lowell_Beach_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/RudolfSchindler_LowellBeachHouse_Master3D_Group11.binvox",
+      "sha256": "4f19a62b548a4b79acd26207eccb1b650bc6d2316ccbc2d2c31baf6be64c1deb",
+      "bytes": 207298,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 81345
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Lowell_Beach_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/RudolfSchindler_LowellBeachHouse_Master3D_Group11.binvox",
+      "sha256": "5e120a2475e032733f507021291bc7820a38a2f2a728ad420b787b130548902c",
+      "bytes": 1475972,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 373720
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Lowell_Beach_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/RudolfSchindler_LowellBeachHouse_Master3D_Group11.binvox",
+    "resolution": 128,
+    "triangles": 3154,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "76ceb9e3628083e7c234277e32b0785781cd2be297b974ef5c04ee432c1ee1d3"
+  }
+}

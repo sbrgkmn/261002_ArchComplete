@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "LudwigMiesvanderRohe_VillaTugendhat_Master3D_Eren_Kargi",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Villa_Tugendhat_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_VillaTugendhat_Master3D_Eren_Kargi_0.binvox",
+      "sha256": "0ded49b17d3fbc1ac33d53cacac5a6cef6d4030ca842a6851cb01fe40bf8f4df",
+      "bytes": 25447,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 14312
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Villa_Tugendhat_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_VillaTugendhat_Master3D_Eren_Kargi_120.binvox",
+      "sha256": "0b2248ddb171907663ef4bb80218f8b9dc3ab7a3f6c7cb6882a02eb8e12607e4",
+      "bytes": 25845,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 15427
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Villa_Tugendhat_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_VillaTugendhat_Master3D_Eren_Kargi_150.binvox",
+      "sha256": "61530f5b19e786fbe2a0c4d858169078e08ccfc729c1d25092c94a0ab409e530",
+      "bytes": 25745,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 15486
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Villa_Tugendhat_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_VillaTugendhat_Master3D_Eren_Kargi_180.binvox",
+      "sha256": "289ab409346d2e9d25864ba1a8af6b441bca7a33d57160a3516212bffa325c95",
+      "bytes": 27193,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 15762
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Villa_Tugendhat_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_VillaTugendhat_Master3D_Eren_Kargi_210.binvox",
+      "sha256": "abf6a3e0cb4c9ff2a8b77bef4a8160acbd7fa285babff42d95eb6d3f873bef18",
+      "bytes": 24977,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 14728
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Villa_Tugendhat_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_VillaTugendhat_Master3D_Eren_Kargi_240.binvox",
+      "sha256": "b8730b48ddb96195d74862950a0c0bd3732ccffa8deceda5a7a3de470dd59ac4",
+      "bytes": 27843,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 16780
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Villa_Tugendhat_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_VillaTugendhat_Master3D_Eren_Kargi_270.binvox",
+      "sha256": "9b40a5900d2152b7304778f3733a3093e9cde61ee229623aa9bbda663cb1831a",
+      "bytes": 24775,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 15157
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Villa_Tugendhat_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_VillaTugendhat_Master3D_Eren_Kargi_30.binvox",
+      "sha256": "bbb2f5c20ec5e8d07d26a6c04eb716b3bc7b159282098544357043a3e3528e21",
+      "bytes": 27061,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 16020
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Villa_Tugendhat_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_VillaTugendhat_Master3D_Eren_Kargi_300.binvox",
+      "sha256": "2914c6d440f4881a9db971c4922a04df3aa3b13e1604457c7c544bccc612df6e",
+      "bytes": 28653,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 16752
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Villa_Tugendhat_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_VillaTugendhat_Master3D_Eren_Kargi_330.binvox",
+      "sha256": "d0f95b893ae56bcfcb2ca5d8dfb8d0b8e96b5524ba27a8602c1f0a79ec98d4f4",
+      "bytes": 24935,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 14803
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Villa_Tugendhat_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_VillaTugendhat_Master3D_Eren_Kargi_60.binvox",
+      "sha256": "57a28658589c58ef3a8c93206f18a6e9044e1eede5d5adb78fc8976c2e89d754",
+      "bytes": 25383,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 15010
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Villa_Tugendhat_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/LudwigMiesvanderRohe_VillaTugendhat_Master3D_Eren_Kargi_90.binvox",
+      "sha256": "f95ab61bda06297f2547dd0bc57dfb9cd3e78131450c2844ce8c9b3b3e639a04",
+      "bytes": 26817,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 16085
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Villa_Tugendhat_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/LudwigMiesvanderRohe_VillaTugendhat_Master3D_Eren_Kargi.binvox",
+      "sha256": "b5e88aebb69bbd337517a9a36aac70d1c2fe9b5b0dbaa7530e01707f2fb52f81",
+      "bytes": 23295,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 13838
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Villa_Tugendhat_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/LudwigMiesvanderRohe_VillaTugendhat_Master3D_Eren_Kargi.binvox",
+      "sha256": "cf721bb707347f4887e379ce06243af593a073c6435d792dfc95ff2e048831cd",
+      "bytes": 117950,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 67381
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Villa_Tugendhat_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/LudwigMiesvanderRohe_VillaTugendhat_Master3D_Eren_Kargi.binvox",
+      "sha256": "cf4eb9a377f27f6b63c0c719d1c71f14b0a59228d3c27d624dd97c28776d2f8b",
+      "bytes": 632190,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 309174
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Villa_Tugendhat_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/LudwigMiesvanderRohe_VillaTugendhat_Master3D_Eren_Kargi.binvox",
+      "sha256": "2f351f43cfeab2b5024cd4cf00ce61b618e84c73db1199d4a51e42cdccb74004",
+      "bytes": 3802418,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1289487
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Villa_Tugendhat_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/LudwigMiesvanderRohe_VillaTugendhat_Master3D_Eren_Kargi.binvox",
+    "resolution": 128,
+    "triangles": 5044,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "bef265a6a424bc506889a250e9890fcc24bb631190f4c692457531e116912d59"
+  }
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "file": "Herning_School_Center_Exterior_01.png",
+    "view_type": "Exterior",
+    "width": 3260,
+    "height": 1826,
+    "source_page": "https://architecture-history.org/architects/architects/UTZON/OBJ/1976%2C%20Herning%20School%20Center%2C%20Jutland%2C%20Denmark%20.html",
+    "image_url": "https://architecture-history.org/architects/architects/UTZON/PIC/ZO01.png",
+    "caption": "  ",
+    "bytes": 9791972,
+    "candidate": 1
+  },
+  {
+    "file": "Herning_School_Center_Exterior_02.png",
+    "view_type": "Exterior",
+    "width": 2434,
+    "height": 2136,
+    "source_page": "https://architecture-history.org/architects/architects/UTZON/OBJ/1976%2C%20Herning%20School%20Center%2C%20Jutland%2C%20Denmark%20.html",
+    "image_url": "https://architecture-history.org/architects/architects/UTZON/PIC/ZO05.png",
+    "caption": "  ",
+    "bytes": 6318883,
+    "candidate": 5
+  },
+  {
+    "file": "Herning_School_Center_Exterior_03.png",
+    "view_type": "Exterior",
+    "width": 3030,
+    "height": 2028,
+    "source_page": "https://architecture-history.org/architects/architects/UTZON/OBJ/1976%2C%20Herning%20School%20Center%2C%20Jutland%2C%20Denmark%20.html",
+    "image_url": "https://architecture-history.org/architects/architects/UTZON/PIC/ZO06.png",
+    "caption": "  ",
+    "bytes": 10327712,
+    "candidate": 6
+  },
+  {
+    "file": "Herning_School_Center_Floor_Plan_01.png",
+    "view_type": "Floor_Plan",
+    "width": 3640,
+    "height": 2082,
+    "source_page": "https://architecture-history.org/architects/architects/UTZON/OBJ/1976%2C%20Herning%20School%20Center%2C%20Jutland%2C%20Denmark%20.html",
+    "image_url": "https://architecture-history.org/architects/architects/UTZON/PIC/ZO13.png",
+    "caption": "  ",
+    "bytes": 6470690,
+    "candidate": 13
+  },
+  {
+    "file": "Herning_School_Center_Floor_Plan_02.png",
+    "view_type": "Floor_Plan",
+    "width": 3394,
+    "height": 1688,
+    "source_page": "https://architecture-history.org/architects/architects/UTZON/OBJ/1976%2C%20Herning%20School%20Center%2C%20Jutland%2C%20Denmark%20.html",
+    "image_url": "https://architecture-history.org/architects/architects/UTZON/PIC/ZO14.png",
+    "caption": "  ",
+    "bytes": 4242966,
+    "candidate": 14
+  },
+  {
+    "file": "Herning_School_Center_Floor_Plan_03.png",
+    "view_type": "Floor_Plan",
+    "width": 3394,
+    "height": 1604,
+    "source_page": "https://architecture-history.org/architects/architects/UTZON/OBJ/1976%2C%20Herning%20School%20Center%2C%20Jutland%2C%20Denmark%20.html",
+    "image_url": "https://architecture-history.org/architects/architects/UTZON/PIC/ZO15.png",
+    "caption": "  ",
+    "bytes": 3016245,
+    "candidate": 15
+  },
+  {
+    "file": "Herning_School_Center_Interior_01.png",
+    "view_type": "Interior",
+    "width": 1070,
+    "height": 1732,
+    "source_page": "https://architecture-history.org/architects/architects/UTZON/OBJ/1976%2C%20Herning%20School%20Center%2C%20Jutland%2C%20Denmark%20.html",
+    "image_url": "https://architecture-history.org/architects/architects/UTZON/PIC/ZO07.png",
+    "caption": "  ",
+    "bytes": 2423887,
+    "candidate": 10
+  },
+  {
+    "file": "Herning_School_Center_Interior_02.png",
+    "view_type": "Interior",
+    "width": 1070,
+    "height": 1732,
+    "source_page": "https://architecture-history.org/architects/architects/UTZON/OBJ/1976%2C%20Herning%20School%20Center%2C%20Jutland%2C%20Denmark%20.html",
+    "image_url": "https://architecture-history.org/architects/architects/UTZON/PIC/ZO08.png",
+    "caption": "  ",
+    "bytes": 2787109,
+    "candidate": 11
+  }
+]

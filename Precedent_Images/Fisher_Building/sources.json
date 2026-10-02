@@ -1,0 +1,90 @@
+[
+  {
+    "file": "Fisher_Building_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1600,
+    "height": 1063,
+    "source_page": "https://archeyes.com/fisher-house-louis-kahn/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2022/03/Fisher-House-Louis-Kahn-ArchEyes-front-view.jpg?fit=1600%2C1063&ssl=1",
+    "caption": "  ",
+    "bytes": 719116,
+    "candidate": 1
+  },
+  {
+    "file": "Fisher_Building_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1200,
+    "height": 800,
+    "source_page": "https://archeyes.com/fisher-house-louis-kahn/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2022/03/Fisher-House-Louis-Kahn-ArchEyes-exterior-snow.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 323087,
+    "candidate": 2
+  },
+  {
+    "file": "Fisher_Building_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1600,
+    "height": 1063,
+    "source_page": "https://archeyes.com/fisher-house-louis-kahn/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2022/03/Fisher-House-Louis-Kahn-ArchEyes-colors.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 662065,
+    "candidate": 5
+  },
+  {
+    "file": "Fisher_Building_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1200,
+    "height": 1200,
+    "source_page": "https://archeyes.com/fisher-house-louis-kahn/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2022/03/Fisher-House-Louis-Kahn-ArchEyes-plans-all.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 73948,
+    "candidate": 11
+  },
+  {
+    "file": "Fisher_Building_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1200,
+    "height": 1478,
+    "source_page": "https://archeyes.com/fisher-house-louis-kahn/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2022/03/Fisher-House-Louis-Kahn-ArchEyes-floor-plan-2.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 340419,
+    "candidate": 12
+  },
+  {
+    "file": "Fisher_Building_Floor_Plan_03.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1200,
+    "height": 1457,
+    "source_page": "https://archeyes.com/fisher-house-louis-kahn/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2022/03/Fisher-House-Louis-Kahn-ArchEyes-floor-plan.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 378172,
+    "candidate": 13
+  },
+  {
+    "file": "Fisher_Building_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1200,
+    "height": 1670,
+    "source_page": "https://archeyes.com/fisher-house-louis-kahn/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2022/03/Fisher-House-Louis-Kahn-ArchEyes-interior-bench.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 539462,
+    "candidate": 7
+  },
+  {
+    "file": "Fisher_Building_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 524,
+    "height": 839,
+    "source_page": "https://archeyes.com/fisher-house-louis-kahn/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2022/06/Fisher-House-Louis-Kahn-ArchEyes-studio-edited.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 105735,
+    "candidate": 10
+  }
+]

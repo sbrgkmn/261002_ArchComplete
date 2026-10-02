@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "ShigeruBan_TriangleHouse_Master3D_Prinz_Tobias",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Triangle_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_TriangleHouse_Master3D_Prinz_Tobias_0.binvox",
+      "sha256": "1ed3a99cee51006046d560213b8cc37c8fcd383ca4863aae1b41713b956e0483",
+      "bytes": 6453,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4444
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Triangle_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_TriangleHouse_Master3D_Prinz_Tobias_120.binvox",
+      "sha256": "b5275f1e3339fe6dc8448759814e9ce769ea5588bbbd2f23b8c521b5effc0437",
+      "bytes": 6841,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4572
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Triangle_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_TriangleHouse_Master3D_Prinz_Tobias_150.binvox",
+      "sha256": "b8347b30add6f65865fb661ba6855e7d99cd0b02bc784ff0bd9f221306d4d049",
+      "bytes": 6421,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4104
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Triangle_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_TriangleHouse_Master3D_Prinz_Tobias_180.binvox",
+      "sha256": "78768bc7103a839cd64fd58ee85752c34dc03aed1cf42c41f8aafe3f1359b80c",
+      "bytes": 7173,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5084
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Triangle_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_TriangleHouse_Master3D_Prinz_Tobias_210.binvox",
+      "sha256": "4a1f2e937a68052e180c9a497cabf9feb6e4af7b9a9dacf1aa7a7ac8f3be8adf",
+      "bytes": 6773,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4444
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Triangle_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_TriangleHouse_Master3D_Prinz_Tobias_240.binvox",
+      "sha256": "2f2c577ad623b790b1808053a5ee42a4768f981ac0ddc8a417b4c5238b0ec263",
+      "bytes": 6957,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4218
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Triangle_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_TriangleHouse_Master3D_Prinz_Tobias_270.binvox",
+      "sha256": "e56ca67b42f691f40a70a4709a12dd68973a3ab1a0f9a38f67e58bb2ea267ee8",
+      "bytes": 6469,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4312
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Triangle_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_TriangleHouse_Master3D_Prinz_Tobias_30.binvox",
+      "sha256": "35e1a5b1a883da5541751d3b16fb8f8c7e1bad5b69dfcb11f9d0465ec35d1add",
+      "bytes": 6823,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4500
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Triangle_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_TriangleHouse_Master3D_Prinz_Tobias_300.binvox",
+      "sha256": "f372d616253c7000771f169a3d0b18bc6c1bc5fda3b7d4007f5fb4460a82ab86",
+      "bytes": 7235,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4675
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Triangle_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_TriangleHouse_Master3D_Prinz_Tobias_330.binvox",
+      "sha256": "452c31104272ac7fb5e75c6d166c8a91e15f969a2346b4531d0c225eac258e04",
+      "bytes": 7127,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4689
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Triangle_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_TriangleHouse_Master3D_Prinz_Tobias_60.binvox",
+      "sha256": "3fe1bad97148cdcbc9e3f6805ea9505370a4beb215616e624fa8853fe930506d",
+      "bytes": 7221,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4881
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Triangle_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBan_TriangleHouse_Master3D_Prinz_Tobias_90.binvox",
+      "sha256": "6841b36a08f36fc1864d8ea21745ea767f327b2db0f89196c4d93288256c327e",
+      "bytes": 6745,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4411
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Triangle_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/ShigeruBan_TriangleHouse_Master3D_Prinz_Tobias.binvox",
+      "sha256": "b0163981eb02f64d30c98f420eb1e7e13893a33e7d5123e00d546f90436739e9",
+      "bytes": 5657,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3524
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Triangle_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/ShigeruBan_TriangleHouse_Master3D_Prinz_Tobias.binvox",
+      "sha256": "805448f5cb2becfedd6ebfdc9e321821a0611574505ed3035157d9a04c12f208",
+      "bytes": 32354,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 17703
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Triangle_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/ShigeruBan_TriangleHouse_Master3D_Prinz_Tobias.binvox",
+      "sha256": "8313dff9d505f17c59c3f3523f37d18ce9ef5e7bcb0477a5b45727d73a84a329",
+      "bytes": 204160,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 84756
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Triangle_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/ShigeruBan_TriangleHouse_Master3D_Prinz_Tobias.binvox",
+      "sha256": "cfbb38af84ccee15d404c7b588418414ed184311babcc656f747c46651e012d4",
+      "bytes": 1544038,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 385151
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Triangle_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/ShigeruBan_TriangleHouse_Master3D_Prinz_Tobias.binvox",
+    "resolution": 128,
+    "triangles": 6966,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "47e7b99c5c06a375f0549de09e32929d60925e6849e168077a7ce2153fee80d1"
+  }
+}

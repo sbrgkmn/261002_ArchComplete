@@ -1,0 +1,79 @@
+[
+  {
+    "file": "Moriyama_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1800,
+    "height": 1200,
+    "source_page": "https://publicdelivery.org/moriyama-house/",
+    "image_url": "https://publicdelivery.org/wp-content/uploads/2019/07/Ryue-Nishizawa-SANAA-Moriyama-House-Ohta-ku-Tokyo-Japan-2005-9.jpg",
+    "caption": "  ",
+    "bytes": 414019,
+    "candidate": 1
+  },
+  {
+    "file": "Moriyama_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1758,
+    "height": 1200,
+    "source_page": "https://publicdelivery.org/moriyama-house/",
+    "image_url": "https://publicdelivery.org/wp-content/uploads/2019/07/Ryue-Nishizawa-SANAA-Moriyama-House-Ohta-ku-Tokyo-Japan-2005-1-1.jpg",
+    "caption": "  ",
+    "bytes": 232572,
+    "candidate": 4
+  },
+  {
+    "file": "Moriyama_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1800,
+    "height": 1200,
+    "source_page": "https://publicdelivery.org/moriyama-house/",
+    "image_url": "https://publicdelivery.org/wp-content/uploads/2019/07/Ryue-Nishizawa-SANAA-Moriyama-House-Ohta-ku-Tokyo-Japan-2005-5.jpg",
+    "caption": "  ",
+    "bytes": 638242,
+    "candidate": 6
+  },
+  {
+    "file": "Moriyama_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1600,
+    "height": 1193,
+    "source_page": "https://publicdelivery.org/moriyama-house/",
+    "image_url": "https://publicdelivery.org/wp-content/uploads/2019/07/Ryue-Nishizawa-SANAA-Moriyama-House-Ohta-ku-Tokyo-Japan-2005-Floor-Plan-.jpg",
+    "caption": "  ",
+    "bytes": 299316,
+    "candidate": 31
+  },
+  {
+    "file": "Moriyama_House_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1200,
+    "height": 861,
+    "source_page": "https://publicdelivery.org/moriyama-house/",
+    "image_url": "https://publicdelivery.org/wp-content/uploads/2019/07/Ryue-Nishizawa-SANAA-Moriyama-House-Ohta-ku-Tokyo-Japan-2005-Floor-Plan.jpg",
+    "caption": "  ",
+    "bytes": 55531,
+    "candidate": 32
+  },
+  {
+    "file": "Moriyama_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1819,
+    "height": 1200,
+    "source_page": "https://publicdelivery.org/moriyama-house/",
+    "image_url": "https://publicdelivery.org/wp-content/uploads/2019/07/Ryue-Nishizawa-SANAA-Moriyama-House-Ohta-ku-Tokyo-Japan-2005-17.jpg",
+    "caption": "  ",
+    "bytes": 285990,
+    "candidate": 10
+  },
+  {
+    "file": "Moriyama_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 1800,
+    "height": 1200,
+    "source_page": "https://publicdelivery.org/moriyama-house/",
+    "image_url": "https://publicdelivery.org/wp-content/uploads/2019/07/Ryue-Nishizawa-SANAA-Moriyama-House-Ohta-ku-Tokyo-Japan-2005-18.jpg",
+    "caption": "  ",
+    "bytes": 198186,
+    "candidate": 12
+  }
+]

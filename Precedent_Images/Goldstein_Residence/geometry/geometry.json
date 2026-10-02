@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "JohnLautner_GoldsteinResidence_Master3D_Wöhrle_Emily",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Goldstein_Residence_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_GoldsteinResidence_Master3D_Wöhrle_Emily_0.binvox",
+      "sha256": "9d0e508f045b5f4ebdc3d69f3edd01e29a84354840542306df7de0203000d719",
+      "bytes": 9805,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5009
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Goldstein_Residence_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_GoldsteinResidence_Master3D_Wöhrle_Emily_120.binvox",
+      "sha256": "c57318ca62329f9358ad3b98056bb6f656a4fdeb7504825ce3c86d2520785855",
+      "bytes": 9875,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4943
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Goldstein_Residence_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_GoldsteinResidence_Master3D_Wöhrle_Emily_150.binvox",
+      "sha256": "fb921c769a758c351932fd0e0bf270b46d744d74f3f9f103f6a4c7ad280d01c8",
+      "bytes": 11417,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5446
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Goldstein_Residence_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_GoldsteinResidence_Master3D_Wöhrle_Emily_180.binvox",
+      "sha256": "f2de5685241b34a75c0923f88ea17b3f8768b7fc665923d96fab5f12b16c411d",
+      "bytes": 10831,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5119
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Goldstein_Residence_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_GoldsteinResidence_Master3D_Wöhrle_Emily_210.binvox",
+      "sha256": "b1447d9bca5080ba655aae8f5b0b4587525aa62946d64e9af1d5554cec18eb17",
+      "bytes": 10661,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5072
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Goldstein_Residence_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_GoldsteinResidence_Master3D_Wöhrle_Emily_240.binvox",
+      "sha256": "7e136e03520dae02b68a80ba8312cbd46a0a5a1bbffecb7decd199640e9fec2f",
+      "bytes": 11365,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5640
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Goldstein_Residence_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_GoldsteinResidence_Master3D_Wöhrle_Emily_270.binvox",
+      "sha256": "4f2f7d067d32ac062bdec10264f13d243de513dcea3204270ef2bed8e4c32ea9",
+      "bytes": 10073,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4967
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Goldstein_Residence_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_GoldsteinResidence_Master3D_Wöhrle_Emily_30.binvox",
+      "sha256": "7a3c81725c5eb28e41a781a9aabbe9503cd23a2db9e88010ba643cb416d677a4",
+      "bytes": 12189,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6142
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Goldstein_Residence_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_GoldsteinResidence_Master3D_Wöhrle_Emily_300.binvox",
+      "sha256": "986032c65623e78c925a72ebdb0ec68f7f4b3ac979e1852733922d71a01f2d6d",
+      "bytes": 12987,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6401
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Goldstein_Residence_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_GoldsteinResidence_Master3D_Wöhrle_Emily_330.binvox",
+      "sha256": "05cdb57fbd2de0d58d4894b4296b5eaba0f7c78050dbe4b64d29a2ceff179835",
+      "bytes": 10229,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4815
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Goldstein_Residence_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_GoldsteinResidence_Master3D_Wöhrle_Emily_60.binvox",
+      "sha256": "19203cc768c5b4ed054f2585bdc20ae4a3fad78a8378d1effcdc43c3f92ba2ec",
+      "bytes": 10037,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4729
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Goldstein_Residence_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JohnLautner_GoldsteinResidence_Master3D_Wöhrle_Emily_90.binvox",
+      "sha256": "e831863d33cbf027c18e7f49959eb029609893b3a1d2e0f44032e7d62782c8e8",
+      "bytes": 12073,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5904
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Goldstein_Residence_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/JohnLautner_GoldsteinResidence_Master3D_Wöhrle_Emily.binvox",
+      "sha256": "0e2c22ef9365036cc35ef02160a3a91e39f613b20b361b8c21ca733225ea3db0",
+      "bytes": 10317,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5974
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Goldstein_Residence_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/JohnLautner_GoldsteinResidence_Master3D_Wöhrle_Emily.binvox",
+      "sha256": "c5dd0ac1dd5ea7a96091ebad9c227646a8911b4ddf4fddad5a793d194be59b49",
+      "bytes": 48546,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 29639
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Goldstein_Residence_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/JohnLautner_GoldsteinResidence_Master3D_Wöhrle_Emily.binvox",
+      "sha256": "b01a81c26511f4bde25561710a7aeef43af69b4d53b9ecd6067ba247e28f62e5",
+      "bytes": 273730,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 141313
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Goldstein_Residence_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/JohnLautner_GoldsteinResidence_Master3D_Wöhrle_Emily.binvox",
+      "sha256": "acf3bbeeae9cfe0f9618d71ecfc92cd9385f007ee74bfc9aa4e78828354c3438",
+      "bytes": 2171304,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 610552
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Goldstein_Residence_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/JohnLautner_GoldsteinResidence_Master3D_Wöhrle_Emily.binvox",
+    "resolution": 128,
+    "triangles": 12206,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "780ef1d3d1f775fd9b8a11af57a05df3c6bd08d95d5b629e5cdf3d5ab107ee71"
+  }
+}

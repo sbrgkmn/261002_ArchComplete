@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "Mvrdv_Double_House_Jakob_Valis",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Double_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mvrdv_Double_House_Jakob_Valis_0.binvox",
+      "sha256": "0efb31a10161390081133bd11b74da01e01ed8f55496231585dd5ef63609bc3c",
+      "bytes": 8525,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5061
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Double_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mvrdv_Double_House_Jakob_Valis_120.binvox",
+      "sha256": "2b0885150f444a7d49c90d3a231d1126abaa71ba1fadb9f9385086ff92d0e1ca",
+      "bytes": 8441,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5707
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Double_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mvrdv_Double_House_Jakob_Valis_150.binvox",
+      "sha256": "0901667d9da1e21b399a90469e819d522702f2b7e5c10969930378b5dc6fe97e",
+      "bytes": 8129,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4944
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Double_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mvrdv_Double_House_Jakob_Valis_180.binvox",
+      "sha256": "9c7eebdd83c553a4f4a1b9dc368d36171a021932a3624356d20085b413c65161",
+      "bytes": 8535,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5424
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Double_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mvrdv_Double_House_Jakob_Valis_210.binvox",
+      "sha256": "f8c9e066db8b67412b62124a6d7decd121123e7ac6d3acb5148e62ba2d5cf789",
+      "bytes": 8309,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4904
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Double_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mvrdv_Double_House_Jakob_Valis_240.binvox",
+      "sha256": "95bc05bb91d98062ce597cab8661afe998e587c4487c3c8cb5a360d6c67b4640",
+      "bytes": 8647,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5637
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Double_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mvrdv_Double_House_Jakob_Valis_270.binvox",
+      "sha256": "95cf2efe4963e642a01c93a62173f3d84519c2aa7d76fbdf454606f78e2c1fd2",
+      "bytes": 7941,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5012
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Double_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mvrdv_Double_House_Jakob_Valis_30.binvox",
+      "sha256": "13dc64265566540005a586aaa2b2fe93e3d9c92014c625961f9bbbf9c6db168e",
+      "bytes": 8065,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5106
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Double_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mvrdv_Double_House_Jakob_Valis_300.binvox",
+      "sha256": "d546cef0c53ad7bda5e3759306d1d613ad0910fb009c3693557346b17f79279b",
+      "bytes": 8785,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5226
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Double_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mvrdv_Double_House_Jakob_Valis_330.binvox",
+      "sha256": "d9ba28b26c837600835145abe8e095dc6a2ab8860f83ada8d04722470fbeb9f6",
+      "bytes": 8215,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5023
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Double_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mvrdv_Double_House_Jakob_Valis_60.binvox",
+      "sha256": "d29491d5c13495b8490b1c8718d5c59bca317c4fea30a5c83f28dbdd6cad8db3",
+      "bytes": 8507,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5041
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Double_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Mvrdv_Double_House_Jakob_Valis_90.binvox",
+      "sha256": "1c30f65d6693c3f25df1b646f3b84f6f2c198f06573512b4a50c6af55d2283ef",
+      "bytes": 8317,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5350
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Double_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/Mvrdv_Double_House_Jakob_Valis.binvox",
+      "sha256": "fdc6f343d9ed8e8f50b9f459a2ef8fbc976a1e846cfa6892ce832f53afa9973f",
+      "bytes": 6823,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4056
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Double_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/Mvrdv_Double_House_Jakob_Valis.binvox",
+      "sha256": "bc57981186c67107af0c354357d8682cbeb90ea71ada7968bfc5200e161d5415",
+      "bytes": 42954,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 19182
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Double_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/Mvrdv_Double_House_Jakob_Valis.binvox",
+      "sha256": "fd667d3bc3c58fda94c677ba363cdc2c2858c13e6fa9a57fa27617f58632c1b0",
+      "bytes": 249164,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 94851
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Double_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/Mvrdv_Double_House_Jakob_Valis.binvox",
+      "sha256": "21ae5db9d662683570b6ca663ac6f803f154000f9c33dd62a94f32a76e8751fe",
+      "bytes": 1734776,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 424908
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Double_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/Mvrdv_Double_House_Jakob_Valis.binvox",
+    "resolution": 128,
+    "triangles": 3204,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "edcfa71080c890b5c138dba61c8c1546647fa2e9c75fc8c8e4936463a88efedb"
+  }
+}

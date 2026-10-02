@@ -1,0 +1,79 @@
+[
+  {
+    "file": "Sky_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 800,
+    "height": 800,
+    "source_page": "https://hiddenarchitecture.net/sky-house/",
+    "image_url": "https://hiddenarchitecture.net/wp-content/uploads/2015/04/Skyhouse_001-1.jpg",
+    "caption": "  ",
+    "bytes": 382467,
+    "candidate": 1
+  },
+  {
+    "file": "Sky_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 800,
+    "height": 596,
+    "source_page": "https://hiddenarchitecture.net/sky-house/",
+    "image_url": "https://hiddenarchitecture.net/wp-content/uploads/2015/04/skyhouse_002-1.jpg",
+    "caption": "  ",
+    "bytes": 102574,
+    "candidate": 9
+  },
+  {
+    "file": "Sky_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1600,
+    "height": 1067,
+    "source_page": "https://hiddenarchitecture.net/sky-house/",
+    "image_url": "https://hiddenarchitecture.net/wp-content/uploads/2015/04/skyhouse_019-iwan-baan_2.jpg",
+    "caption": "  ",
+    "bytes": 578730,
+    "candidate": 14
+  },
+  {
+    "file": "Sky_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1024,
+    "height": 767,
+    "source_page": "https://hiddenarchitecture.net/sky-house/",
+    "image_url": "https://hiddenarchitecture.net/wp-content/uploads/2015/04/skyhouse_003-2.jpg",
+    "caption": "  ",
+    "bytes": 113464,
+    "candidate": 3
+  },
+  {
+    "file": "Sky_House_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 950,
+    "height": 950,
+    "source_page": "https://hiddenarchitecture.net/sky-house/",
+    "image_url": "https://hiddenarchitecture.net/wp-content/uploads/2015/04/skyhouse_003-3.jpg",
+    "caption": "  ",
+    "bytes": 62213,
+    "candidate": 4
+  },
+  {
+    "file": "Sky_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1600,
+    "height": 1064,
+    "source_page": "https://hiddenarchitecture.net/sky-house/",
+    "image_url": "https://hiddenarchitecture.net/wp-content/uploads/2015/04/skyhouse_011-iwan-baan.jpg",
+    "caption": "  ",
+    "bytes": 385384,
+    "candidate": 16
+  },
+  {
+    "file": "Sky_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 1600,
+    "height": 1040,
+    "source_page": "https://hiddenarchitecture.net/sky-house/",
+    "image_url": "https://hiddenarchitecture.net/wp-content/uploads/2015/04/skyhouse_012-iwan-baan.jpg",
+    "caption": "  ",
+    "bytes": 365559,
+    "candidate": 20
+  }
+]

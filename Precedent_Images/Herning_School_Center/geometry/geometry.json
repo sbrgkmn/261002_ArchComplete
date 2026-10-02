@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "JørnUtzon_HerningSchoolCenter_Master3D_Fornwagner_Samuel",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Herning_School_Center_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JørnUtzon_HerningSchoolCenter_Master3D_Fornwagner_Samuel_0.binvox",
+      "sha256": "1a68d1f4af0cfff5b2802b3632886ca8fca1f6fc453913334a901fdf19e6bced",
+      "bytes": 12021,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7039
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Herning_School_Center_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JørnUtzon_HerningSchoolCenter_Master3D_Fornwagner_Samuel_120.binvox",
+      "sha256": "a80e1db9d90bb61dae31885bad99ac2dfa0086dde8dadeb475857d42ec665ca4",
+      "bytes": 12417,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7474
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Herning_School_Center_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JørnUtzon_HerningSchoolCenter_Master3D_Fornwagner_Samuel_150.binvox",
+      "sha256": "cac12ccbe6d4a0c7568196ad075846428af1fd08cc7fce89651b9bc88396cd2a",
+      "bytes": 12559,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7702
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Herning_School_Center_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JørnUtzon_HerningSchoolCenter_Master3D_Fornwagner_Samuel_180.binvox",
+      "sha256": "489911163260e800cbe2b2ee72f6ed21c0631728d43d3936fad55b4d062c1bae",
+      "bytes": 12529,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7651
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Herning_School_Center_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JørnUtzon_HerningSchoolCenter_Master3D_Fornwagner_Samuel_210.binvox",
+      "sha256": "6570f815a2479c5d5820628a1eea2d16abf49b4301c22562957f6eb1f4d18650",
+      "bytes": 12157,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7460
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Herning_School_Center_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JørnUtzon_HerningSchoolCenter_Master3D_Fornwagner_Samuel_240.binvox",
+      "sha256": "e84ed11f2db0ce5dbb040f7a4621a5d846f64b1795236b791e40a979795c674e",
+      "bytes": 12443,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7369
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Herning_School_Center_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JørnUtzon_HerningSchoolCenter_Master3D_Fornwagner_Samuel_270.binvox",
+      "sha256": "0157e779c14ee0a4576c6216bc38ad74f68d4cacb353a6e08a1d2f3dbd8ff06a",
+      "bytes": 11783,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7000
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Herning_School_Center_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JørnUtzon_HerningSchoolCenter_Master3D_Fornwagner_Samuel_30.binvox",
+      "sha256": "33e5fe5e72d6dca74eb16cd91269479fa8ff40c88e81d8ad6928ad10940388c3",
+      "bytes": 13015,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7779
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Herning_School_Center_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JørnUtzon_HerningSchoolCenter_Master3D_Fornwagner_Samuel_300.binvox",
+      "sha256": "a916894c0f395444e78faf683d7c6a56eff3d29bd6de3728b1d12e75f93f7f84",
+      "bytes": 13641,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8146
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Herning_School_Center_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JørnUtzon_HerningSchoolCenter_Master3D_Fornwagner_Samuel_330.binvox",
+      "sha256": "9af083eaaf41f25595ad9dd71591d3f129c3ee661ceb320364ff4fac6228dd65",
+      "bytes": 11937,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7204
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Herning_School_Center_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JørnUtzon_HerningSchoolCenter_Master3D_Fornwagner_Samuel_60.binvox",
+      "sha256": "d5deda346b4ef597657eef6b7ec52ba1dc908d0395de679b455baaf67bfaa471",
+      "bytes": 12065,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7282
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Herning_School_Center_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/JørnUtzon_HerningSchoolCenter_Master3D_Fornwagner_Samuel_90.binvox",
+      "sha256": "dea1a457e696b969f69c62201f02aee6bd3fe7c7d547a95a45133e8386fd76a5",
+      "bytes": 13301,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8112
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Herning_School_Center_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/JørnUtzon_HerningSchoolCenter_Master3D_Fornwagner_Samuel.binvox",
+      "sha256": "f6069f0fcc95acbb471559e7ee0f9f93a15f186cb14e75add9daeaa5ada5bcba",
+      "bytes": 11241,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6658
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Herning_School_Center_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/JørnUtzon_HerningSchoolCenter_Master3D_Fornwagner_Samuel.binvox",
+      "sha256": "7182b5aaa1158424243e420f254c9ce769b6152372d513ae05b44a1c45dd290f",
+      "bytes": 52560,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 36362
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Herning_School_Center_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/JørnUtzon_HerningSchoolCenter_Master3D_Fornwagner_Samuel.binvox",
+      "sha256": "caa57c95a2ddb7d311bfc015d4d88685fde8a567f473b2a9ab4d301965923a40",
+      "bytes": 357382,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 174572
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Herning_School_Center_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/JørnUtzon_HerningSchoolCenter_Master3D_Fornwagner_Samuel.binvox",
+      "sha256": "514cb2bb3f2b298b47df677ae7ea11c1d807824a440176d8ac7110c14fc971dc",
+      "bytes": 1996362,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 808383
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Herning_School_Center_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/JørnUtzon_HerningSchoolCenter_Master3D_Fornwagner_Samuel.binvox",
+    "resolution": 128,
+    "triangles": 9088,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "2d969889ef2540e770c78bfb3040c879b0e23ad79c67a4292b27d25c1dc74ce8"
+  }
+}

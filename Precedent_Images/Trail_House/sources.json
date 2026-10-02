@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Trail_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1200,
+    "height": 967,
+    "source_page": "https://divisare.com/projects/184696-Anne-Holtrop-Trail-House",
+    "image_url": "https://images.divisare.com//images/f_auto,q_auto,w_auto/v1/project_images/2915208/ANNE-HOLTROP-trailhouse-binnentuin-2-20-x-25-cm-500-dpi-adobe-rgb-98/studio-anne-holtrop-bas-princen-trail-house.jpg",
+    "caption": "STUDIO ANNE HOLTROP, Bas Princen · Trail House  ",
+    "bytes": 123800,
+    "candidate": 3
+  },
+  {
+    "file": "Trail_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1200,
+    "height": 960,
+    "source_page": "https://divisare.com/projects/184696-Anne-Holtrop-Trail-House",
+    "image_url": "https://images.divisare.com//images/f_auto,q_auto,w_auto/v1/project_images/2915220/ANNE-HOLTROP-trailhouse-entrance-20-x-25-cm-500-dpi-adobe-rgb/studio-anne-holtrop-bas-princen-trail-house.jpg",
+    "caption": "STUDIO ANNE HOLTROP, Bas Princen · Trail House  ",
+    "bytes": 130428,
+    "candidate": 7
+  },
+  {
+    "file": "Trail_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1200,
+    "height": 960,
+    "source_page": "https://divisare.com/projects/184696-Anne-Holtrop-Trail-House",
+    "image_url": "https://images.divisare.com//images/f_auto,q_auto,w_auto/v1/project_images/2915242/Trail-Final-naar-boy/studio-anne-holtrop-bas-princen-trail-house.jpg",
+    "caption": "STUDIO ANNE HOLTROP, Bas Princen · Trail House  ",
+    "bytes": 157823,
+    "candidate": 13
+  },
+  {
+    "file": "Trail_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1530,
+    "height": 910,
+    "source_page": "https://divisare.com/projects/184696-Anne-Holtrop-Trail-House",
+    "image_url": "https://images.divisare.com//images/f_auto,q_auto,w_auto/v1/project_images/2915247/TrailHouse-plan/studio-anne-holtrop-bas-princen-trail-house.jpg",
+    "caption": "STUDIO ANNE HOLTROP, Bas Princen · Trail House  ",
+    "bytes": 55041,
+    "candidate": 15
+  },
+  {
+    "file": "Trail_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1200,
+    "height": 960,
+    "source_page": "https://divisare.com/projects/184696-Anne-Holtrop-Trail-House",
+    "image_url": "https://images.divisare.com//images/f_auto,q_auto,w_auto/v1/project_images/2915215/ANNE-HOLTROP-trailhouse-buinnentuin1-20-x-25--500-dpi-abobe-rgb/studio-anne-holtrop-bas-princen-trail-house.jpg",
+    "caption": "STUDIO ANNE HOLTROP, Bas Princen · Trail House  ",
+    "bytes": 94014,
+    "candidate": 5
+  },
+  {
+    "file": "Trail_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 1200,
+    "height": 960,
+    "source_page": "https://divisare.com/projects/184696-Anne-Holtrop-Trail-House",
+    "image_url": "https://images.divisare.com//images/f_auto,q_auto,w_auto/v1/project_images/2915225/ANNE-HOLTROP-trailhouse-vieuw-trough-window-20-x-25-cm-500-dpi-adobe-rgb-98/studio-anne-holtrop-bas-princen-trail-house.jpg",
+    "caption": "STUDIO ANNE HOLTROP, Bas Princen · Trail House  ",
+    "bytes": 125505,
+    "candidate": 9
+  }
+]

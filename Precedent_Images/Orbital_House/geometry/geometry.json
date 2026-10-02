@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "EdwardOgosta_OrbitalHouse_Master3D_Group3",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Orbital_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EdwardOgosta_OrbitalHouse_Master3D_Group3_0.binvox",
+      "sha256": "fa6f8d23714ebb1cdbed2b186160fe8c4a5db952067f2c79a1f6f137cd911dad",
+      "bytes": 8323,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3452
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Orbital_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EdwardOgosta_OrbitalHouse_Master3D_Group3_120.binvox",
+      "sha256": "a5c08241678690d22accc3d61b116229320748758918e8b9f9eb0cd6418eebd9",
+      "bytes": 8681,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3590
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Orbital_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EdwardOgosta_OrbitalHouse_Master3D_Group3_150.binvox",
+      "sha256": "9c0cbc486894f241bcbd7ede40b1e2d9e06cdc4e52da2cf03e2875b875ffcbcd",
+      "bytes": 7993,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3389
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Orbital_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EdwardOgosta_OrbitalHouse_Master3D_Group3_180.binvox",
+      "sha256": "acbfc87a16718f16e9d2477eefb293ba25de8844175fdf57b1c3c80c0fad7240",
+      "bytes": 8417,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3497
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Orbital_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EdwardOgosta_OrbitalHouse_Master3D_Group3_210.binvox",
+      "sha256": "0082dd689f3bf26c43cebed4e1b17de47fe299e521e27bed1b992f1a01dc1b79",
+      "bytes": 8177,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3356
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Orbital_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EdwardOgosta_OrbitalHouse_Master3D_Group3_240.binvox",
+      "sha256": "d06e4fa1e24de694250028123050c6ed15ef95a55c3fce21e1d90defc069453d",
+      "bytes": 8543,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3562
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Orbital_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EdwardOgosta_OrbitalHouse_Master3D_Group3_270.binvox",
+      "sha256": "fb1cd4b3a0673d60d0a5b8c92ef80782c532356eb30854a80e0f2d738fbe5fc2",
+      "bytes": 8161,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3351
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Orbital_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EdwardOgosta_OrbitalHouse_Master3D_Group3_30.binvox",
+      "sha256": "f00a425c028cde052ef0dd6f36b87f2c514a47cd367f8169f03872783c24dd53",
+      "bytes": 7965,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3309
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Orbital_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EdwardOgosta_OrbitalHouse_Master3D_Group3_300.binvox",
+      "sha256": "ea96c40a7c61610897e58d83eecffbc028f8b4fe488da2949b1656d560dda61f",
+      "bytes": 8455,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3444
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Orbital_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EdwardOgosta_OrbitalHouse_Master3D_Group3_330.binvox",
+      "sha256": "02970a6947e8a8a3bae01a3a3d5ab28f4ed7265cfbfb67c59bc0e30333afee7f",
+      "bytes": 8177,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3304
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Orbital_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EdwardOgosta_OrbitalHouse_Master3D_Group3_60.binvox",
+      "sha256": "06113afb5da2abb3cf79f3b6ed0c3bcd18a9c8a9869e52159e16ab3e155df214",
+      "bytes": 8383,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3448
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Orbital_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EdwardOgosta_OrbitalHouse_Master3D_Group3_90.binvox",
+      "sha256": "5dce41b576904643876c190882bfada676430fa4a86f08943b583d21551d6488",
+      "bytes": 8037,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3313
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Orbital_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/EdwardOgosta_OrbitalHouse_Master3D_Group3.binvox",
+      "sha256": "5556a10198f151aa7269a516021bc8f3355a7c023ee78286049e0c2e83601c8f",
+      "bytes": 6837,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2714
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Orbital_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/EdwardOgosta_OrbitalHouse_Master3D_Group3.binvox",
+      "sha256": "f1af1e076d858683647df5cc511e56e3d976b7a888c315cd82c0d64ea0c4ab71",
+      "bytes": 39508,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 12364
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Orbital_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/EdwardOgosta_OrbitalHouse_Master3D_Group3.binvox",
+      "sha256": "cc97b5bebf25723765101438aa5d9650eac9e934d10bd47c9e08e5bf781188d9",
+      "bytes": 219806,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 53189
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Orbital_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/EdwardOgosta_OrbitalHouse_Master3D_Group3.binvox",
+      "sha256": "b538e5d60ada2893329c3a5a3667c67fa9468fef18d7eda38ebb46aa5ad3e716",
+      "bytes": 1472966,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 222598
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Orbital_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/EdwardOgosta_OrbitalHouse_Master3D_Group3.binvox",
+    "resolution": 128,
+    "triangles": 2356,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "b9ddb8a7dec61b4e4b508a7b4800cc5dc40e8b9364d44549c9f77292f461a1a2"
+  }
+}

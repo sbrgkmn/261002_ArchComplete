@@ -1,0 +1,57 @@
+[
+  {
+    "file": "Naked_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1490,
+    "height": 1000,
+    "source_page": "https://shigerubanarchitects.com/works/timber-and-bamboo/naked-house/",
+    "image_url": "https://shigerubanarchitects.com/wp-content/uploads/2022/09/shigeru-ban-naked-house9.jpg",
+    "caption": "  ",
+    "bytes": 196243,
+    "candidate": 3
+  },
+  {
+    "file": "Naked_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 791,
+    "height": 1000,
+    "source_page": "https://shigerubanarchitects.com/works/timber-and-bamboo/naked-house/",
+    "image_url": "https://shigerubanarchitects.com/wp-content/uploads/2022/09/shigeru-ban-naked-house2.jpg",
+    "caption": "  ",
+    "bytes": 117081,
+    "candidate": 6
+  },
+  {
+    "file": "Naked_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1500,
+    "height": 852,
+    "source_page": "https://archeyes.com/naked-house-shigeru-ban/",
+    "image_url": "https://i0.wp.com/archeyes.com/wp-content/uploads/2016/02/naked-house-shigeru-ban-15.jpg?quality=90&ssl=1",
+    "caption": "  ",
+    "bytes": 74393,
+    "candidate": 7
+  },
+  {
+    "file": "Naked_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1490,
+    "height": 1000,
+    "source_page": "https://shigerubanarchitects.com/works/timber-and-bamboo/naked-house/",
+    "image_url": "https://shigerubanarchitects.com/wp-content/uploads/2022/09/shigeru-ban-naked-house8.jpg",
+    "caption": "  ",
+    "bytes": 124849,
+    "candidate": 5
+  },
+  {
+    "file": "Naked_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 791,
+    "height": 1000,
+    "source_page": "https://shigerubanarchitects.com/works/timber-and-bamboo/naked-house/",
+    "image_url": "https://shigerubanarchitects.com/wp-content/uploads/2022/09/shigeru-ban-naked-house3.jpg",
+    "caption": "  ",
+    "bytes": 89712,
+    "candidate": 7
+  }
+]

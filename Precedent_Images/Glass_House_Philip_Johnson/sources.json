@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Glass_House_Philip_Johnson_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1024,
+    "height": 768,
+    "source_page": "https://www.archdaily.com/60259/ad-classics-the-glass-house-philip-johnson",
+    "image_url": "https://images.adsttc.com/media/images/5037/de71/28ba/0d59/9b00/00cb/large_jpg/stringio.jpg?1414230441",
+    "caption": "  ",
+    "bytes": 355998,
+    "candidate": 1
+  },
+  {
+    "file": "Glass_House_Philip_Johnson_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1024,
+    "height": 768,
+    "source_page": "https://www.archdaily.com/60259/ad-classics-the-glass-house-philip-johnson",
+    "image_url": "https://images.adsttc.com/media/images/5037/de7b/28ba/0d59/9b00/00cd/large_jpg/stringio.jpg?1414230444",
+    "caption": "AD Classics: The Glass House / Philip Johnson - Image 2 of 16  https://www.archdaily.com/60259/ad-classics-the-glass-house-philip-johnson/5037de7b28ba0d599b0000cd-ad-classics-the-glass-house-philip-johnson-image",
+    "bytes": 451647,
+    "candidate": 2
+  },
+  {
+    "file": "Glass_House_Philip_Johnson_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1024,
+    "height": 768,
+    "source_page": "https://www.archdaily.com/60259/ad-classics-the-glass-house-philip-johnson",
+    "image_url": "https://images.adsttc.com/media/images/5037/de76/28ba/0d59/9b00/00cc/large_jpg/stringio.jpg?1414230447",
+    "caption": "AD Classics: The Glass House / Philip Johnson - Image 3 of 16  https://www.archdaily.com/60259/ad-classics-the-glass-house-philip-johnson/5037de7628ba0d599b0000cc-ad-classics-the-glass-house-philip-johnson-image",
+    "bytes": 369277,
+    "candidate": 3
+  },
+  {
+    "file": "Glass_House_Philip_Johnson_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 2000,
+    "height": 885,
+    "source_page": "https://www.archdaily.com/60259/ad-classics-the-glass-house-philip-johnson",
+    "image_url": "https://images.adsttc.com/media/images/5037/de9f/28ba/0d59/9b00/00d5/large_jpg/stringio.jpg?1414230468",
+    "caption": "  ",
+    "bytes": 91675,
+    "candidate": 11
+  },
+  {
+    "file": "Glass_House_Philip_Johnson_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1024,
+    "height": 768,
+    "source_page": "https://www.archdaily.com/60259/ad-classics-the-glass-house-philip-johnson",
+    "image_url": "https://images.adsttc.com/media/images/5037/de7f/28ba/0d59/9b00/00ce/large_jpg/stringio.jpg?1414230449",
+    "caption": "AD Classics: The Glass House / Philip Johnson - Image 4 of 16  https://www.archdaily.com/60259/ad-classics-the-glass-house-philip-johnson/5037de7f28ba0d599b0000ce-ad-classics-the-glass-house-philip-johnson-image",
+    "bytes": 236614,
+    "candidate": 4
+  },
+  {
+    "file": "Glass_House_Philip_Johnson_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 1024,
+    "height": 768,
+    "source_page": "https://www.archdaily.com/60259/ad-classics-the-glass-house-philip-johnson",
+    "image_url": "https://images.adsttc.com/media/images/5037/de9b/28ba/0d59/9b00/00d4/large_jpg/stringio.jpg?1414230462",
+    "caption": "  ",
+    "bytes": 235926,
+    "candidate": 9
+  }
+]

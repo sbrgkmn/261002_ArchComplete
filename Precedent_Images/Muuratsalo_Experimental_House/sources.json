@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Muuratsalo_Experimental_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1280,
+    "height": 853,
+    "source_page": "https://www.archdaily.com/214209/ad-classics-muuratsalo-experimental-house-alvar-aalto",
+    "image_url": "https://images.adsttc.com/media/images/5038/23d9/28ba/0d59/9b00/1068/large_jpg/stringio.jpg?1414199899",
+    "caption": "  ",
+    "bytes": 433179,
+    "candidate": 1
+  },
+  {
+    "file": "Muuratsalo_Experimental_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1280,
+    "height": 853,
+    "source_page": "https://www.archdaily.com/214209/ad-classics-muuratsalo-experimental-house-alvar-aalto",
+    "image_url": "https://images.adsttc.com/media/images/5038/2421/28ba/0d59/9b00/1075/large_jpg/stringio.jpg?1414199910",
+    "caption": "AD Classics: Muuratsalo Experimental House / Alvar Aalto - Brick, Garden © Nico Saieh https://www.archdaily.com/214209/ad-classics-muuratsalo-experimental-house-alvar-aalto/5038242128ba0d599b001075-ad-classics-muuratsalo-experimental-house-alvar-aalto-photo",
+    "bytes": 438390,
+    "candidate": 5
+  },
+  {
+    "file": "Muuratsalo_Experimental_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1280,
+    "height": 853,
+    "source_page": "https://www.archdaily.com/214209/ad-classics-muuratsalo-experimental-house-alvar-aalto",
+    "image_url": "https://images.adsttc.com/media/images/5038/23e4/28ba/0d59/9b00/106a/large_jpg/stringio.jpg?1414199950",
+    "caption": "  ",
+    "bytes": 418826,
+    "candidate": 19
+  },
+  {
+    "file": "Muuratsalo_Experimental_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1920,
+    "height": 807,
+    "source_page": "https://en.wikiarquitectura.com/building/house-in-muuratsalo/",
+    "image_url": "https://es.wikiarquitectura.com/wp-content/uploads/2017/01/Casa_en_Muuratsalo_distr.jpg",
+    "caption": "  ",
+    "bytes": 543544,
+    "candidate": 54
+  },
+  {
+    "file": "Muuratsalo_Experimental_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 853,
+    "height": 1280,
+    "source_page": "https://www.archdaily.com/214209/ad-classics-muuratsalo-experimental-house-alvar-aalto",
+    "image_url": "https://images.adsttc.com/media/images/5038/2414/28ba/0d59/9b00/1073/large_jpg/stringio.jpg?1414199930",
+    "caption": "  ",
+    "bytes": 225019,
+    "candidate": 12
+  },
+  {
+    "file": "Muuratsalo_Experimental_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 1280,
+    "height": 853,
+    "source_page": "https://www.archdaily.com/214209/ad-classics-muuratsalo-experimental-house-alvar-aalto",
+    "image_url": "https://images.adsttc.com/media/images/5038/2409/28ba/0d59/9b00/1071/large_jpg/stringio.jpg?1414199935",
+    "caption": "  ",
+    "bytes": 265731,
+    "candidate": 14
+  }
+]

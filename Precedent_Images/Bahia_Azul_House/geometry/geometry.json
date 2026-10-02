@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "CeciliaPuga_BahiaAzulHouse_model_TimCarl",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Bahia_Azul_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/CeciliaPuga_BahiaAzulHouse_model_TimCarl_0.binvox",
+      "sha256": "e24bf84cc153291f4c7f91ed6301b93aea57b10068133404337c66e8a87a5b51",
+      "bytes": 8149,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4087
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Bahia_Azul_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/CeciliaPuga_BahiaAzulHouse_model_TimCarl_120.binvox",
+      "sha256": "7ff4df201b6ffd6113ce5aa083ac645cc6e1d879231c91d6d9014981fc59c86b",
+      "bytes": 7455,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4089
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Bahia_Azul_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/CeciliaPuga_BahiaAzulHouse_model_TimCarl_150.binvox",
+      "sha256": "98f7d44f3b93fb6db5b6f1f78005c10fa252f95fc881ba86657e34074cf612a6",
+      "bytes": 6803,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3474
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Bahia_Azul_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/CeciliaPuga_BahiaAzulHouse_model_TimCarl_180.binvox",
+      "sha256": "5bb3d18ef6b1440f8f8ecee9f611849e9c6ac755b0c45ba9e03a3ff0d9167d60",
+      "bytes": 6945,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3942
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Bahia_Azul_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/CeciliaPuga_BahiaAzulHouse_model_TimCarl_210.binvox",
+      "sha256": "a4e523fa086fc79bc95d3a4dcc04cba67c85640759c0764e2623305741d3e7a9",
+      "bytes": 7155,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3688
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Bahia_Azul_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/CeciliaPuga_BahiaAzulHouse_model_TimCarl_240.binvox",
+      "sha256": "5b09fc2f3e360639a03667371dba9b5f6e5870cbfdaebd70434fcf61e4ca412a",
+      "bytes": 6823,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3582
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Bahia_Azul_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/CeciliaPuga_BahiaAzulHouse_model_TimCarl_270.binvox",
+      "sha256": "5a9197bdb12607591eb42145f776246a01cfad83d7a5b0ef838c3bde2ebb5ca9",
+      "bytes": 7479,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3797
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Bahia_Azul_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/CeciliaPuga_BahiaAzulHouse_model_TimCarl_30.binvox",
+      "sha256": "f605c11cead2a0e5e7acffbb470d06bcfadbdd843bf98fcc56da2a8a0e6e92a6",
+      "bytes": 6631,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3318
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Bahia_Azul_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/CeciliaPuga_BahiaAzulHouse_model_TimCarl_300.binvox",
+      "sha256": "9c035d8bed24e66d7c90595d7ba67fce9a9fbfedfa5ced3d688bd81b19128a4a",
+      "bytes": 6795,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3562
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Bahia_Azul_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/CeciliaPuga_BahiaAzulHouse_model_TimCarl_330.binvox",
+      "sha256": "1a6e86e368bc67100fc7d2a336fcbf516dd4fd41572f144e5e2363790aca68ce",
+      "bytes": 8067,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4108
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Bahia_Azul_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/CeciliaPuga_BahiaAzulHouse_model_TimCarl_60.binvox",
+      "sha256": "b35bfd9c00163dbd408828c2aa2bb9e961f38faf4d55c57f9618e828a0c35b9a",
+      "bytes": 7959,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4198
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Bahia_Azul_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/CeciliaPuga_BahiaAzulHouse_model_TimCarl_90.binvox",
+      "sha256": "19be5980e53bc8f66611fade38f4c955991d0d53135d7d21b98c0819e6138d38",
+      "bytes": 6727,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3433
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Bahia_Azul_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/CeciliaPuga_BahiaAzulHouse_model_TimCarl.binvox",
+      "sha256": "188ca9acb88b34106c5d481b0128e2e2dcf16ca7b2a47f74070853a9eb481551",
+      "bytes": 6115,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3082
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Bahia_Azul_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/CeciliaPuga_BahiaAzulHouse_model_TimCarl.binvox",
+      "sha256": "70ebeac30e11986b2f7e1fef7e74be9054144f5c5e21607e0a7e2415316d372f",
+      "bytes": 32952,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 15148
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Bahia_Azul_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/CeciliaPuga_BahiaAzulHouse_model_TimCarl.binvox",
+      "sha256": "0c8102b1b7a22e5d8dfe59a250c5a833f8403ca4cca7a63a524bc6ba08328f86",
+      "bytes": 199812,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 74266
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Bahia_Azul_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/CeciliaPuga_BahiaAzulHouse_model_TimCarl.binvox",
+      "sha256": "99b5054530d7ff29b66bf6ca3da2ddc9137082f818658d484f24df7860c3c8ab",
+      "bytes": 1628310,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 324437
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Bahia_Azul_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/CeciliaPuga_BahiaAzulHouse_model_TimCarl.binvox",
+    "resolution": 128,
+    "triangles": 1474,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "87333d0369eee1f2a7ee7346cea791e6065de6b9fb9655765adf2a7afce1e14a"
+  }
+}

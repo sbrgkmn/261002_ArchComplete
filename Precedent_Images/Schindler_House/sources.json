@@ -1,0 +1,79 @@
+[
+  {
+    "file": "Schindler_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1289,
+    "height": 937,
+    "source_page": "https://www.archdaily.com.br/br/879363/classicos-da-arquitetura-casa-kings-road-rudolf-schindler",
+    "image_url": "https://images.adsttc.com/media/images/56de/2901/e58e/ce68/3d00/0072/large_jpg/Photo-Joshua_White-1899.jpg?1457400060",
+    "caption": "  ",
+    "bytes": 683074,
+    "candidate": 1
+  },
+  {
+    "file": "Schindler_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1200,
+    "height": 801,
+    "source_page": "https://www.archdaily.com.br/br/879363/classicos-da-arquitetura-casa-kings-road-rudolf-schindler",
+    "image_url": "https://images.adsttc.com/media/images/56de/28f9/e58e/ced2/d400/0101/large_jpg/Photo-Joshua_White-1854.jpg?1457400051",
+    "caption": " © Joshua White Photography https://www.archdaily.com/pt/879363/classicos-da-arquitetura-casa-kings-road-rudolf-schindler/56de28f9e58eced2d4000101-ad-classics-kings-road-house-rudolf-schindler-photo",
+    "bytes": 1435607,
+    "candidate": 2
+  },
+  {
+    "file": "Schindler_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1024,
+    "height": 576,
+    "source_page": "https://www.archdaily.com.br/br/879363/classicos-da-arquitetura-casa-kings-road-rudolf-schindler",
+    "image_url": "https://images.adsttc.com/media/images/56de/293e/e58e/ce68/3d00/0073/large_jpg/Backyard_John_Zacherle.jpg?1457400122",
+    "caption": " Cortesia de Flickr user John Zacherle https://www.archdaily.com/pt/879363/classicos-da-arquitetura-casa-kings-road-rudolf-schindler/56de293ee58ece683d000073-ad-classics-kings-road-house-rudolf-schindler-image",
+    "bytes": 207388,
+    "candidate": 4
+  },
+  {
+    "file": "Schindler_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 640,
+    "height": 504,
+    "source_page": "https://www.archdaily.com.br/br/879363/classicos-da-arquitetura-casa-kings-road-rudolf-schindler",
+    "image_url": "https://images.adsttc.com/media/images/56de/2962/e58e/ced2/d400/0104/large_jpg/Floor_1_Plan_LoC.jpg?1457400159",
+    "caption": "  ",
+    "bytes": 44039,
+    "candidate": 7
+  },
+  {
+    "file": "Schindler_House_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 640,
+    "height": 504,
+    "source_page": "https://www.archdaily.com.br/br/879363/classicos-da-arquitetura-casa-kings-road-rudolf-schindler",
+    "image_url": "https://images.adsttc.com/media/images/56de/2993/e58e/ced2/d400/0105/large_jpg/Floor_2_Plan_LoC.jpg?1457400208",
+    "caption": "  ",
+    "bytes": 32444,
+    "candidate": 8
+  },
+  {
+    "file": "Schindler_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 2000,
+    "height": 1325,
+    "source_page": "https://www.archdaily.com.br/br/879363/classicos-da-arquitetura-casa-kings-road-rudolf-schindler",
+    "image_url": "https://images.adsttc.com/media/images/56de/2936/e58e/ced2/d400/0102/large_jpg/DSC_1665.jpg?1457400099",
+    "caption": " © Luke Fiederer https://www.archdaily.com/pt/879363/classicos-da-arquitetura-casa-kings-road-rudolf-schindler/56de2936e58eced2d4000102-ad-classics-kings-road-house-rudolf-schindler-photo",
+    "bytes": 1417500,
+    "candidate": 3
+  },
+  {
+    "file": "Schindler_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 3872,
+    "height": 2592,
+    "source_page": "https://www.archdaily.com.br/br/879363/classicos-da-arquitetura-casa-kings-road-rudolf-schindler",
+    "image_url": "https://images.adsttc.com/media/images/56de/2954/e58e/ced2/d400/0103/original/Dining_Room_collectmoments.jpg?1457400130",
+    "caption": " Cortesia de Flickr user collectmoments https://www.archdaily.com/pt/879363/classicos-da-arquitetura-casa-kings-road-rudolf-schindler/56de2954e58eced2d4000103-ad-classics-kings-road-house-rudolf-schindler-image",
+    "bytes": 4657154,
+    "candidate": 5
+  }
+]

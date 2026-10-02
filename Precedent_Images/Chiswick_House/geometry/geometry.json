@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "RichardBoyle_ChiswickHouse_Master3D_Prem_Carina",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Chiswick_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardBoyle_ChiswickHouse_Master3D_Prem_Carina_0.binvox",
+      "sha256": "42965470d1c8a7bc831f9feebcdf79c6a278a289ca16ef6cc54cbc549e5c0e9b",
+      "bytes": 11433,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11150
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Chiswick_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardBoyle_ChiswickHouse_Master3D_Prem_Carina_120.binvox",
+      "sha256": "fbdae3401a58bd1d2fb7ab2172b8db6838bceadb588c6779762797162eab2220",
+      "bytes": 11929,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11821
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Chiswick_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardBoyle_ChiswickHouse_Master3D_Prem_Carina_150.binvox",
+      "sha256": "3a4fbc6b16940b5869c8170f6a75cf72baca5daa188a006675c0535f5f6440be",
+      "bytes": 11393,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11120
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Chiswick_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardBoyle_ChiswickHouse_Master3D_Prem_Carina_180.binvox",
+      "sha256": "0c86376f024529746f626e5ffc70df1554c44a767401ab1da1faf2b77738ab59",
+      "bytes": 11853,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11552
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Chiswick_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardBoyle_ChiswickHouse_Master3D_Prem_Carina_210.binvox",
+      "sha256": "b5573c908e7f3b69dfc3592ec2257f13e7d836033e5f5983aa3e85f8be243555",
+      "bytes": 11143,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11248
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Chiswick_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardBoyle_ChiswickHouse_Master3D_Prem_Carina_240.binvox",
+      "sha256": "4cc5e484dfbcc1856df6c11655021d1abe82e32f6c669683fc8e75d61f3e87de",
+      "bytes": 11313,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11192
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Chiswick_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardBoyle_ChiswickHouse_Master3D_Prem_Carina_270.binvox",
+      "sha256": "f35fbb70b8a65f48502c0098756b01cd61abcbe18d211f2645f58568f5ad8659",
+      "bytes": 11251,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11120
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Chiswick_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardBoyle_ChiswickHouse_Master3D_Prem_Carina_30.binvox",
+      "sha256": "0d1251985147ec5267fb2bb265cbdedd243f8c795d9917b14855f797ad91a28a",
+      "bytes": 10667,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 10623
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Chiswick_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardBoyle_ChiswickHouse_Master3D_Prem_Carina_300.binvox",
+      "sha256": "c04e23b03da1fef3d57405b056db8c389cae475064b813628a01bedb72a71446",
+      "bytes": 10885,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11046
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Chiswick_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardBoyle_ChiswickHouse_Master3D_Prem_Carina_330.binvox",
+      "sha256": "19580624481e61159e3f2a9ef347561ab56854f0b914a85d47cf17f656bf6d10",
+      "bytes": 11449,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11106
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Chiswick_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardBoyle_ChiswickHouse_Master3D_Prem_Carina_60.binvox",
+      "sha256": "3405cd843ed8fca1db4415a1522d6af642395c1119105a11078ce5fa9dcb1659",
+      "bytes": 11681,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 11284
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Chiswick_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RichardBoyle_ChiswickHouse_Master3D_Prem_Carina_90.binvox",
+      "sha256": "980ec4796103e20f4306d53c83c0d003fae7df1406dd3f160662674bb7146dce",
+      "bytes": 10611,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 10737
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Chiswick_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/RichardBoyle_ChiswickHouse_Master3D_Prem_Carina.binvox",
+      "sha256": "1f848e5eb5e9ea4ef07c77d20f57182ae62785fe51564c5488b4d0d8af1dda81",
+      "bytes": 8369,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9683
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Chiswick_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/RichardBoyle_ChiswickHouse_Master3D_Prem_Carina.binvox",
+      "sha256": "7f42f44717a340f1e0eb98539ad3cb216137d9985e61577aa4057ded2868a476",
+      "bytes": 71086,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 45239
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Chiswick_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/RichardBoyle_ChiswickHouse_Master3D_Prem_Carina.binvox",
+      "sha256": "b61d964a6270f4f23c6937898e2a0020472d4dae66c08b66e0a38eff1dbec5da",
+      "bytes": 382956,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 197060
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Chiswick_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/RichardBoyle_ChiswickHouse_Master3D_Prem_Carina.binvox",
+      "sha256": "9cfb26190241e4c1698ef2c5bc1f1e3fd864e27cf095e9cbec8628ee7f344857",
+      "bytes": 2139742,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 826134
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Chiswick_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/RichardBoyle_ChiswickHouse_Master3D_Prem_Carina.binvox",
+    "resolution": 128,
+    "triangles": 14192,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "77b8f1622172d144c8a152cb24ad3b77a5d7bfb75f09d6c4629cbf75c6864bbd"
+  }
+}

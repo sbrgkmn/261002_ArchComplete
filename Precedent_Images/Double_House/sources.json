@@ -1,0 +1,57 @@
+[
+  {
+    "file": "Double_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 600,
+    "height": 445,
+    "source_page": "https://www.mvrdv.com/projects/164/double-house-utrecht",
+    "image_url": "https://api.mvrdv.com/media/uploads/project/164/1.jpg?width=600",
+    "caption": "Double House Utrecht  ",
+    "bytes": 214674,
+    "candidate": 2
+  },
+  {
+    "file": "Double_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1920,
+    "height": 1440,
+    "source_page": "https://www.mvrdv.com/projects/164/double-house-utrecht",
+    "image_url": "https://api.mvrdv.com/media/uploads/project/164/8.jpg?width=1920",
+    "caption": "  ",
+    "bytes": 1937146,
+    "candidate": 9
+  },
+  {
+    "file": "Double_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1065,
+    "height": 589,
+    "source_page": "https://ayseedakoz.wordpress.com/2017/03/24/plan-and-axonometric-section-of-mvrdv-double-house-arch112/",
+    "image_url": "https://ayseedakoz.wordpress.com/wp-content/uploads/2017/03/plannn.jpg",
+    "caption": "  ",
+    "bytes": 21499,
+    "candidate": 1
+  },
+  {
+    "file": "Double_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1920,
+    "height": 1496,
+    "source_page": "https://www.mvrdv.com/projects/164/double-house-utrecht",
+    "image_url": "https://api.mvrdv.com/media/uploads/project/164/3.jpg?width=1920",
+    "caption": "  ",
+    "bytes": 1198011,
+    "candidate": 5
+  },
+  {
+    "file": "Double_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 1920,
+    "height": 1445,
+    "source_page": "https://www.mvrdv.com/projects/164/double-house-utrecht",
+    "image_url": "https://api.mvrdv.com/media/uploads/project/164/6.jpg?width=1920",
+    "caption": "  ",
+    "bytes": 3178573,
+    "candidate": 7
+  }
+]

@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "SamiraRathod_House-of-Concrete-Experiments_model_group2_no_glass",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/House_of_Concrete_Experiments_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SamiraRathod_House-of-Concrete-Experiments_model_group2_no_glass_0.binvox",
+      "sha256": "4af536f22ad29d805be32ad42435d0adc886360c3fbd2272c13012d61188a301",
+      "bytes": 11597,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8229
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/House_of_Concrete_Experiments_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SamiraRathod_House-of-Concrete-Experiments_model_group2_no_glass_120.binvox",
+      "sha256": "0c64ab8c56b07339452ec34c0277db7c386974067deabe9359417c622ba5ac63",
+      "bytes": 10363,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7618
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/House_of_Concrete_Experiments_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SamiraRathod_House-of-Concrete-Experiments_model_group2_no_glass_150.binvox",
+      "sha256": "0858e8649fb81cf4dd72de74959b392642b4e7f21be57b2aff5acb981300f3fa",
+      "bytes": 11001,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8066
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/House_of_Concrete_Experiments_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SamiraRathod_House-of-Concrete-Experiments_model_group2_no_glass_180.binvox",
+      "sha256": "df8548683d0ec3193763ad5e96f19a6de74f84cb58ca372acfb38bf88c4c13e8",
+      "bytes": 10739,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8108
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/House_of_Concrete_Experiments_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SamiraRathod_House-of-Concrete-Experiments_model_group2_no_glass_210.binvox",
+      "sha256": "54f4cc6efc5579092ef8a9f61979b7496a77f38ce8cab0b9b37cb87d9455b9a5",
+      "bytes": 10697,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7741
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/House_of_Concrete_Experiments_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SamiraRathod_House-of-Concrete-Experiments_model_group2_no_glass_240.binvox",
+      "sha256": "defc92f2545c24355bf88f40d2bdeaed86a7d24560fa5ec5fd8da9c04ee8defb",
+      "bytes": 11779,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9033
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/House_of_Concrete_Experiments_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SamiraRathod_House-of-Concrete-Experiments_model_group2_no_glass_270.binvox",
+      "sha256": "f8417b457e0cc21cfe59689eb6c84f09dcbfedf6524a1fc10b8cfce9ac5c3b57",
+      "bytes": 11403,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8247
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/House_of_Concrete_Experiments_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SamiraRathod_House-of-Concrete-Experiments_model_group2_no_glass_30.binvox",
+      "sha256": "831a5d256018f5f5f48d873592ee061165d9ed8750096499d0c0678aed8433f2",
+      "bytes": 10779,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7893
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/House_of_Concrete_Experiments_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SamiraRathod_House-of-Concrete-Experiments_model_group2_no_glass_300.binvox",
+      "sha256": "0950806ff834ef98a6069c0a0d7d988e800b3d9410eb654eef5a37ba78d20649",
+      "bytes": 11577,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8175
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/House_of_Concrete_Experiments_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SamiraRathod_House-of-Concrete-Experiments_model_group2_no_glass_330.binvox",
+      "sha256": "da0c2cd8f776ac953dca5b169f64154efff1ccbebf276b6e66a725ac0910d372",
+      "bytes": 10447,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7521
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/House_of_Concrete_Experiments_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SamiraRathod_House-of-Concrete-Experiments_model_group2_no_glass_60.binvox",
+      "sha256": "5a16e43f992bb1c3802b9ff450dca37656ebe1adba9ce899ffa5e2553982651c",
+      "bytes": 10719,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7777
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/House_of_Concrete_Experiments_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/SamiraRathod_House-of-Concrete-Experiments_model_group2_no_glass_90.binvox",
+      "sha256": "6b443518b00814f63be43616e95c638ed0a5ee9eab4416915590f02f4b2b3779",
+      "bytes": 10843,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7761
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/House_of_Concrete_Experiments_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/SamiraRathod_House-of-Concrete-Experiments_model_group2_no_glass.binvox",
+      "sha256": "ea9897aa5971f26889227d9af4a0cf2395e11ec72fefc4de4cc3cea5be3ed66e",
+      "bytes": 9849,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6174
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/House_of_Concrete_Experiments_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/SamiraRathod_House-of-Concrete-Experiments_model_group2_no_glass.binvox",
+      "sha256": "4627a1ab8c43f726895d293ddb5f31d56d503fb53b655c4fd8ee32049de02ad2",
+      "bytes": 47658,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 29700
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/House_of_Concrete_Experiments_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/SamiraRathod_House-of-Concrete-Experiments_model_group2_no_glass.binvox",
+      "sha256": "f88243dd7b713627d3bbdf98012a74a7026420f114beb85f675a929378eb858e",
+      "bytes": 298054,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 144221
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/House_of_Concrete_Experiments_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/SamiraRathod_House-of-Concrete-Experiments_model_group2_no_glass.binvox",
+      "sha256": "7b0b3b1c5f4ceec51eaf4fe41a1a2b130755fed81d330d3e81154e1642ff04da",
+      "bytes": 2038128,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 615700
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/House_of_Concrete_Experiments_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/SamiraRathod_House-of-Concrete-Experiments_model_group2_no_glass.binvox",
+    "resolution": 128,
+    "triangles": 6998,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "8d2971f4587647023a0a101def413c00d770af558c14b3119282c5a7c61434c8"
+  }
+}

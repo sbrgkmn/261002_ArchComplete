@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "Hiroshi_Nakamura_NAP_Nasu_Tepee_Master3D_Group04",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Nasu_Tepee_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Hiroshi_Nakamura_NAP_Nasu_Tepee_Master3D_Group04_0.binvox",
+      "sha256": "2ded86e4239a229a28281352be9f091f94cbae067851789994eebaa2adcc025f",
+      "bytes": 3895,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2096
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Nasu_Tepee_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Hiroshi_Nakamura_NAP_Nasu_Tepee_Master3D_Group04_120.binvox",
+      "sha256": "4f65f703ca06efc1c1fa5c861803a45905c5f83ac157bcc64bf8f11edb0b848c",
+      "bytes": 3823,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2142
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Nasu_Tepee_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Hiroshi_Nakamura_NAP_Nasu_Tepee_Master3D_Group04_150.binvox",
+      "sha256": "8c427209e7680f356a73956e46ada46804d8ebd7f43548e65708cdab64dfea3e",
+      "bytes": 3703,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1970
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Nasu_Tepee_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Hiroshi_Nakamura_NAP_Nasu_Tepee_Master3D_Group04_180.binvox",
+      "sha256": "c6ab06610afa4a3e35ddae152704178c69f8a16c23aea05e8fddd1e457deab07",
+      "bytes": 3927,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2335
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Nasu_Tepee_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Hiroshi_Nakamura_NAP_Nasu_Tepee_Master3D_Group04_210.binvox",
+      "sha256": "8ce2d80fc9e25dec520a4208e027c8e48040dbe3e4e5f1c3cd6142e6701fea20",
+      "bytes": 3689,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1998
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Nasu_Tepee_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Hiroshi_Nakamura_NAP_Nasu_Tepee_Master3D_Group04_240.binvox",
+      "sha256": "f8cecf23bee89bef75818f5ef4339b78423ec48acc9e228fafe9484ecbce1b70",
+      "bytes": 4315,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2645
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Nasu_Tepee_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Hiroshi_Nakamura_NAP_Nasu_Tepee_Master3D_Group04_270.binvox",
+      "sha256": "92d8d28ad4426d818f7e37a8d3ea89edae8b7436b6827749b307b2bd352a4062",
+      "bytes": 3791,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2010
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Nasu_Tepee_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Hiroshi_Nakamura_NAP_Nasu_Tepee_Master3D_Group04_30.binvox",
+      "sha256": "d583caf8cfc79e51eb5bffe3bdfe5f242a15a5019ddcebe2ab533aafe73d9542",
+      "bytes": 3933,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2182
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Nasu_Tepee_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Hiroshi_Nakamura_NAP_Nasu_Tepee_Master3D_Group04_300.binvox",
+      "sha256": "32d1531b56fc58fb9fbe851e7618421fd0ef3b68ef45456f99d2d88db10d21ea",
+      "bytes": 4299,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2524
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Nasu_Tepee_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Hiroshi_Nakamura_NAP_Nasu_Tepee_Master3D_Group04_330.binvox",
+      "sha256": "f6866800e6a46523b91c065c6e943662d16ab58124010c13845bb3d364dfbe48",
+      "bytes": 3663,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1999
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Nasu_Tepee_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Hiroshi_Nakamura_NAP_Nasu_Tepee_Master3D_Group04_60.binvox",
+      "sha256": "f7cbc674cd5f403d11f831f20f6af5065ae315eb3e7acf3a2aa306de9ba48c58",
+      "bytes": 3671,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2073
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Nasu_Tepee_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Hiroshi_Nakamura_NAP_Nasu_Tepee_Master3D_Group04_90.binvox",
+      "sha256": "5a6d0fcf7884f5db4d670e69dc5c51dd041ea120af5722242469c4d3dd767ab1",
+      "bytes": 3841,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2180
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Nasu_Tepee_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/Hiroshi_Nakamura_NAP_Nasu_Tepee_Master3D_Group04.binvox",
+      "sha256": "ec655aada11fb6bd6c9848192f0427886f0d0635d2193397c7cf1174878fae7a",
+      "bytes": 3485,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1694
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Nasu_Tepee_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/Hiroshi_Nakamura_NAP_Nasu_Tepee_Master3D_Group04.binvox",
+      "sha256": "b702f5929cbf271cf4bb6e76b1da51a1eaf4a9b81de26fa8087b082e0e253feb",
+      "bytes": 21900,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8495
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Nasu_Tepee_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/Hiroshi_Nakamura_NAP_Nasu_Tepee_Master3D_Group04.binvox",
+      "sha256": "9121be41e3a46aa189bbde2513c69808fc17b95b46322a5b810d8f8cb8283964",
+      "bytes": 151012,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 42696
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Nasu_Tepee_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/Hiroshi_Nakamura_NAP_Nasu_Tepee_Master3D_Group04.binvox",
+      "sha256": "d295067d8060a12891ced21ed40edc49397d87bb7526c310bdb909102c43c790",
+      "bytes": 1221574,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 204795
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Nasu_Tepee_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/Hiroshi_Nakamura_NAP_Nasu_Tepee_Master3D_Group04.binvox",
+    "resolution": 128,
+    "triangles": 7808,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "a085053d60f4295d8a362c4aeaba41be2039ee5dd3aad2ba6f69ca0e5f671ab4"
+  }
+}

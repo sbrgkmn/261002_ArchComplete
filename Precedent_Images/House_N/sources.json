@@ -1,0 +1,68 @@
+[
+  {
+    "file": "House_N_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 690,
+    "height": 460,
+    "source_page": "https://www.archdaily.com/7484/house-n-sou-fujimoto",
+    "image_url": "https://images.adsttc.com/media/images/5010/0725/28ba/0d42/2200/055e/large_jpg/stringio.jpg?1413946052",
+    "caption": "  ",
+    "bytes": 141639,
+    "candidate": 1
+  },
+  {
+    "file": "House_N_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 699,
+    "height": 460,
+    "source_page": "https://www.archdaily.com/7484/house-n-sou-fujimoto",
+    "image_url": "https://images.adsttc.com/media/images/5010/0736/28ba/0d42/2200/0565/large_jpg/stringio.jpg?1413946081",
+    "caption": "  ",
+    "bytes": 169132,
+    "candidate": 17
+  },
+  {
+    "file": "House_N_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 695,
+    "height": 460,
+    "source_page": "https://www.archdaily.com/7484/house-n-sou-fujimoto",
+    "image_url": "https://images.adsttc.com/media/images/5010/0720/28ba/0d42/2200/055c/large_jpg/stringio.jpg?1413946095",
+    "caption": "  ",
+    "bytes": 105597,
+    "candidate": 24
+  },
+  {
+    "file": "House_N_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1500,
+    "height": 1205,
+    "source_page": "https://www.archdaily.com/7484/house-n-sou-fujimoto",
+    "image_url": "https://images.adsttc.com/media/images/5010/0741/28ba/0d42/2200/0569/large_jpg/stringio.jpg?1413946101",
+    "caption": "  ",
+    "bytes": 215012,
+    "candidate": 27
+  },
+  {
+    "file": "House_N_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 705,
+    "height": 460,
+    "source_page": "https://www.archdaily.com/7484/house-n-sou-fujimoto",
+    "image_url": "https://images.adsttc.com/media/images/5010/075c/28ba/0d42/2200/0573/large_jpg/stringio.jpg?1413946069",
+    "caption": "  ",
+    "bytes": 79785,
+    "candidate": 10
+  },
+  {
+    "file": "House_N_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 690,
+    "height": 460,
+    "source_page": "https://www.archdaily.com/7484/house-n-sou-fujimoto",
+    "image_url": "https://images.adsttc.com/media/images/5010/0757/28ba/0d42/2200/0571/large_jpg/stringio.jpg?1413946072",
+    "caption": "  ",
+    "bytes": 57371,
+    "candidate": 12
+  }
+]

@@ -1,0 +1,903 @@
+{
+  "fixture": {
+    "occupied": 2,
+    "quads": 6,
+    "area": 10,
+    "min": [
+      -0.25,
+      0,
+      0.25
+    ],
+    "max": [
+      0.25,
+      0.25,
+      0.5
+    ],
+    "wrong": 0
+  },
+  "results": [
+    {
+      "folder": "128_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 9989,
+      "surfaceVoxelFaces": 12140,
+      "triangles": 1512
+    },
+    {
+      "folder": "Alhamra_Villa",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 34016,
+      "surfaceVoxelFaces": 35434,
+      "triangles": 3200
+    },
+    {
+      "folder": "Antivilla",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 19391,
+      "surfaceVoxelFaces": 23228,
+      "triangles": 1314
+    },
+    {
+      "folder": "Bahia_Azul_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 15148,
+      "surfaceVoxelFaces": 17856,
+      "triangles": 1474
+    },
+    {
+      "folder": "Bailey_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 2173,
+      "surfaceVoxelFaces": 4204,
+      "triangles": 350
+    },
+    {
+      "folder": "Boomer_Residence",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 12740,
+      "surfaceVoxelFaces": 17550,
+      "triangles": 6780
+    },
+    {
+      "folder": "Brant_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 16678,
+      "surfaceVoxelFaces": 23822,
+      "triangles": 1494
+    },
+    {
+      "folder": "Brick_Vault_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 12975,
+      "surfaceVoxelFaces": 20480,
+      "triangles": 1554
+    },
+    {
+      "folder": "Care_House_of_the_Wind_Chinmey",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 36739,
+      "surfaceVoxelFaces": 49856,
+      "triangles": 11106
+    },
+    {
+      "folder": "Casa_das_Canoas",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 18249,
+      "surfaceVoxelFaces": 21200,
+      "triangles": 3422
+    },
+    {
+      "folder": "Casa_en_Djerba",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 132334,
+      "surfaceVoxelFaces": 205914,
+      "triangles": 5844
+    },
+    {
+      "folder": "Casa_Luis_Barragan",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 55291,
+      "surfaceVoxelFaces": 74212,
+      "triangles": 3652
+    },
+    {
+      "folder": "Chiswick_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 45239,
+      "surfaceVoxelFaces": 71744,
+      "triangles": 14192
+    },
+    {
+      "folder": "Container_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 6992,
+      "surfaceVoxelFaces": 9748,
+      "triangles": 1242
+    },
+    {
+      "folder": "Cornered_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 19857,
+      "surfaceVoxelFaces": 25796,
+      "triangles": 6856
+    },
+    {
+      "folder": "Double_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 19182,
+      "surfaceVoxelFaces": 27358,
+      "triangles": 3204
+    },
+    {
+      "folder": "Eames_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 11064,
+      "surfaceVoxelFaces": 18158,
+      "triangles": 1306
+    },
+    {
+      "folder": "Elrod_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 41683,
+      "surfaceVoxelFaces": 58852,
+      "triangles": 25080
+    },
+    {
+      "folder": "Ennis_House",
+      "source": "aug_000_64",
+      "loaded": true,
+      "resolution": 64,
+      "occupied": 9211,
+      "surfaceVoxelFaces": 14226,
+      "triangles": 2206
+    },
+    {
+      "folder": "Ex_Of_In_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 3902,
+      "surfaceVoxelFaces": 5478,
+      "triangles": 2250
+    },
+    {
+      "folder": "Fallingwater",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 34388,
+      "surfaceVoxelFaces": 44298,
+      "triangles": 18632
+    },
+    {
+      "folder": "Farnsworth_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 9855,
+      "surfaceVoxelFaces": 11152,
+      "triangles": 784
+    },
+    {
+      "folder": "Fisher_Building",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 21573,
+      "surfaceVoxelFaces": 26108,
+      "triangles": 3946
+    },
+    {
+      "folder": "Garden_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 6446,
+      "surfaceVoxelFaces": 9008,
+      "triangles": 3754
+    },
+    {
+      "folder": "Giovannitti_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 15518,
+      "surfaceVoxelFaces": 23282,
+      "triangles": 2618
+    },
+    {
+      "folder": "Glass_House_Lina_Bo_Bardi",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 48218,
+      "surfaceVoxelFaces": 57666,
+      "triangles": 2514
+    },
+    {
+      "folder": "Glass_House_Philip_Johnson",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 3730,
+      "surfaceVoxelFaces": 5698,
+      "triangles": 968
+    },
+    {
+      "folder": "Goldstein_Residence",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 29639,
+      "surfaceVoxelFaces": 32602,
+      "triangles": 12206
+    },
+    {
+      "folder": "Gropius_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 13001,
+      "surfaceVoxelFaces": 15044,
+      "triangles": 2180
+    },
+    {
+      "folder": "Hare_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 109264,
+      "surfaceVoxelFaces": 158864,
+      "triangles": 15462
+    },
+    {
+      "folder": "Haus_Schroder",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 3295,
+      "surfaceVoxelFaces": 5792,
+      "triangles": 1112
+    },
+    {
+      "folder": "Herning_School_Center",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 36362,
+      "surfaceVoxelFaces": 42142,
+      "triangles": 9088
+    },
+    {
+      "folder": "House_at_Mols_Hills",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 7163,
+      "surfaceVoxelFaces": 10768,
+      "triangles": 1354
+    },
+    {
+      "folder": "House_for_a_Young_Couple_in_Tokyo",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 2841,
+      "surfaceVoxelFaces": 6158,
+      "triangles": 1384
+    },
+    {
+      "folder": "House_II",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 10353,
+      "surfaceVoxelFaces": 16034,
+      "triangles": 2718
+    },
+    {
+      "folder": "House_N",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 12885,
+      "surfaceVoxelFaces": 19296,
+      "triangles": 1018
+    },
+    {
+      "folder": "House_N10",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 22494,
+      "surfaceVoxelFaces": 34244,
+      "triangles": 5442
+    },
+    {
+      "folder": "House_NA",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 3650,
+      "surfaceVoxelFaces": 5910,
+      "triangles": 2004
+    },
+    {
+      "folder": "House_of_Concrete_Experiments",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 29700,
+      "surfaceVoxelFaces": 39454,
+      "triangles": 6998
+    },
+    {
+      "folder": "House_VI",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 5050,
+      "surfaceVoxelFaces": 6644,
+      "triangles": 846
+    },
+    {
+      "folder": "House_with_One_Wall",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 83038,
+      "surfaceVoxelFaces": 104756,
+      "triangles": 9656
+    },
+    {
+      "folder": "Jacob_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 15472,
+      "surfaceVoxelFaces": 17358,
+      "triangles": 1582
+    },
+    {
+      "folder": "Juul_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 16387,
+      "surfaceVoxelFaces": 17848,
+      "triangles": 1546
+    },
+    {
+      "folder": "La_Rotonda",
+      "source": "aug_000_64",
+      "loaded": true,
+      "resolution": 64,
+      "occupied": 13079,
+      "surfaceVoxelFaces": 18582,
+      "triangles": 3526
+    },
+    {
+      "folder": "Leo_Henriksen_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 9028,
+      "surfaceVoxelFaces": 13726,
+      "triangles": 3678
+    },
+    {
+      "folder": "Lotus_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 19018,
+      "surfaceVoxelFaces": 21976,
+      "triangles": 2616
+    },
+    {
+      "folder": "Lovell_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 59609,
+      "surfaceVoxelFaces": 91402,
+      "triangles": 4502
+    },
+    {
+      "folder": "Lowell_Beach_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 17191,
+      "surfaceVoxelFaces": 18978,
+      "triangles": 3154
+    },
+    {
+      "folder": "Maison_a_Bordeaux",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 31658,
+      "surfaceVoxelFaces": 35276,
+      "triangles": 1672
+    },
+    {
+      "folder": "Maison_Dartiste",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 15146,
+      "surfaceVoxelFaces": 17994,
+      "triangles": 1976
+    },
+    {
+      "folder": "Maison_Dordogne",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 12032,
+      "surfaceVoxelFaces": 13660,
+      "triangles": 1152
+    },
+    {
+      "folder": "Maison_Louise_Carre",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 39594,
+      "surfaceVoxelFaces": 42528,
+      "triangles": 3318
+    },
+    {
+      "folder": "Meisterhaus",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 23636,
+      "surfaceVoxelFaces": 30828,
+      "triangles": 2256
+    },
+    {
+      "folder": "Melnikov_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 25445,
+      "surfaceVoxelFaces": 30854,
+      "triangles": 7136
+    },
+    {
+      "folder": "Meteorite_Cabin",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 9901,
+      "surfaceVoxelFaces": 15258,
+      "triangles": 6346
+    },
+    {
+      "folder": "Minas_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 14575,
+      "surfaceVoxelFaces": 17546,
+      "triangles": 2522
+    },
+    {
+      "folder": "Moore_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 3677,
+      "surfaceVoxelFaces": 4814,
+      "triangles": 1068
+    },
+    {
+      "folder": "Moriyama_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 10335,
+      "surfaceVoxelFaces": 18766,
+      "triangles": 1816
+    },
+    {
+      "folder": "Muuratsalo_Experimental_House",
+      "source": "aug_000_64",
+      "loaded": true,
+      "resolution": 64,
+      "occupied": 2137,
+      "surfaceVoxelFaces": 3350,
+      "triangles": 516
+    },
+    {
+      "folder": "Naked_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 7640,
+      "surfaceVoxelFaces": 11102,
+      "triangles": 1336
+    },
+    {
+      "folder": "Narrow_Brick_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 5497,
+      "surfaceVoxelFaces": 7760,
+      "triangles": 692
+    },
+    {
+      "folder": "Nasu_Tepee",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 8495,
+      "surfaceVoxelFaces": 10930,
+      "triangles": 7808
+    },
+    {
+      "folder": "nCaved_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 50523,
+      "surfaceVoxelFaces": 59674,
+      "triangles": 6616
+    },
+    {
+      "folder": "Neuhofweg_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 23751,
+      "surfaceVoxelFaces": 26312,
+      "triangles": 3098
+    },
+    {
+      "folder": "Nine_Square_Grid_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 5845,
+      "surfaceVoxelFaces": 7586,
+      "triangles": 796
+    },
+    {
+      "folder": "Okurayama_Apartement",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 24794,
+      "surfaceVoxelFaces": 32128,
+      "triangles": 6362
+    },
+    {
+      "folder": "Orbital_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 12364,
+      "surfaceVoxelFaces": 20870,
+      "triangles": 2356
+    },
+    {
+      "folder": "Radius_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 19326,
+      "surfaceVoxelFaces": 25616,
+      "triangles": 2532
+    },
+    {
+      "folder": "Rambla_Climate_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 10290,
+      "surfaceVoxelFaces": 17058,
+      "triangles": 6558
+    },
+    {
+      "folder": "Robie_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 31670,
+      "surfaceVoxelFaces": 37538,
+      "triangles": 5318
+    },
+    {
+      "folder": "S_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 4365,
+      "surfaceVoxelFaces": 6536,
+      "triangles": 1396
+    },
+    {
+      "folder": "Sagaponac_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 15835,
+      "surfaceVoxelFaces": 23282,
+      "triangles": 6572
+    },
+    {
+      "folder": "Schindler_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 24339,
+      "surfaceVoxelFaces": 24860,
+      "triangles": 1594
+    },
+    {
+      "folder": "Schminke_Haus",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 20468,
+      "surfaceVoxelFaces": 26408,
+      "triangles": 3982
+    },
+    {
+      "folder": "Sky_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 9021,
+      "surfaceVoxelFaces": 11918,
+      "triangles": 1604
+    },
+    {
+      "folder": "Small_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 4564,
+      "surfaceVoxelFaces": 6986,
+      "triangles": 2010
+    },
+    {
+      "folder": "Smith_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 19123,
+      "surfaceVoxelFaces": 25782,
+      "triangles": 9358
+    },
+    {
+      "folder": "Solo_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 28278,
+      "surfaceVoxelFaces": 35648,
+      "triangles": 10056
+    },
+    {
+      "folder": "Stahl_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 22294,
+      "surfaceVoxelFaces": 36890,
+      "triangles": 1568
+    },
+    {
+      "folder": "The_Dark_Chalet",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 84190,
+      "surfaceVoxelFaces": 102972,
+      "triangles": 13364
+    },
+    {
+      "folder": "The_Miller_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 25356,
+      "surfaceVoxelFaces": 30018,
+      "triangles": 846
+    },
+    {
+      "folder": "Toy_Blocks_House_1",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 8140,
+      "surfaceVoxelFaces": 11946,
+      "triangles": 1742
+    },
+    {
+      "folder": "Trail_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 4922,
+      "surfaceVoxelFaces": 9780,
+      "triangles": 2478
+    },
+    {
+      "folder": "Triangle_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 17703,
+      "surfaceVoxelFaces": 20996,
+      "triangles": 6966
+    },
+    {
+      "folder": "Vanna_Venturi_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 9526,
+      "surfaceVoxelFaces": 10304,
+      "triangles": 2128
+    },
+    {
+      "folder": "VDL",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 30154,
+      "surfaceVoxelFaces": 37650,
+      "triangles": 3804
+    },
+    {
+      "folder": "Villa_Cornaro",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 66867,
+      "surfaceVoxelFaces": 106250,
+      "triangles": 5876
+    },
+    {
+      "folder": "Villa_Foscari",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 66884,
+      "surfaceVoxelFaces": 70826,
+      "triangles": 5328
+    },
+    {
+      "folder": "Villa_Glashutte",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 30005,
+      "surfaceVoxelFaces": 30822,
+      "triangles": 3766
+    },
+    {
+      "folder": "Villa_Muller",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 34444,
+      "surfaceVoxelFaces": 39502,
+      "triangles": 4052
+    },
+    {
+      "folder": "Villa_Savoye",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 39770,
+      "surfaceVoxelFaces": 49810,
+      "triangles": 3724
+    },
+    {
+      "folder": "Villa_Tugendhat",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 67381,
+      "surfaceVoxelFaces": 88778,
+      "triangles": 5044
+    },
+    {
+      "folder": "Vitra_Haus",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 103579,
+      "surfaceVoxelFaces": 149814,
+      "triangles": 54016
+    },
+    {
+      "folder": "Wall_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 12624,
+      "surfaceVoxelFaces": 14710,
+      "triangles": 1786
+    },
+    {
+      "folder": "Weissenhof_1415",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 24941,
+      "surfaceVoxelFaces": 31072,
+      "triangles": 3350
+    },
+    {
+      "folder": "Winton_Guest_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 22851,
+      "surfaceVoxelFaces": 24820,
+      "triangles": 4208
+    },
+    {
+      "folder": "Wu_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 30829,
+      "surfaceVoxelFaces": 37324,
+      "triangles": 4830
+    },
+    {
+      "folder": "Y_House",
+      "source": "original_128",
+      "loaded": true,
+      "resolution": 128,
+      "occupied": 18775,
+      "surfaceVoxelFaces": 28930,
+      "triangles": 3480
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "file": "Alhamra_Villa_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1800,
+    "height": 1320,
+    "source_page": "https://archidatum.com/projects/house-al-hamra-atelier-koe/",
+    "image_url": "https://archidatum.com/media/5999/house-diapo-alhamra-atelierkoe-main-image.jpg",
+    "caption": "archiDATUM  ",
+    "bytes": 224282,
+    "candidate": 5
+  },
+  {
+    "file": "Alhamra_Villa_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 561,
+    "height": 993,
+    "source_page": "https://archidatum.com/projects/house-al-hamra-atelier-koe/",
+    "image_url": "https://archidatum.com/media/6002/house-diapo-alhamra-atelierkoe-5.jpg",
+    "caption": "archiDATUM  ",
+    "bytes": 256455,
+    "candidate": 10
+  },
+  {
+    "file": "Alhamra_Villa_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1800,
+    "height": 1320,
+    "source_page": "https://archidatum.com/projects/house-al-hamra-atelier-koe/",
+    "image_url": "https://archidatum.com/media/5998/house-diapo-alhamra-atelierkoe-2.jpg",
+    "caption": "archiDATUM  ",
+    "bytes": 198663,
+    "candidate": 4
+  },
+  {
+    "file": "Alhamra_Villa_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1800,
+    "height": 1320,
+    "source_page": "https://archidatum.com/projects/house-al-hamra-atelier-koe/",
+    "image_url": "https://archidatum.com/media/5997/house-diapo-alhamra-atelierkoe-01.jpg",
+    "caption": "archiDATUM  ",
+    "bytes": 118271,
+    "candidate": 3
+  }
+]

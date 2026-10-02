@@ -1,0 +1,90 @@
+[
+  {
+    "file": "Lowell_Beach_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1134,
+    "height": 1512,
+    "source_page": "https://www.elcanola.com/lovell-beach-house",
+    "image_url": "https://irp.cdn-website.com/a81b9df0/dms3rep/multi/opt/Lovell-Beach-House-Elcano-Construction-9-1920w.jpg",
+    "caption": "Lovell beach house exterior  ",
+    "bytes": 181905,
+    "candidate": 1
+  },
+  {
+    "file": "Lowell_Beach_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 600,
+    "height": 468,
+    "source_page": "https://histoirearchitecture19.uqam.ca/lovell-beach-house/",
+    "image_url": "https://histoirearchitecture19.uqam.ca/wp-content/uploads/2022/04/Lovell_Beach_House.jpg",
+    "caption": "  ",
+    "bytes": 58774,
+    "candidate": 20
+  },
+  {
+    "file": "Lowell_Beach_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 300,
+    "height": 142,
+    "source_page": "https://histoirearchitecture19.uqam.ca/lovell-beach-house/",
+    "image_url": "https://histoirearchitecture19.uqam.ca/wp-content/uploads/2022/04/Lovell_Beach_House_photo_D_Ramey_Logan.jpg",
+    "caption": "  ",
+    "bytes": 15617,
+    "candidate": 25
+  },
+  {
+    "file": "Lowell_Beach_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1000,
+    "height": 747,
+    "source_page": "https://histoirearchitecture19.uqam.ca/lovell-beach-house/",
+    "image_url": "https://histoirearchitecture19.uqam.ca/wp-content/uploads/2022/03/DDo4aSFXYAUtvoX.jpeg",
+    "caption": "  ",
+    "bytes": 154950,
+    "candidate": 16
+  },
+  {
+    "file": "Lowell_Beach_House_Floor_Plan_02.png",
+    "view_type": "Floor_Plan",
+    "width": 1024,
+    "height": 628,
+    "source_page": "https://histoirearchitecture19.uqam.ca/lovell-beach-house/",
+    "image_url": "https://histoirearchitecture19.uqam.ca/wp-content/uploads/2022/04/Lovell_Beach_House_drawing.png",
+    "caption": "  ",
+    "bytes": 83863,
+    "candidate": 21
+  },
+  {
+    "file": "Lowell_Beach_House_Floor_Plan_03.png",
+    "view_type": "Floor_Plan",
+    "width": 439,
+    "height": 309,
+    "source_page": "https://histoirearchitecture19.uqam.ca/lovell-beach-house/",
+    "image_url": "https://histoirearchitecture19.uqam.ca/wp-content/uploads/2022/04/rdc-1.png",
+    "caption": "  ",
+    "bytes": 56730,
+    "candidate": 24
+  },
+  {
+    "file": "Lowell_Beach_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1134,
+    "height": 1512,
+    "source_page": "https://www.elcanola.com/lovell-beach-house",
+    "image_url": "https://irp.cdn-website.com/a81b9df0/dms3rep/multi/opt/Lovell-Beach-House-Elcano-Construction-8-1920w.jpg",
+    "caption": "Lovell Beach house interiors with windows and beams  ",
+    "bytes": 192370,
+    "candidate": 4
+  },
+  {
+    "file": "Lowell_Beach_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 500,
+    "height": 372,
+    "source_page": "https://histoirearchitecture19.uqam.ca/lovell-beach-house/",
+    "image_url": "https://histoirearchitecture19.uqam.ca/wp-content/uploads/2022/04/6dbb7f45d678fc792b4356aefd249796.jpg",
+    "caption": "  ",
+    "bytes": 29851,
+    "candidate": 22
+  }
+]

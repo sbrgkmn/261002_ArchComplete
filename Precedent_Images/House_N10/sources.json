@@ -1,0 +1,68 @@
+[
+  {
+    "file": "House_N10_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 1333,
+    "source_page": "https://afasiaarchzine.com/2020/05/mos-no-10-house-with-courtyard/",
+    "image_url": "https://afasiaarchzine.com/wp-content/uploads/2018/11/afasia-mos-.-house-10-with-courtyard-.-New-York-1.jpg",
+    "caption": "  ",
+    "bytes": 840976,
+    "candidate": 3
+  },
+  {
+    "file": "House_N10_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 1333,
+    "source_page": "https://afasiaarchzine.com/2020/05/mos-no-10-house-with-courtyard/",
+    "image_url": "https://afasiaarchzine.com/wp-content/uploads/2018/11/afasia-mos-.-house-10-with-courtyard-.-New-York-4.jpg",
+    "caption": "  ",
+    "bytes": 784990,
+    "candidate": 6
+  },
+  {
+    "file": "House_N10_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1200,
+    "height": 800,
+    "source_page": "https://afasiaarchzine.com/2020/05/mos-no-10-house-with-courtyard/",
+    "image_url": "https://afasiaarchzine.com/wp-content/uploads/2018/11/afasia-mos-.-house-10-with-courtyard-.-New-York-6.jpg",
+    "caption": "  ",
+    "bytes": 249563,
+    "candidate": 8
+  },
+  {
+    "file": "House_N10_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1200,
+    "height": 800,
+    "source_page": "https://afasiaarchzine.com/2020/05/mos-no-10-house-with-courtyard/",
+    "image_url": "https://afasiaarchzine.com/wp-content/uploads/2018/11/MOS-.-No.-10-House-with-Courtyard-16.jpg",
+    "caption": "  ",
+    "bytes": 38990,
+    "candidate": 46
+  },
+  {
+    "file": "House_N10_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1180,
+    "height": 1435,
+    "source_page": "https://afasiaarchzine.com/2020/05/mos-no-10-house-with-courtyard/",
+    "image_url": "https://afasiaarchzine.com/wp-content/uploads/2018/11/afasia-mos-.-house-10-with-courtyard-.-New-York-14.jpg",
+    "caption": "  ",
+    "bytes": 223846,
+    "candidate": 16
+  },
+  {
+    "file": "House_N10_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 1200,
+    "height": 800,
+    "source_page": "https://afasiaarchzine.com/2020/05/mos-no-10-house-with-courtyard/",
+    "image_url": "https://afasiaarchzine.com/wp-content/uploads/2018/11/afasia-mos-.-house-10-with-courtyard-.-New-York-21.jpg",
+    "caption": "  ",
+    "bytes": 96925,
+    "candidate": 23
+  }
+]

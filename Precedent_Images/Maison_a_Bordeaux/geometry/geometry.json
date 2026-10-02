@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "RemKoolhaas_MaisonABordeaux_Master3D_Rüscher_Bernhard",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Maison_a_Bordeaux_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RemKoolhaas_MaisonABordeaux_Master3D_Rüscher_Bernhard_0.binvox",
+      "sha256": "e70b9f8c01f8d1ad4d30576a244def744a5cfdc6fb08f50c6ea15e5ead9d4828",
+      "bytes": 12127,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5749
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Maison_a_Bordeaux_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RemKoolhaas_MaisonABordeaux_Master3D_Rüscher_Bernhard_120.binvox",
+      "sha256": "3da17711e606aa18de5d3cc904d7e3125c265b21339dac40df7b0254e40b7d53",
+      "bytes": 13147,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6720
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Maison_a_Bordeaux_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RemKoolhaas_MaisonABordeaux_Master3D_Rüscher_Bernhard_150.binvox",
+      "sha256": "b13d38c52515fb768374dc011c8ecb3198b76a3e38516b332cc3baf4e392f3bf",
+      "bytes": 13195,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6718
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Maison_a_Bordeaux_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RemKoolhaas_MaisonABordeaux_Master3D_Rüscher_Bernhard_180.binvox",
+      "sha256": "c257a34c26735f02b004fca83114215f654911cb280b2ebb536a8aeccd007884",
+      "bytes": 14009,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7419
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Maison_a_Bordeaux_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RemKoolhaas_MaisonABordeaux_Master3D_Rüscher_Bernhard_210.binvox",
+      "sha256": "22797fb1ebead8fedc05e708b5dc45f51ed91d6773315bfce6f26c45732e6ae7",
+      "bytes": 13273,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7170
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Maison_a_Bordeaux_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RemKoolhaas_MaisonABordeaux_Master3D_Rüscher_Bernhard_240.binvox",
+      "sha256": "00d517ccb5100d8adc5ea44848bf8ffb5d16fa74145299c34ea3c62b3b830f1f",
+      "bytes": 14263,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7062
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Maison_a_Bordeaux_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RemKoolhaas_MaisonABordeaux_Master3D_Rüscher_Bernhard_270.binvox",
+      "sha256": "2ae528726a2051168a4b6bbabc17e04d3c77bc2208419d0b6b6a9d3822107ae6",
+      "bytes": 12399,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6172
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Maison_a_Bordeaux_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RemKoolhaas_MaisonABordeaux_Master3D_Rüscher_Bernhard_30.binvox",
+      "sha256": "069508a5195af30e2580fa63baaedacaac1ede0e8ee2eca4501eaa0f0a7b1b48",
+      "bytes": 13571,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6958
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Maison_a_Bordeaux_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RemKoolhaas_MaisonABordeaux_Master3D_Rüscher_Bernhard_300.binvox",
+      "sha256": "7f681b67902a3d2d810d7fda72a51d9097074ca7139271f29f1909ce561aa24b",
+      "bytes": 14425,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7321
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Maison_a_Bordeaux_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RemKoolhaas_MaisonABordeaux_Master3D_Rüscher_Bernhard_330.binvox",
+      "sha256": "0c842c9347ea6fd1bc50912797cd64e19bb26f18ad80cdc69ecbff3afa15b626",
+      "bytes": 13317,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6931
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Maison_a_Bordeaux_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RemKoolhaas_MaisonABordeaux_Master3D_Rüscher_Bernhard_60.binvox",
+      "sha256": "c3cd370356b810829eab68c283e83e57de8e9b2b4aba455d0b3e200b64841ff3",
+      "bytes": 13509,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6799
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Maison_a_Bordeaux_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/RemKoolhaas_MaisonABordeaux_Master3D_Rüscher_Bernhard_90.binvox",
+      "sha256": "22cded4195ee4fa16e02fae6560254d4deab85afd653bd8f1a8fe9c45ef9e9d2",
+      "bytes": 13623,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6866
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Maison_a_Bordeaux_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/RemKoolhaas_MaisonABordeaux_Master3D_Rüscher_Bernhard.binvox",
+      "sha256": "b05dfd4129ce26240232813f15bc056e7fab226a05e1a446f6494a1513342f76",
+      "bytes": 11837,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5811
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Maison_a_Bordeaux_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/RemKoolhaas_MaisonABordeaux_Master3D_Rüscher_Bernhard.binvox",
+      "sha256": "3ef25f605f75d1d61e8d1379e6ad71768306f0c0cdd66004eeef43f7ae2ca048",
+      "bytes": 53698,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 31658
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Maison_a_Bordeaux_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/RemKoolhaas_MaisonABordeaux_Master3D_Rüscher_Bernhard.binvox",
+      "sha256": "c59ea922ec4275ac7df748ad1710c41e3fa0cc9874e40039b9420187ff148c9d",
+      "bytes": 411414,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 143794
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Maison_a_Bordeaux_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/RemKoolhaas_MaisonABordeaux_Master3D_Rüscher_Bernhard.binvox",
+      "sha256": "e161c5cb41228e3a5544c8ad02ebdba876d3f9671e2a3deff37bf612132be3c8",
+      "bytes": 2295078,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 592599
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Maison_a_Bordeaux_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/RemKoolhaas_MaisonABordeaux_Master3D_Rüscher_Bernhard.binvox",
+    "resolution": 128,
+    "triangles": 1672,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "a690f035352edc565fe8857a98de486a3d0e37cc2113f4814123c288f72e26cd"
+  }
+}

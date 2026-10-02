@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "PhilipJohnson_GlassHouse_GamonSamuel",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Glass_House_Philip_Johnson_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PhilipJohnson_GlassHouse_GamonSamuel_0.binvox",
+      "sha256": "4cf4b6e2ee1caa2c5eacbda1fd21538b7922124467224ead87fcc319c3613615",
+      "bytes": 4861,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1231
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Glass_House_Philip_Johnson_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PhilipJohnson_GlassHouse_GamonSamuel_120.binvox",
+      "sha256": "ccf9f0ab372a18ddbd8fa06c89dd0ee6282953f3d0a2902f65d6a9ab5187bada",
+      "bytes": 5037,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1252
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Glass_House_Philip_Johnson_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PhilipJohnson_GlassHouse_GamonSamuel_150.binvox",
+      "sha256": "0419e78474117bc3f11a218a3bd3ea14e75b3b4feaab4060c9e771f30d5a6671",
+      "bytes": 4985,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1181
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Glass_House_Philip_Johnson_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PhilipJohnson_GlassHouse_GamonSamuel_180.binvox",
+      "sha256": "d91a4b3f2852b6a45bf5ab38304f8fdfef9af1a945ba94aadf089ca28df6a0f2",
+      "bytes": 5273,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1168
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Glass_House_Philip_Johnson_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PhilipJohnson_GlassHouse_GamonSamuel_210.binvox",
+      "sha256": "09f2ba1932b98fb11f3d47bd7d9bf239cabfa20ad0472d1c33896ea842a24f80",
+      "bytes": 4995,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1109
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Glass_House_Philip_Johnson_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PhilipJohnson_GlassHouse_GamonSamuel_240.binvox",
+      "sha256": "3eddf901cecb545a4c9b20919d8ccf1d7c3640cc52682dd7aec9454de99de4b6",
+      "bytes": 5175,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1413
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Glass_House_Philip_Johnson_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PhilipJohnson_GlassHouse_GamonSamuel_270.binvox",
+      "sha256": "1b5c635e307ebc75a0fc6bb673cd22b76666fd5f0f4ec7fefb757889ea7de21a",
+      "bytes": 4815,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1128
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Glass_House_Philip_Johnson_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PhilipJohnson_GlassHouse_GamonSamuel_30.binvox",
+      "sha256": "20583989fea5b98e0834f4e5aee30c0f517af8f3a49c7190c9341c7d59ee3b6b",
+      "bytes": 5031,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1132
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Glass_House_Philip_Johnson_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PhilipJohnson_GlassHouse_GamonSamuel_300.binvox",
+      "sha256": "67eccc2d196e7c03c0a9a968997fa33e067e6310c003ea8c83da24f8a3b93b36",
+      "bytes": 5399,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1286
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Glass_House_Philip_Johnson_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PhilipJohnson_GlassHouse_GamonSamuel_330.binvox",
+      "sha256": "b2c7a42cc7d96ec90855d0ad52957c7eb6521bef0b1002ac60fe253bd98ff04b",
+      "bytes": 4839,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1064
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Glass_House_Philip_Johnson_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PhilipJohnson_GlassHouse_GamonSamuel_60.binvox",
+      "sha256": "cd38b4419860a0018426bdee94f6abaa8dc99a2143bcd34cfc4339493fbf8028",
+      "bytes": 5015,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1170
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Glass_House_Philip_Johnson_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PhilipJohnson_GlassHouse_GamonSamuel_90.binvox",
+      "sha256": "0ebb23b3b060c8e2116276ca8dc14d34d2f7e29b0a6e06f9cfabdce9dc45b2a5",
+      "bytes": 5027,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1196
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Glass_House_Philip_Johnson_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/PhilipJohnson_GlassHouse_GamonSamuel.binvox",
+      "sha256": "ad27e7daa0eb6f6a886c10216738adb5f8822d053c2155a1135fac73024626a3",
+      "bytes": 3737,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 719
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Glass_House_Philip_Johnson_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/PhilipJohnson_GlassHouse_GamonSamuel.binvox",
+      "sha256": "3a6de42593155b4cf21a230f53f1ee8a82a846b9475361664bcee1980d041754",
+      "bytes": 22864,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3730
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Glass_House_Philip_Johnson_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/PhilipJohnson_GlassHouse_GamonSamuel.binvox",
+      "sha256": "9c8dc552704dd6cc00530e15cc9bb386ca85471628cb3d716f2e4194b34163b3",
+      "bytes": 166544,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 18940
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Glass_House_Philip_Johnson_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/PhilipJohnson_GlassHouse_GamonSamuel.binvox",
+      "sha256": "a360d0b52c09e86d2d3c04031b509ce65750265ecd87cd8627f5b86cb17e0472",
+      "bytes": 1250112,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 93375
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Glass_House_Philip_Johnson_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/PhilipJohnson_GlassHouse_GamonSamuel.binvox",
+    "resolution": 128,
+    "triangles": 968,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "2db0ff645f5d614c14e70c2590999ebaa0a181b6a64813f551b4c6273cad49f9"
+  }
+}

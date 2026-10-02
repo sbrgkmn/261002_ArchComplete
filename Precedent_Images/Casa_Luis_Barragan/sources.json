@@ -1,0 +1,90 @@
+[
+  {
+    "file": "Casa_Luis_Barragan_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1024,
+    "height": 768,
+    "source_page": "https://www.archdaily.com/1000249/architecture-classics-casa-estudio-luis-barragan-luis-barragan",
+    "image_url": "https://images.adsttc.com/media/images/55e6/369c/8450/b53b/1c00/02c1/large_jpg/lrbln4.jpg?1441150614",
+    "caption": "  ",
+    "bytes": 257030,
+    "candidate": 2
+  },
+  {
+    "file": "Casa_Luis_Barragan_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 650,
+    "height": 520,
+    "source_page": "https://www.archdaily.com/1000249/architecture-classics-casa-estudio-luis-barragan-luis-barragan",
+    "image_url": "https://images.adsttc.com/media/images/55e6/36b2/8450/b53b/1c00/02c2/large_jpg/fachada-14.jpg?1441150636",
+    "caption": "  ",
+    "bytes": 142848,
+    "candidate": 3
+  },
+  {
+    "file": "Casa_Luis_Barragan_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 2000,
+    "height": 2667,
+    "source_page": "https://www.archdaily.com/1000249/architecture-classics-casa-estudio-luis-barragan-luis-barragan",
+    "image_url": "https://images.adsttc.com/media/images/55e6/37a6/8450/b53b/1c00/02db/large_jpg/picacch.jpg?1441150867",
+    "caption": "  ",
+    "bytes": 1359763,
+    "candidate": 28
+  },
+  {
+    "file": "Casa_Luis_Barragan_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 700,
+    "height": 1052,
+    "source_page": "https://www.archdaily.com/1000249/architecture-classics-casa-estudio-luis-barragan-luis-barragan",
+    "image_url": "https://images.adsttc.com/media/images/55e6/36c4/8450/b53b/1c00/02c4/large_jpg/planta_baja-6.jpg?1441150655",
+    "caption": "  ",
+    "bytes": 164773,
+    "candidate": 5
+  },
+  {
+    "file": "Casa_Luis_Barragan_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 700,
+    "height": 1052,
+    "source_page": "https://www.archdaily.com/1000249/architecture-classics-casa-estudio-luis-barragan-luis-barragan",
+    "image_url": "https://images.adsttc.com/media/images/55e6/37bc/8450/b53b/1c00/02dc/large_jpg/segunda_planta.jpg?1441150902",
+    "caption": "  ",
+    "bytes": 114402,
+    "candidate": 29
+  },
+  {
+    "file": "Casa_Luis_Barragan_Floor_Plan_03.jpg",
+    "view_type": "Floor_Plan",
+    "width": 700,
+    "height": 1051,
+    "source_page": "https://www.archdaily.com/1000249/architecture-classics-casa-estudio-luis-barragan-luis-barragan",
+    "image_url": "https://images.adsttc.com/media/images/55e6/37d7/8450/b53b/1c00/02df/large_jpg/tercera_planta.jpg?1441150929",
+    "caption": "  ",
+    "bytes": 115095,
+    "candidate": 32
+  },
+  {
+    "file": "Casa_Luis_Barragan_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 870,
+    "height": 1024,
+    "source_page": "https://www.archdaily.com/1000249/architecture-classics-casa-estudio-luis-barragan-luis-barragan",
+    "image_url": "https://images.adsttc.com/media/images/55e6/36e3/8450/b53b/1c00/02c7/large_jpg/lrbln2.jpg?1441150684",
+    "caption": "  ",
+    "bytes": 315058,
+    "candidate": 8
+  },
+  {
+    "file": "Casa_Luis_Barragan_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 650,
+    "height": 483,
+    "source_page": "https://www.archdaily.com/1000249/architecture-classics-casa-estudio-luis-barragan-luis-barragan",
+    "image_url": "https://images.adsttc.com/media/images/55e6/373b/8450/b53b/1c00/02d1/large_jpg/estancia2.jpg?1441150774",
+    "caption": "  ",
+    "bytes": 117307,
+    "candidate": 18
+  }
+]

@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "ArnoBrandlhuber_Antivilla_Master3D_Group1",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Antivilla_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArnoBrandlhuber_Antivilla_Master3D_Group1_0.binvox",
+      "sha256": "6127957c8283b2190e5685a033cb4fa161f80ec2db8803804045346ae3dd0b21",
+      "bytes": 8067,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3827
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Antivilla_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArnoBrandlhuber_Antivilla_Master3D_Group1_120.binvox",
+      "sha256": "be95c7fd9187c2228e944e84aa7b7c313925cb4b5d6dedeb7e672faaffa9cce7",
+      "bytes": 8465,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4803
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Antivilla_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArnoBrandlhuber_Antivilla_Master3D_Group1_150.binvox",
+      "sha256": "6879c95e26662a0bca9edad56dcb3fcf29b8fe5c84e755dafda364850f31a4e0",
+      "bytes": 8213,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4720
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Antivilla_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArnoBrandlhuber_Antivilla_Master3D_Group1_180.binvox",
+      "sha256": "8a93f2ad856d779c21cda73d8a610c7727bb01414425a7f02350cabea941341c",
+      "bytes": 8767,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5117
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Antivilla_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArnoBrandlhuber_Antivilla_Master3D_Group1_210.binvox",
+      "sha256": "058dd6f3620942a08a5dfa95cc97d3fbc0cf2b3f7cec4b5cbf350ed017df78df",
+      "bytes": 7849,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4261
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Antivilla_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArnoBrandlhuber_Antivilla_Master3D_Group1_240.binvox",
+      "sha256": "b2258d01033784aec8d8a51a8c5137f3bb0fc7ab6a3abbc016fa084dfe2f0d79",
+      "bytes": 8767,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4416
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Antivilla_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArnoBrandlhuber_Antivilla_Master3D_Group1_270.binvox",
+      "sha256": "85c8dcca9b0099548dc83b2fca629a07d6982d2a674eea4e787d7210546b7571",
+      "bytes": 7763,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4383
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Antivilla_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArnoBrandlhuber_Antivilla_Master3D_Group1_30.binvox",
+      "sha256": "965d0c8b0015f849cf1fad90c556fa12db1e0f11ebd16b7ee186b33c6ea1e98a",
+      "bytes": 8155,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4734
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Antivilla_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArnoBrandlhuber_Antivilla_Master3D_Group1_300.binvox",
+      "sha256": "db50dba8268d8f82c846c7395bd87af16184bc7eb386fbabffacc3935cafbb7f",
+      "bytes": 8723,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4662
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Antivilla_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArnoBrandlhuber_Antivilla_Master3D_Group1_330.binvox",
+      "sha256": "fbd9cb82b9954b6e760d11d9152fc8606b53203aac58d99dbb03ca08d7145523",
+      "bytes": 7689,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4576
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Antivilla_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArnoBrandlhuber_Antivilla_Master3D_Group1_60.binvox",
+      "sha256": "5338d01cdd99c1789458297bd118da932b5320ffbf83caa02d632c2aff238d2f",
+      "bytes": 8135,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4383
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Antivilla_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ArnoBrandlhuber_Antivilla_Master3D_Group1_90.binvox",
+      "sha256": "184d7dd3c4d2f64a50447cef19b5bec7c9ce85e681f2fc58366b1f2a040ebbe9",
+      "bytes": 8299,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4432
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Antivilla_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/ArnoBrandlhuber_Antivilla_Master3D_Group1.binvox",
+      "sha256": "19cbc82dac4b70faff50ca895e2fdcdaa1bca79a074c0e15c8f95ca5ad57e50b",
+      "bytes": 6941,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3330
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Antivilla_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/ArnoBrandlhuber_Antivilla_Master3D_Group1.binvox",
+      "sha256": "5775328bc22eadb0f34e71b1ae00d9ec1ec82c24895520d820ef181646916b47",
+      "bytes": 42692,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 19391
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Antivilla_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/ArnoBrandlhuber_Antivilla_Master3D_Group1.binvox",
+      "sha256": "fd0a293f614d494fa927c125577ef9dc02f1894232f086307cd50a900e11d957",
+      "bytes": 291906,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 81699
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Antivilla_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/ArnoBrandlhuber_Antivilla_Master3D_Group1.binvox",
+      "sha256": "8426613ef531c1728f296c6fb2a875854449357430b7d9d528d7b2ab71c821d8",
+      "bytes": 1717556,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 361473
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Antivilla_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/ArnoBrandlhuber_Antivilla_Master3D_Group1.binvox",
+    "resolution": 128,
+    "triangles": 1314,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "4da3315f327466bfd901a86267f6a127407b403ccf2f545a1869a2fcb4f0f863"
+  }
+}

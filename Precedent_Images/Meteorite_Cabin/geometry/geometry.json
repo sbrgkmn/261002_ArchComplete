@@ -1,0 +1,84 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "Kivi_sotamaa_Meteorite_Cabin_Mirco_Fallert",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Meteorite_Cabin_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/Kivi_sotamaa_Meteorite_Cabin_Mirco_Fallert.binvox",
+      "sha256": "e27bff9a0915cb205d1597df05178a0adafebd10a740493a0e38b373a6f37271",
+      "bytes": 4513,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2102
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Meteorite_Cabin_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/Kivi_sotamaa_Meteorite_Cabin_Mirco_Fallert.binvox",
+      "sha256": "f84801e348c7e88ed30d6016b3f126f8db0e250f40d984321419e8a75700e1f5",
+      "bytes": 27466,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 9901
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Meteorite_Cabin_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/Kivi_sotamaa_Meteorite_Cabin_Mirco_Fallert.binvox",
+      "sha256": "cdc81981e6a5152f25c8685d71381d50b7d9ecd04f3b0fd2faa9d6733f25fd03",
+      "bytes": 173822,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 46723
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Meteorite_Cabin_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/Kivi_sotamaa_Meteorite_Cabin_Mirco_Fallert.binvox",
+      "sha256": "8be8a3acac346dc08e44107c351ab0fe7f692a7f7b1a77148ffdfd5c04b20d77",
+      "bytes": 1257104,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 247405
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Meteorite_Cabin_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/Kivi_sotamaa_Meteorite_Cabin_Mirco_Fallert.binvox",
+    "resolution": 128,
+    "triangles": 6346,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "d00e9bad3e772ca441f09a09452f2b367851eedeab519bad64ab8c8c259293d2"
+  }
+}

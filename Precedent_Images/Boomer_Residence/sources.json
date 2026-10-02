@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Boomer_Residence_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1851,
+    "height": 1358,
+    "source_page": "https://npgallery.nps.gov/GetAsset/0bd6a0a6-7ee7-46bb-9b33-cd8d107edc8e#page=50",
+    "image_url": "https://npgallery.nps.gov/GetAsset/0bd6a0a6-7ee7-46bb-9b33-cd8d107edc8e",
+    "caption": "Jorgine Boomer House; native image extracted from NPS nomination PDF page 50.",
+    "bytes": 249752,
+    "candidate": 0
+  },
+  {
+    "file": "Boomer_Residence_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1862,
+    "height": 1372,
+    "source_page": "https://npgallery.nps.gov/GetAsset/0bd6a0a6-7ee7-46bb-9b33-cd8d107edc8e#page=52",
+    "image_url": "https://npgallery.nps.gov/GetAsset/0bd6a0a6-7ee7-46bb-9b33-cd8d107edc8e",
+    "caption": "Jorgine Boomer House; native image extracted from NPS nomination PDF page 52.",
+    "bytes": 318981,
+    "candidate": 0
+  },
+  {
+    "file": "Boomer_Residence_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 2024,
+    "height": 1583,
+    "source_page": "https://npgallery.nps.gov/GetAsset/0bd6a0a6-7ee7-46bb-9b33-cd8d107edc8e#page=54",
+    "image_url": "https://npgallery.nps.gov/GetAsset/0bd6a0a6-7ee7-46bb-9b33-cd8d107edc8e",
+    "caption": "Jorgine Boomer House; native image extracted from NPS nomination PDF page 54.",
+    "bytes": 235653,
+    "candidate": 0
+  },
+  {
+    "file": "Boomer_Residence_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 600,
+    "height": 665,
+    "source_page": "https://pc.blogspot.com/2007/03/jorgine-boomer-house-frank-lloyd.html",
+    "image_url": "https://photos1.blogger.com/x/blogger/4986/984/1600/171025/Boomer.jpg",
+    "caption": "Boomer floor plans",
+    "bytes": 97671,
+    "candidate": 1001
+  },
+  {
+    "file": "Boomer_Residence_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1872,
+    "height": 1387,
+    "source_page": "https://npgallery.nps.gov/GetAsset/0bd6a0a6-7ee7-46bb-9b33-cd8d107edc8e#page=58",
+    "image_url": "https://npgallery.nps.gov/GetAsset/0bd6a0a6-7ee7-46bb-9b33-cd8d107edc8e",
+    "caption": "Jorgine Boomer House; native image extracted from NPS nomination PDF page 58.",
+    "bytes": 162949,
+    "candidate": 0
+  },
+  {
+    "file": "Boomer_Residence_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 1882,
+    "height": 1402,
+    "source_page": "https://npgallery.nps.gov/GetAsset/0bd6a0a6-7ee7-46bb-9b33-cd8d107edc8e#page=64",
+    "image_url": "https://npgallery.nps.gov/GetAsset/0bd6a0a6-7ee7-46bb-9b33-cd8d107edc8e",
+    "caption": "Jorgine Boomer House; native image extracted from NPS nomination PDF page 64.",
+    "bytes": 197651,
+    "candidate": 0
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "file": "Ex_Of_In_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 15094,
+    "height": 8640,
+    "source_page": "https://www.archdaily.com/798326/ex-of-in-house-steven-holl-architects",
+    "image_url": "https://images.adsttc.com/media/images/5813/422a/e58e/ce67/8a00/0154/original/16-042-008A.jpg?1477656972",
+    "caption": "  ",
+    "bytes": 33190947,
+    "candidate": 1
+  },
+  {
+    "file": "Ex_Of_In_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 8731,
+    "height": 8661,
+    "source_page": "https://www.archdaily.com/798326/ex-of-in-house-steven-holl-architects",
+    "image_url": "https://images.adsttc.com/media/images/5813/4292/e58e/ce67/8a00/0155/original/16-042-009A.jpg?1477657141",
+    "caption": "Ex of In House / Steven Holl Architects - Forest © Paul Warchol https://www.archdaily.com/798326/ex-of-in-house-steven-holl-architects/58134292e58ece678a000155-ex-of-in-house-steven-holl-architects-photo",
+    "bytes": 10823409,
+    "candidate": 5
+  },
+  {
+    "file": "Ex_Of_In_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 11256,
+    "height": 8546,
+    "source_page": "https://www.archdaily.com/798326/ex-of-in-house-steven-holl-architects",
+    "image_url": "https://images.adsttc.com/media/images/5813/4185/e58e/ce96/7800/023c/original/16-042-007A.jpg?1477656851",
+    "caption": "  ",
+    "bytes": 17393829,
+    "candidate": 7
+  },
+  {
+    "file": "Ex_Of_In_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 2000,
+    "height": 1500,
+    "source_page": "https://www.archdaily.com/798326/ex-of-in-house-steven-holl-architects",
+    "image_url": "https://images.adsttc.com/media/images/5813/4671/e58e/ce67/8a00/015c/large_jpg/StevenHollArchitects_ExofInHouse__Groundfloor.jpg?1477658202",
+    "caption": "  ",
+    "bytes": 136310,
+    "candidate": 15
+  },
+  {
+    "file": "Ex_Of_In_House_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 2000,
+    "height": 1294,
+    "source_page": "https://www.archdaily.com/798326/ex-of-in-house-steven-holl-architects",
+    "image_url": "https://images.adsttc.com/media/images/5813/4693/e58e/ce67/8a00/015d/large_jpg/StevenHollArchitects_ExofInHouse__SecondFloor.jpg?1477658246",
+    "caption": "  ",
+    "bytes": 184886,
+    "candidate": 16
+  },
+  {
+    "file": "Ex_Of_In_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 8039,
+    "height": 10037,
+    "source_page": "https://www.archdaily.com/798326/ex-of-in-house-steven-holl-architects",
+    "image_url": "https://images.adsttc.com/media/images/5813/410d/e58e/ce67/8a00/0153/original/16-042-004A.jpg?1477656751",
+    "caption": "Ex of In House / Steven Holl Architects - Chair, Windows © Paul Warchol https://www.archdaily.com/798326/ex-of-in-house-steven-holl-architects/5813410de58ece678a000153-ex-of-in-house-steven-holl-architects-photo",
+    "bytes": 7820144,
+    "candidate": 4
+  },
+  {
+    "file": "Ex_Of_In_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 7338,
+    "height": 8407,
+    "source_page": "https://www.archdaily.com/798326/ex-of-in-house-steven-holl-architects",
+    "image_url": "https://images.adsttc.com/media/images/5813/43d9/e58e/ce96/7800/023e/original/16-042-018A.jpg?1477657487",
+    "caption": "  ",
+    "bytes": 4370519,
+    "candidate": 6
+  }
+]

@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "Fujimoto_HouseN_Master3D_Graetzer_Anna",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/House_N_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Fujimoto_HouseN_Master3D_Graetzer_Anna_0.binvox",
+      "sha256": "731311f47126d5ae7d55eab4b93975cdbc9e7ec92487be24cfa2680958cf49f0",
+      "bytes": 7601,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3226
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/House_N_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Fujimoto_HouseN_Master3D_Graetzer_Anna_120.binvox",
+      "sha256": "84c5cbfcf6226c5b8bad8d02e9abd6cf72fedb630d2177eca59c6bd1c2f751fd",
+      "bytes": 7775,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3210
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/House_N_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Fujimoto_HouseN_Master3D_Graetzer_Anna_150.binvox",
+      "sha256": "392887204400070ba45e2d34fd384c2ac208bafb326f0e7cd009373c35171ab3",
+      "bytes": 7807,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3224
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/House_N_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Fujimoto_HouseN_Master3D_Graetzer_Anna_180.binvox",
+      "sha256": "41ca3b5fbd2dd6124e5c7e0f43bc657fa23f79a562ca0792461457b72e32c2ef",
+      "bytes": 8051,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3380
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/House_N_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Fujimoto_HouseN_Master3D_Graetzer_Anna_210.binvox",
+      "sha256": "0fac91b17d0e1f5832d3e31da1953404c4fcb5fbfe127e9195a3f647cb0109f5",
+      "bytes": 7573,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3194
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/House_N_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Fujimoto_HouseN_Master3D_Graetzer_Anna_240.binvox",
+      "sha256": "6dedb3befeecc42e7c7028292ab4f81679d58b8a32400cacf3c9af932810ed5f",
+      "bytes": 8119,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3398
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/House_N_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Fujimoto_HouseN_Master3D_Graetzer_Anna_270.binvox",
+      "sha256": "4eb17da59d0b8ae1300be3c550ab582b783f3b50583f8f309f8b68f0ee1da49f",
+      "bytes": 7457,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2923
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/House_N_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Fujimoto_HouseN_Master3D_Graetzer_Anna_30.binvox",
+      "sha256": "fe2fedc640aa76d73e7f62036d9d77834c5c62fea00c089848324aa03b17fedc",
+      "bytes": 7921,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3060
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/House_N_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Fujimoto_HouseN_Master3D_Graetzer_Anna_300.binvox",
+      "sha256": "08a606bda106eb2d88438e88d8472819f74cfe0a485b560985bfe911ee72bd8a",
+      "bytes": 8401,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3551
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/House_N_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Fujimoto_HouseN_Master3D_Graetzer_Anna_330.binvox",
+      "sha256": "3a667d8998cd0f3be80251fe0c78e0c6f40730431c4fbcb20cadee947d416086",
+      "bytes": 7449,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2953
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/House_N_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Fujimoto_HouseN_Master3D_Graetzer_Anna_60.binvox",
+      "sha256": "109c6c6cf981c4e8be2bcb371b585f0c124766e15d6d6408f37224d797372bdc",
+      "bytes": 7655,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3369
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/House_N_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/Fujimoto_HouseN_Master3D_Graetzer_Anna_90.binvox",
+      "sha256": "3ffd8be621f45c89d56b6a1890e657da518fb2faee2453267b96616472f121f4",
+      "bytes": 7737,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3205
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/House_N_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/Fujimoto_HouseN_Master3D_Graetzer_Anna.binvox",
+      "sha256": "d6a985d2d5ec286781b6d3e3ebf1f1fcff88b2bde2d6eb2f30bde8b9e044a82e",
+      "bytes": 6589,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2658
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/House_N_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/Fujimoto_HouseN_Master3D_Graetzer_Anna.binvox",
+      "sha256": "a129c8c252ee64f2dd131aa6d06c2a73f6a61ef397ee16704c4ec09e5df85516",
+      "bytes": 32402,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 12885
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/House_N_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/Fujimoto_HouseN_Master3D_Graetzer_Anna.binvox",
+      "sha256": "05d2688cba9377191eb4ae1941dfd168c7687a1cfbe4f5040b4cdf9984a2af38",
+      "bytes": 184584,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 70746
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/House_N_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/Fujimoto_HouseN_Master3D_Graetzer_Anna.binvox",
+      "sha256": "62f900c4257fb7da569b0e8a5c7cb391e130687d4267a03d912ae69623ebc7da",
+      "bytes": 1528068,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 288201
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/House_N_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/Fujimoto_HouseN_Master3D_Graetzer_Anna.binvox",
+    "resolution": 128,
+    "triangles": 1018,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "ee654724de0c12166d0e25541fa417b50e53fe7af670a98494876c62493bc2ca"
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "EgzonSinani_Maison_Dordogne_Lacton",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Maison_Dordogne_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EgzonSinani_Maison_Dordogne_Lacton_0.binvox",
+      "sha256": "e1a8f98af9b40f69780a5ce96659b139e52798f0149c7f159bb0294f50fe3339",
+      "bytes": 6999,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3176
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Maison_Dordogne_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EgzonSinani_Maison_Dordogne_Lacton_120.binvox",
+      "sha256": "533efb208e511de068d8161061bee82d52c00b9fc3047f46fe13607719cf97be",
+      "bytes": 6009,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2662
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Maison_Dordogne_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EgzonSinani_Maison_Dordogne_Lacton_150.binvox",
+      "sha256": "6dae6d0fed7de8e48a19eb46346498a6fcd6d4c565ce6bae273428e29873b5a1",
+      "bytes": 5739,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2559
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Maison_Dordogne_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EgzonSinani_Maison_Dordogne_Lacton_180.binvox",
+      "sha256": "0e85644a71824f54c575466f7dec89b0e081c8cf5deecc619ae7192be66473b7",
+      "bytes": 5837,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2534
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Maison_Dordogne_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EgzonSinani_Maison_Dordogne_Lacton_210.binvox",
+      "sha256": "92b86590822c396472b2f6386f33b4d5a9bd92c4160360721ef65f90d17ba669",
+      "bytes": 5989,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2781
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Maison_Dordogne_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EgzonSinani_Maison_Dordogne_Lacton_240.binvox",
+      "sha256": "e4dd423d2d4d96a166114fb4524f9b3e34b32fb253f99e9bebcd1494beff9d8a",
+      "bytes": 5645,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2677
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Maison_Dordogne_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EgzonSinani_Maison_Dordogne_Lacton_270.binvox",
+      "sha256": "0d8fae11fa428b7da7330bf1555064d92c0b3b10ebb8c84c211895486be7f55c",
+      "bytes": 6405,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3096
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Maison_Dordogne_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EgzonSinani_Maison_Dordogne_Lacton_30.binvox",
+      "sha256": "8025b74971b395b903dd688d248b25e3d5c577ad21273e9826a68edd6a5f3842",
+      "bytes": 5545,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2387
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Maison_Dordogne_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EgzonSinani_Maison_Dordogne_Lacton_300.binvox",
+      "sha256": "947921d2cdbed6ef89dabb4c82af56e1506a066d8ff6c13d0586297204a621aa",
+      "bytes": 5669,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2586
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Maison_Dordogne_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EgzonSinani_Maison_Dordogne_Lacton_330.binvox",
+      "sha256": "5a31646f703930e2a474449c5e9994662914c2d7ec6f4eb92b97314971fc2c71",
+      "bytes": 6795,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2971
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Maison_Dordogne_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EgzonSinani_Maison_Dordogne_Lacton_60.binvox",
+      "sha256": "d126c3d591cd8baea599c3b61348ca4b218b2347498b4229eb1d72528733ce88",
+      "bytes": 6427,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2948
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Maison_Dordogne_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/EgzonSinani_Maison_Dordogne_Lacton_90.binvox",
+      "sha256": "9a0e7299aff38a7b9412d20d43ab292a97a389100cf7c6364d9917abacf2355f",
+      "bytes": 5499,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2592
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Maison_Dordogne_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/EgzonSinani_Maison_Dordogne_Lacton.binvox",
+      "sha256": "241fec8e77c50b85c082e8d8f9b5f56e3b7bfea6224075cdb371abf18a7efa59",
+      "bytes": 5191,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2339
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Maison_Dordogne_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/EgzonSinani_Maison_Dordogne_Lacton.binvox",
+      "sha256": "0a54c76358842fc45f131ae9e529f6b71245af3e452376c49c9b1ef37abebced",
+      "bytes": 28214,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 12032
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Maison_Dordogne_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/EgzonSinani_Maison_Dordogne_Lacton.binvox",
+      "sha256": "ae9e4722b9c6352d8da9a60130e329483b726083df51db3c3de430490b7469bf",
+      "bytes": 171784,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 64706
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Maison_Dordogne_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/EgzonSinani_Maison_Dordogne_Lacton.binvox",
+      "sha256": "ac05b3e5aef2c983685130ba71221dc7c3e614b8b166b579469cb601ab7919b5",
+      "bytes": 1473588,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 317780
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Maison_Dordogne_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/EgzonSinani_Maison_Dordogne_Lacton.binvox",
+    "resolution": 128,
+    "triangles": 1152,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "ff86438aca116403fa08a636b0ace7a1abd52594f750e4867f3e17673b27e1dc"
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "AlvarAlto_MaisonLouiseCarre_MathiasBank_3dmodel",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Maison_Louise_Carre_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AlvarAlto_MaisonLouiseCarre_MathiasBank_3dmodel_0.binvox",
+      "sha256": "8d137f7dd5321edf95b9df37ef527ad4cc1c9666bdc484cba12a1e1a522bf2d5",
+      "bytes": 12577,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7702
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Maison_Louise_Carre_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AlvarAlto_MaisonLouiseCarre_MathiasBank_3dmodel_120.binvox",
+      "sha256": "87dad6accb617626af215cb43840bd70926478f886bdfbbdbde611f9a61a12c9",
+      "bytes": 13155,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8268
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Maison_Louise_Carre_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AlvarAlto_MaisonLouiseCarre_MathiasBank_3dmodel_150.binvox",
+      "sha256": "e47b8028ccc4b9c031cdb656726799e702c5c3d657177cc5bda157fd047abb49",
+      "bytes": 12457,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7699
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Maison_Louise_Carre_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AlvarAlto_MaisonLouiseCarre_MathiasBank_3dmodel_180.binvox",
+      "sha256": "2451cd359eb9cda8667dcee5adfb5ccec1c17843db850de73decf6969eca5e8b",
+      "bytes": 13065,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8228
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Maison_Louise_Carre_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AlvarAlto_MaisonLouiseCarre_MathiasBank_3dmodel_210.binvox",
+      "sha256": "5565f844c71f4c7eea8227b7b445849366fde67231c4333338833e81110c2f4f",
+      "bytes": 12203,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7640
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Maison_Louise_Carre_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AlvarAlto_MaisonLouiseCarre_MathiasBank_3dmodel_240.binvox",
+      "sha256": "d9d12e235a87fa896f89ad839896d022e08eee7c20cc5db811f51c4b9f6dec76",
+      "bytes": 13115,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8462
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Maison_Louise_Carre_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AlvarAlto_MaisonLouiseCarre_MathiasBank_3dmodel_270.binvox",
+      "sha256": "6783c3c7de03d3114c973e44ee2ed7b3f504c3a09652981c5a81ff71bc825f96",
+      "bytes": 12173,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7871
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Maison_Louise_Carre_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AlvarAlto_MaisonLouiseCarre_MathiasBank_3dmodel_30.binvox",
+      "sha256": "2d6fb71b0bbf486569eec18d717ee2d61b0f5fca16661f93b582cfd24e1b24d6",
+      "bytes": 12583,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7962
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Maison_Louise_Carre_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AlvarAlto_MaisonLouiseCarre_MathiasBank_3dmodel_300.binvox",
+      "sha256": "e75ec697312f5fff08e163b36ada8f8d63be4136e05bf18d173538ab47c380ee",
+      "bytes": 13149,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8157
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Maison_Louise_Carre_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AlvarAlto_MaisonLouiseCarre_MathiasBank_3dmodel_330.binvox",
+      "sha256": "0d729102330eb0e169de9441844605517b5611b9cf4151051429c83c753128a0",
+      "bytes": 12755,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7927
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Maison_Louise_Carre_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AlvarAlto_MaisonLouiseCarre_MathiasBank_3dmodel_60.binvox",
+      "sha256": "3e540b8c72ddc7d54606b99e52896d46bb03f15e2c69b996e50a3391b2c77bed",
+      "bytes": 12891,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8002
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Maison_Louise_Carre_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AlvarAlto_MaisonLouiseCarre_MathiasBank_3dmodel_90.binvox",
+      "sha256": "2861a9a18acdf5f32aa7134324cedce91baea9f8db8e8beddd8ff63f78e60b7a",
+      "bytes": 12699,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 8229
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Maison_Louise_Carre_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/AlvarAlto_MaisonLouiseCarre_MathiasBank_3dmodel.binvox",
+      "sha256": "a36b9e0bf9b195a46ea5eb5ea06720bea0849da86c1025c5fa1952b55e55bdb2",
+      "bytes": 11103,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 7033
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Maison_Louise_Carre_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/AlvarAlto_MaisonLouiseCarre_MathiasBank_3dmodel.binvox",
+      "sha256": "3c01d56e285e9b67f5c91302cbacab0cfcc67ff07a29c333b7d95bfc05435650",
+      "bytes": 53626,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 39594
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Maison_Louise_Carre_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/AlvarAlto_MaisonLouiseCarre_MathiasBank_3dmodel.binvox",
+      "sha256": "6bb3f3084000101c98641ce872a4ad86180251ae7c0a9b7b0c89c6bb7b2878a9",
+      "bytes": 364834,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 180525
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Maison_Louise_Carre_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/AlvarAlto_MaisonLouiseCarre_MathiasBank_3dmodel.binvox",
+      "sha256": "2ca23c8913c8020bb405d383b12eba7d23ad492555d585dde88896c91ac6574f",
+      "bytes": 2105606,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 832040
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Maison_Louise_Carre_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/AlvarAlto_MaisonLouiseCarre_MathiasBank_3dmodel.binvox",
+    "resolution": 128,
+    "triangles": 3318,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "907a85b26db61c9c7d2396f3841e09218d0b4b727ac1cede3c2556253be4613f"
+  }
+}

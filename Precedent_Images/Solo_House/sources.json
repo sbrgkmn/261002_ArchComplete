@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Solo_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 2362,
+    "height": 1890,
+    "source_page": "https://www.archdaily.com/871588/solo-house-office-kgdvs",
+    "image_url": "https://images.adsttc.com/media/images/591c/db7f/e58e/ce74/b800/00ce/original/BP_OFFICE_KGDVS_SOLO_1_SRGB_WEB_.jpg?1495063413",
+    "caption": "  ",
+    "bytes": 1643433,
+    "candidate": 1
+  },
+  {
+    "file": "Solo_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 3150,
+    "height": 1791,
+    "source_page": "https://www.archdaily.com/871588/solo-house-office-kgdvs",
+    "image_url": "https://images.adsttc.com/media/images/591c/dc43/e58e/ce43/3e00/013f/original/BP_OFFICE_KGDVS_SOLO_4_SRGB_WEB.jpg?1495063607",
+    "caption": "  ",
+    "bytes": 2868978,
+    "candidate": 6
+  },
+  {
+    "file": "Solo_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 2362,
+    "height": 1776,
+    "source_page": "https://www.archdaily.com/871588/solo-house-office-kgdvs",
+    "image_url": "https://images.adsttc.com/media/images/591c/dbf5/e58e/ce74/b800/00d1/original/BP_OFFICE_KGDVS_SOLO_3_SRGB_WEB.jpg?1495063531",
+    "caption": "  ",
+    "bytes": 1582394,
+    "candidate": 14
+  },
+  {
+    "file": "Solo_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 1646,
+    "height": 1416,
+    "source_page": "https://www.archdaily.com/871588/solo-house-office-kgdvs",
+    "image_url": "https://images.adsttc.com/media/images/591c/db88/e58e/ce43/3e00/013d/large_jpg/office130-press_kit_3.jpg?1495063426",
+    "caption": "  ",
+    "bytes": 92934,
+    "candidate": 19
+  },
+  {
+    "file": "Solo_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1821,
+    "height": 2362,
+    "source_page": "https://www.archdaily.com/871588/solo-house-office-kgdvs",
+    "image_url": "https://images.adsttc.com/media/images/591c/dcf0/e58e/ce74/b800/00d9/large_jpg/BP_OFFICE_KGDVS_SOLO_10_SRGB_WEB.jpg?1495063783",
+    "caption": "Solo House / OFFICE Kersten Geers David Van Severen - Image 2 of 20 © Bas Princen https://www.archdaily.com/871588/solo-house-office-kgdvs/591cdcf0e58ece74b80000d9-solo-house-office-kgdvs-photo",
+    "bytes": 1029394,
+    "candidate": 2
+  },
+  {
+    "file": "Solo_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 2362,
+    "height": 1891,
+    "source_page": "https://www.archdaily.com/871588/solo-house-office-kgdvs",
+    "image_url": "https://images.adsttc.com/media/images/591c/dcd2/e58e/ce43/3e00/0142/original/BP_OFFICE_KGDVS_SOLO_8_SRGB_WEB.jpg?1495063752",
+    "caption": "  ",
+    "bytes": 1402034,
+    "candidate": 10
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "file": "Maison_Dordogne_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1024,
+    "height": 822,
+    "source_page": "https://www.lacatonvassal.com/index.php?idp=17",
+    "image_url": "https://www.lacatonvassal.com/data/images/full/20130513-175249-z510.jpg",
+    "caption": "  ",
+    "bytes": 1119314,
+    "candidate": 4
+  },
+  {
+    "file": "Maison_Dordogne_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1024,
+    "height": 724,
+    "source_page": "https://www.lacatonvassal.com/index.php?idp=17",
+    "image_url": "https://www.lacatonvassal.com/data/images/full/20130513-175426-z537.jpg",
+    "caption": "  ",
+    "bytes": 905375,
+    "candidate": 6
+  },
+  {
+    "file": "Maison_Dordogne_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1024,
+    "height": 820,
+    "source_page": "https://www.lacatonvassal.com/index.php?idp=17",
+    "image_url": "https://www.lacatonvassal.com/data/images/full/20130513-175510-z452.jpg",
+    "caption": "  ",
+    "bytes": 886506,
+    "candidate": 7
+  },
+  {
+    "file": "Maison_Dordogne_Floor_Plan_01.png",
+    "view_type": "Floor_Plan",
+    "width": 1024,
+    "height": 803,
+    "source_page": "https://www.lacatonvassal.com/index.php?idp=17",
+    "image_url": "https://www.lacatonvassal.com/data/images/full/20080419-215728-z643.png",
+    "caption": "  ",
+    "bytes": 116738,
+    "candidate": 15
+  },
+  {
+    "file": "Maison_Dordogne_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1024,
+    "height": 817,
+    "source_page": "https://www.lacatonvassal.com/index.php?idp=17",
+    "image_url": "https://www.lacatonvassal.com/data/images/full/20130513-175959-z303.jpg",
+    "caption": "  ",
+    "bytes": 963400,
+    "candidate": 10
+  },
+  {
+    "file": "Maison_Dordogne_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 1024,
+    "height": 807,
+    "source_page": "https://www.lacatonvassal.com/index.php?idp=17",
+    "image_url": "https://www.lacatonvassal.com/data/images/full/20130513-180223-z660.jpg",
+    "caption": "  ",
+    "bytes": 813641,
+    "candidate": 12
+  }
+]

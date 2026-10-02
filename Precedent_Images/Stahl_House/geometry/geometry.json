@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "PierreKoenig_Stahlhouse_Group4_no_glass",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Stahl_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_Stahlhouse_Group4_no_glass_0.binvox",
+      "sha256": "4226af3ad3b18ed50ed9a7960a2889981f2d04b846a34c33c5c70b228fea90d0",
+      "bytes": 14101,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6333
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Stahl_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_Stahlhouse_Group4_no_glass_120.binvox",
+      "sha256": "a57d8fc69ed512a4cb697b101d05c2927823b0a3950333654582a2be50bfc20c",
+      "bytes": 14401,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6694
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Stahl_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_Stahlhouse_Group4_no_glass_150.binvox",
+      "sha256": "a8e8d71331f9de06474e4b376f7c9aa681b01f5482dab52196ce475486296447",
+      "bytes": 14863,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6910
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Stahl_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_Stahlhouse_Group4_no_glass_180.binvox",
+      "sha256": "8e51b88516136d86606e8f7bc999e31ecb4996701e7a831dc9e89a660ecb6fd1",
+      "bytes": 14533,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6872
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Stahl_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_Stahlhouse_Group4_no_glass_210.binvox",
+      "sha256": "801d55c9b69009bcd9ec5c24389aeb52be2abf46f8c092e2f14ecaca765fabbe",
+      "bytes": 13629,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6279
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Stahl_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_Stahlhouse_Group4_no_glass_240.binvox",
+      "sha256": "835ebcf84a1c527262e2c65eeb772060b5002308d978f8d75033697d7c4c1c23",
+      "bytes": 14557,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6571
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Stahl_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_Stahlhouse_Group4_no_glass_270.binvox",
+      "sha256": "1834221841de5c173a392656d811e99d2170a3feae61968a4120f0147f534651",
+      "bytes": 13823,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6288
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Stahl_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_Stahlhouse_Group4_no_glass_30.binvox",
+      "sha256": "726ac7f796bcbb7bff9e1a505fe60decb4c157720914263149df6cfe62e3e919",
+      "bytes": 14069,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6384
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Stahl_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_Stahlhouse_Group4_no_glass_300.binvox",
+      "sha256": "4a80793b0236019842954911592b14df1afe156fea0a6198717aa4581839dd0c",
+      "bytes": 14479,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6541
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Stahl_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_Stahlhouse_Group4_no_glass_330.binvox",
+      "sha256": "4f26fb8c2cd40ee6cc262480c72c7a81da6f592998ae3fac7ff54309f5b990fc",
+      "bytes": 13659,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6216
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Stahl_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_Stahlhouse_Group4_no_glass_60.binvox",
+      "sha256": "3d2caa1d0981fa72c5d9a6dc06f7daccf752715b6ff9cb41d7c22da9bfe0928d",
+      "bytes": 14299,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6563
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Stahl_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/PierreKoenig_Stahlhouse_Group4_no_glass_90.binvox",
+      "sha256": "4aaa26d9b815dc0962a4ef7be4f1547ce2d3cb83d35a8eb4b9de2e8aeed07819",
+      "bytes": 14103,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 6540
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Stahl_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/PierreKoenig_Stahlhouse_Group4_no_glass.binvox",
+      "sha256": "1ab843f225bb01aec8b4c85842454193bf1b01463551d19c3044ef45708a62ef",
+      "bytes": 12173,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5376
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Stahl_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/PierreKoenig_Stahlhouse_Group4_no_glass.binvox",
+      "sha256": "7d531e7e8bbf012e7afd361ce60110b555094ef44adaee224491d78fa0bdc3b2",
+      "bytes": 57482,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 22294
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Stahl_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/PierreKoenig_Stahlhouse_Group4_no_glass.binvox",
+      "sha256": "855507fd01f4358c764f83da51031ee726a22f8491ca9e3d94a60fb4c808970d",
+      "bytes": 289982,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 97259
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Stahl_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/PierreKoenig_Stahlhouse_Group4_no_glass.binvox",
+      "sha256": "c5d49ba92e596aa7739da2bbd68f4214535ac86d35f901540a5249867c683989",
+      "bytes": 1889452,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 471031
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Stahl_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/PierreKoenig_Stahlhouse_Group4_no_glass.binvox",
+    "resolution": 128,
+    "triangles": 1568,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "c08a86eb5358770984136608f03472eb79ad0bbcfab42bb272a81f1d04ff93d0"
+  }
+}

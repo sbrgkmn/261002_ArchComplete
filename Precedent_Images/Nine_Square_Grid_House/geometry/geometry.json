@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "ShigeruBanArchitects_NineSquareGridHouse_Master3D_Krabacher_Aline",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Nine_Square_Grid_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBanArchitects_NineSquareGridHouse_Master3D_Krabacher_Aline_0.binvox",
+      "sha256": "fc2ff37a44efcc17790215877dd9032e626a24ed27ab6bb868239ee25e124719",
+      "bytes": 4801,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1630
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Nine_Square_Grid_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBanArchitects_NineSquareGridHouse_Master3D_Krabacher_Aline_120.binvox",
+      "sha256": "d3f55f19bb8ed424e7408e518f9e6fd553732b7c8f5ca1711691e18db1250145",
+      "bytes": 4851,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1707
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Nine_Square_Grid_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBanArchitects_NineSquareGridHouse_Master3D_Krabacher_Aline_150.binvox",
+      "sha256": "e37dea433bba0e75c225b17bf19b4ffc603fcf605be1fa4dd2b4dc15d08c0794",
+      "bytes": 4575,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1608
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Nine_Square_Grid_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBanArchitects_NineSquareGridHouse_Master3D_Krabacher_Aline_180.binvox",
+      "sha256": "9bc0304d27c9f5fed2f291cf4c8322d71b3f655c08c8565314f0427deb1d4ecb",
+      "bytes": 4855,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1660
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Nine_Square_Grid_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBanArchitects_NineSquareGridHouse_Master3D_Krabacher_Aline_210.binvox",
+      "sha256": "5eded441347289f407082c2b1ed2cd5e5a8d4a81db02140ff5c5bd7ce28283e5",
+      "bytes": 4785,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1509
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Nine_Square_Grid_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBanArchitects_NineSquareGridHouse_Master3D_Krabacher_Aline_240.binvox",
+      "sha256": "3f1183f884738722702f585e8c5ef23a4c2ce4d6dfb17bffab1333a39d825c5d",
+      "bytes": 4963,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1713
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Nine_Square_Grid_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBanArchitects_NineSquareGridHouse_Master3D_Krabacher_Aline_270.binvox",
+      "sha256": "97e17efdcc9e8d4b954cbdb854b8b5c5c26b7c4604b44128febc859a372604c7",
+      "bytes": 4759,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1538
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Nine_Square_Grid_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBanArchitects_NineSquareGridHouse_Master3D_Krabacher_Aline_30.binvox",
+      "sha256": "d4a6888f5ec60461d415ac032e88796e2801fb06eca73c98d94641e541db725f",
+      "bytes": 4561,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1593
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Nine_Square_Grid_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBanArchitects_NineSquareGridHouse_Master3D_Krabacher_Aline_300.binvox",
+      "sha256": "f7598fb57b54d1f61b6605a494d4b367e7de61039542b0238c50b1adc5b0a26f",
+      "bytes": 4739,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1738
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Nine_Square_Grid_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBanArchitects_NineSquareGridHouse_Master3D_Krabacher_Aline_330.binvox",
+      "sha256": "1a99b76c4be5e111d0d2ca019019df7f2e524a3ca6b7e088c5e7214ccd79be6c",
+      "bytes": 4771,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1571
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Nine_Square_Grid_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBanArchitects_NineSquareGridHouse_Master3D_Krabacher_Aline_60.binvox",
+      "sha256": "021424275e6809bd22f9d1d568b5558ae6e742a58ef7bebf2645e5a3c64979ad",
+      "bytes": 4813,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1688
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Nine_Square_Grid_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ShigeruBanArchitects_NineSquareGridHouse_Master3D_Krabacher_Aline_90.binvox",
+      "sha256": "d3fb6829df630a2b3ae453de9459595ea055328634b9a4d039f992373df3bb4a",
+      "bytes": 4739,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1655
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Nine_Square_Grid_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/ShigeruBanArchitects_NineSquareGridHouse_Master3D_Krabacher_Aline.binvox",
+      "sha256": "8fa995c74fe5bb6d45e67735399eacf7992c3d3f7eac284ba01f5c39ec0c480b",
+      "bytes": 4035,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1286
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Nine_Square_Grid_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/ShigeruBanArchitects_NineSquareGridHouse_Master3D_Krabacher_Aline.binvox",
+      "sha256": "993d0fb526d0b53ab50960ecd2515c83bdba721c3c50fe1956e715d8f7403437",
+      "bytes": 23826,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5845
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Nine_Square_Grid_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/ShigeruBanArchitects_NineSquareGridHouse_Master3D_Krabacher_Aline.binvox",
+      "sha256": "6034898e1ffe9edcfca2cd9f660d21f25fa215d9398bbacd2fd134f8f518b803",
+      "bytes": 176692,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 26722
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Nine_Square_Grid_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/ShigeruBanArchitects_NineSquareGridHouse_Master3D_Krabacher_Aline.binvox",
+      "sha256": "12c4e408f5ea483552bc22c440cbf40fc066bbc0eb8a8335778112d055400276",
+      "bytes": 1238398,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 132695
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Nine_Square_Grid_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/ShigeruBanArchitects_NineSquareGridHouse_Master3D_Krabacher_Aline.binvox",
+    "resolution": 128,
+    "triangles": 796,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "cc7d31b921568496b001c0ca39a6a9e8772390d588918122f1ce6b7d7b4ebce7"
+  }
+}

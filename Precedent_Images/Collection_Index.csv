@@ -1,0 +1,99 @@
+﻿number,building,dataset_identifier,folder,images,exterior_views,interior_views,floor_plan_images,images_under_1000px,coverage,notes
+1,128 House,Herzog_de_Meuron_128_House_3Dmodel_Raphael_Pertl,128_House,6,3,2,1,3,View counts met,"Published as Rudin House, also HdM project 128, Leymen."
+2,Alhamra Villa,AtelierKoe_AlhamraVilla_Master3D_Group2,Alhamra_Villa,4,2,1,1,1,View counts met,
+3,Antivilla,ArnoBrandlhuber_Antivilla_Master3D_Group1,Antivilla,6,2,2,2,0,View counts met,
+4,Bahia Azul House,CeciliaPuga_BahiaAzulHouse_model_TimCarl,Bahia_Azul_House,6,3,2,1,1,View counts met,"Cecilia Puga project, not the similarly named Felipe Assadi house."
+5,Bailey House,PierreKoenig_BaileyHouse_Master3D_Group3,Bailey_House,5,3,1,1,0,View counts met,Pierre Koenig Bailey House (Case Study House 21).
+6,Boomer Residence,FrankLloydWright_BoomerResidence_Master3D_Wasle_Alexander,Boomer_Residence,6,3,2,1,1,View counts met,
+7,Brant House,robertventuri_branthouse_model_BartlomiejGralek_new_no_glass,Brant_House,6,3,2,1,0,View counts met,"Brant House in Greenwich, Connecticut; not the Bermuda project."
+8,Brick Vault House,SpacePopular_BRICK_VAULT_HOUSE_Master3D_Thomas_Eder,Brick_Vault_House,8,3,2,3,0,View counts met,
+9,Care House of the Wind Chinmey,HiroshiNakamura_NAP_CareHouseOfTheWindChinmey_Master3D_Group11,Care_House_of_the_Wind_Chinmey,7,3,2,2,0,View counts met,Published as House of the Wind Chimneys by Hiroshi Nakamura & NAP.
+10,Casa das Canoas,OscarNiemeyer_CasaDasCanoas_Master3D_Group1,Casa_das_Canoas,7,3,2,2,5,View counts met,
+11,Casa en Djerba,Machado_Casaendjerba_model_GroupNumber,Casa_en_Djerba,4,3,0,1,2,Gaps: interior view,Unbuilt Machado and Silvetti project in Djerba. Exterior models/drawings and archival floor plans; no verified interior view found.
+12,Casa Luís Barragan,LuísBarragan_CasaLuísBarragan_model_Group5_no_glass,Casa_Luis_Barragan,8,3,2,3,2,View counts met,
+13,Chiswick House,RichardBoyle_ChiswickHouse_Master3D_Prem_Carina,Chiswick_House,5,2,2,1,2,View counts met,Historic Chiswick House. Archival drawings may represent a historic configuration.
+14,Container House,Mans_Tham_containerhouse_model_group11_no_glass,Container_House,6,3,2,1,0,View counts met,
+15,Cornered House,PrestonScott__CorneredHouse_Master3D_Pegger_Justus,Cornered_House,7,3,2,2,0,View counts met; includes representations,Unbuilt Preston Scott Cohen project. Renderings and models are labelled.
+16,Double House,Mvrdv_Double_House_Jakob_Valis,Double_House,5,2,2,1,1,View counts met,Floor plans include a student analytical drawing; see the source page.
+17,Eames House,Charles_RayEames_eameshouse_Master3D_markar_annegret,Eames_House,6,3,2,1,3,View counts met,
+18,Elrod House,JohnLautner_ElrodHouse_Master3D_Zeller_Nathalie,Elrod_House,8,3,2,3,5,View counts met,
+19,Ennis House,FrankLloydWright_EnnisHouse_Master3D_Meier_Lynn,Ennis_House,6,3,2,1,5,View counts met,
+20,Ex-Of-In House,StevenHollArchitects_Ex-Of-In-House_Master3D_Mayerhoffer_Carola,Ex_Of_In_House,7,3,2,2,0,View counts met,
+21,Fallingwater,FrankLloydWright_FallingWater_Master3D_Group1,Fallingwater,9,3,2,4,1,View counts met,
+22,Farnsworth House,LudwigMiesvanderRohe_FarnsworthHouse_Master3D_Ripp_Florence,Farnsworth_House,7,3,2,2,0,View counts met,
+23,Fisher Building,LouisKhan_FisherBuilding_Master3D_Rajkovic_Vladimir,Fisher_Building,8,3,2,3,1,View counts met,Dataset calls this Fisher Building; the precedent is Louis Kahn’s Fisher House.
+24,Garden House,ContainerDesign_gardenhouse_model_group01_no_glass,Garden_House,6,3,2,1,0,View counts met,
+25,Giovannitti House,richardmeier_giovannittihouse_Master3D_tollinger_katharina,Giovannitti_House,7,3,1,3,2,View counts met,
+26,Glass House (Lina Bo Bardi),LinaBoBardi_GlassHouse_Master3D_Group3,Glass_House_Lina_Bo_Bardi,8,3,2,3,1,View counts met,
+27,Glass House (Philip Johnson),PhilipJohnson_GlassHouse_GamonSamuel,Glass_House_Philip_Johnson,6,3,2,1,0,View counts met,
+28,Goldstein Residence,JohnLautner_GoldsteinResidence_Master3D_Wöhrle_Emily,Goldstein_Residence,7,3,2,2,2,View counts met,"Sheats-Goldstein Residence; photos show the house, not the newer entertainment annex."
+29,Gropius House,WalterGropius_GropiusHouse_Master3D_Group08,Gropius_House,6,3,2,1,1,View counts met,
+30,Hare House,TomWiscombe_HareHouse_Master3D_Group11,Hare_House,4,2,0,2,0,Gaps: interior view,Tom Wiscombe project documented at design-development stage. Exterior renderings and floor plans; no verified interior view found.
+31,Haus Schröder,GerritRietveld_HausSchröder_Master3D_Blanc-Massit_Larissa,Haus_Schroder,6,3,2,1,4,View counts met,
+32,Herning School Center,JørnUtzon_HerningSchoolCenter_Master3D_Fornwagner_Samuel,Herning_School_Center,8,3,2,3,0,View counts met,Herning School Center prototype by Jørn Utzon; the dataset model represents the prototype building.
+33,House at Mols Hills,LenschowPihlmann_HouseAtMolsHills_Master3D_Plattner_Stefanie,House_at_Mols_Hills,6,3,2,1,0,View counts met,
+34,House for a Young Couple in Tokyo,YunijiaIshigami_House_for_a_young_couple_in_Tokyo_3dmodel_van_Koll_Marvin,House_for_a_Young_Couple_in_Tokyo,5,1,2,2,5,Gaps: 1 additional exterior view,Published as House with Plants by Junya Ishigami. Only one verified exterior photograph found.
+35,House II,PeterEisenman_HouseII_model_SebastianTaudes_no_glass,House_II,6,3,1,2,3,View counts met; includes representations,Interior drawing is a secondary/student representation; see sources.
+36,House N,Fujimoto_HouseN_Master3D_Graetzer_Anna,House_N,6,3,2,1,5,View counts met,
+37,House N10,MOS_Architects_House_N10_Harun_Özmen,House_N10,6,3,2,1,0,View counts met,
+38,House NA,SaoFuijmoto_HouseNA_Master3D_Group10,House_NA,5,2,2,1,4,View counts met,
+39,House of Concrete Experiments,SamiraRathod_House-of-Concrete-Experiments_model_group2_no_glass,House_of_Concrete_Experiments,7,3,2,2,0,View counts met,
+40,House VI,Peter_Eisenman_House_VI_Master_3D_Dogan_Gamze,House_VI,7,2,2,3,7,View counts met,
+41,House with One Wall,ChristianKerez_housewithonewall_model_MichaelKofler,House_with_One_Wall,8,3,2,3,0,View counts met,
+42,Jacob House,FrankLloydWright_JacobHouse_Master3D_Salzer_Moritz,Jacob_House,7,3,2,2,3,View counts met,Dataset Jacob House refers to the first Herbert Jacobs House.
+43,Juul House,NKSarchitects_juulhouse_Master3D_Group07,Juul_House,6,3,2,1,1,View counts met,
+44,La Rotonda,AndreaPalladio_LaRotonda_Master3D_Hatches_Ferstl_Hanna,La_Rotonda,6,3,2,1,1,View counts met,
+45,Leo Henriksen House,ArneJacobsen_LeoHenriksenHouse_Master3D_LeopoldPretzel,Leo_Henriksen_House,5,3,1,1,5,View counts met,
+46,Lotus House,Kengo_Kuma_Lotus_House_Master3D_Group04,Lotus_House,6,3,2,1,1,View counts met,
+47,Lovell House,Neutra_Richard_Lovellhouse_Master3D_Group5,Lovell_House,9,3,2,4,0,View counts met,
+48,Lowell Beach House,RudolfSchindler_LowellBeachHouse_Master3D_Group11,Lowell_Beach_House,8,3,2,3,4,View counts met,Dataset Lowell Beach refers to R. M. Schindler’s Lovell Beach House.
+49,Maison à Bordeaux,RemKoolhaas_MaisonABordeaux_Master3D_Rüscher_Bernhard,Maison_a_Bordeaux,8,3,2,3,0,View counts met,
+50,Maison D’artiste,Doesburg_MaisonD’artiste_Master3D__Stofft_Leon,Maison_Dartiste,5,3,0,2,3,Gaps: interior view,Unbuilt 1923 Maison d’Artiste by Theo van Doesburg and Cornelis van Eesteren. Exterior model photographs and original plans; no verified interior view found. Distinct from Maison Particulière and the Meudon studio.
+51,Maison Dordogne,EgzonSinani_Maison_Dordogne_Lacton,Maison_Dordogne,6,3,2,1,0,View counts met,Lacaton & Vassal Maison Dordogne; the dataset identifier includes a model author.
+52,Maison Louise Carre,AlvarAlto_MaisonLouiseCarre_MathiasBank_3dmodel,Maison_Louise_Carre,6,3,2,1,1,View counts met,Published as Maison Louis Carré by Alvar Aalto.
+53,Meisterhaus,WalterGropius_Meisterhaus_model_group12_no_glass,Meisterhaus,6,3,2,1,0,View counts met,Dataset voxel silhouette indicates the double-house type of the Dessau Masters’ Houses. Muche-Schlemmer is used as the documented reference for this type; the particular double house is not identified by the dataset name. Interior photos show the 2024 Gracious Hosts installation.
+54,Melnikov House,Melnikov_Melnikovhouse_Master3D_Ganders_JanTjado,Melnikov_House,6,3,2,1,3,View counts met,
+55,Meteorite Cabin,Kivi_sotamaa_Meteorite_Cabin_Mirco_Fallert,Meteorite_Cabin,8,3,2,3,0,View counts met,
+56,Minas House,MaCH_Arquitectos_Minas_house_model_Group2_no_glass,Minas_House,6,3,2,1,0,View counts met,"MACh Arquitetos Minas House, not Studio MK27’s similarly named project."
+57,Moore House,charlesmoore_moorehouse_master3D_bliem_barbara,Moore_House,4,2,1,1,2,View counts met,
+58,Moriyama House,Ryue_Nishizawa_MoriyamaHouse_cecileArent,Moriyama_House,7,3,2,2,0,View counts met,
+59,Muuratsalo Experimental House,AlvarAalto_MuuratsaloExperimentalHouse_Master3D_Group08,Muuratsalo_Experimental_House,6,3,2,1,0,View counts met,
+60,Naked House,ShigeruBan_NakedHouse_Master3D_Pauline_Heil,Naked_House,5,2,2,1,0,View counts met,
+61,Narrow Brick House,Srijit_Srinivas_Architects_Narrow_Brick_House_model_Group6_no_glass,Narrow_Brick_House,6,3,2,1,0,View counts met,
+62,Nasu Tepee,Hiroshi_Nakamura_NAP_Nasu_Tepee_Master3D_Group04,Nasu_Tepee,6,3,2,1,0,View counts met,
+63,nCaved House,Mold_Architects_nCaved_House_Florian_Bauer,nCaved_House,7,3,2,2,0,View counts met,
+64,Neuhofweg House,BeckOserArchitekten_NeuhofwegHouse_Master3D_Group2,Neuhofweg_House,8,3,2,3,0,View counts met,
+65,Nine Square Grid House,ShigeruBanArchitects_NineSquareGridHouse_Master3D_Krabacher_Aline,Nine_Square_Grid_House,5,2,2,1,4,View counts met,Open pavilion: exterior views include different sliding-wall configurations.
+66,Okurayama Apartement,KazuyoSejima_OkurayamaApartement_Master3D_Group10s,Okurayama_Apartement,6,3,2,1,2,View counts met,Dataset spells this Okurayama Apartement; published as Okurayama Apartments.
+67,Orbital House,EdwardOgosta_OrbitalHouse_Master3D_Group3,Orbital_House,6,3,2,1,0,View counts met; includes representations,Unbuilt Edward Ogosta project; renderings are labelled.
+68,Radius House,Pentagon_Radius_House_Master3D_Group04,Radius_House,6,2,2,2,0,View counts met,
+69,Rambla Climate House,Rambla_Climate_House_Niklas_Mueller,Rambla_Climate_House,6,3,2,1,0,View counts met,
+70,Robie House,FrankFloydWright_RobieHouse_Master3D_Group2,Robie_House,8,3,2,3,5,View counts met,
+71,S House,karasawa_shouse_Master3D_Group9,S_House,8,3,2,3,0,View counts met,
+72,Sagaponac House,reiser-umemoto_sagaponac-house_Master3D_weissteiner_sebastian,Sagaponac_House,7,3,2,2,2,View counts met; includes representations,Reiser + Umemoto project. Models and interior drawings are labelled. Plans reproduced on a student research blog.
+73,Schindler House,rudolphschildler_schindlerhouse_Master3D_angenend_marina,Schindler_House,7,3,2,2,2,View counts met,
+74,Schminke Haus,HansScharoun_SchminkeHaus_Master3D_Ziernhöld_Erja,Schminke_Haus,6,3,2,1,0,View counts met,
+75,Sky House,Kiyonori_Kikutake_SkyHouse_Master3D_erlacher_samuel,Sky_House,7,3,2,2,3,View counts met,
+76,Small House,Kayuyo_Sejima_Small_House_Master3D_Chan_YanTung,Small_House,8,3,2,3,3,View counts met,
+77,Smith House,RichardMeier_Smith_House_Niklas_Zeisler_no_glass,Smith_House,8,3,2,3,0,View counts met,
+78,Solo House,OfficeKerstenGeersDavidVanSeveren_SoloHouse_Master3D_Spratler_Valentin,Solo_House,6,3,2,1,0,View counts met,
+79,Stahl House,PierreKoenig_Stahlhouse_Group4_no_glass,Stahl_House,6,3,2,1,3,View counts met,
+80,The Dark Chalet,TomWiscombe_TheDarkChalet_Master3D_Group10,The_Dark_Chalet,7,3,2,2,0,View counts met,The Dark Chalet is documented as built in 2025; supplied photographs show the completed building.
+81,The Miller House,eerosaarinen_themillerhouse_Master3D_flatz_annika,The_Miller_House,6,3,2,1,0,View counts met,
+82,Toy Blocks House 1,TakefumiAida_ToyBlocksHouse1_Master3D_Knüppel_Felicitas,Toy_Blocks_House_1,6,3,2,0,6,Gaps: floor plan,"Toy Block House I, Hōfu, Yamaguchi, by Takefumi Aida. No verified floor plan found. Two interior photo panels and a courtyard view were extracted from a bookseller preview; these are limited resolution. The museum model is supplemental."
+83,Trail House,AnneHoltrop_TrailHouse_Master3D_GuyAlbertGlauner,Trail_House,6,3,2,1,0,View counts met,Trail House is an open pavilion; interior views show the covered spatial experience.
+84,Triangle House,ShigeruBan_TriangleHouse_Master3D_Prinz_Tobias,Triangle_House,7,2,2,3,4,View counts met,
+85,Vanna Venturi House,RobertVenturi_VannaVenturiHouse_model_Group09_no_glass,Vanna_Venturi_House,6,3,2,1,4,View counts met,
+86,VDL,Neutra_vdl_Fritz_Krall,VDL,12,3,2,7,0,View counts met,Neutra VDL Research House: collection includes VDL I and VDL II plans; source captions identify versions.
+87,Villa Cornaro,AndreaPalladio_VillaCornaro_Master3D_Acar_Tamer,Villa_Cornaro,6,3,2,1,1,View counts met,"Palladio Villa Cornaro at Piombino Dese, not the unrelated event venue."
+88,Villa Foscari,AndreaPalladio_VillaFoscari_Master3D_Kurz_Vanessa,Villa_Foscari,6,3,2,1,0,View counts met,
+89,Villa Glashütte,Oswald_Mathias_Ungers_VillaGlashütte_Marvin_Müller,Villa_Glashutte,7,3,2,2,4,View counts met,
+90,Villa Muller,AdolfLoos_VillaMuller_Master3D_Studer_Marvin,Villa_Muller,6,3,2,1,2,View counts met,Adolf Loos Villa Müller in Prague; not Villa Moller in Vienna.
+91,Villa Savoye,Le_Corbusier_Villa_Savoye_Master3D_Straka_Bastian,Villa_Savoye,6,3,2,1,1,View counts met,
+92,Villa Tugendhat,LudwigMiesvanderRohe_VillaTugendhat_Master3D_Eren_Kargi,Villa_Tugendhat,6,3,2,1,1,View counts met,
+93,Vitra-Haus,HdM_Vitra-Haus_group-3_no_glass,Vitra_Haus,5,2,2,1,3,View counts met,
+94,Wall House,johnhejduk_wallhouse_Master3D_Group07,Wall_House,7,3,2,2,7,View counts met,
+95,Weissenhof 14–15,lecorbusier_weissenhof14-15_Master3D_Group07,Weissenhof_1415,6,3,2,1,5,View counts met,Le Corbusier and Pierre Jeanneret Weissenhof houses 14–15.
+96,Winton Guest House,FrankGehry_WintonGuestHouse_CebrailKaraca,Winton_Guest_House,7,3,2,2,0,View counts met,
+97,Wu House,PrestonScottCohen_WuHouse_Master3D_Tappeiner_Philipp,Wu_House,5,2,2,1,0,View counts met; includes representations,Unbuilt Preston Scott Cohen Wu House; drawings and models are labelled.
+98,Y-House,StevenHoll_Y-House_Master3D_Klink_Lynn,Y_House,7,3,2,2,0,View counts met,"Floor plans are student redrawn studies, not architect-issued construction drawings."

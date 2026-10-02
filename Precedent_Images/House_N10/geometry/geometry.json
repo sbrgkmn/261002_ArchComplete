@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "MOS_Architects_House_N10_Harun_Özmen",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/House_N10_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MOS_Architects_House_N10_Harun_Özmen_0.binvox",
+      "sha256": "8cddd473a3fa99285b97fd811893483f8756ddc37e8950ac4cbcff3f4fc10d6a",
+      "bytes": 12251,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5586
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/House_N10_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MOS_Architects_House_N10_Harun_Özmen_120.binvox",
+      "sha256": "62a119a5aff6787781feab11cc1c793b3319f592f231c111e6da4942bff40c6d",
+      "bytes": 12181,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5558
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/House_N10_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MOS_Architects_House_N10_Harun_Özmen_150.binvox",
+      "sha256": "03f41b7cecc044fbec4fb3f2dc3bbc81bd793532dcb9a302bac872e8a0df77c4",
+      "bytes": 12459,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5683
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/House_N10_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MOS_Architects_House_N10_Harun_Özmen_180.binvox",
+      "sha256": "43a9f5e53a914c2741ce174c15481a5e98cb16660594137fa9b03ec155eb6f36",
+      "bytes": 12441,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5758
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/House_N10_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MOS_Architects_House_N10_Harun_Özmen_210.binvox",
+      "sha256": "08165b49787471f6663920be4324e66baf352a1b13d45f5995e87bfcb04f5384",
+      "bytes": 12165,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5479
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/House_N10_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MOS_Architects_House_N10_Harun_Özmen_240.binvox",
+      "sha256": "6e649366bd911e079f45057859442811aeb33ddfa939a6f25e270459b4a65da6",
+      "bytes": 12577,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5727
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/House_N10_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MOS_Architects_House_N10_Harun_Özmen_270.binvox",
+      "sha256": "b24016461bb7daaf5a0d9d4b0614da6f4cfdef75e1b10f6fa0ce09039b250d46",
+      "bytes": 11669,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5315
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/House_N10_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MOS_Architects_House_N10_Harun_Özmen_30.binvox",
+      "sha256": "27c36dab77b21b16f24bf0ddbf5d53ecc3a8c8755e9c2c69b4542b6b440e3c0f",
+      "bytes": 12211,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5480
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/House_N10_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MOS_Architects_House_N10_Harun_Özmen_300.binvox",
+      "sha256": "80c4bba51f3619364bf49bcdf350c3c6c2f168765c754caca7c72a5c0eb34cf8",
+      "bytes": 12721,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5489
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/House_N10_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MOS_Architects_House_N10_Harun_Özmen_330.binvox",
+      "sha256": "dd874131a827618b8beb45d227b61396ad11be594238e815b66178e96d515063",
+      "bytes": 11571,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5282
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/House_N10_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MOS_Architects_House_N10_Harun_Özmen_60.binvox",
+      "sha256": "9c0eb95a5963460b920fdc95b4c21bbf75d2fc594a648e4f0012379b9c4d920c",
+      "bytes": 12053,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5517
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/House_N10_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/MOS_Architects_House_N10_Harun_Özmen_90.binvox",
+      "sha256": "8f0add9c08b6c58df42e0fcff863c66d16b69db77cf5ce1aedab8468c750c39f",
+      "bytes": 12015,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 5366
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/House_N10_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/MOS_Architects_House_N10_Harun_Özmen.binvox",
+      "sha256": "f3b0222c2e896dc3352d8502b3ed1d57fb37e2a37a92bca8a7b4c7abb84cdc20",
+      "bytes": 10763,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4898
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/House_N10_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/MOS_Architects_House_N10_Harun_Özmen.binvox",
+      "sha256": "48737c1bd855524037ab3170b39caa21ad1b672e045f3559a705624681f32411",
+      "bytes": 49974,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 22494
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/House_N10_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/MOS_Architects_House_N10_Harun_Özmen.binvox",
+      "sha256": "5020370f9d2505189b7e7b8c177ee31e084d3e663c464768d6c12546941dbf0a",
+      "bytes": 253010,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 122348
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/House_N10_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/MOS_Architects_House_N10_Harun_Özmen.binvox",
+      "sha256": "679719809190e6597b764ca310500d17e3b5b624c753f7e509e7a9a289c972be",
+      "bytes": 1860400,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 553530
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/House_N10_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/MOS_Architects_House_N10_Harun_Özmen.binvox",
+    "resolution": 128,
+    "triangles": 5442,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "4b508514c28247d1a670c175c613b19118813ffdab546a0280a7ae127f4b9a74"
+  }
+}

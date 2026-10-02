@@ -1,0 +1,90 @@
+[
+  {
+    "file": "Meteorite_Cabin_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 8070,
+    "height": 5380,
+    "source_page": "https://www.archdaily.com/976367/meteorite-cabin-atelje-sotamaa",
+    "image_url": "https://images.adsttc.com/media/images/6201/6bc5/28b7/b501/6593/19c4/original/2020-08-29-tk-meteorite-house-nikon-0152-010.jpg?1644260385",
+    "caption": "  ",
+    "bytes": 25318275,
+    "candidate": 1
+  },
+  {
+    "file": "Meteorite_Cabin_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 1536,
+    "height": 2048,
+    "source_page": "https://www.archdaily.com/976367/meteorite-cabin-atelje-sotamaa",
+    "image_url": "https://images.adsttc.com/media/images/6201/6be2/44ba/f701/6424/bcfd/large_jpg/meteoriitti-02-sotamaa.jpg?1644260331",
+    "caption": "  ",
+    "bytes": 1287982,
+    "candidate": 8
+  },
+  {
+    "file": "Meteorite_Cabin_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 1257,
+    "height": 1900,
+    "source_page": "https://www.archdaily.com/976367/meteorite-cabin-atelje-sotamaa",
+    "image_url": "https://images.adsttc.com/media/images/6201/6bd5/44ba/f701/6424/bcf7/large_jpg/meteorite-outside35.jpg?1644260320",
+    "caption": "  ",
+    "bytes": 2147229,
+    "candidate": 9
+  },
+  {
+    "file": "Meteorite_Cabin_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 4678,
+    "height": 3308,
+    "source_page": "https://www.archdaily.com/976367/meteorite-cabin-atelje-sotamaa",
+    "image_url": "https://images.adsttc.com/media/images/6201/6ce7/44ba/f701/6424/bd03/original/meteorite-floorplan-1.jpg?1644260620",
+    "caption": "  ",
+    "bytes": 1323577,
+    "candidate": 30
+  },
+  {
+    "file": "Meteorite_Cabin_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 4678,
+    "height": 3308,
+    "source_page": "https://www.archdaily.com/976367/meteorite-cabin-atelje-sotamaa",
+    "image_url": "https://images.adsttc.com/media/images/6201/6ce6/44ba/f701/6424/bd02/original/meteorite-floorplan-2.jpg?1644260611",
+    "caption": "  ",
+    "bytes": 1186582,
+    "candidate": 31
+  },
+  {
+    "file": "Meteorite_Cabin_Floor_Plan_03.jpg",
+    "view_type": "Floor_Plan",
+    "width": 4678,
+    "height": 3308,
+    "source_page": "https://www.archdaily.com/976367/meteorite-cabin-atelje-sotamaa",
+    "image_url": "https://images.adsttc.com/media/images/6201/6ce7/28b7/b501/6593/19d2/original/meteorite-floorplans-3.jpg?1644260622",
+    "caption": "  ",
+    "bytes": 1268038,
+    "candidate": 32
+  },
+  {
+    "file": "Meteorite_Cabin_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1248,
+    "height": 1900,
+    "source_page": "https://www.archdaily.com/976367/meteorite-cabin-atelje-sotamaa",
+    "image_url": "https://images.adsttc.com/media/images/6201/6bcc/28b7/b501/6593/19c6/large_jpg/meteorite-inside-16.jpg?1644260308",
+    "caption": "  ",
+    "bytes": 1306332,
+    "candidate": 15
+  },
+  {
+    "file": "Meteorite_Cabin_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 1220,
+    "height": 1900,
+    "source_page": "https://www.archdaily.com/976367/meteorite-cabin-atelje-sotamaa",
+    "image_url": "https://images.adsttc.com/media/images/6201/6bd7/28b7/b501/6593/19cd/large_jpg/meteorite-inside-02.jpg?1644260322",
+    "caption": "  ",
+    "bytes": 1775506,
+    "candidate": 19
+  }
+]

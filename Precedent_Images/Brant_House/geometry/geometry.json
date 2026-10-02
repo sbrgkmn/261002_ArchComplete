@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "robertventuri_branthouse_model_BartlomiejGralek_new_no_glass",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Brant_House_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/robertventuri_branthouse_model_BartlomiejGralek_new_no_glass_0.binvox",
+      "sha256": "cacb84e804aebfe9afa9d2f1813815cfb90339aafbc2d7b8dfade08e75dbd32f",
+      "bytes": 8895,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3889
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Brant_House_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/robertventuri_branthouse_model_BartlomiejGralek_new_no_glass_120.binvox",
+      "sha256": "c5e6c8b26bdd8168f104f83d29c1a2b1c638c32d241f3e93c23957d43146a992",
+      "bytes": 9067,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4110
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Brant_House_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/robertventuri_branthouse_model_BartlomiejGralek_new_no_glass_150.binvox",
+      "sha256": "ad20c2e3ed563f98896039fbce5a3c2e15c4634db3a777d4f2ae9f3c472dc470",
+      "bytes": 8617,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4093
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Brant_House_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/robertventuri_branthouse_model_BartlomiejGralek_new_no_glass_180.binvox",
+      "sha256": "d3c9269252daceba8714d7ca7054d62fb0a39ca474a8ab34784b0893b355e8d6",
+      "bytes": 9415,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4147
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Brant_House_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/robertventuri_branthouse_model_BartlomiejGralek_new_no_glass_210.binvox",
+      "sha256": "93f31c9e50274a7332f5d93cb5b610cf92294dc23898bc5deb2f3b9da86fa17e",
+      "bytes": 8797,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3939
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Brant_House_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/robertventuri_branthouse_model_BartlomiejGralek_new_no_glass_240.binvox",
+      "sha256": "57d626a4f3ab9aaa4c023027102b11dba64895dcab3e4506ac68ce31eb8b8d5f",
+      "bytes": 9793,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4269
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Brant_House_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/robertventuri_branthouse_model_BartlomiejGralek_new_no_glass_270.binvox",
+      "sha256": "bba5cfbacb3c136d4aa900e899db80b18fd8226ff7d811a8d4a7a8d91dc5a0f7",
+      "bytes": 8677,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4066
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Brant_House_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/robertventuri_branthouse_model_BartlomiejGralek_new_no_glass_30.binvox",
+      "sha256": "e23e7144aec40a4c71a824187fb22f117610ca093ca786b1fe98a06f2304098c",
+      "bytes": 9319,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3883
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Brant_House_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/robertventuri_branthouse_model_BartlomiejGralek_new_no_glass_300.binvox",
+      "sha256": "23ed90135d2f9643f3249256482c1869d3d5f8a4b8587f46d05a98eebd50de96",
+      "bytes": 10123,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 4095
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Brant_House_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/robertventuri_branthouse_model_BartlomiejGralek_new_no_glass_330.binvox",
+      "sha256": "3fb2fcaf08f2495f1e33e0aeaf6b109463b279dedb13634f6cf05386fe7006d9",
+      "bytes": 8903,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3914
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Brant_House_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/robertventuri_branthouse_model_BartlomiejGralek_new_no_glass_60.binvox",
+      "sha256": "1b56821a6fc643938735dacaad8d8e3ab3cc155b7314f2f476f164c77d3deb88",
+      "bytes": 9253,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3928
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Brant_House_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/robertventuri_branthouse_model_BartlomiejGralek_new_no_glass_90.binvox",
+      "sha256": "07f960c86f8a8eac89bf09c2cbcce0d9a841c80f372448252e3a248a9520422e",
+      "bytes": 9071,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3899
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Brant_House_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/robertventuri_branthouse_model_BartlomiejGralek_new_no_glass.binvox",
+      "sha256": "7cb6b9814a591923d918add630ec295e0f06acff6b1f4e14b99c60de4b99a3eb",
+      "bytes": 7671,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3269
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Brant_House_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/robertventuri_branthouse_model_BartlomiejGralek_new_no_glass.binvox",
+      "sha256": "31fc32aa48211eed3b53cfee7f092813d5ab336571f6a194d7ca99defd66c2c2",
+      "bytes": 38428,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 16678
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Brant_House_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/robertventuri_branthouse_model_BartlomiejGralek_new_no_glass.binvox",
+      "sha256": "d8e0683b1407d7a65cd1e83ec91206e04097b2b11342c55bf07f50e371144ce2",
+      "bytes": 239108,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 89383
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Brant_House_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/robertventuri_branthouse_model_BartlomiejGralek_new_no_glass.binvox",
+      "sha256": "00c8348708c2bb0376c8ca635e5dce108ea0d08f9f7a05c0a6e5139aa1cb2157",
+      "bytes": 1735164,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 382472
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Brant_House_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/robertventuri_branthouse_model_BartlomiejGralek_new_no_glass.binvox",
+    "resolution": 128,
+    "triangles": 1494,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "cf1ec2accc0b9eb86fb4d06b9c7264e2a98285b69de9537704e79a24d61731b4"
+  }
+}

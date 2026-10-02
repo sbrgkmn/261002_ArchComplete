@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "AndreaPalladio_VillaCornaro_Master3D_Acar_Tamer",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Villa_Cornaro_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaCornaro_Master3D_Acar_Tamer_0.binvox",
+      "sha256": "f6bee82db265dce8f7050496bf72d4c7ed1fd09ada723f0996c46b9c578a70d8",
+      "bytes": 23281,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 16417
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Villa_Cornaro_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaCornaro_Master3D_Acar_Tamer_120.binvox",
+      "sha256": "a1aa93de10c08866208058c603bb1cd08f1a81cb353e0bdd41f2c708611ff0a6",
+      "bytes": 23519,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 17225
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Villa_Cornaro_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaCornaro_Master3D_Acar_Tamer_150.binvox",
+      "sha256": "438765ed60e95410c95e29e4867e11ebe0bf01a7aa35a8f023215d739b180f2c",
+      "bytes": 23317,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 16318
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Villa_Cornaro_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaCornaro_Master3D_Acar_Tamer_180.binvox",
+      "sha256": "d1fab1d1d3e4c13e29d3ecf3d7f61f10a9608166cf83a90e2d13b28c54191b08",
+      "bytes": 24093,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 17490
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Villa_Cornaro_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaCornaro_Master3D_Acar_Tamer_210.binvox",
+      "sha256": "c7583f28ca17edeab4ba89a5bff962b5da4722b2024dc43d2978882a623399b0",
+      "bytes": 22719,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 16331
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Villa_Cornaro_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaCornaro_Master3D_Acar_Tamer_240.binvox",
+      "sha256": "bd33d9ae7e8bbf7b0572223113d5698cc7a67da731be30cb994306d7141cc530",
+      "bytes": 24407,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 17201
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Villa_Cornaro_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaCornaro_Master3D_Acar_Tamer_270.binvox",
+      "sha256": "047f34c9c1c172deab297a53e34c227fe0243dad725f4880ce93c235fa0f9982",
+      "bytes": 23501,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 15834
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Villa_Cornaro_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaCornaro_Master3D_Acar_Tamer_30.binvox",
+      "sha256": "7105b045f002656a2633dd331826c427d101509f7691cd2ff41ae01819ba586e",
+      "bytes": 22941,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 15976
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Villa_Cornaro_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaCornaro_Master3D_Acar_Tamer_300.binvox",
+      "sha256": "16cb657f8cffca74b3f3cce2f4abca9e9b8b2df57b1a5e53aae46603ccab6637",
+      "bytes": 23129,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 16374
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Villa_Cornaro_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaCornaro_Master3D_Acar_Tamer_330.binvox",
+      "sha256": "370092ed66092716c3141b93994569cf8207bd7bbf4f06a62c9f5aa692a8889a",
+      "bytes": 23067,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 15875
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Villa_Cornaro_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaCornaro_Master3D_Acar_Tamer_60.binvox",
+      "sha256": "f5a2a20a42214916a8bc904e6d27abb7dc3c1cc7b8034c54942e02044186e308",
+      "bytes": 23357,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 16653
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Villa_Cornaro_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/AndreaPalladio_VillaCornaro_Master3D_Acar_Tamer_90.binvox",
+      "sha256": "371b42cc636a1b285e0bd939c9e47c11603fbbf39525920a052e128ab9b0b279",
+      "bytes": 22865,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 15947
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Villa_Cornaro_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/AndreaPalladio_VillaCornaro_Master3D_Acar_Tamer.binvox",
+      "sha256": "7a7736cc0bf77aefcd4e0c4f3d9986f2d61caafaf3ff7f62b0e57d0aa58ace0b",
+      "bytes": 19501,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 14553
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Villa_Cornaro_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/AndreaPalladio_VillaCornaro_Master3D_Acar_Tamer.binvox",
+      "sha256": "a35ec6b7d41963261c1d4893f4add7113e8bbbd9a279739e090f0041be321799",
+      "bytes": 117348,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 66867
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Villa_Cornaro_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/AndreaPalladio_VillaCornaro_Master3D_Acar_Tamer.binvox",
+      "sha256": "142d393b07f8c8d5923cbfc5a2069f3fcfa9130d97e6ea82c38783ffd3bd5f3c",
+      "bytes": 562004,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 301850
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Villa_Cornaro_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/AndreaPalladio_VillaCornaro_Master3D_Acar_Tamer.binvox",
+      "sha256": "ae9bed28b6b2c364414ec1901ad05c4551a34debcf9823677391b2f2602145a6",
+      "bytes": 3392216,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1238340
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Villa_Cornaro_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/AndreaPalladio_VillaCornaro_Master3D_Acar_Tamer.binvox",
+    "resolution": 128,
+    "triangles": 5876,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "465ade105b99c34c2bf0d494a7292cb287586a20d59eb586d90c2baa9dec8085"
+  }
+}

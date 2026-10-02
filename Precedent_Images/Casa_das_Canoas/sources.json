@@ -1,0 +1,79 @@
+[
+  {
+    "file": "Casa_das_Canoas_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 1000,
+    "height": 519,
+    "source_page": "https://architecture-history.org/architects/architects/NIEMEYER/OBJECTS/1951%2C%20Das%20Canoas%20House%2C%20RIO%20DE%20JANEIRO%2C%20BRAZIL.html",
+    "image_url": "https://architecture-history.org/architects/architects/NIEMEYER/PIC/DS02.jpeg",
+    "caption": "  ",
+    "bytes": 266841,
+    "candidate": 3
+  },
+  {
+    "file": "Casa_das_Canoas_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 849,
+    "height": 566,
+    "source_page": "https://architecture-history.org/architects/architects/NIEMEYER/OBJECTS/1951%2C%20Das%20Canoas%20House%2C%20RIO%20DE%20JANEIRO%2C%20BRAZIL.html",
+    "image_url": "https://architecture-history.org/architects/architects/NIEMEYER/PIC/DS03.jpeg",
+    "caption": "  ",
+    "bytes": 139231,
+    "candidate": 4
+  },
+  {
+    "file": "Casa_das_Canoas_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 600,
+    "height": 315,
+    "source_page": "https://architecture-history.org/architects/architects/NIEMEYER/OBJECTS/1951%2C%20Das%20Canoas%20House%2C%20RIO%20DE%20JANEIRO%2C%20BRAZIL.html",
+    "image_url": "https://architecture-history.org/architects/architects/NIEMEYER/PIC/DS15.jpeg",
+    "caption": "  ",
+    "bytes": 39484,
+    "candidate": 13
+  },
+  {
+    "file": "Casa_das_Canoas_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 500,
+    "height": 476,
+    "source_page": "https://architecture-history.org/architects/architects/NIEMEYER/OBJECTS/1951%2C%20Das%20Canoas%20House%2C%20RIO%20DE%20JANEIRO%2C%20BRAZIL.html",
+    "image_url": "https://architecture-history.org/architects/architects/NIEMEYER/PIC/DS001.jpeg",
+    "caption": "  ",
+    "bytes": 20258,
+    "candidate": 33
+  },
+  {
+    "file": "Casa_das_Canoas_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 609,
+    "height": 960,
+    "source_page": "https://architecture-history.org/architects/architects/NIEMEYER/OBJECTS/1951%2C%20Das%20Canoas%20House%2C%20RIO%20DE%20JANEIRO%2C%20BRAZIL.html",
+    "image_url": "https://architecture-history.org/architects/architects/NIEMEYER/PIC/DS002.jpeg",
+    "caption": "  ",
+    "bytes": 51759,
+    "candidate": 34
+  },
+  {
+    "file": "Casa_das_Canoas_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 1568,
+    "height": 1121,
+    "source_page": "https://architecture-history.org/architects/architects/NIEMEYER/OBJECTS/1951%2C%20Das%20Canoas%20House%2C%20RIO%20DE%20JANEIRO%2C%20BRAZIL.html",
+    "image_url": "https://architecture-history.org/architects/architects/NIEMEYER/PIC/DS302.jpeg",
+    "caption": "  ",
+    "bytes": 249737,
+    "candidate": 17
+  },
+  {
+    "file": "Casa_das_Canoas_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 690,
+    "height": 461,
+    "source_page": "https://architecture-history.org/architects/architects/NIEMEYER/OBJECTS/1951%2C%20Das%20Canoas%20House%2C%20RIO%20DE%20JANEIRO%2C%20BRAZIL.html",
+    "image_url": "https://architecture-history.org/architects/architects/NIEMEYER/PIC/DS310.jpeg",
+    "caption": "  ",
+    "bytes": 42924,
+    "candidate": 23
+  }
+]

@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "OscarNiemeyer_CasaDasCanoas_Master3D_Group1",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/Casa_das_Canoas_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OscarNiemeyer_CasaDasCanoas_Master3D_Group1_0.binvox",
+      "sha256": "efd20179efab685a123fcf0a1ca0b855e6136c04d1de67fe87134f544c55d9f3",
+      "bytes": 8703,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3262
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/Casa_das_Canoas_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OscarNiemeyer_CasaDasCanoas_Master3D_Group1_120.binvox",
+      "sha256": "4e7a69d19bb4e4debc2fac68fbb479c3fd87464adcafd532268fd82196451d6e",
+      "bytes": 9167,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3577
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/Casa_das_Canoas_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OscarNiemeyer_CasaDasCanoas_Master3D_Group1_150.binvox",
+      "sha256": "dfa3e33a98c15d8559b50d505419dfa525d584a1ac4eb64741b2e7aa49052555",
+      "bytes": 8693,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3087
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/Casa_das_Canoas_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OscarNiemeyer_CasaDasCanoas_Master3D_Group1_180.binvox",
+      "sha256": "98e1b130820bb17b80b70b24836feb112228cdcddca89692dfd8ca59d836b5f6",
+      "bytes": 10105,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3767
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/Casa_das_Canoas_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OscarNiemeyer_CasaDasCanoas_Master3D_Group1_210.binvox",
+      "sha256": "857ff52de82f975713c0cd9481a5a42e8072fee7cf884e52ef8f306c29b2034d",
+      "bytes": 8607,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3128
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/Casa_das_Canoas_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OscarNiemeyer_CasaDasCanoas_Master3D_Group1_240.binvox",
+      "sha256": "f25f2b6245f21963ebd517128c528fed875bc82bde023088fab63316527b869f",
+      "bytes": 9733,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3536
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/Casa_das_Canoas_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OscarNiemeyer_CasaDasCanoas_Master3D_Group1_270.binvox",
+      "sha256": "969de8a8fa5c4c52c0d55aabe30bfb6dcbe0f4878852681e92b837c8b5b77bf6",
+      "bytes": 8703,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3053
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/Casa_das_Canoas_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OscarNiemeyer_CasaDasCanoas_Master3D_Group1_30.binvox",
+      "sha256": "c991d148198259c4eb078230736ebce2efd74c90ca67b566107a9ef4f988614c",
+      "bytes": 9129,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3439
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/Casa_das_Canoas_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OscarNiemeyer_CasaDasCanoas_Master3D_Group1_300.binvox",
+      "sha256": "74736dd144a4b7ec5b743e6d98af09ab174b2cce7d51b5be913be52df67ee45d",
+      "bytes": 9921,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3614
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/Casa_das_Canoas_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OscarNiemeyer_CasaDasCanoas_Master3D_Group1_330.binvox",
+      "sha256": "2b4ff6f023817dd60e0de13d69f17c0182f934f7ec6f9e5b28e947ffb3df2f3c",
+      "bytes": 8749,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3129
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/Casa_das_Canoas_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OscarNiemeyer_CasaDasCanoas_Master3D_Group1_60.binvox",
+      "sha256": "e9b6d65d616b9ca424929ac2ada33978f26ae0fcc462848d84c4990e9ca2012f",
+      "bytes": 8951,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3209
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/Casa_das_Canoas_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/OscarNiemeyer_CasaDasCanoas_Master3D_Group1_90.binvox",
+      "sha256": "f1abd29189ea361d0a25b14bb5396ae84ba1ec2966ad2f4d47c8eda5f39959e1",
+      "bytes": 8723,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 3147
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/Casa_das_Canoas_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/OscarNiemeyer_CasaDasCanoas_Master3D_Group1.binvox",
+      "sha256": "0776c8fe9ee49cbc9318a9adeaba78bcacc2d0152f98771494e438107f95b96f",
+      "bytes": 7917,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 2924
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/Casa_das_Canoas_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/OscarNiemeyer_CasaDasCanoas_Master3D_Group1.binvox",
+      "sha256": "34b51ebeece7e1ca6258658063774b8eee8e67feae3486147121f8e68479f887",
+      "bytes": 38322,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 18249
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/Casa_das_Canoas_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/OscarNiemeyer_CasaDasCanoas_Master3D_Group1.binvox",
+      "sha256": "052a77865b4ddcbc51c5fc4a160a7bf74b7b3ba20e380e7a5e174b60c4ed7f74",
+      "bytes": 258054,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 82927
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/Casa_das_Canoas_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/OscarNiemeyer_CasaDasCanoas_Master3D_Group1.binvox",
+      "sha256": "4b2f3b3533b766d7b70447752e8d58c20d4aa3ec9ef0fa8ca1d645d4b9ab15c5",
+      "bytes": 1759650,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 345095
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/Casa_das_Canoas_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/OscarNiemeyer_CasaDasCanoas_Master3D_Group1.binvox",
+    "resolution": 128,
+    "triangles": 3422,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "0a0ea6ce685ec6c3045406dee670951ee243c773072ea553a8754b102e0b58ce"
+  }
+}

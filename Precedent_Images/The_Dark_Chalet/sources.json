@@ -1,0 +1,79 @@
+[
+  {
+    "file": "The_Dark_Chalet_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 5100,
+    "height": 3885,
+    "source_page": "https://tomwiscombe.com/DARK-CHALET",
+    "image_url": "https://freight.cargo.site/t/original/i/5d8103c3f3000f803bf9b5b34430e30c3cbc075c646879c30f2a9e36b9fa03ff/220226_DC_MAIN_IMAGE_2.jpg",
+    "caption": "  ",
+    "bytes": 6293064,
+    "candidate": 6
+  },
+  {
+    "file": "The_Dark_Chalet_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 4032,
+    "height": 3024,
+    "source_page": "https://tomwiscombe.com/DARK-CHALET",
+    "image_url": "https://freight.cargo.site/t/original/i/abcc04122cd77522ef690225ca8007acaea157438840c451cc7a1dbb51689165/IMG_2175_2025.jpg",
+    "caption": "  ",
+    "bytes": 5678959,
+    "candidate": 7
+  },
+  {
+    "file": "The_Dark_Chalet_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 5100,
+    "height": 3825,
+    "source_page": "https://tomwiscombe.com/DARK-CHALET",
+    "image_url": "https://freight.cargo.site/t/original/i/204655a2443c04d6a18a0cdc3aa04f381cf0c6d88614214bf641faeb6a7d58bd/IMG_7019_TW_Edit_patchier_2025.jpg",
+    "caption": "  ",
+    "bytes": 9369639,
+    "candidate": 12
+  },
+  {
+    "file": "The_Dark_Chalet_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 4242,
+    "height": 2995,
+    "source_page": "https://tomwiscombe.com/DARK-CHALET",
+    "image_url": "https://freight.cargo.site/t/original/i/fd6009bce5a45875553b6730f7efae632b93a2ad8b5a99c5863a539b14332fdb/dc-plan-1.jpg",
+    "caption": "  ",
+    "bytes": 2201721,
+    "candidate": 25
+  },
+  {
+    "file": "The_Dark_Chalet_Floor_Plan_02.jpg",
+    "view_type": "Floor_Plan",
+    "width": 4218,
+    "height": 3085,
+    "source_page": "https://tomwiscombe.com/DARK-CHALET",
+    "image_url": "https://freight.cargo.site/t/original/i/b19b0a76d216ca9b768afb98c698a917774db8bce53482cf226c73c52e6dbdba/dc-plan-2.jpg",
+    "caption": "  ",
+    "bytes": 2507607,
+    "candidate": 26
+  },
+  {
+    "file": "The_Dark_Chalet_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 3024,
+    "height": 4032,
+    "source_page": "https://tomwiscombe.com/DARK-CHALET",
+    "image_url": "https://freight.cargo.site/t/original/i/6b7c070c0b368a8337f3309f4afdaea6dcb819a846c99c8e1b1694096061b46a/IMG_8203.jpeg",
+    "caption": "  ",
+    "bytes": 4026263,
+    "candidate": 18
+  },
+  {
+    "file": "The_Dark_Chalet_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 4032,
+    "height": 3024,
+    "source_page": "https://tomwiscombe.com/DARK-CHALET",
+    "image_url": "https://freight.cargo.site/t/original/i/ae14aee6ef5df86f526f1260a076f36c0b89dc3097d59d71110b55d43e2b62c0/IMG_8192.jpeg",
+    "caption": "  ",
+    "bytes": 2920674,
+    "candidate": 19
+  }
+]

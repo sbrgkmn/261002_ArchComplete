@@ -1,0 +1,68 @@
+[
+  {
+    "file": "128_House_Exterior_01.jpg",
+    "view_type": "Exterior",
+    "width": 2650,
+    "height": 1690,
+    "source_page": "https://en.wikiarquitectura.com/building/Rudin-House/",
+    "image_url": "https://en.wikiarquitectura.com/wp-content/uploads/2017/01/Rudin-House-2.jpg",
+    "caption": "  ",
+    "bytes": 457302,
+    "candidate": 1
+  },
+  {
+    "file": "128_House_Exterior_02.jpg",
+    "view_type": "Exterior",
+    "width": 2800,
+    "height": 1795,
+    "source_page": "https://en.wikiarquitectura.com/building/Rudin-House/",
+    "image_url": "https://en.wikiarquitectura.com/wp-content/uploads/2017/01/Rudin-House-5.jpg",
+    "caption": "  ",
+    "bytes": 659290,
+    "candidate": 4
+  },
+  {
+    "file": "128_House_Exterior_03.jpg",
+    "view_type": "Exterior",
+    "width": 2871,
+    "height": 1821,
+    "source_page": "https://en.wikiarquitectura.com/building/Rudin-House/",
+    "image_url": "https://en.wikiarquitectura.com/wp-content/uploads/2017/01/Rudin-House-3.jpg",
+    "caption": "  ",
+    "bytes": 2887111,
+    "candidate": 6
+  },
+  {
+    "file": "128_House_Floor_Plan_01.jpg",
+    "view_type": "Floor_Plan",
+    "width": 800,
+    "height": 599,
+    "source_page": "https://archweb.com/en/architetture/rudin-house/",
+    "image_url": "https://www.archweb.com/wp-content/uploads/2023/06/Rudin-house-architecture.jpg",
+    "caption": "  ",
+    "bytes": 82688,
+    "candidate": 1
+  },
+  {
+    "file": "128_House_Interior_01.jpg",
+    "view_type": "Interior",
+    "width": 247,
+    "height": 300,
+    "source_page": "https://en.wikiarquitectura.com/building/Rudin-House/",
+    "image_url": "https://en.wikiarquitectura.com/wp-content/uploads/2017/01/Interior_1.jpg",
+    "caption": "  ",
+    "bytes": 9798,
+    "candidate": 30
+  },
+  {
+    "file": "128_House_Interior_02.jpg",
+    "view_type": "Interior",
+    "width": 301,
+    "height": 418,
+    "source_page": "https://en.wikiarquitectura.com/building/Rudin-House/",
+    "image_url": "https://en.wikiarquitectura.com/wp-content/uploads/2017/01/Rudin_10.jpg",
+    "caption": "  ",
+    "bytes": 34521,
+    "candidate": 32
+  }
+]

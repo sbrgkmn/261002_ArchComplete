@@ -1,0 +1,245 @@
+Preprint Submitted for review/ Computers & Graphics (2025) 1
+This document provides additional details on our data aug-1
+mentation, networks’ architectures, and the metrics used for our2
+quantitative evaluations. We also encourage readers to review3
+the supplemental figures at the end for more comprehensive vi-4
+sual results for each of the various example applications out-5
+lined in the main manuscript.6
+1. Data Augmentation7
+To expand the number of samples in the dataset so as to make8
+it suitable for learning purposes, we devised an augmentation9
+technique to create variations of each 3D house model in the10
+dataset. The augmentation process involved rotating each input11
+3D model 12 times around its center, with each rotation sepa-12
+rated by a 30-degree interval. For each rotation, a predefined13
+box — occupying approximately half the input model’s size —14
+was used to identify a unique chunk of the model that inter-15
+sected with the box. The mesh vertices within this intersecting16
+region were then selected and translated along the x-axis vec-17
+tor. The scale of the movement was randomized within a range18
+of 2 to 5 meters, introducing variability into the augmentations.19
+This operation was repeated for all 12 rotations, generating a20
+set of 12 distinct augmentations for each input model (see Fig-21
+ure 1). Each augmentation resulted in a unique deformation of22
+the model, creating diverse distortions while maintaining the23
+overall design concept and spatial configuration of the original24
+model. The process preserved the vertical dimensions of the25
+model, ensuring that floor heights remained consistent through-26
+out the dataset. This allowed the architectural fidelity of the27
+input models to be retained while modifying their proportions28
+in a controlled manner.29
+Fig. 1: Depiction of the employed data augmentation technique on a 3D house
+and resultant corresponding derived augmented models.
+2. Networks’ Architectures30
+3D V oxel VQGAN.. The Encoder and Decoder of our 3D V oxel31
+VQGAN, as well as the 3D PatchGAN Discriminator models,32
+utilize 3D convolutional residual and attention blocks (see Ta-33
+bles 1, 2, and 3). Both the encoder and decoder contain three34
+levels of downsampling and three levels of upsampling layers.35
+In between the encoder and decoder layers lies the custom Vec-36
+tor Quantization Layer with an embedding table that is initial-37
+ized to learn a codebook of local volumetric patch embeddings.38
+We measure the L2-normalised distance between the flattened39
+encoder latent feature map and code words of this codebook.40
+Layer Operation Output Dim.
+Input - {0, 1}B×1×64×64×64
+Input Conv. Conv3D(1, 128, 3) RB×128×64×64×64
+DS Layer #1 RNB(128, 128) RB×128×32×32×32
+DownSample(128)
+DS Layer #2 RNB(128, 128) RB×128×16×16×16
+DownSample(128)
+DS Layer #3
+RNB(256)
+RB×256×16×16×16AB(128, 256)
+DownSample(128)
+Middle Layers
+RNB(256, 256)
+RB×256×8×8×8RNB(256, 256)
+AB(256)
+RNB(256, 256)
+Output Conv. GroupNorm(32) RB×128×8×8×8
+Conv3D(256, 128, 3)
+Output - Same as above
+Table 1: Encoder architecture for 3D V oxel VQGAN with≈ 20 million param-
+eters. DS Layer: Downsampling layer, RNB: ResNetBlock, and AB: Atten-
+tionBlock. The input /output Conv3D layers have stride of size 1, and ”same”
+padding.
+Layer Operation Output Dim.
+Input - RB×128×8×8×8
+Input Conv. Conv3D(128, 256, 3) RB×256×8×8×8
+Middle Layers
+RNB(256, 256)
+RB×256×8×8×8AB(256)
+RNB(256, 256)
+US Layer #1
+RNB(256, 256)
+RB×256×16×16×16RNB(256, 256)
+UpSample(256)
+US Layer #2
+RNB(128, 128)
+RB×256×32×32×32
+AB(128)
+RNB(128, 128)
+AB(128)
+UpSample(256)
+US Layer #3
+RNB(256, 256)
+RB×128×64×64×64RNB(256, 256)
+UpSample(128)
+Output Conv. GroupNorm(32) {0, 1}B×1×64×64×64
+Conv3D(128, 1, 3)
+Output - Same as above
+Table 2: Decoder architecture for 3D V oxel VQGAN with ≈ 30 million pa-
+rameters. US Layer: Upsampling layer, RNB: ResNetBlock, and AB: Atten-
+tionBlock. The input /output Conv3D layers have stride of size 1, and ”same”
+padding.
+For our Discriminator, we use 3D PatchGAN architecture, with 41
+downsampling in three layers, i.e. middle and pre-output lay- 42
+ers, to ensure that the generated 3D shapes’ constituent patches 43
+resemble those of training data. 44
+Multiscale 3D c-DDPMS.. We use the same 3D U-Net network 45
+architecture for our set of multiscale 3D conditional Denois- 46
+ing Diffusion Probabilistic Models (3D c-DDPMs) in our Hier- 47
+archical V oxel Upsampling Networks, but with different input 48
+sizes and our Multiscale Structure-Guided Fusion module in- 49
+tegrated after every downsampling layer. The network at each 50
+level accepts three inputs: coarse patches of all preceding lev- 51
+els, fine patches, and a time step T (see Table 4). Once we 52
+reach a specific resolution, we use self-attention layers between 53
+the convolution blocks and use Group Normalization instead of 54
+Weight Normalization throughout the network layers. 55
+2 Preprint Submitted for review / Computers & Graphics (2025)
+Layer Operation Output Dim.
+Input - RB×1×64×64×64
+Input Conv. Conv3D(1, 64, 4) RB×64×32×32×32
+Middle Layer #1 Conv3D(64, 128, 4) RB×128×16×16×16
+BatchNorm
+Middle Layer #2 Conv3D(128, 256, 4) RB×256×8×8×8
+BatchNorm
+Pre-Output Layer Conv3D(256, 512, 4) RB×512×8×8×8
+BatchNorm
+Output Conv. Conv3D(512, 1, 4) RB×1×8×8×8
+Output - Same as above
+Table 3: 3D PatchGAN Discriminator architecture for 3D V oxel VQGAN with
+≈ 11 million parameters. Input and Middle Conv3D layers’ use stride of size 2,
+and ”same”padding. All the layers except the output Covultion use LeakyReLU
+as activation function.
+3. Additional Results1
+We demonstrate additional results of our Shape varia-2
+tion method in comparison to the two baselines: SSG and3
+ShapeShifter (see Figure 2), and further show a comprehensive4
+set of additional results demonstrating each task outlined in the5
+main manuscript as an example application of ArchComplete6
+(see Figures 3 to 9 at the end of this document).7
+Fig. 2: Qualitative comparison of 3D shape variation.
+4. Evaluation Metrics8
+To compute the evaluation metrics, we use Chamfer Distance9
+(CD) and convert the resultant output voxel grids into point10
+clouds by sampling a point at the center of each occupied voxel.11
+Following recent works for unconditional and conditional gen-12
+eration methods, for calculating the shape metrics we define13
+COV(S g, S r) = 1
+|S r|
+X
+Y∈S R
+min
+X∈S g
+D(X, Y),
+Layer Operation Output Dim.
+Input – RB×X×X×X×C
+Time Input – ZB×1
+Concat Fusion ConcatFusion(64) RB×64×X×X×X
+DS Layer #1
+RNB(64)
+RB×64×X×X×XRNB(64)
+DownSample(64)
+MSGFusion(64)
+DS Layer #2
+RNB(128)
+RB×128× X
+2 × X
+2 × X
+2
+RNB(128)
+DownSample(128)
+MSGFusion(128)
+DS Layer #3
+RNB(256)
+RB×256× X
+4 × X
+4 × X
+4RNB(256)
+MSGFusion(256)
+Middle Layers
+RNB(256)
+RB×256× X
+4 × X
+4 × X
+4AB(256)
+RNB(256)
+US Layer #3
+SkipConnection (Concat)
+RB×256× X
+4 × X
+4 × X
+4
+RNB(256)
+SkipConnection (Concat)
+RNB(256)
+SkipConnection (Concat)
+RNB(256)
+US Layer #2
+SkipConnection (Concat)
+RB×128× X
+2 × X
+2 × X
+2
+RNB(128)
+SkipConnection (Concat)
+RNB(128)
+SkipConnection (Concat)
+RNB(128)
+UpSample(128)
+US Layer #1
+SkipConnection (Concat)
+RB×64×X×X×X
+RNB(64)
+SkipConnection (Concat)
+RNB(64)
+SkipConnection (Concat)
+RNB(64)
+UpSample(64)
+Output Conv. GroupNorm(8) RB×1×X×X×X
+Conv3D(64,1,3)
+Output – Same as above
+Table 4: Multiscale 3D c-DDPM architecture with MSGFusion lay-
+ers. RNB: ResidualBlock, AB: AttentionBlock, DS /US Layer: Downsam-
+pling/Upsampling layer, MSGFusion: Multiscale Structure-Guided Fusion, and
+SkipConnection: feature concatenation. All RNB layers receive feature maps
+and time embeddings as input.
+MMD(S g, S r) =
+|{argminY∈S R D(X, Y)|X ∈ S g}|
+|S g| + |S r| ,
+1-NNA(S g, S r) =
+P
+X∈S g 1X + P
+Y∈S r 1Y
+|S g| + |S r| ,
+14
+1X = 1[NX ∈ S g], 1Y = 1[NY ∈ S r],
+where in 1-NNA metric NX is the point cloud that is closest to 15
+X in both generated S g and S r dataset. 16
+Preprint Submitted for review/ Computers & Graphics (2025) 3
+Fig. 3: Additional upsampling results for multi-resolution geometric detailization over unconditionally generated 3D models.
+4 Preprint Submitted for review / Computers & Graphics (2025)
+Fig. 4: Additional upsampling results for multi-resolution geometric detailization over unconditionally generated 3D models.
+Preprint Submitted for review/ Computers & Graphics (2025) 5
+Fig. 5: Additional unconditional synthesis results.
+6 Preprint Submitted for review / Computers & Graphics (2025)
+Fig. 6: Additional shape completion results.
+Preprint Submitted for review/ Computers & Graphics (2025) 7
+Fig. 7: Additional plan-drawing completion results.
+8 Preprint Submitted for review / Computers & Graphics (2025)
+Fig. 8: Additional genetic shape variation results.
+Preprint Submitted for review/ Computers & Graphics (2025) 9
+Fig. 9: Additional genetic shape interpolation results.

@@ -1,0 +1,288 @@
+{
+  "source": "https://drive.google.com/file/d/1tg78R_WkyCPVBpsG9uJnYkV5JAie3a2D/view",
+  "dataset_identifier": "ChristianKerez_housewithonewall_model_MichaelKofler",
+  "default": "original_128",
+  "files": [
+    {
+      "key": "aug_000_64",
+      "file": "geometry/Augmented/House_with_One_Wall_Augmented_000_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 0,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ChristianKerez_housewithonewall_model_MichaelKofler_0.binvox",
+      "sha256": "87b11e95609503c5f35f2d8a6490aae2e0cf8a7ee3870ff1e377fa68f0362967",
+      "bytes": 27205,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 18244
+    },
+    {
+      "key": "aug_120_64",
+      "file": "geometry/Augmented/House_with_One_Wall_Augmented_120_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 120,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ChristianKerez_housewithonewall_model_MichaelKofler_120.binvox",
+      "sha256": "3c2796f2e6ee18b694d09065986985d8d929211661d5529fdad189a16da40562",
+      "bytes": 26343,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 18022
+    },
+    {
+      "key": "aug_150_64",
+      "file": "geometry/Augmented/House_with_One_Wall_Augmented_150_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 150,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ChristianKerez_housewithonewall_model_MichaelKofler_150.binvox",
+      "sha256": "36b6ead044a2b598d1eccfe81115cb6ac2d517fa043027665d0dad1a1c2ce1d5",
+      "bytes": 24999,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 17414
+    },
+    {
+      "key": "aug_180_64",
+      "file": "geometry/Augmented/House_with_One_Wall_Augmented_180_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 180,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ChristianKerez_housewithonewall_model_MichaelKofler_180.binvox",
+      "sha256": "4d537e837ffa471ac2257364662758262169e5f58121a753733a2c91d07a21d2",
+      "bytes": 25241,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 17402
+    },
+    {
+      "key": "aug_210_64",
+      "file": "geometry/Augmented/House_with_One_Wall_Augmented_210_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 210,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ChristianKerez_housewithonewall_model_MichaelKofler_210.binvox",
+      "sha256": "10aaa3de885b00bc25740eb39f56728756bc114989bdd965669208b36898a0a8",
+      "bytes": 26313,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 18118
+    },
+    {
+      "key": "aug_240_64",
+      "file": "geometry/Augmented/House_with_One_Wall_Augmented_240_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 240,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ChristianKerez_housewithonewall_model_MichaelKofler_240.binvox",
+      "sha256": "8e02e0272c8b67b96e138b9731250c141d285863b26d49b652667900739e2dc4",
+      "bytes": 24819,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 16675
+    },
+    {
+      "key": "aug_270_64",
+      "file": "geometry/Augmented/House_with_One_Wall_Augmented_270_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 270,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ChristianKerez_housewithonewall_model_MichaelKofler_270.binvox",
+      "sha256": "56cd025482dfbd455fc3ec920e4e4e6da801f2193d4ef0ccfd7935f039422c0b",
+      "bytes": 26439,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 18428
+    },
+    {
+      "key": "aug_030_64",
+      "file": "geometry/Augmented/House_with_One_Wall_Augmented_030_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 30,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ChristianKerez_housewithonewall_model_MichaelKofler_30.binvox",
+      "sha256": "899338c33c71123c072686a80541b6f74dabb7703f1b733d7c5ce36e5541e930",
+      "bytes": 24321,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 16764
+    },
+    {
+      "key": "aug_300_64",
+      "file": "geometry/Augmented/House_with_One_Wall_Augmented_300_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 300,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ChristianKerez_housewithonewall_model_MichaelKofler_300.binvox",
+      "sha256": "6be0dc60b552e543fc3582191f40e68799dce41c6acbf167357c02b8e2ecadd9",
+      "bytes": 24969,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 17177
+    },
+    {
+      "key": "aug_330_64",
+      "file": "geometry/Augmented/House_with_One_Wall_Augmented_330_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 330,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ChristianKerez_housewithonewall_model_MichaelKofler_330.binvox",
+      "sha256": "c6b0596cafefbd71143aafcc15b1ac00466658b384c5f9bcd920f0e052e64593",
+      "bytes": 26319,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 17665
+    },
+    {
+      "key": "aug_060_64",
+      "file": "geometry/Augmented/House_with_One_Wall_Augmented_060_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 60,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ChristianKerez_housewithonewall_model_MichaelKofler_60.binvox",
+      "sha256": "20c80151f24f029bb675ccdb4cecf63d4e17b4c19d18ee6722c72df66dc5ae21",
+      "bytes": 27315,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 18256
+    },
+    {
+      "key": "aug_090_64",
+      "file": "geometry/Augmented/House_with_One_Wall_Augmented_090_064.binvox",
+      "resolution": 64,
+      "kind": "Augmented",
+      "augmentation_angle": 90,
+      "archive_path": "BINVOX/TARGETAUGMENTED_064_BINVOX/ChristianKerez_housewithonewall_model_MichaelKofler_90.binvox",
+      "sha256": "67ca95ccae3e3d53ee05080da00083bf143fb7c8241b2d3488ddcb3323fb131f",
+      "bytes": 24781,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 17180
+    },
+    {
+      "key": "original_64",
+      "file": "geometry/Original/House_with_One_Wall_Original_064.binvox",
+      "resolution": 64,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_064_BINVOX/ChristianKerez_housewithonewall_model_MichaelKofler.binvox",
+      "sha256": "c483024f412591f3328c32ffe0250e433bb83cbedc430722bcdfec509442496d",
+      "bytes": 22321,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 15632
+    },
+    {
+      "key": "original_128",
+      "file": "geometry/Original/House_with_One_Wall_Original_128.binvox",
+      "resolution": 128,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_128_BINVOX/ChristianKerez_housewithonewall_model_MichaelKofler.binvox",
+      "sha256": "e31426091902cf3870b8d042ca8357de92f64234a7bdcab3696b52bad1ccc0b0",
+      "bytes": 108480,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 83038
+    },
+    {
+      "key": "original_256",
+      "file": "geometry/Original/House_with_One_Wall_Original_256.binvox",
+      "resolution": 256,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_256_BINVOX/ChristianKerez_housewithonewall_model_MichaelKofler.binvox",
+      "sha256": "0a406ba1448cee7d50779aaabe47b3bc43294785a398ae0869509362e852336c",
+      "bytes": 726842,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 344468
+    },
+    {
+      "key": "original_512",
+      "file": "geometry/Original/House_with_One_Wall_Original_512.binvox",
+      "resolution": 512,
+      "kind": "Original",
+      "augmentation_angle": null,
+      "archive_path": "BINVOX/TARGET_512_BINVOX/ChristianKerez_housewithonewall_model_MichaelKofler.binvox",
+      "sha256": "b333501bf6380e53ee86a0689ad9edd5ac0f0780031e96899c541e486b46dbe1",
+      "bytes": 3501844,
+      "translate": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "scale": 1.0,
+      "occupied_voxels": 1467615
+    }
+  ],
+  "derived_obj": {
+    "file": "geometry/House_with_One_Wall_original_128_Voxel_Surface.obj",
+    "source_key": "original_128",
+    "source_archive_path": "BINVOX/TARGET_128_BINVOX/ChristianKerez_housewithonewall_model_MichaelKofler.binvox",
+    "resolution": 128,
+    "triangles": 9656,
+    "method": "Exact exposed voxel surface; coplanar voxel faces merged into rectangles and triangulated; BINVOX header transform preserved. Not an original CAD mesh.",
+    "sha256": "295e1ebe0b4f383b61cb1107ee09d05a002736de48aa63e080ba7ce1676dbab9"
+  }
+}
